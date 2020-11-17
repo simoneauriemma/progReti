@@ -1,24 +1,30 @@
 import os
 import sys
 from datetime import datetime
-import socket
-import json
+import re
 
 try:
-    jsonSource = sys.argv[1]
+    source = sys.argv[1]
 except:
     sys.exit("Error: Missing arguments")
 
-local_ip = socket.gethostbyname(socket.gethostname())
-print("Local ip: " + local_ip)
+print("\n")
 start_time = datetime.now()
 print("Current time: " + str(start_time))
+print("\n")
 print("Starting analysis...")
+print("\n\n")
 
-print('possible_json_string')
-data = jsonSource.read()
-js = json.loads(data.decode("utf-8"))
-print(js)
+infile = open(source, 'r')
+lines = infile.readlines()
 
+for line in lines:
+    # Qui bisogna usare le regex per fare i vari match
+    if re.search("emmanuel", line):
+        print(line.strip())
+
+print("\n\n")
 end_time = datetime.now() - start_time
+print("Total time:" + str(end_time))
+print("\n")
 print("\aAnalysis completed.")

@@ -1,22 +1,28 @@
 import json
 import sys
+from urllib.parse import unquote
 
 
 def parse_chlsj(filename, data):
     host = data['host']
-    path = data['path']
     client_address = data['clientAddress']
     method = data['method']
     request = data['request']
     response = data['response']
 
+
     out_file = open(filename, 'w')
 
-    line_sum = '# ' + method + ' ' + host
+    if 'path' in data:
+        path = data['path']
+        line_sum = '# ' + method + ' ' + host + str(path)
+    else:
+        line_sum = '# ' + method + ' ' + host
+
     out_file.write(line_sum)
     out_file.write('\n\n')
 
-    # Request
+    # REQUEST
     out_file.write('+ Request')
     out_file.write('\n\n')
 
@@ -34,7 +40,7 @@ def parse_chlsj(filename, data):
 
     out_file.write('\n\n\n')
 
-    # Response
+    # RESPONSE
     response_code = response['status']
     out_file.write('+ Response (' + str(response_code) + ')')
     out_file.write('\n\n')
@@ -51,20 +57,21 @@ def parse_chlsj(filename, data):
 
     out_file.write('\n\n\n')
 
+    # response body
+    if 'body' in response:
+        # Il campo body è presente
+
+        if 'text' in response['body']:
+            # Il campo body è presente
+            out_file.write('\t\t')
+            out_file.write('Response body text: ')
+            out_file.write(unquote(response['body']['text']))
+            out_file.write('\n\n')
+            
+
+
     out_file.write('===========================================================================')
     out_file.write('\n\n\n')
-
-    """
-    body_content_json = response['body']['text']
-    out_file.write('\t' + '> Body' + '\n')
-    parsed_body_json = json.loads(body_content_json)
-    parsed_body_str = json.dumps(parsed_body_json, indent=4, sort_keys=True)
-    for line in parsed_body_str.split('\n'):
-        out_file.write('\t\t')
-        out_file.write(line)
-        out_file.write('\n')
-        out_file.write('\n\n\n\n')
-    """
 
     out_file.close()
 

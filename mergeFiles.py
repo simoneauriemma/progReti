@@ -7,7 +7,6 @@ import glob
 # Se c'è lo elimino, altrimenti l'esecuzione andrebbe in loop perchè
 # si aprirebbe da solo e si scriverebbe all'interno all'infinito
 if path.exists("test/outputFile.txt"):
-    print("asd")
     os.remove("test/outputFile.txt")
 
 # Creo la lista che contiene i nomi di tutti i file nella directory test
@@ -19,3 +18,6 @@ with open('test/outputFile.txt', 'w') as outfile:
         with open(fname) as infile:
             for line in infile:
                 outfile.write(line)
+
+for file in files:
+    os.remove(file)
