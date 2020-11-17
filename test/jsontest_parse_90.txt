@@ -1,0 +1,31 @@
+# GET ads.aerserv.com
+
++ Request
+
+	> Headers
+		Host: ads.aerserv.com
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate
+		Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:24:17 GMT
+		Content-Length: 0
+		X-Frame-Options: DENY
+		X-Content-Type-Options: nosniff
+		X-XSS-Protection: 1; mode=block
+		Access-Control-Allow-Origin: *
+		Proxy-Connection: keep-alive
+
+
+
+===========================================================================
+
+

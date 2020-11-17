@@ -1,0 +1,4714 @@
+# GET api.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /v2/products/user?application=MYFITNESSPAL&platform=ios&product_category=premium&product_type=subscription
+		:authority: api.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-language: it-IT
+		accept-encoding: gzip, deflate, br
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: last_login_date=2020-11-13
+		cookie: p=r4ffhQT8m1vfICpsraXHTBFL
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/json; charset=UTF-8
+		content-length: 1023
+		access-control-allow-origin: *
+		access-control-expose-headers: Link
+		content-encoding: gzip
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		vary: Accept-Encoding
+		x-trace-token: uacf-product-catalog-867d5c8bfb-wmnzg-18024735
+		x-cache: Miss from cloudfront
+		via: 1.1 0eb16b4893257d69c3dccf274633b342.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: XgntVRYjDYx7Yi2ql-uKTsw4qiQ8OFyShZ4YmawMytpx9gDRLC-W9A==
+
+
+
+===========================================================================
+
+
+# POST sync.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /iphone_api/action_request?lang=it-IT
+		:authority: sync.myfitnesspal.com
+		content-type: multipart/form-data; boundary=kguaocudecaouhrkjchrkueaoureakgcceagducegaduahbkjqtjgecuaoehuaebkjahjbeobjaeco
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-language: it-IT
+		accept-encoding: gzip, deflate, br
+		content-length: 514
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/octet-stream
+		content-length: 116
+		cache-control: no-cache, no-store, proxy-revalidate
+		content-disposition: inline
+		content-transfer-encoding: binary
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		etag: W/"38b2c483b723a68d5fee895de080b269"
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		pragma: no-cache
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		set-cookie: _mfp_session=UEQzNDBQZnhTU1hKVVdwdWZSZU9ibVV6bVpKZjhGcEtJSTQrSHpiaWNwRzdSbkJQWGRRWmRqM0dCZFpISmNnSTBHTC8vMHQ4T3NSUVc3NU9HQXVPMDdUSkJRcUQ3SGRGSFB3aDlRVFNKK015Q0VnNmpuQTBHSHp3RzFGamViUXAtLVVJOG42VHZIdGVreEZOcWZrekIwb0E9PQ%3D%3D--383ffab81d834c2cdf74f3237800a3c3e02bc4e9; path=/; secure; HttpOnly
+		status: 200 OK
+		strict-transport-security: max-age=631138519
+		x-download-options: noopen
+		x-frame-options: SAMEORIGIN
+		x-permitted-cross-domain-policies: none
+		x-request-id: 324daa44eb5d37c7bcf55f8cc0a34b0b
+		x-runtime: 0.058521
+		x-xss-protection: 1; mode=block
+		x-cache: Miss from cloudfront
+		via: 1.1 aa89236c3ef628703c4b8322e4ce6d96.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: zfc0Us2MsHKouWv3Jv9qXmVMt5a9hKjBrOsxV3kX2q1ikLMTv_bCWg==
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/open
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 289
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 49
+		content-type: application/json; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# GET pubads.g.doubleclick.net
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /gampad/ads?should_silence_audio=0&os_version=14.2.0&ms=AnRa9l_eVz4Xgnuy2K3h9x5puyty4TBjk_j_az7p6OdrRcTEULGeDczAyS9WOygzLpb56UWH_1nqi3RrKSCj0Z7FM-Xh8YRjJ42NGNKyBKRTgoB9fI-NPo9yZdOlLRTUzVxekAF0GvEyUC-aSleiP3R2uLcMuc6_n7ZruCtdkeZew1gvDAAjwRjV72BfBQd3yy0CXHahBNG2bLuzDIb39Bsb1X1pT8PMkTV3cqhlWWiOqtBHazGPSsoElvDkaLuCmkK1ViA6Hq0qnjQNd1qHXclszF2fsmdg59kHy1aoEdjfaw_0SCJTx09J4BYasAtgnuhmOIU-eTIGdAYRzh4UdQ&u_so=p&omid_v=1.3.3-google_20200427&hl=it&submodel=iPhone10%2C6&ios_app_volume=1&is_nonagon=true&binary_arch=arm64&is_pseud=false&eid=318492054%2C318492496&net=wi&u_sd=3&js=afma-sdk-i-v7.64.0&u_sso=any&fbs_aiid=89B1767D7DB84B919E6D63DDFDF4CEFF&is_other_audio_playing=0&u_h=812&fbs_aeid=930822240586296954&u_w=375&_c_csdk_npa_o=false&_c_req_npa=true&npa=1&guci=0.0.0.0.0.0.0.8&attmas=denied&sdk_apis=7&omid_p=Google%2Fafma-sdk-i-v7.64.0&_ad_b=320x50&format=320x50_as&an=20.23.0.iphone.com.myfitnesspal.mfp&_package_name=com.myfitnesspal.mfp&u_audio=3&swipeable=1&dtxcb=12A7300&dtsdk=iphoneos14.0&m_os_tgt=13.0&_ats=Lmw&skan=cstr6suwn9%2C4FZDC2EVR5%2Cprcb7njmu6%2Ct38b2kh725%2C4FZDC2EVR5%2C9T245VHMPL%2Cludvb6z3bs%2Ct38b2kh725%2Ck674qkevps%2Cuw77j35x4d%2Chjevpa356n%2Cydx93a7ass%2Cppxm28t8ap%2Cc6k4g5qg8m%2CKLF5C3L5U5%2CWZMMZ9FP6W%2C424M5254LK%2Cy2ed4ez56y%2C2U9PT9HC89%2Cludvb6z3bs&adk=2607434729&preqs=0&seq_num=1&time_in_session=389870&preqs_in_session=4&output=html&region=mobile_app&u_tz=60&url=20.23.0.iphone.com.myfitnesspal.mfp.adsenseformobileapps.com&gdfp_req=1&markup=html&m_ast=afmajs&impl=ifr&iu=%2F17729925%2FUACF_M%2FMFP%2FFoodSearch%2FFoodSearch_iOS&sz=320x50&correlator=545600236289604&_hl=it-it&gsb=wi&apm_app_id=1%3A513007887437%3Aios%3A1fbc62450360e0a31e6804&gmp_app_id=1%3A513007887437%3Aios%3A1fbc62450360e0a31e6804&apm_app_type=1&a3p=CioSBggFEA0YABoGCAUQDRgAKhhHQURNZWRpYXRpb25BZGFwdGVyTW9QdWI.&caps=interactiveVideo_inlineVideo_mraid1_mraid2_mraid3_th_autoplay_mediation_av_sdkAdmobApiForAds_di_transparentBackground_sdkVideo_aso_sfv_dinm_dim_nav_navc_ct_scroll_dinmo_gls_saiMacro_cpcbg_omidEnabled_gcache_aboi_xSeconds&swdr=false&cap=a&blockAutoClicks=true&cust_params=og_hb_ios%3Don%26oex%3Dbvo%26dkw%3Dgep%26rollout%3Dpfa%26user_id%3D102546566729005%26apmt%3Doff%26release_version%3D20.23.0%26ladtr%3Dy%26did%3D00000000-0000-0000-0000-000000000000%26sw%3Dw%26kuid%3D00000000-0000-0000-0000-000000000000&includeDoritos=true&includeCookies=true&paidl=36&rdidl=36&idtypel=4&blob=ABPQqLGz5mWlRpE39dsnBaHGd41PTBgAHXaRWlSh3S7A446nCCX-xkuZGtBfHEqQ1csK065PkNY9CFn8Qq9z-nx9mFUu3AaDMy2pkqiA2zrShFfD5sP7_QiRMs7TQWbR4Z5Z5OFcjamfEverRzLij6G_cxmNiAHVlfL7INxUU_C8DLihlAC6Z2uG43aqAa2f0-VmnMuQwSlxqNr8OYcxrSxjXd_HNP-cAba9T51LHHjSoWdHqKAXN0ACbnxbh658r0cjnj39XtaXvxPjpYwSNVuuzfOWSFx9gTpdWshlRnQ_qODQHagA0PMS0mV0Mb0JaqS9c_r4VCasq1YBHzOiebzCamywbVQ7kJsXiXq3&et=7&tcar=19&jsv=sdk_20190107_RC02-production-sdk_20201105_RC01&urll=2856
+		:authority: pubads.g.doubleclick.net
+		cookie: IDE=AHWqTUmvP4m_A6YhZcN7kjEdiaoUaXbIAn1BG0o30WVp90CCltqfmZFYtA686pZ3
+		accept: */*
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+		timing-allow-origin: *
+		cross-origin-resource-policy: cross-origin
+		x-afma-ad-size: 320x50
+		x-afma-use-https: false
+		x-afma-auto-collect-location: true
+		x-afma-ad-slot-size: 320x50
+		x-afma-gws-query-id: xbKzX4KBBrWv7_UP9dCRgAU
+		x-afma-content-vertical-opted-out: true
+		x-afma-on-device-brand-safety-opted-out: true
+		x-afma-content-url-opted-out: true
+		content-type: application/json; charset=UTF-8
+		cache-control: no-cache, must-revalidate
+		x-afma-mediation: true
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		pragma: no-cache
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		x-content-type-options: nosniff
+		content-disposition: attachment; filename="f.txt"
+		content-encoding: br
+		server: cafe
+		content-length: 1252
+		x-xss-protection: 0
+		alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+
+# POST sync.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /iphone_api/action_request?lang=it-IT
+		:authority: sync.myfitnesspal.com
+		content-type: multipart/form-data; boundary=kguaocudecaouhrkjchrkueaoureakgcceagducegaduahbkjqtjgecuaoehuaebkjahjbeobjaeco
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-language: it-IT
+		accept-encoding: gzip, deflate, br
+		content-length: 514
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/octet-stream
+		cache-control: no-cache, no-store, proxy-revalidate
+		content-disposition: inline
+		content-transfer-encoding: binary
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		etag: W/"304d7e6370fa712afb5b0db33df2b5ec"
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		pragma: no-cache
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		set-cookie: _mfp_session=RFVpbUtEeDVJUVYvTzlSQ2x5TTFWZkpkbXdVaXhBbk9RK1ROYmozSjVyUlh2QllXY01QQWcwSUNUemNvY05YL0FiN054a0VZSlhCSEdtVFpmdjBvZ0c4VzVuMmRHZHlSM2dRZTBGWmErbkZEMjlYVTR2SkpMaHZnNWwycWZBZWstLTk4UVkyTm8yYjl5WGliUGhuNDlJT2c9PQ%3D%3D--0e0eda02e7c17ace4acb01e759edb636c74c3906; path=/; secure; HttpOnly
+		status: 200 OK
+		strict-transport-security: max-age=631138519
+		x-download-options: noopen
+		x-frame-options: SAMEORIGIN
+		x-permitted-cross-domain-policies: none
+		x-request-id: 9b6626923c8547903a8220eccb19fdcc
+		x-runtime: 0.045264
+		x-xss-protection: 1; mode=block
+		x-cache: Miss from cloudfront
+		via: 1.1 8b8626ca944cc316c9f369d8a33098d6.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: TX7KpMOkf9PaV38mNeF5BFiMOLNJ86OrDTBdH_GWg0Eh8BMFOMvTmQ==
+
+
+
+===========================================================================
+
+
+# GET api.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /v2/activity/timeline?max_items=25&step_tracking_available=true
+		:authority: api.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		if-none-match: W/"e8a7ffa4d93c1c1fe667a0207e9856d3"
+		accept-language: it-IT
+		accept-encoding: gzip, deflate, br
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: last_login_date=2020-11-13
+		cookie: p=r4ffhQT8m1vfICpsraXHTBFL
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (304)
+
+	> Headers
+		:status: 304
+		content-length: 0
+		access-control-allow-origin: *
+		access-control-expose-headers: Link
+		cache-control: max-age=0, private, must-revalidate
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		etag: W/"e8a7ffa4d93c1c1fe667a0207e9856d3"
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		status: 304 Not Modified
+		x-content-type-options: nosniff
+		x-frame-options: SAMEORIGIN
+		x-request-id: 2f2fb18b18e5dc528f65830a7674c0e0
+		x-runtime: 0.043748
+		x-xss-protection: 1; mode=block
+		x-cache: Miss from cloudfront
+		via: 1.1 bfac9e4c7bc65408e96753cd7c5717e5.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: pu8xsg23o8KcIbmI4xL50PuvMty-Qy1XWQiRls8gwXJNEzpbnqyzHA==
+
+
+
+===========================================================================
+
+
+# GET graph.facebook.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /v6.0/186796388009496?fields=app_events_feature_bitmask%2Cname%2Cdefault_share_mode%2Cios_dialog_configs%2Cios_sdk_dialog_flows.os_version%2814.2.0%29%2Cios_sdk_error_categories%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_enabled%2Cgdpv4_nux_content%2Capp_events_session_timeout%2Clogging_token%2Crestrictive_data_filter_params%2Caam_rules%2Csuggested_events_setting%2Cauto_event_mapping_ios&format=json&include_headers=false&sdk=ios
+		:authority: graph.facebook.com
+		accept: */*
+		content-type: application/json
+		user-agent: FBiOSSDK.6.2.0
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		etag: "222866e1157a56a0c37c2c9eb4174e0ab3b7b9b2"
+		expires: Sat, 01 Jan 2000 00:00:00 GMT
+		x-fb-request-id: AvRciqNbQCKHJnlA5-sUS5-
+		strict-transport-security: max-age=15552000; preload
+		x-fb-trace-id: CUm2iZsp8vy
+		facebook-api-version: v6.0
+		content-type: application/json; charset=UTF-8
+		content-encoding: br
+		x-fb-rev: 1002990831
+		cache-control: private, no-cache, no-store, must-revalidate
+		vary: Accept-Encoding
+		pragma: no-cache
+		access-control-allow-origin: *
+		x-fb-debug: 9zKxQPE2PuuoY2DaPbpncgb/2fDfX3na3fFusnsTpLdmNVjd7b6xMD2v2jDJkn+fyUSWJtKdFmrSFsRYZlQBcQ==
+		content-length: 531
+		date: Tue, 17 Nov 2020 11:23:48 GMT
+		alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+
+
+===========================================================================
+
+
+# POST api.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /v2/events
+		:authority: api.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-encoding: gzip, deflate, br
+		accept-language: it-IT
+		content-length: 1547
+		user-agent: MyFitnessPal/20.23.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: last_login_date=2020-11-13
+		cookie: p=r4ffhQT8m1vfICpsraXHTBFL
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (202)
+
+	> Headers
+		:status: 202
+		content-length: 0
+		access-control-allow-origin: *
+		access-control-expose-headers: Link
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		x-cache: Miss from cloudfront
+		via: 1.1 b8f7ec2a292687370773a41cd1bdc97a.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: hUsr5TTEa3_0T322TzFAo9RMPhK5aBhzYoFX_cNKr3FfoITjLoWOnA==
+
+
+
+===========================================================================
+
+
+# POST sync.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /iphone_api/action_request?lang=it-IT
+		:authority: sync.myfitnesspal.com
+		content-type: multipart/form-data; boundary=kguaocudecaouhrkjchrkueaoureakgcceagducegaduahbkjqtjgecuaoehuaebkjahjbeobjaeco
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-language: it-IT
+		accept-encoding: gzip, deflate, br
+		content-length: 514
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/octet-stream
+		content-length: 116
+		cache-control: no-cache, no-store, proxy-revalidate
+		content-disposition: inline
+		content-transfer-encoding: binary
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		etag: W/"6d8ea7a06e379c08a331cfe3908df0b6"
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		pragma: no-cache
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		set-cookie: _mfp_session=d21OV2JYRjlRaUFBTlprYkx5VVQ5QkV4U1oxNGtYajBBcy9RaEYxVnZXcXczNVdFNDhneHRvOU5QelpJRWx3WnJuYUxCZVNRNGJxZ01WYmVRdXQxVUphdkg2c3RvL3M5TTNJWVNFSDVEQTM0SFhhdDVBQ2JxQmxwSXRIMzNoOSstLTFOUnova0x4azNqeXFBOVhPNkwwQUE9PQ%3D%3D--798f6af65940ebce9f39363b2d63e60a9e1c92d2; path=/; secure; HttpOnly
+		status: 200 OK
+		strict-transport-security: max-age=631138519
+		x-download-options: noopen
+		x-frame-options: SAMEORIGIN
+		x-permitted-cross-domain-policies: none
+		x-request-id: 854381177fb890f513da45b3e215e6c8
+		x-runtime: 0.043741
+		x-xss-protection: 1; mode=block
+		x-cache: Miss from cloudfront
+		via: 1.1 eaa8104a21ab5f25827e5678acfcc3cd.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: VKV6iYG39Jqm0cbeNk--Em2aC6hB4vSY7t-0GDZeB_uPrIzB8xR5YA==
+
+
+
+===========================================================================
+
+
+# GET config.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /config/ios_client?device_id=C40ABD70-A717-4C90-A075-98A29E7F06A9&user_id=154186940
+		:authority: config.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-language: it-IT
+		accept-encoding: gzip, deflate, br
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/json; charset=utf-8
+		cache-control: no-cache, no-store, proxy-revalidate
+		content-encoding: gzip
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		etag: W/"5913ea46d5f0cd9c298fcfc16ee1f6e8"
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		pragma: no-cache
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		set-cookie: _mfp_session=UzVQT1NYWXBRQnlqTFJIRkgwWmlRN2gyc0pOVFZub0Z3MEx0Ni9mK2NSOVdDTUdOL3hBTjRPZFBVNzQvS1o5K1NZQ0V0OFJLdFBsbFVMREtIS3VoU2J1OWJQNitIWE9QQ0Jic3EzdEh3Z08vQVpJbUtmMXBtUmJoQmVvalovVGUtLVUzQS9UamU4c2Y2ejk0K0RzaXBMU2c9PQ%3D%3D--4e79bf5e8618321c3483c42f429579942e271e21; path=/; secure; HttpOnly
+		status: 200 OK
+		strict-transport-security: max-age=631138519
+		vary: Accept-Encoding
+		x-download-options: noopen
+		x-frame-options: SAMEORIGIN
+		x-permitted-cross-domain-policies: none
+		x-request-id: d463a9b01a0462fe6c197209646a8137
+		x-runtime: 0.045650
+		x-xss-protection: 1; mode=block
+		x-cache: Miss from cloudfront
+		via: 1.1 eaaa1e97697a6ab196c5224bbc70d9c8.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: X9jVg3NXk4UYW_HsF0FU5nUVVBvSoEhhD5jkDhtsUjqTtBei1iua9Q==
+
+
+
+===========================================================================
+
+
+# POST api2.amplitude.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /
+		:authority: api2.amplitude.com
+		accept: */*
+		content-type: application/x-www-form-urlencoded
+		accept-encoding: gzip, deflate, br
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		content-length: 63185
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		content-type: text/html;charset=utf-8
+		content-length: 7
+		access-control-allow-origin: *
+		access-control-allow-methods: GET, POST
+		strict-transport-security: max-age=15768000
+
+
+
+===========================================================================
+
+
+# POST identity.api.ua.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /oauth/token?grant_type=client_credentials&client_id=28887945-7a97-4ebc-a512-e514f5fd06b3&client_secret=cwia5onqbpaiagxp6ku4mj5hjmlx6q56fx7jigf7vfshtm2ln3sa
+		:authority: identity.api.ua.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: IDM/7.0.2 MYFITNESSPAL/20.23.0.33252 iOS/14.2
+		accept-language: it-it
+		content-length: 0
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/json;charset=UTF-8
+		content-length: 243
+		cache-control: no-store
+		date: Tue, 17 Nov 2020 11:23:48 GMT
+		pragma: no-cache
+		uacf-request-id: 08b80cb0-0edd-444b-beb4-729c881fd790
+		x-content-type-options: nosniff
+		x-frame-options: DENY
+		x-cache: Miss from cloudfront
+		via: 1.1 bfac9e4c7bc65408e96753cd7c5717e5.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: uEYdaoIoaP1espySz_ZpLVdx85LYlt8BffokeFnR5L_rbw3TJmbh1g==
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/ad
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 500
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 3049
+		content-security-policy: script-src 'self' *.mopub.com mopub.com;connect-src 'self' *.mopub.com mopub.com;object-src 'none'
+		content-type: application/json; charset=utf-8
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 266
+		x-tsa-request-body-time: 2
+
+
+
+===========================================================================
+
+
+# POST sync.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /iphone_api/synchronize?lang=it-IT
+		:authority: sync.myfitnesspal.com
+		content-type: multipart/form-data; boundary=kguaocudecaouhrkjchrkueaoureakgcceagducegaduahbkjqtjgecuaoehuaebkjahjbeobjaeco
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-language: it-IT
+		accept-encoding: gzip, deflate, br
+		content-length: 1252
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/octet-stream
+		content-length: 5004
+		cache-control: no-cache, no-store, proxy-revalidate
+		content-disposition: inline
+		content-transfer-encoding: binary
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		etag: W/"b14424fc08ad9ceec23e23ba73900512"
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		pragma: no-cache
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		set-cookie: _mfp_session=N2g3anV4dUtITnR5NnYxdllZcy9xQ2NiVEUwNEtqczdzSE1zWDVhZUd6QWFaYWpyOFVaN0RuMTF6ZjlOcjI5RzUwWFRRcldXSzA3WFNCdklxWWJMYm5MV1F2WXpYSkI1SVdvNDNmUGhWWmlkaUxGcWJZMUFWcklaNDBCcVcvcWctLStsNHp6Wmg5SjF5cUtQSU5yWmJKVUE9PQ%3D%3D--8939385f349b2267af95272c09b4663d7ac83ce6; path=/; secure; HttpOnly
+		status: 200 OK
+		strict-transport-security: max-age=631138519
+		x-download-options: noopen
+		x-frame-options: SAMEORIGIN
+		x-permitted-cross-domain-policies: none
+		x-request-id: cc5257fb76ae5a4e74bf99ec13ca894a
+		x-runtime: 0.115702
+		x-xss-protection: 1; mode=block
+		x-cache: Miss from cloudfront
+		via: 1.1 9462251ec1005d8753d5e222d6623243.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: IHU4GVkULAYrxA8iSobVK9WRfb1Do6UAcIP2kGiUKUsB8o_YjY6fvQ==
+
+
+
+===========================================================================
+
+
+# GET api.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /v2/users/102546566729005?fields%5B%5D=profiles&fields%5B%5D=step_sources&fields%5B%5D=account&fields%5B%5D=unit_preferences&fields%5B%5D=goal_preferences&fields%5B%5D=goal_displays&fields%5B%5D=location_preferences&fields%5B%5D=diary_preferences&fields%5B%5D=system_data&fields%5B%5D=privacy_preferences&fields%5B%5D=notification_preferences&fields%5B%5D=app_preferences
+		:authority: api.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		if-none-match: W/"5c9f45ae1f37cf57a9721826536ff619"
+		accept-language: it-IT
+		accept-encoding: gzip, deflate, br
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: last_login_date=2020-11-13
+		cookie: p=r4ffhQT8m1vfICpsraXHTBFL
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (304)
+
+	> Headers
+		:status: 304
+		content-length: 0
+		access-control-allow-origin: *
+		access-control-expose-headers: Link
+		cache-control: max-age=0, private, must-revalidate
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		etag: W/"5c9f45ae1f37cf57a9721826536ff619"
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		status: 304 Not Modified
+		strict-transport-security: max-age=631138519
+		x-download-options: noopen
+		x-frame-options: SAMEORIGIN
+		x-permitted-cross-domain-policies: none
+		x-request-id: d072d44003cf2a9608af8e6d42b8493c
+		x-runtime: 0.142893
+		x-xss-protection: 1; mode=block
+		x-cache: Miss from cloudfront
+		via: 1.1 44b1d22f682d32d0090eb52e3626b174.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: 9aY3jOo7xozbB_DX2pqZs6T_Ku_bkvqHe5y0-KLc4e9e2LLa2JJmtQ==
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/ad
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 500
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 2146
+		content-security-policy: script-src 'self' *.mopub.com mopub.com;connect-src 'self' *.mopub.com mopub.com;object-src 'none'
+		content-type: application/json; charset=utf-8
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 362
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# POST api.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /v2/events
+		:authority: api.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-encoding: gzip, deflate, br
+		accept-language: it-IT
+		content-length: 1157
+		user-agent: MyFitnessPal/20.23.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: last_login_date=2020-11-13
+		cookie: p=r4ffhQT8m1vfICpsraXHTBFL
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (202)
+
+	> Headers
+		:status: 202
+		content-length: 0
+		access-control-allow-origin: *
+		access-control-expose-headers: Link
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		x-cache: Miss from cloudfront
+		via: 1.1 e95a7a28b8645be1b2217f0d289a4450.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: HpPxcwIDGC8v0I4k1Tzf5UesaX-Jro_Ga9y7qBSrODfJ8v8HFPoY4A==
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 61
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# GET pubads.g.doubleclick.net
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /gampad/ads?should_silence_audio=0&os_version=14.2.0&ms=xm4x0hhksrOxReIknSxT2qKED-mL1HWEM08XGr0R54e5qpUgEsXWvV1nh5atpMVvqSeofM_8ORMoola3N71djlsUZyLFufN_-dxidIGce6J8itfmWJTcmSFAh2LCcQuXodOpYP5HyyoqQ0FwvBaZNaDcBYZUlV5X5W-5zjH3_ferFdDIAy16DNELWhAOgcMPFWGzM9_oUDslIze9ZVF_vHOvKvJAe44s8bRrTHd0bIr73I4ghOnQYL4EgZVOOoJ9DwllEuvI_MyYkFzb5OyycV-BdVvaC1AjS3QbB5ALrTXoigiFLmMMrKiZNISbvnQxrtKSWFnMU2ovDYY2jy2CwA&u_so=p&omid_v=1.3.3-google_20200427&hl=it&submodel=iPhone10%2C6&ios_app_volume=1&is_nonagon=true&binary_arch=arm64&is_pseud=false&eid=318492054%2C318492496&net=wi&u_sd=3&js=afma-sdk-i-v7.64.0&u_sso=any&fbs_aiid=89B1767D7DB84B919E6D63DDFDF4CEFF&is_other_audio_playing=0&u_h=812&fbs_aeid=930822240586296956&u_w=375&_c_csdk_npa_o=false&_c_req_npa=true&npa=1&guci=0.0.0.0.0.0.0.8&attmas=denied&sdk_apis=7&omid_p=Google%2Fafma-sdk-i-v7.64.0&_ad_b=320x50&format=320x50_as&an=20.23.0.iphone.com.myfitnesspal.mfp&_package_name=com.myfitnesspal.mfp&u_audio=3&swipeable=1&dtxcb=12A7300&dtsdk=iphoneos14.0&m_os_tgt=13.0&_ats=Lmw&skan=cstr6suwn9%2C4FZDC2EVR5%2Cprcb7njmu6%2Ct38b2kh725%2C4FZDC2EVR5%2C9T245VHMPL%2Cludvb6z3bs%2Ct38b2kh725%2Ck674qkevps%2Cuw77j35x4d%2Chjevpa356n%2Cydx93a7ass%2Cppxm28t8ap%2Cc6k4g5qg8m%2CKLF5C3L5U5%2CWZMMZ9FP6W%2C424M5254LK%2Cy2ed4ez56y%2C2U9PT9HC89%2Cludvb6z3bs&adk=2607434729&preqs=1&seq_num=2&time_in_session=390670&preqs_in_session=5&output=html&region=mobile_app&u_tz=60&url=20.23.0.iphone.com.myfitnesspal.mfp.adsenseformobileapps.com&gdfp_req=1&markup=html&m_ast=afmajs&impl=ifr&iu=%2F17729925%2FUACF_M%2FMFP%2FDiary&sz=320x50&correlator=75069773918791&_hl=it-it&gsb=wi&apm_app_id=1%3A513007887437%3Aios%3A1fbc62450360e0a31e6804&gmp_app_id=1%3A513007887437%3Aios%3A1fbc62450360e0a31e6804&apm_app_type=1&caps=interactiveVideo_inlineVideo_mraid1_mraid2_mraid3_th_autoplay_mediation_av_sdkAdmobApiForAds_di_transparentBackground_sdkVideo_aso_sfv_dinm_dim_nav_navc_ct_scroll_dinmo_gls_saiMacro_cpcbg_omidEnabled_gcache_aboi_xSeconds&swdr=false&cap=a&blockAutoClicks=true&cust_params=og_hb_ios%3Don%26oex%3Dbvo%26dkw%3Dgep%26rollout%3Dpfa%26user_id%3D102546566729005%26apmt%3Doff%26release_version%3D20.23.0%26did%3D00000000-0000-0000-0000-000000000000%26ladtr%3Dy%26sw%3Dw%26kuid%3D00000000-0000-0000-0000-000000000000&includeDoritos=true&includeCookies=true&paidl=36&rdidl=36&idtypel=4&blob=ABPQqLGUK1SZAWg1d6CYWU_ifFySn7e_egqvCG4MQBN1BxUwiObHXYbSEa4aHmzF99ZAARNKsnlCAtJffzJLRRoRqnDEB2ei3DLUdjRX0wqp0f9UUR3vjLEhBIawft2PX5ICraJclr2p4PJgq5iG7DyYuJfUQ-eXuBnf1fWvCpt54op4zAB5H8O5nhIaOS6gFukMa_pOuQlX67bjoY5BsamkFwu6dHYCQDXBR_c6ER-eqWVKZdx6fjELAqig6KrTgsZnMHXj42E9BEmjlksn3ky-9LcycdhEzuo_BBJ3lbRJb_I_XgOhqZS2yma0tfW6qupNzgHS_33ffZZCP3Q0DdYtahl9RujDnOfEQ9fk&et=3&tcar=5&jsv=sdk_20190107_RC02-production-sdk_20201105_RC01&urll=2767
+		:authority: pubads.g.doubleclick.net
+		cookie: IDE=AHWqTUmvP4m_A6YhZcN7kjEdiaoUaXbIAn1BG0o30WVp90CCltqfmZFYtA686pZ3
+		accept: */*
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+		timing-allow-origin: *
+		cross-origin-resource-policy: cross-origin
+		x-afma-content-vertical-opted-out: true
+		x-afma-ad-size: 320x50
+		x-afma-content-url-opted-out: true
+		x-afma-use-https: false
+		x-afma-on-device-brand-safety-opted-out: true
+		x-afma-ad-slot-size: 320x50
+		x-afma-gws-query-id: xbKzX6zhILKrrAShtIKQDQ
+		x-afma-auto-collect-location: true
+		cache-control: no-cache, must-revalidate
+		content-type: application/json; charset=UTF-8
+		x-afma-mediation: true
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		pragma: no-cache
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		x-content-type-options: nosniff
+		content-disposition: attachment; filename="f.txt"
+		content-encoding: br
+		server: cafe
+		content-length: 1126
+		x-xss-protection: 0
+		alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Microsoft%20Update%20Assistant/4.29.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Microsoft%20Update%20Assistant/4.29.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# GET ads.nexage.com
+
++ Request
+
+	> Headers
+		Host: ads.nexage.com
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate
+		Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:24:16 GMT
+		Content-Type: application/x-javascript;charset=utf-8
+		Content-Length: 48
+		Cache-Control: no-store
+		Cache-Control: no-cache
+		Cache-Control: must-revalidate
+		Cache-Control: max-age=0
+		Cache-Control: no-transform
+		Cache-Control: post-check=0, pre-check=0
+		Pragma: no-cache
+		Expires: Thu, 01 Jan 1970 00:00:00 GMT
+		Server: Jetty(9.4.7.v20170914)
+		Proxy-Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# GET googleads.g.doubleclick.net
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /pagead/conversion/?ai=CiGxWxbKzX6yhIpGhrASd1J6QAcOgjLxc04_507MHwI23ARABIABg_YKAgOASggEeY2EtbWItYXBwLXB1Yi05MzgzMDgwMjg1MTY1NjY1yAEJ4AIAqAMBqgSoAk_QtE8SDEriyfBPS4Uyeqy8L1legisNrs7PYhndU_c79mu7AK3D9_kXWdgac-Dbudg1gfF3kqw-6Q5kRQeY07TxdRNPo6iyT9QgrogvXGFT68mkz0hoqed5MDKJRJ43HF-YQM4UTDvTydHceN1VPgkVrf9uyHtT0cFmOXQcDf64Sw3_12iWaxhsOJQYQymW5dlkSEY5RgxeDwwF3KNNm53TkcR-NoSUESymm_IVT4UxbPzHmiFK7rk2y3PB1OZBJyCw3fxezt_knobwERwUUt_Lxr7c2m19C5jzBzGJMfEMscoD_MRx1nqp8NX5QhZFfoGeNhO1QVmU9C_YbPgceWItlZ-I6xrVNzwgU4K_pTNsys4y4yhwo73wnSXBryUT_8R65LyYXRst4AQBoAYhwAYLqAemvhuoB_DZG6gH8tkbqAfs1RuoB5bYG6gH5OAbqAebl7EC2AcA0ggHCIThgHAQAYAKA_oLAggAgAwBshcaChgIARIUcHViLTkzODMwODAyODUxNjU2NjU&sigh=npoBGTUBi7w&cid=CAQSGwCNIrLM4ElPf25pU1Di1a5sm9M89SIvwaJu9g&label=drx_mediation_request_fill_result&mediation_fill_status=314714887345.2.21538._254384424915.0.6072.
+		:authority: googleads.g.doubleclick.net
+		cookie: IDE=AHWqTUmvP4m_A6YhZcN7kjEdiaoUaXbIAn1BG0o30WVp90CCltqfmZFYtA686pZ3
+		accept: */*
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+		timing-allow-origin: *
+		cross-origin-resource-policy: cross-origin
+		date: Tue, 17 Nov 2020 11:24:17 GMT
+		pragma: no-cache
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		cache-control: no-cache, must-revalidate
+		content-type: image/gif
+		access-control-allow-origin: *
+		x-content-type-options: nosniff
+		server: cafe
+		content-length: 42
+		x-xss-protection: 0
+		alt-svc: h3-Q050="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-29="googleads.g.doubleclick.net:443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051="googleads.g.doubleclick.net:443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic="googleads.g.doubleclick.net:443"; ma=2592000; v="46,43",quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:23:51 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# GET adplatform.vrtcal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /dexch.vap?aid=2064&clickurl=https%3A%2F%2Fads.mopub.com%2Fm%2Faclk%3Fcid%3Db24ac4fa711411e9ad9a98039b8afee2%26city%3D%26ckv%3D2%26country_code%3DIT%26cppck%3D407CB%26current_consent_status%3Ddnt%26dev%3DiPhone10%252C6%26exclude_adgroups%3D1b5e7ce2eac411e9861a0cc47a9467b0%252Cb24ac1d0711411e9ad9a98039b8afee2%26gdpr_applies%3D1%26id%3D5200209e4a354bd5a135c82f101977e6%26is_mraid%3D0%26os%3DiOS%26osv%3D14.2.0%26priority%3D11%26req%3D203b3203a6f8429c8a2c1f53c85c3f60_005f06a7000ffc27%26reqt%3D1605612229.0%26rev%3D0%26udid%3Dmopub%253A66E98CF5-EF0E-4726-BB43-A212D1B6F664%26video_type%3D%26r%3D&cb=1605612229566&auid=5200209e4a354bd5a135c82f101977e6&plid=4b7abd0c8455421ab3dbee36d07ce7f6&agid=b24ac1d0711411e9ad9a98039b8afee2&crid=b24ac4fa711411e9ad9a98039b8afee2&dsturl=&adid=00000000-0000-0000-0000-000000000000&keywords=gmext&lat=&long=&dnt=1&bundle=341232718
+		:authority: adplatform.vrtcal.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: http://ads.mopub.com/
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:23:52 GMT
+		content-type: text/html
+		content-length: 136
+		server: Apache/2.4.7 (Ubuntu)
+		x-powered-by: PHP/5.5.9-1ubuntu4.26
+		set-cookie: vrtcaluid=V79.47.32.43-0.39933800+1605612232; expires=Wed, 17-Nov-2021 11:23:52 GMT; Max-Age=31536000; path=/; domain=.vrtcal.com
+		vary: Accept-Encoding
+		content-encoding: gzip
+		access-control-allow-origin: *
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/ad
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 725
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 185
+		content-security-policy: script-src 'self' *.mopub.com mopub.com;connect-src 'self' *.mopub.com mopub.com;object-src 'none'
+		content-type: application/json; charset=utf-8
+		date: Tue, 17 Nov 2020 11:23:52 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 14
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# POST api2.amplitude.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /
+		:authority: api2.amplitude.com
+		accept: */*
+		content-type: application/x-www-form-urlencoded
+		accept-encoding: gzip, deflate, br
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		content-length: 64511
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:23:51 GMT
+		content-type: text/html;charset=utf-8
+		content-length: 7
+		access-control-allow-origin: *
+		access-control-allow-methods: GET, POST
+		strict-transport-security: max-age=15768000
+
+
+
+===========================================================================
+
+
+# GET ads.aerserv.com
+
++ Request
+
+	> Headers
+		Host: ads.aerserv.com
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate
+		Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:24:17 GMT
+		Content-Length: 0
+		X-Frame-Options: DENY
+		X-Content-Type-Options: nosniff
+		X-XSS-Protection: 1; mode=block
+		Access-Control-Allow-Origin: *
+		Proxy-Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:15 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Microsoft%20Update%20Assistant/4.29.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Microsoft%20Update%20Assistant/4.29.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Excel/16.43.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Microsoft%20Update%20Assistant/4.29.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Microsoft%20Update%20Assistant/4.29.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# GET pubads.g.doubleclick.net
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /pagead/adview?ai=CiGxWxbKzX6yhIpGhrASd1J6QAcOgjLxc04_507MHwI23ARABIABg_YKAgOASggEeY2EtbWItYXBwLXB1Yi05MzgzMDgwMjg1MTY1NjY1yAEJ4AIAqAMBqgSoAk_QtE8SDEriyfBPS4Uyeqy8L1legisNrs7PYhndU_c79mu7AK3D9_kXWdgac-Dbudg1gfF3kqw-6Q5kRQeY07TxdRNPo6iyT9QgrogvXGFT68mkz0hoqed5MDKJRJ43HF-YQM4UTDvTydHceN1VPgkVrf9uyHtT0cFmOXQcDf64Sw3_12iWaxhsOJQYQymW5dlkSEY5RgxeDwwF3KNNm53TkcR-NoSUESymm_IVT4UxbPzHmiFK7rk2y3PB1OZBJyCw3fxezt_knobwERwUUt_Lxr7c2m19C5jzBzGJMfEMscoD_MRx1nqp8NX5QhZFfoGeNhO1QVmU9C_YbPgceWItlZ-I6xrVNzwgU4K_pTNsys4y4yhwo73wnSXBryUT_8R65LyYXRst4AQBoAYhwAYLqAemvhuoB_DZG6gH8tkbqAfs1RuoB5bYG6gH5OAbqAebl7EC2AcA0ggHCIThgHAQAYAKA_oLAggAgAwBshcaChgIARIUcHViLTkzODMwODAyODUxNjU2NjU&sigh=4HcF9RPlKmQ&ms=a6qjxYQPZjTzt-0yOUUkk1pHbUuuFGZ6SXMEUWCitjlfeKiSyM7iEasM3vKz7r4_rxzRwc1lSPGFf0X8B71w_FKSnyayHu-GAqrOKWv1c4RoKPntNeYuSEHzKo9slbrcTFKnGykwZNR5AmFEvqUFts3xEVqWny1Nle2KOYBAuzFeXGj6Fy-og1z_CXI1OhCBQFkfOBXFAWw1tx3VHR8YW1rUZDlHcBoyeBF2WI3Mqxc6IGWtwqhzoKRVagimnG5Uq3STGBYW0pGjMetf3A8UCZva71tb_4iFCU9V29qQEhvKSNNiz9QG0TIm0UGY3uouNcN8fYH60F_cxkY82u0H-g
+		:authority: pubads.g.doubleclick.net
+		cookie: IDE=AHWqTUmvP4m_A6YhZcN7kjEdiaoUaXbIAn1BG0o30WVp90CCltqfmZFYtA686pZ3
+		accept: */*
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+		timing-allow-origin: *
+		cross-origin-resource-policy: cross-origin
+		content-security-policy: script-src 'none'; object-src 'none'
+		content-type: text/html; charset=UTF-8
+		x-content-type-options: nosniff
+		date: Tue, 17 Nov 2020 11:24:17 GMT
+		server: cafe
+		content-length: 0
+		x-xss-protection: 0
+		alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/ad
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 824
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 2228
+		content-security-policy: script-src 'self' *.mopub.com mopub.com;connect-src 'self' *.mopub.com mopub.com;object-src 'none'
+		content-type: application/json; charset=utf-8
+		date: Tue, 17 Nov 2020 11:24:16 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 14
+		x-tsa-request-body-time: 5
+
+
+
+===========================================================================
+
+
+# GET js.w.inmobi.com
+
++ Request
+
+	> Headers
+		Host: js.w.inmobi.com
+		Origin: http://ads.mopub.com
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (204)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:23:52 GMT
+		Server: nginx
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# GET adplatform.vrtcal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /dexch.vap?aid=2557&clickurl=https%3A%2F%2Fads.mopub.com%2Fm%2Faclk%3Fcid%3D1b5e4632eac411e9861a0cc47a9467b0%26city%3D%26ckv%3D2%26country_code%3DIT%26cppck%3D7799C%26current_consent_status%3Ddnt%26dev%3DiPhone10%252C6%26exclude_adgroups%3D1b5e420eeac411e9861a0cc47a9467b0%252C8a63d7bc0b3111eaad230cc47acb3300%252Cc4175560e81e11e891cd0cc47a9cc1cc%252Cc418b48ce81e11e891cd0cc47a9cc1cc%252Cc4191594e81e11e891cd0cc47a9cc1cc%26gdpr_applies%3D1%26id%3D35983288f73941a9b33f2abe9739c5bc%26is_mraid%3D0%26os%3DiOS%26osv%3D14.2.0%26priority%3D11%26req%3Dd0a1fce411d64e58a7741aba9ece6acc_00e7efa800ba979c%26reqt%3D1605612229.0%26rev%3D0%26udid%3Dmopub%253A66E98CF5-EF0E-4726-BB43-A212D1B6F664%26video_type%3D%26r%3D&cb=1605612229793&auid=35983288f73941a9b33f2abe9739c5bc&plid=4b7abd0c8455421ab3dbee36d07ce7f6&agid=1b5e420eeac411e9861a0cc47a9467b0&crid=1b5e4632eac411e9861a0cc47a9467b0&dsturl=&adid=00000000-0000-0000-0000-000000000000&keywords=gmext&lat=&long=&dnt=1&bundle=341232718
+		:authority: adplatform.vrtcal.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: http://ads.mopub.com/
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:23:51 GMT
+		content-type: text/html
+		content-length: 136
+		server: Apache/2.4.7 (Ubuntu)
+		x-powered-by: PHP/5.5.9-1ubuntu4.26
+		set-cookie: vrtcaluid=V79.47.32.43-0.44953400+1605612231; expires=Wed, 17-Nov-2021 11:23:51 GMT; Max-Age=31536000; path=/; domain=.vrtcal.com
+		vary: Accept-Encoding
+		content-encoding: gzip
+		access-control-allow-origin: *
+
+
+
+===========================================================================
+
+
+# GET adplatform.vrtcal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /dexch.vap?aid=2064&clickurl=https%3A%2F%2Fads.mopub.com%2Fm%2Faclk%3Fcid%3Da52badacf35611e8b2b2506b4b10b5d8%26city%3D%26ckv%3D2%26country_code%3DIT%26cppck%3DD3B6B%26current_consent_status%3Ddnt%26dev%3DiPhone10%252C6%26exclude_adgroups%3D1b5b23b2eac411e9861a0cc47a9467b0%252C3879aca2eace11e9aba4506b4b2297aa%252Ca52bab4af35611e8b2b2506b4b10b5d8%252Cb1d64f38c01e11e7a731002590f3db4c%252Cc32a46640d0c11e8a7cc002590f31968%26gdpr_applies%3D1%26id%3D634d87a27e364dce88b8c1680e9345fa%26is_mraid%3D0%26os%3DiOS%26osv%3D14.2.0%26priority%3D11%26req%3Db6a8225041ee4a2385cf873eee6b82d2_00d9584a0049889a%26reqt%3D1605612251.0%26rev%3D0%26udid%3Dmopub%253A66E98CF5-EF0E-4726-BB43-A212D1B6F664%26video_type%3D%26r%3D&cb=1605612251360&auid=634d87a27e364dce88b8c1680e9345fa&plid=4b7abd0c8455421ab3dbee36d07ce7f6&agid=a52bab4af35611e8b2b2506b4b10b5d8&crid=a52badacf35611e8b2b2506b4b10b5d8&dsturl=&adid=00000000-0000-0000-0000-000000000000&keywords=gmext&lat=&long=&dnt=1&bundle=341232718
+		:authority: adplatform.vrtcal.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: http://ads.mopub.com/
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:24:14 GMT
+		content-type: text/html
+		content-length: 136
+		server: Apache/2.4.7 (Ubuntu)
+		x-powered-by: PHP/5.5.9-1ubuntu4.26
+		set-cookie: vrtcaluid=V79.47.32.43-0.63414800+1605612254; expires=Wed, 17-Nov-2021 11:24:14 GMT; Max-Age=31536000; path=/; domain=.vrtcal.com
+		vary: Accept-Encoding
+		content-encoding: gzip
+		access-control-allow-origin: *
+
+
+
+===========================================================================
+
+
+# GET ads.nexage.com
+
++ Request
+
+	> Headers
+		Host: ads.nexage.com
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate
+		Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:24:14 GMT
+		Content-Type: application/x-javascript;charset=utf-8
+		Content-Length: 48
+		Cache-Control: no-store
+		Cache-Control: no-cache
+		Cache-Control: must-revalidate
+		Cache-Control: max-age=0
+		Cache-Control: no-transform
+		Cache-Control: post-check=0, pre-check=0
+		Pragma: no-cache
+		Expires: Thu, 01 Jan 1970 00:00:00 GMT
+		Server: Jetty(9.4.7.v20170914)
+		Proxy-Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# GET adplatform.vrtcal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /dexch.vap?aid=2492&clickurl=https%3A%2F%2Fads.mopub.com%2Fm%2Faclk%3Fcid%3D1b5e7f76eac411e9861a0cc47a9467b0%26city%3D%26ckv%3D2%26country_code%3DIT%26cppck%3D78859%26current_consent_status%3Ddnt%26dev%3DiPhone10%252C6%26exclude_adgroups%3D1b5e7ce2eac411e9861a0cc47a9467b0%252Cb24ac1d0711411e9ad9a98039b8afee2%26gdpr_applies%3D1%26id%3D5200209e4a354bd5a135c82f101977e6%26is_mraid%3D0%26os%3DiOS%26osv%3D14.2.0%26priority%3D11%26req%3D203b3203a6f8429c8a2c1f53c85c3f60_005f06a7000ffc27%26reqt%3D1605612229.0%26rev%3D0%26udid%3Dmopub%253A66E98CF5-EF0E-4726-BB43-A212D1B6F664%26video_type%3D%26r%3D&cb=1605612229566&auid=5200209e4a354bd5a135c82f101977e6&plid=4b7abd0c8455421ab3dbee36d07ce7f6&agid=1b5e7ce2eac411e9861a0cc47a9467b0&crid=1b5e7f76eac411e9861a0cc47a9467b0&dsturl=&adid=00000000-0000-0000-0000-000000000000&keywords=gmext&lat=&long=&dnt=1&bundle=341232718
+		:authority: adplatform.vrtcal.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: http://ads.mopub.com/
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:23:51 GMT
+		content-type: text/html
+		content-length: 136
+		server: Apache/2.4.7 (Ubuntu)
+		x-powered-by: PHP/5.5.9-1ubuntu4.26
+		set-cookie: vrtcaluid=V79.47.32.43-0.35741200+1605612231; expires=Wed, 17-Nov-2021 11:23:51 GMT; Max-Age=31536000; path=/; domain=.vrtcal.com
+		vary: Accept-Encoding
+		content-encoding: gzip
+		access-control-allow-origin: *
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:23:52 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 60
+		x-tsa-request-body-time: 4
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 574
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:16 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 5
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# POST api2.amplitude.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /
+		:authority: api2.amplitude.com
+		accept: */*
+		content-type: application/x-www-form-urlencoded
+		accept-encoding: gzip, deflate, br
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		content-length: 34902
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:24:18 GMT
+		content-type: text/html;charset=utf-8
+		content-length: 7
+		access-control-allow-origin: *
+		access-control-allow-methods: GET, POST
+		strict-transport-security: max-age=15768000
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Microsoft%20Update%20Assistant/4.29.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT nexusrules.officeapps.live.com
+
++ Request
+
+	> Headers
+		Host: nexusrules.officeapps.live.com
+		User-Agent: Microsoft Office Excel/16.43.1108 (Mac OS/10.15.7; Desktop; it-IT; NonAppStore; Apple/MacBookPro16,1)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT xp.apple.com
+
++ Request
+
+	> Headers
+		Host: xp.apple.com
+		User-Agent: Music/1.0.6 (Macintosh; OS X 10.15.7; 19H15) AppleWebKit/5609.4.1 CommerceKit/709.6.5 build/10
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT www.youtube.com
+
++ Request
+
+	> Headers
+		Host: www.youtube.com
+		User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# GET js.w.inmobi.com
+
++ Request
+
+	> Headers
+		Host: js.w.inmobi.com
+		Origin: http://ads.mopub.com
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (204)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:24:26 GMT
+		Server: nginx
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# GET adplatform.vrtcal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /dexch.vap?aid=2481&clickurl=https%3A%2F%2Fads.mopub.com%2Fm%2Faclk%3Fcid%3D3879ae82eace11e9aba4506b4b2297aa%26city%3D%26ckv%3D2%26country_code%3DIT%26cppck%3DA1529%26current_consent_status%3Ddnt%26dev%3DiPhone10%252C6%26exclude_adgroups%3D1b5b23b2eac411e9861a0cc47a9467b0%252C3879aca2eace11e9aba4506b4b2297aa%252Ca52bab4af35611e8b2b2506b4b10b5d8%252Cb1d64f38c01e11e7a731002590f3db4c%252Cc32a46640d0c11e8a7cc002590f31968%26gdpr_applies%3D1%26id%3D634d87a27e364dce88b8c1680e9345fa%26is_mraid%3D0%26os%3DiOS%26osv%3D14.2.0%26priority%3D11%26req%3Db6a8225041ee4a2385cf873eee6b82d2_00d9584a0049889a%26reqt%3D1605612251.0%26rev%3D0%26udid%3Dmopub%253A66E98CF5-EF0E-4726-BB43-A212D1B6F664%26video_type%3D%26r%3D&cb=1605612251360&auid=634d87a27e364dce88b8c1680e9345fa&plid=4b7abd0c8455421ab3dbee36d07ce7f6&agid=3879aca2eace11e9aba4506b4b2297aa&crid=3879ae82eace11e9aba4506b4b2297aa&dsturl=&adid=00000000-0000-0000-0000-000000000000&keywords=gmext&lat=&long=&dnt=1&bundle=341232718
+		:authority: adplatform.vrtcal.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: http://ads.mopub.com/
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:24:15 GMT
+		content-type: text/html
+		content-length: 136
+		server: Apache/2.4.7 (Ubuntu)
+		x-powered-by: PHP/5.5.9-1ubuntu4.26
+		set-cookie: vrtcaluid=V79.47.32.43-0.60749200+1605612255; expires=Wed, 17-Nov-2021 11:24:15 GMT; Max-Age=31536000; path=/; domain=.vrtcal.com
+		vary: Accept-Encoding
+		content-encoding: gzip
+		access-control-allow-origin: *
+
+
+
+===========================================================================
+
+
+# CONNECT www.youtube.com
+
++ Request
+
+	> Headers
+		Host: www.youtube.com
+		User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/ad
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 500
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 2561
+		content-security-policy: script-src 'self' *.mopub.com mopub.com;connect-src 'self' *.mopub.com mopub.com;object-src 'none'
+		content-type: application/json; charset=utf-8
+		date: Tue, 17 Nov 2020 11:23:53 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 475
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# GET aax-eu.amazon-adsystem.com
+
++ Request
+
+	> Headers
+		Host: aax-eu.amazon-adsystem.com
+		Accept: */*
+		Accept-Language: it-it
+		Connection: keep-alive
+		Accept-Encoding: gzip, deflate, br
+		User-Agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+
+
+
++ Response (200)
+
+	> Headers
+		Server: Server
+		Date: Tue, 17 Nov 2020 11:23:50 GMT
+		Content-Type: image/gif
+		Content-Length: 43
+		Cache-Control: no-cache
+		Pragma: no-cache
+		Vary: User-Agent
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# POST api.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /v2/events
+		:authority: api.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-encoding: gzip, deflate, br
+		accept-language: it-IT
+		content-length: 513
+		user-agent: MyFitnessPal/20.23.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: last_login_date=2020-11-13
+		cookie: p=r4ffhQT8m1vfICpsraXHTBFL
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (202)
+
+	> Headers
+		:status: 202
+		content-length: 0
+		access-control-allow-origin: *
+		access-control-expose-headers: Link
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		x-cache: Miss from cloudfront
+		via: 1.1 f2b02f5afeb695ea85b659be98f49e93.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: nU2WbhmWjPDhSKojiAdK3YNL-Bej-TdTuxwWY22c7JfDj9-508YL4g==
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:23:53 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 8
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# CONNECT www.youtube.com
+
++ Request
+
+	> Headers
+		Host: www.youtube.com
+		User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# GET js.w.inmobi.com
+
++ Request
+
+	> Headers
+		Host: js.w.inmobi.com
+		Origin: http://ads.mopub.com
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (204)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:24:15 GMT
+		Server: nginx
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:25 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 5
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT www.youtube.com
+
++ Request
+
+	> Headers
+		Host: www.youtube.com
+		User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT play.itunes.apple.com
+
++ Request
+
+	> Headers
+		Host: play.itunes.apple.com
+		User-Agent: Music/1.0.6 (Macintosh; OS X 10.15.7; 19H15) AppleWebKit/5609.4.1 CommerceKit/709.6.5 build/10
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Excel/16.43.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT officeclient.microsoft.com
+
++ Request
+
+	> Headers
+		Host: officeclient.microsoft.com
+		User-Agent: Microsoft Office Excel/16.43.1108 (Mac OS/10.15.7; Desktop; it-IT; NonAppStore; Apple/MacBookPro16,1)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:14 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:24 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 2
+
+
+
+===========================================================================
+
+
+# POST api.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /v2/events
+		:authority: api.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-encoding: gzip, deflate, br
+		accept-language: it-IT
+		content-length: 349
+		user-agent: MyFitnessPal/20.23.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: last_login_date=2020-11-13
+		cookie: p=r4ffhQT8m1vfICpsraXHTBFL
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (202)
+
+	> Headers
+		:status: 202
+		content-length: 0
+		access-control-allow-origin: *
+		access-control-expose-headers: Link
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		x-cache: Miss from cloudfront
+		via: 1.1 dc0d44cdab5f8e9ba84c61add4fc98c3.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: SyK-5WpziojV1CLDdjdORTt8nLYFzDcsOzQ5cVG0EkfuCEekGVdy_A==
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:23:54 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# GET adplatform.vrtcal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /dexch.vap?aid=2492&clickurl=https%3A%2F%2Fads.mopub.com%2Fm%2Faclk%3Fcid%3D1b5e7742eac411e9861a0cc47a9467b0%26city%3D%26ckv%3D2%26country_code%3DIT%26cppck%3DCF57E%26current_consent_status%3Ddnt%26dev%3DiPhone10%252C6%26exclude_adgroups%3D0fe2d76470fd11e98411506b4b15f4e0%252C1b5e7440eac411e9861a0cc47a9467b0%252Cf3dca5500bf111ea9f5a98039b92cd3e%26gdpr_applies%3D1%26id%3D70a58139e12b4f698b140bd256d5c0a3%26is_mraid%3D0%26os%3DiOS%26osv%3D14.2.0%26priority%3D11%26req%3Da08bc51250f144bea9ff5a3d5572e3d2_00f351110087dc61%26reqt%3D1605612232.0%26rev%3D0%26udid%3Dmopub%253A66E98CF5-EF0E-4726-BB43-A212D1B6F664%26video_type%3D%26r%3D&cb=1605612232792&auid=70a58139e12b4f698b140bd256d5c0a3&plid=4b7abd0c8455421ab3dbee36d07ce7f6&agid=1b5e7440eac411e9861a0cc47a9467b0&crid=1b5e7742eac411e9861a0cc47a9467b0&dsturl=&adid=00000000-0000-0000-0000-000000000000&keywords=gmext&lat=&long=&dnt=1&bundle=341232718
+		:authority: adplatform.vrtcal.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: http://ads.mopub.com/
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:23:54 GMT
+		content-type: text/html
+		content-length: 136
+		server: Apache/2.4.7 (Ubuntu)
+		x-powered-by: PHP/5.5.9-1ubuntu4.26
+		set-cookie: vrtcaluid=V79.47.32.43-0.45894600+1605612234; expires=Wed, 17-Nov-2021 11:23:54 GMT; Max-Age=31536000; path=/; domain=.vrtcal.com
+		vary: Accept-Encoding
+		content-encoding: gzip
+		access-control-allow-origin: *
+
+
+
+===========================================================================
+
+
+# POST api.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /v2/events
+		:authority: api.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-encoding: gzip, deflate, br
+		accept-language: it-IT
+		content-length: 367
+		user-agent: MyFitnessPal/20.23.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: last_login_date=2020-11-13
+		cookie: p=r4ffhQT8m1vfICpsraXHTBFL
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (202)
+
+	> Headers
+		:status: 202
+		content-length: 0
+		access-control-allow-origin: *
+		access-control-expose-headers: Link
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		x-cache: Miss from cloudfront
+		via: 1.1 3c015e946da40663bafaddc790a7bb6b.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: b_u-dzv40gwqfi651NX-ldqVsdjx8BITVH4HIcopB7xTeo_rxHnYUA==
+
+
+
+===========================================================================
+
+
+# GET ads.nexage.com
+
++ Request
+
+	> Headers
+		Host: ads.nexage.com
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate
+		Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:24:25 GMT
+		Content-Type: application/x-javascript;charset=utf-8
+		Content-Length: 48
+		Cache-Control: no-store
+		Cache-Control: no-cache
+		Cache-Control: must-revalidate
+		Cache-Control: max-age=0
+		Cache-Control: no-transform
+		Cache-Control: post-check=0, pre-check=0
+		Pragma: no-cache
+		Expires: Thu, 01 Jan 1970 00:00:00 GMT
+		Server: Jetty(9.4.7.v20170914)
+		Proxy-Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:14 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 60
+		x-tsa-request-body-time: 2
+
+
+
+===========================================================================
+
+
+# GET ocsp.apple.com
+
++ Request
+
+	> Headers
+		Host: ocsp.apple.com
+		Accept: */*
+		User-Agent: com.apple.trustd/2.0
+		Accept-Language: it-it
+		Accept-Encoding: gzip, deflate
+		Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+		Server: ATS/8.1.1
+		Date: Tue, 17 Nov 2020 01:16:44 GMT
+		Content-Type: application/ocsp-response
+		Content-Length: 2534
+		Expires: Tue, 17 Nov 2020 13:16:44 GMT
+		ETag: "6a2da87a766920df2b8e0a67bdca8caa27e92946"
+		Last-Modified: Tue, 17 Nov 2020 01:16:44 GMT
+		Cache-Control: max-age=39600,public,no-transform,must-revalidate
+		Age: 36485
+		Via: http/1.1 uklon5-vp-vst-009.ts.apple.com (ApacheTrafficServer/8.1.0), http/1.1 uklon5-vp-vfe-010.ts.apple.com (ApacheTrafficServer/8.1.1), http/1.1 defra1-edge-lx-010.ts.apple.com (ApacheTrafficServer/8.1.1), http/1.1 defra1-edge-bx-008.ts.apple.com (ApacheTrafficServer/8.1.1)
+		CDNUUID: 018bdd64-303b-466d-b1d7-a27994358dc6-3095786153
+		X-Cache: hit-fresh, hit-fresh, miss, hit-fresh
+		Proxy-Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# CONNECT www.youtube.com
+
++ Request
+
+	> Headers
+		Host: www.youtube.com
+		User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# GET googleads.g.doubleclick.net
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /pagead/conversion/?ai=C7lBZxbKzX-HMB9uV7_UPjfm5mAS_pIS8XJ63maOFCcCNtwEQASAAYP2CgIDgEoIBHmNhLW1iLWFwcC1wdWItOTM4MzA4MDI4NTE2NTY2NcgBCeACAKgDAaoEuQJP0I9dmgM3mMGXCEnhI6AVppJU_m4DJmST3JCT_fYNharZN1U-pn-4KBdqb1MAJawE967gVe7TE8g7lDCceW2CNUu4SkdDMy3sIS_mTBlAsOSXe2XzsmBgvpsyXMqX7j-K2JQcX7Qvh_h1MtK7unScS4R4Rm7JBGRyd3hQYKTt0FrztWBP8FALTRNJEjDl_9K4_XHqGsiEBquK6NbW49y-ejxQyyq4lYKkTdOScPkLwanaYOJq7QDV_NTFLIbXvExp02owGlvkCQW-NWlrp7l6AJpaOF223RMkhP-ANFbik-aDU0-Hwt2TXHdBdY1HFd03uApx1U9gBDoxkc0qmc3TnVPQEDaDWCKhRi42mbBt40X1IPbWfkdFAAMyWHYxaiGhc5TMYaZ5z3YBVPSU2XGVG-5-gA5n4VW14AQBoAYhwAYLqAemvhuoB_DZG6gH8tkbqAfs1RuoB5bYG6gH5OAbqAebl7EC2AcA0ggHCIThgHAQAYAKA_oLAggAgAwBshcaChgIARIUcHViLTkzODMwODAyODUxNjU2NjU&sigh=MfXH7yARLsk&cid=CAQSGwCNIrLM9Ll3YJ7kZXz3J5Wl-PsWD6TsBrPMwA&label=drx_mediation_request_fill_result&mediation_fill_status=310653639582.6.3444._325944683448.2.20090._314714887345.2.20091.
+		:authority: googleads.g.doubleclick.net
+		cookie: IDE=AHWqTUmvP4m_A6YhZcN7kjEdiaoUaXbIAn1BG0o30WVp90CCltqfmZFYtA686pZ3
+		accept: */*
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+		timing-allow-origin: *
+		cross-origin-resource-policy: cross-origin
+		date: Tue, 17 Nov 2020 11:24:32 GMT
+		pragma: no-cache
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		cache-control: no-cache, must-revalidate
+		content-type: image/gif
+		access-control-allow-origin: *
+		x-content-type-options: nosniff
+		server: cafe
+		content-length: 42
+		x-xss-protection: 0
+		alt-svc: h3-Q050="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-29="googleads.g.doubleclick.net:443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051="googleads.g.doubleclick.net:443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic="googleads.g.doubleclick.net:443"; ma=2592000; v="46,43",quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+
+# GET adplatform.vrtcal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /dexch.vap?aid=2492&clickurl=https%3A%2F%2Fads.mopub.com%2Fm%2Faclk%3Fcid%3D1b5b28a8eac411e9861a0cc47a9467b0%26city%3D%26ckv%3D2%26country_code%3DIT%26cppck%3DC21F3%26current_consent_status%3Ddnt%26dev%3DiPhone10%252C6%26exclude_adgroups%3D1b5b23b2eac411e9861a0cc47a9467b0%252C3879aca2eace11e9aba4506b4b2297aa%252Ca52bab4af35611e8b2b2506b4b10b5d8%252Cb1d64f38c01e11e7a731002590f3db4c%252Cc32a46640d0c11e8a7cc002590f31968%26gdpr_applies%3D1%26id%3D634d87a27e364dce88b8c1680e9345fa%26is_mraid%3D0%26os%3DiOS%26osv%3D14.2.0%26priority%3D11%26req%3Db6a8225041ee4a2385cf873eee6b82d2_00d9584a0049889a%26reqt%3D1605612251.0%26rev%3D0%26udid%3Dmopub%253A66E98CF5-EF0E-4726-BB43-A212D1B6F664%26video_type%3D%26r%3D&cb=1605612251360&auid=634d87a27e364dce88b8c1680e9345fa&plid=4b7abd0c8455421ab3dbee36d07ce7f6&agid=1b5b23b2eac411e9861a0cc47a9467b0&crid=1b5b28a8eac411e9861a0cc47a9467b0&dsturl=&adid=00000000-0000-0000-0000-000000000000&keywords=gmext&lat=&long=&dnt=1&bundle=341232718
+		:authority: adplatform.vrtcal.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: http://ads.mopub.com/
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:24:12 GMT
+		content-type: text/html
+		content-length: 136
+		server: Apache/2.4.7 (Ubuntu)
+		x-powered-by: PHP/5.5.9-1ubuntu4.26
+		set-cookie: vrtcaluid=V79.47.32.43-0.68408300+1605612252; expires=Wed, 17-Nov-2021 11:24:12 GMT; Max-Age=31536000; path=/; domain=.vrtcal.com
+		vary: Accept-Encoding
+		content-encoding: gzip
+		access-control-allow-origin: *
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:13 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 61
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/ad
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 526
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 3052
+		content-security-policy: script-src 'self' *.mopub.com mopub.com;connect-src 'self' *.mopub.com mopub.com;object-src 'none'
+		content-type: application/json; charset=utf-8
+		date: Tue, 17 Nov 2020 11:24:13 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 268
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:11 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 61
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# POST firebaselogging-pa.googleapis.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /v1/firelog/legacy/batchlog
+		:authority: firebaselogging-pa.googleapis.com
+		accept: */*
+		content-type: application/x-protobuf
+		accept-encoding: gzip
+		content-length: 370
+		content-encoding: gzip
+		accept-language: it-it
+		user-agent: datatransport/7.3.0 fllsupport/7.3.0 apple/
+		x-goog-api-key: AIzaSyB4G40IhwotnuD26vAV-0PAxOVr5zn1BCc
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/x-protobuf
+		content-disposition: attachment
+		vary: Origin
+		vary: X-Origin
+		vary: Referer
+		content-encoding: gzip
+		date: Tue, 17 Nov 2020 11:24:47 GMT
+		server: ESF
+		cache-control: private
+		content-length: 30
+		x-xss-protection: 0
+		x-frame-options: SAMEORIGIN
+		x-content-type-options: nosniff
+		alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Excel/16.43.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT api.flightproxy.teams.microsoft.com
+
++ Request
+
+	> Headers
+		Host: api.flightproxy.teams.microsoft.com:443
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:12 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# GET js.w.inmobi.com
+
++ Request
+
+	> Headers
+		Host: js.w.inmobi.com
+		Origin: http://ads.mopub.com
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (204)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:24:05 GMT
+		Server: nginx
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# GET js.w.inmobi.com
+
++ Request
+
+	> Headers
+		Host: js.w.inmobi.com
+		Origin: http://ads.mopub.com
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (204)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:23:55 GMT
+		Server: nginx
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:02 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/ad
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 500
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 2814
+		content-security-policy: script-src 'self' *.mopub.com mopub.com;connect-src 'self' *.mopub.com mopub.com;object-src 'none'
+		content-type: application/json; charset=utf-8
+		date: Tue, 17 Nov 2020 11:24:11 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 211
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# CONNECT www.youtube.com
+
++ Request
+
+	> Headers
+		Host: www.youtube.com
+		User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT api.flightproxy.teams.microsoft.com
+
++ Request
+
+	> Headers
+		Host: api.flightproxy.teams.microsoft.com:443
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT officeclient.microsoft.com
+
++ Request
+
+	> Headers
+		Host: officeclient.microsoft.com
+		User-Agent: Microsoft Office Excel/16.43.1108 (Mac OS/10.15.7; Desktop; it-IT; NonAppStore; Apple/MacBookPro16,1)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Excel/16.43.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT officeclient.microsoft.com
+
++ Request
+
+	> Headers
+		Host: officeclient.microsoft.com
+		User-Agent: Microsoft Office Excel/16.43.1108 (Mac OS/10.15.7; Desktop; it-IT; NonAppStore; Apple/MacBookPro16,1)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT officeci-mauservice.azurewebsites.net
+
++ Request
+
+	> Headers
+		Host: officeci-mauservice.azurewebsites.net
+		User-Agent: Microsoft%20Update%20Assistant/4.29.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# GET ads.nexage.com
+
++ Request
+
+	> Headers
+		Host: ads.nexage.com
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate
+		Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:23:51 GMT
+		Content-Type: application/x-javascript;charset=utf-8
+		Content-Length: 48
+		Cache-Control: no-store
+		Cache-Control: no-cache
+		Cache-Control: must-revalidate
+		Cache-Control: max-age=0
+		Cache-Control: no-transform
+		Cache-Control: post-check=0, pre-check=0
+		Pragma: no-cache
+		Expires: Thu, 01 Jan 1970 00:00:00 GMT
+		Server: Jetty(9.4.7.v20170914)
+		Proxy-Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:13 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 60
+		x-tsa-request-body-time: 6
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:02 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# GET ads.nexage.com
+
++ Request
+
+	> Headers
+		Host: ads.nexage.com
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate
+		Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:24:02 GMT
+		Content-Type: application/x-javascript;charset=utf-8
+		Content-Length: 48
+		Cache-Control: no-store
+		Cache-Control: no-cache
+		Cache-Control: must-revalidate
+		Cache-Control: max-age=0
+		Cache-Control: no-transform
+		Cache-Control: post-check=0, pre-check=0
+		Pragma: no-cache
+		Expires: Thu, 01 Jan 1970 00:00:00 GMT
+		Server: Jetty(9.4.7.v20170914)
+		Proxy-Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# GET ads.nexage.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /adServe?dcn=2c9d2b50015f5f3a288d501aa26c0212&pos=js_banner_1&grp=&req(loc)=,&loctype=1&d(id24)=00000000-0000-0000-0000-000000000000&dnt=1&of=js&secure=1
+		:authority: ads.nexage.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: http://ads.mopub.com/
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:24:13 GMT
+		content-type: application/x-javascript;charset=utf-8
+		content-length: 48
+		server: nginx/1.16.1
+		cache-control: no-store
+		cache-control: no-cache
+		cache-control: must-revalidate
+		cache-control: max-age=0
+		cache-control: no-transform
+		cache-control: post-check=0, pre-check=0
+		pragma: no-cache
+		expires: Thu, 01 Jan 1970 00:00:00 GMT
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:23:51 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 5
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Microsoft%20Update%20Assistant/4.29.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT presence.teams.microsoft.com
+
++ Request
+
+	> Headers
+		Host: presence.teams.microsoft.com:443
+		Proxy-Connection: keep-alive
+		User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.3.00.28778 Chrome/80.0.3987.165 Electron/8.5.0 Safari/537.36
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT officeclient.microsoft.com
+
++ Request
+
+	> Headers
+		Host: officeclient.microsoft.com
+		User-Agent: Microsoft Office Excel/16.43.1108 (Mac OS/10.15.7; Desktop; it-IT; NonAppStore; Apple/MacBookPro16,1)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:17 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# GET js.w.inmobi.com
+
++ Request
+
+	> Headers
+		Host: js.w.inmobi.com
+		Origin: http://ads.mopub.com
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (204)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:24:03 GMT
+		Server: nginx
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# GET adplatform.vrtcal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /dexch.vap?aid=2557&clickurl=https%3A%2F%2Fads.mopub.com%2Fm%2Faclk%3Fcid%3D1b5e4632eac411e9861a0cc47a9467b0%26city%3D%26ckv%3D2%26country_code%3DIT%26cppck%3DF4A2A%26current_consent_status%3Ddnt%26dev%3DiPhone10%252C6%26exclude_adgroups%3D1b5e420eeac411e9861a0cc47a9467b0%252C8a63d7bc0b3111eaad230cc47acb3300%252Cc4175560e81e11e891cd0cc47a9cc1cc%252Cc418b48ce81e11e891cd0cc47a9cc1cc%252Cc4191594e81e11e891cd0cc47a9cc1cc%26gdpr_applies%3D1%26id%3D35983288f73941a9b33f2abe9739c5bc%26is_mraid%3D0%26os%3DiOS%26osv%3D14.2.0%26priority%3D11%26req%3D7bfce10b7daa492ab2d443a307eed222_00d72f8b000c5d74%26reqt%3D1605612252.0%26rev%3D0%26udid%3Dmopub%253A66E98CF5-EF0E-4726-BB43-A212D1B6F664%26video_type%3D%26r%3D&cb=1605612252923&auid=35983288f73941a9b33f2abe9739c5bc&plid=4b7abd0c8455421ab3dbee36d07ce7f6&agid=1b5e420eeac411e9861a0cc47a9467b0&crid=1b5e4632eac411e9861a0cc47a9467b0&dsturl=&adid=00000000-0000-0000-0000-000000000000&keywords=gmext&lat=&long=&dnt=1&bundle=341232718
+		:authority: adplatform.vrtcal.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: http://ads.mopub.com/
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:24:14 GMT
+		content-type: text/html
+		content-length: 136
+		server: Apache/2.4.7 (Ubuntu)
+		x-powered-by: PHP/5.5.9-1ubuntu4.26
+		set-cookie: vrtcaluid=V79.47.32.43-0.20888400+1605612254; expires=Wed, 17-Nov-2021 11:24:14 GMT; Max-Age=31536000; path=/; domain=.vrtcal.com
+		vary: Accept-Encoding
+		content-encoding: gzip
+		access-control-allow-origin: *
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:14 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 1
+
+
+
+===========================================================================
+
+
+# POST ads.mopub.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /m/attempt
+		:authority: ads.mopub.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		content-length: 638
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		cache-control: no-cache, no-store, max-age=0
+		content-encoding: gzip
+		content-length: 34
+		content-type: text/plain; charset=UTF-8
+		date: Tue, 17 Nov 2020 11:24:04 GMT
+		server: tsa_b
+		strict-transport-security: max-age=631138519
+		x-connection-hash: be8f6d956d7acd06f573389b844d4ea3
+		x-response-time: 4
+		x-tsa-request-body-time: 0
+
+
+
+===========================================================================
+
+
+# GET googleads.g.doubleclick.net
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /mads/gma?should_silence_audio=0&os_version=14.2.0&ms=JtL-eJdJGtFneFA6Vu1EPztOajuDzIgdPt_SsBxClnAZjmDi2nndlLailGbGQzx810Gk521mEHLSeIaHh63Pz9dU6atWk9R5Uug4cDcqamGDNAA6TesrUCCT3XsmEhwCNAHcv1eTS-cYlVfdm9LFMtlq9a9AYlfLVEF6PcBha9g7WPf61DhRGAP53K30qhuC507-a0KK4MlT_B8ZGGMNCjRjBckoISFSRlkK2hdyTrnpEZAdlnY42JS2QTR719f7TMzxWPphVrB5XHkXkLRzBh3XJwXYtm5JHBtieDOkZMfAmJ6RCFm4jq7QRFmyTgi428R0Fd-uBMNBmygkkNCDow&u_so=p&omid_v=1.3.3-google_20200427&platform=iPhone&hl=it&submodel=iPhone10%2C6&ios_app_volume=1&is_nonagon=true&request_agent=MoPub&binary_arch=arm64&is_pseud=false&eid=318492054%2C318492496&net=wi&u_sd=3&js=afma-sdk-i-v7.64.0&u_sso=any&fbs_aiid=89B1767D7DB84B919E6D63DDFDF4CEFF&is_other_audio_playing=0&u_h=812&fbs_aeid=930822240586296957&u_w=375&_c_csdk_npa_o=false&_c_req_npa=true&npa=1&guci=0.0.0.0.0.0.0.8&attmas=denied&sdk_apis=7&omid_p=Google%2Fafma-sdk-i-v7.64.0&_ad_b=320x50&format=320x50_mb&an=20.23.0.iphone.com.myfitnesspal.mfp&_package_name=com.myfitnesspal.mfp&app_name=20.23.0.iphone.com.myfitnesspal.mfp&u_audio=3&swipeable=1&dtxcb=12A7300&dtsdk=iphoneos14.0&m_os_tgt=13.0&_ats=Lmw&skan=cstr6suwn9%2C4FZDC2EVR5%2Cprcb7njmu6%2Ct38b2kh725%2C4FZDC2EVR5%2C9T245VHMPL%2Cludvb6z3bs%2Ct38b2kh725%2Ck674qkevps%2Cuw77j35x4d%2Chjevpa356n%2Cydx93a7ass%2Cppxm28t8ap%2Cc6k4g5qg8m%2CKLF5C3L5U5%2CWZMMZ9FP6W%2C424M5254LK%2Cy2ed4ez56y%2C2U9PT9HC89%2Cludvb6z3bs&adk=2046311979&preqs=2&seq_num=3&time_in_session=417850&preqs_in_session=6&output=html&region=mobile_app&u_tz=60&client_sdk=1&ex=1&client=ca-app-pub-8033683427063754&slotname=9552217400&_hl=it-it&gsb=wi&apm_app_id=1%3A513007887437%3Aios%3A1fbc62450360e0a31e6804&gmp_app_id=1%3A513007887437%3Aios%3A1fbc62450360e0a31e6804&apm_app_type=1&caps=interactiveVideo_inlineVideo_mraid1_mraid2_mraid3_th_autoplay_mediation_av_sdkAdmobApiForAds_di_transparentBackground_sdkVideo_aso_sfv_dinm_dim_nav_navc_ct_scroll_dinmo_gls_saiMacro_cpcbg_omidEnabled_gcache_aboi_xSeconds&swdr=false&cap=a&blockAutoClicks=true&includeDoritos=true&includeCookies=true&paidl=36&session_idl=20&rdidl=36&idtypel=4&blob=ABPQqLFhe3GFOo87mdD0BChoEDHB-qmO5YViY4hj-W-fnqSRQSGGepCtWOgAUtJvo67AGtIjdObAA_9htEQ06xJef_8tPFPNvOH-Z0QBUVR9vvIzLNhGPZytLojwOyMtg1ET0FZ7w2YIghAnuw1wpCSX95Woqzjr6wihglcxhUKSdpN-ewCMME5Rdz_hgKBOh-iiVtNrsTDyV8YXqjyik72CuTxepIuUD_svKumEqlWoe_41HAGGr9V23pN5rpKxFIDiG4-YrPANR8FuE7MQ-7x4VazVOdpfh7MBh_qMduHX6iwxaTkQ5UYVNgvBl9KbnFMKzkv6ND-ixPdnTS2mMCfwgfRPbfYgxvm-1cPxtTnKV4LfnOLXOcGuIRLfgG5KjMVTbvTRejAxWf5r1gQ&et=8&tcar=12&jsv=sdk_20190107_RC02-production-sdk_20201105_RC01&urll=2549
+		:authority: googleads.g.doubleclick.net
+		cookie: IDE=AHWqTUmvP4m_A6YhZcN7kjEdiaoUaXbIAn1BG0o30WVp90CCltqfmZFYtA686pZ3
+		accept: */*
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+		timing-allow-origin: *
+		cross-origin-resource-policy: cross-origin
+		x-afma-on-device-brand-safety-opted-out: true
+		x-afma-content-url-opted-out: true
+		x-afma-gws-query-id: 4LKzX9u6MuuQ7_UP4aebyAU
+		x-afma-content-vertical-opted-out: true
+		x-afma-use-https: false
+		content-type: text/html; charset=UTF-8
+		x-content-type-options: nosniff
+		date: Tue, 17 Nov 2020 11:24:16 GMT
+		server: cafe
+		content-length: 0
+		x-xss-protection: 0
+		alt-svc: h3-Q050="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-29="googleads.g.doubleclick.net:443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051="googleads.g.doubleclick.net:443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic="googleads.g.doubleclick.net:443"; ma=2592000; v="46,43",quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Excel/16.43.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# GET consent.api.ua.com
+
++ Request
+
+	> Headers
+		Host: consent.api.ua.com
+		Content-Type: application/json
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: IDM/2.1.0 MYFITNESSPAL/20.23.0.33252 iOS/14.2
+		Authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		Accept-Language: it-it
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		Access-Control-Allow-Origin: *
+		Content-Type: application/json
+		Date: Tue, 17 Nov 2020 11:23:49 GMT
+		UACF-Request-ID: ceeebcdb-cba1-42ef-8d0d-30ee7b676443
+		Content-Length: 95
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# GET graph.facebook.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /v6.0/186796388009496/mobile_sdk_gk?fields=gatekeepers&format=json&include_headers=false&platform=ios&sdk=ios&sdk_version=6.2.0
+		:authority: graph.facebook.com
+		accept: */*
+		content-type: application/json
+		user-agent: FBiOSSDK.6.2.0
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		etag: "36a5d8b59420c3bdc3de830fc645b8d4e6dd7110"
+		expires: Sat, 01 Jan 2000 00:00:00 GMT
+		x-fb-request-id: AQ2iZdJON2prflwrlNweDsf
+		strict-transport-security: max-age=15552000; preload
+		x-fb-trace-id: FgqiHbgmHS7
+		facebook-api-version: v6.0
+		content-type: application/json; charset=UTF-8
+		content-encoding: br
+		x-fb-rev: 1002990831
+		cache-control: private, no-cache, no-store, must-revalidate
+		vary: Accept-Encoding
+		pragma: no-cache
+		access-control-allow-origin: *
+		x-fb-debug: jnsQtdsDSlEgmcsHLImrmHVzK2ZFlrWwy125a+9nodo8ChdNLSTAsLai2xj2IClH0WUwL79u6p6YV5WcM9ddpw==
+		content-length: 387
+		date: Tue, 17 Nov 2020 11:23:48 GMT
+		alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+
+
+===========================================================================
+
+
+# GET api.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /v2/sync?sync_token=4soLnSko4pNoN7-9awPR-w
+		:authority: api.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-language: it-IT
+		accept-encoding: gzip, deflate, br
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: last_login_date=2020-11-13
+		cookie: p=r4ffhQT8m1vfICpsraXHTBFL
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/json; charset=UTF-8
+		content-length: 12
+		access-control-allow-origin: *
+		access-control-expose-headers: Link
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		next-sync-token: EnnFCA0NzJq2Hp698NXRIA
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		x-cache: Miss from cloudfront
+		via: 1.1 ed45efeb163f9ffaca42564e88ebc17e.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: VHnptpYC8y9ibzR7LL7bD6GwzteP9oEqJRihtWKVjv8RwnJ7MBpXFg==
+
+
+
+===========================================================================
+
+
+# POST api.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /v2/events
+		:authority: api.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-encoding: gzip, deflate, br
+		accept-language: it-IT
+		content-length: 1527
+		user-agent: MyFitnessPal/20.23.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: last_login_date=2020-11-13
+		cookie: p=r4ffhQT8m1vfICpsraXHTBFL
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (202)
+
+	> Headers
+		:status: 202
+		content-length: 0
+		access-control-allow-origin: *
+		access-control-expose-headers: Link
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		x-cache: Miss from cloudfront
+		via: 1.1 69f8ad486723f285e484ce57919faf2e.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: h8fszAYlc6Vbw830QLnLXhXD0sgFOB1K0j-cfjVvGkzCC47BX6G2mg==
+
+
+
+===========================================================================
+
+
+# GET identity.api.ua.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /users/6520465348708467447?fetch_emails=true
+		:authority: identity.api.ua.com
+		accept: */*
+		content-type: application/json
+		accept-encoding: gzip, deflate, br
+		user-agent: IDM/7.0.2 MYFITNESSPAL/20.23.0.33252 iOS/14.2
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/json;charset=UTF-8
+		content-encoding: gzip
+		date: Tue, 17 Nov 2020 11:23:48 GMT
+		uacf-request-id: 11a3117d-7ead-46e4-bcaf-73661b0a47e6
+		vary: Accept-Encoding
+		x-content-type-options: nosniff
+		x-frame-options: DENY
+		x-cache: Miss from cloudfront
+		via: 1.1 bcb4a9bca5a3ff00d0520d8a78f560dc.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: cST2KNUhKBQdQaKAQX0fPtstTvPTwNVwtXnx2PqurhIgHPmElgYh7Q==
+
+
+
+===========================================================================
+
+
+# CONNECT p55-buy.itunes.apple.com
+
++ Request
+
+	> Headers
+		Host: p55-buy.itunes.apple.com
+		User-Agent: appstored/1 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# GET consent.api.ua.com
+
++ Request
+
+	> Headers
+		Host: consent.api.ua.com
+		Content-Type: application/json
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: IDM/2.1.0 MYFITNESSPAL/20.23.0.33252 iOS/14.2
+		Authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		Accept-Language: it-it
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		Access-Control-Allow-Origin: *
+		Content-Encoding: gzip
+		Content-Type: application/json
+		Date: Tue, 17 Nov 2020 11:23:49 GMT
+		UACF-Request-ID: 1d55b3e0-23a7-4095-b8cb-2c3cd59a60f9
+		Vary: Accept-Encoding
+		Content-Length: 797
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# GET identity.api.ua.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /users/6520465348708467447?fetch_emails=true
+		:authority: identity.api.ua.com
+		accept: */*
+		content-type: application/json
+		accept-encoding: gzip, deflate, br
+		user-agent: IDM/7.0.2 MYFITNESSPAL/20.23.0.33252 iOS/14.2
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/json;charset=UTF-8
+		content-encoding: gzip
+		date: Tue, 17 Nov 2020 11:23:48 GMT
+		uacf-request-id: 01b95a27-445e-4ef1-8b3d-0a5aca87d89f
+		vary: Accept-Encoding
+		x-content-type-options: nosniff
+		x-frame-options: DENY
+		x-cache: Miss from cloudfront
+		via: 1.1 bcb4a9bca5a3ff00d0520d8a78f560dc.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: ald9l_dAPVaqSkMzhsJL3jfft-CLyxiZvWihIPeoXJAohhb6qDnhvg==
+
+
+
+===========================================================================
+
+
+# CONNECT westeurope-prod-4.notifications.teams.microsoft.com
+
++ Request
+
+	> Headers
+		Host: westeurope-prod-4.notifications.teams.microsoft.com:443
+		Proxy-Connection: keep-alive
+		User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.3.00.28778 Chrome/80.0.3987.165 Electron/8.5.0 Safari/537.36
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# GET mobilesync.api.ua.com
+
++ Request
+
+	> Headers
+		Host: mobilesync.api.ua.com
+		Content-Type: application/json
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: IDM/4.3.0 MYFITNESSPAL/20.23.0.33252 iOS/14.2
+		Authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		Accept-Language: it-it
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		Access-Control-Allow-Origin: *
+		Content-Type: application/json; charset=UTF-8
+		Date: Tue, 17 Nov 2020 11:23:49 GMT
+		next-sync-token: NwDRUBig8Rf34S9JRPHcazN6FuCqVIN7-zuYCWDPi-Rsx7K46ggsMlVGwji0GyEKUQy8MiFRSQJXbXlCxcq19AFTPxOEtUplYSyV5KwEQ6g
+		UACF-Request-ID: 0091193c-8efd-42aa-b6eb-1f7135e92015
+		Content-Length: 12
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# POST inbox.api.ua.com
+
++ Request
+
+	> Headers
+		Host: inbox.api.ua.com
+		Content-Type: application/json
+		Accept-Encoding: gzip, deflate, br
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: IDM/3.3.0 MYFITNESSPAL/20.23.0.33252 iOS/14.2
+		Authorization: Bearer Mjg4ODc5NDUtN2E5Ny00ZWJjLWE1MTItZTUxNGY1ZmQwNmIzOmN3aWE1b25xYnBhaWFneHA2a3U0bWo1aGptbHg2cTU2Zng3amlnZjd2ZnNodG0ybG4zc2E=
+		Content-Length: 2990
+		Accept-Language: it-it
+
+
+
++ Response (202)
+
+	> Headers
+		Access-Control-Allow-Origin: *
+		Date: Tue, 17 Nov 2020 11:23:49 GMT
+		UACF-Request-ID: 91ea0a9d-cfdb-4bae-a84d-8e71a41ff0cd
+		Content-Length: 0
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# GET googleads.g.doubleclick.net
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /getconfig/pubsetting?app_name=com.myfitnesspal.mfp&client=ca-app-pub-8033683427063754&admob_appcc=7495988602
+		:authority: googleads.g.doubleclick.net
+		cookie: IDE=AHWqTUmvP4m_A6YhZcN7kjEdiaoUaXbIAn1BG0o30WVp90CCltqfmZFYtA686pZ3
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: https://googleads.g.doubleclick.net/mads/static/sdk/native/sdk-core-v40.html?sdk=afma-sdk-i-v7.64.0
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+		timing-allow-origin: *
+		cross-origin-resource-policy: cross-origin
+		content-type: application/json; charset=UTF-8
+		x-content-type-options: nosniff
+		content-disposition: attachment; filename="f.txt"
+		content-encoding: gzip
+		date: Tue, 17 Nov 2020 11:23:48 GMT
+		server: cafe
+		cache-control: private
+		content-length: 103
+		x-xss-protection: 0
+		alt-svc: h3-Q050="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-29="googleads.g.doubleclick.net:443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051="googleads.g.doubleclick.net:443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic="googleads.g.doubleclick.net:443"; ma=2592000; v="46,43",quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+
+# GET prod-configuration.api.ua.com
+
++ Request
+
+	> Headers
+		Host: prod-configuration.api.ua.com
+		Content-Type: application/json
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: IDM/2.2.0 MYFITNESSPAL/20.23.0.33252 iOS/14.2
+		Authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		Accept-Language: it-it
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		Access-Control-Allow-Origin: *
+		Age: 31672
+		Content-Encoding: gzip
+		Content-Type: text/plain
+		Date: Tue, 17 Nov 2020 11:23:49 GMT
+		ETag: W/"fca6c3503f1765968173b72fef89b275"
+		Last-Modified: Thu, 30 Jan 2020 18:17:01 GMT
+		UACF-Request-ID: c32c1fc4-7eca-4b6e-8dd2-005e709e0f59
+		Vary: Accept-Encoding
+		Via: 1.1 c396de17c1b5d58233088e40dd170cf5.cloudfront.net (CloudFront)
+		X-Amz-Cf-Id: 8xDUvPWqQlIZylXuAvI0QXx5tKXXk2neNnlMQMycAVe-AogochyWjA==
+		X-Amz-Cf-Pop: IAD66-C1
+		x-amz-version-id: ApgNkHMAhx8.deei6Ys0EGtZFVUuqPLM
+		X-Cache: Hit from cloudfront
+		Content-Length: 802
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+
+# POST firebaselogging-pa.googleapis.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /v1/firelog/legacy/batchlog
+		:authority: firebaselogging-pa.googleapis.com
+		accept: */*
+		content-type: application/x-protobuf
+		accept-encoding: gzip
+		content-length: 368
+		content-encoding: gzip
+		accept-language: it-it
+		user-agent: datatransport/7.3.0 fllsupport/7.3.0 apple/
+		x-goog-api-key: AIzaSyB4G40IhwotnuD26vAV-0PAxOVr5zn1BCc
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/x-protobuf
+		content-disposition: attachment
+		vary: Origin
+		vary: X-Origin
+		vary: Referer
+		content-encoding: gzip
+		date: Tue, 17 Nov 2020 11:23:48 GMT
+		server: ESF
+		cache-control: private
+		content-length: 30
+		x-xss-protection: 0
+		x-frame-options: SAMEORIGIN
+		x-content-type-options: nosniff
+		alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+
+# POST api.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /v2/events
+		:authority: api.myfitnesspal.com
+		content-type: application/json
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-encoding: gzip, deflate, br
+		accept-language: it-IT
+		content-length: 1055
+		user-agent: MyFitnessPal/20.23.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: last_login_date=2020-11-13
+		cookie: p=r4ffhQT8m1vfICpsraXHTBFL
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (202)
+
+	> Headers
+		:status: 202
+		content-length: 0
+		access-control-allow-origin: *
+		access-control-expose-headers: Link
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		x-cache: Miss from cloudfront
+		via: 1.1 44b1d22f682d32d0090eb52e3626b174.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: AXoxHhS-iP2IfK1pxbYBROySWLXtdS6lRjML-r1iuVvAydkEZhfuBQ==
+
+
+
+===========================================================================
+
+
+# POST aax-eu.amazon-adsystem.com
+
++ Request
+
+	> Headers
+		Host: aax-eu.amazon-adsystem.com
+		Content-Type: application/x-www-form-urlencoded
+		Connection: keep-alive
+		Accept: application/json
+		User-Agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		Accept-Language: it-it
+		Content-Length: 630
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		Server: Server
+		Date: Tue, 17 Nov 2020 11:23:50 GMT
+		Content-Type: text/plain;charset=ISO-8859-1
+		Content-Length: 26
+		Cache-Control: no-cache, must-revalidate
+		Expires: Thu, 01 Jan 1970 00:00:00 GMT
+		Vary: User-Agent
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# POST aax-eu.amazon-adsystem.com
+
++ Request
+
+	> Headers
+		Host: aax-eu.amazon-adsystem.com
+		Content-Type: application/json
+		Connection: keep-alive
+		Accept: application/json
+		User-Agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		Content-Length: 983
+		Accept-Language: it-it
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		Server: Server
+		Date: Tue, 17 Nov 2020 11:23:50 GMT
+		Content-Type: text/javascript;charset=UTF-8
+		Content-Length: 174
+		Vary: Accept-Encoding,User-Agent
+		Content-Encoding: gzip
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+
+# POST sync.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /iphone_api/action_request?lang=it-IT
+		:authority: sync.myfitnesspal.com
+		content-type: multipart/form-data; boundary=kguaocudecaouhrkjchrkueaoureakgcceagducegaduahbkjqtjgecuaoehuaebkjahjbeobjaeco
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-language: it-IT
+		accept-encoding: gzip, deflate, br
+		content-length: 514
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/octet-stream
+		content-length: 116
+		cache-control: no-cache, no-store, proxy-revalidate
+		content-disposition: inline
+		content-transfer-encoding: binary
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		etag: W/"a4bb92058aee1951e4962bd6bf1a70d6"
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		pragma: no-cache
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		set-cookie: _mfp_session=ZWJ6YW5yZjUyaUhpQzBPd3VRNnh1WDIrK3JqK2R4N2tvVG4xOTdpWStCQWlYd245WituajAzYzhQTlpsSEVBQU1kZkdzN29QRDYxZEV3cG9aWHFzS3RlQjZDQkE2RnErNjVkcXNJcTNScFcvREUvNmxYZGZhaWFMTEppRUZubEYtLVp0M3BtU1h2MTQ0dTRSSDdCVzlDR2c9PQ%3D%3D--a81d9e7f4590a68de26cf646b566071df9a8809b; path=/; secure; HttpOnly
+		status: 200 OK
+		strict-transport-security: max-age=631138519
+		x-download-options: noopen
+		x-frame-options: SAMEORIGIN
+		x-permitted-cross-domain-policies: none
+		x-request-id: 7e4e6cfda57de2e4ab60d368134a44ba
+		x-runtime: 0.045106
+		x-xss-protection: 1; mode=block
+		x-cache: Miss from cloudfront
+		via: 1.1 b8f7ec2a292687370773a41cd1bdc97a.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: poNgtb8eR5_OnwDvacNIusAYtAgwcQznAAS0QwbKg03nPy3DVcKFlQ==
+
+
+
+===========================================================================
+
+
+# GET c.amazon-adsystem.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /aps_mobile_client_config.json
+		:authority: c.amazon-adsystem.com
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		accept: application/json
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/json
+		content-length: 263
+		date: Mon, 16 Nov 2020 20:04:27 GMT
+		last-modified: Wed, 07 Oct 2020 18:53:34 GMT
+		etag: "e8ea2b945201c6f405689049d2c06075"
+		accept-ranges: bytes
+		server: AmazonS3
+		x-cache: Hit from cloudfront
+		via: 1.1 8b8626ca944cc316c9f369d8a33098d6.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: WAgENBCZr_VKBn_zBXAa6Oz7_6tHNk8DsZqRXX_hZ5pMjEDHh-Ylgw==
+		age: 55162
+
+
+
+===========================================================================
+
+
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+

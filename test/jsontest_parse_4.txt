@@ -1,0 +1,41 @@
+# GET prod-configuration.api.ua.com
+
++ Request
+
+	> Headers
+		Host: prod-configuration.api.ua.com
+		Content-Type: application/json
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: IDM/2.2.0 MYFITNESSPAL/20.23.0.33252 iOS/14.2
+		Authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		Accept-Language: it-it
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		Access-Control-Allow-Origin: *
+		Age: 31672
+		Content-Encoding: gzip
+		Content-Type: text/plain
+		Date: Tue, 17 Nov 2020 11:23:49 GMT
+		ETag: W/"fca6c3503f1765968173b72fef89b275"
+		Last-Modified: Thu, 30 Jan 2020 18:17:01 GMT
+		UACF-Request-ID: c32c1fc4-7eca-4b6e-8dd2-005e709e0f59
+		Vary: Accept-Encoding
+		Via: 1.1 c396de17c1b5d58233088e40dd170cf5.cloudfront.net (CloudFront)
+		X-Amz-Cf-Id: 8xDUvPWqQlIZylXuAvI0QXx5tKXXk2neNnlMQMycAVe-AogochyWjA==
+		X-Amz-Cf-Pop: IAD66-C1
+		x-amz-version-id: ApgNkHMAhx8.deei6Ys0EGtZFVUuqPLM
+		X-Cache: Hit from cloudfront
+		Content-Length: 802
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+

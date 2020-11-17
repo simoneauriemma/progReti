@@ -1,0 +1,21 @@
+# CONNECT officeclient.microsoft.com
+
++ Request
+
+	> Headers
+		Host: officeclient.microsoft.com
+		User-Agent: Microsoft Office Excel/16.43.1108 (Mac OS/10.15.7; Desktop; it-IT; NonAppStore; Apple/MacBookPro16,1)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+

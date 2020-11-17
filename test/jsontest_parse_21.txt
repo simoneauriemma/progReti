@@ -1,0 +1,51 @@
+# GET pubads.g.doubleclick.net
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /gampad/ads?should_silence_audio=0&os_version=14.2.0&ms=xm4x0hhksrOxReIknSxT2qKED-mL1HWEM08XGr0R54e5qpUgEsXWvV1nh5atpMVvqSeofM_8ORMoola3N71djlsUZyLFufN_-dxidIGce6J8itfmWJTcmSFAh2LCcQuXodOpYP5HyyoqQ0FwvBaZNaDcBYZUlV5X5W-5zjH3_ferFdDIAy16DNELWhAOgcMPFWGzM9_oUDslIze9ZVF_vHOvKvJAe44s8bRrTHd0bIr73I4ghOnQYL4EgZVOOoJ9DwllEuvI_MyYkFzb5OyycV-BdVvaC1AjS3QbB5ALrTXoigiFLmMMrKiZNISbvnQxrtKSWFnMU2ovDYY2jy2CwA&u_so=p&omid_v=1.3.3-google_20200427&hl=it&submodel=iPhone10%2C6&ios_app_volume=1&is_nonagon=true&binary_arch=arm64&is_pseud=false&eid=318492054%2C318492496&net=wi&u_sd=3&js=afma-sdk-i-v7.64.0&u_sso=any&fbs_aiid=89B1767D7DB84B919E6D63DDFDF4CEFF&is_other_audio_playing=0&u_h=812&fbs_aeid=930822240586296956&u_w=375&_c_csdk_npa_o=false&_c_req_npa=true&npa=1&guci=0.0.0.0.0.0.0.8&attmas=denied&sdk_apis=7&omid_p=Google%2Fafma-sdk-i-v7.64.0&_ad_b=320x50&format=320x50_as&an=20.23.0.iphone.com.myfitnesspal.mfp&_package_name=com.myfitnesspal.mfp&u_audio=3&swipeable=1&dtxcb=12A7300&dtsdk=iphoneos14.0&m_os_tgt=13.0&_ats=Lmw&skan=cstr6suwn9%2C4FZDC2EVR5%2Cprcb7njmu6%2Ct38b2kh725%2C4FZDC2EVR5%2C9T245VHMPL%2Cludvb6z3bs%2Ct38b2kh725%2Ck674qkevps%2Cuw77j35x4d%2Chjevpa356n%2Cydx93a7ass%2Cppxm28t8ap%2Cc6k4g5qg8m%2CKLF5C3L5U5%2CWZMMZ9FP6W%2C424M5254LK%2Cy2ed4ez56y%2C2U9PT9HC89%2Cludvb6z3bs&adk=2607434729&preqs=1&seq_num=2&time_in_session=390670&preqs_in_session=5&output=html&region=mobile_app&u_tz=60&url=20.23.0.iphone.com.myfitnesspal.mfp.adsenseformobileapps.com&gdfp_req=1&markup=html&m_ast=afmajs&impl=ifr&iu=%2F17729925%2FUACF_M%2FMFP%2FDiary&sz=320x50&correlator=75069773918791&_hl=it-it&gsb=wi&apm_app_id=1%3A513007887437%3Aios%3A1fbc62450360e0a31e6804&gmp_app_id=1%3A513007887437%3Aios%3A1fbc62450360e0a31e6804&apm_app_type=1&caps=interactiveVideo_inlineVideo_mraid1_mraid2_mraid3_th_autoplay_mediation_av_sdkAdmobApiForAds_di_transparentBackground_sdkVideo_aso_sfv_dinm_dim_nav_navc_ct_scroll_dinmo_gls_saiMacro_cpcbg_omidEnabled_gcache_aboi_xSeconds&swdr=false&cap=a&blockAutoClicks=true&cust_params=og_hb_ios%3Don%26oex%3Dbvo%26dkw%3Dgep%26rollout%3Dpfa%26user_id%3D102546566729005%26apmt%3Doff%26release_version%3D20.23.0%26did%3D00000000-0000-0000-0000-000000000000%26ladtr%3Dy%26sw%3Dw%26kuid%3D00000000-0000-0000-0000-000000000000&includeDoritos=true&includeCookies=true&paidl=36&rdidl=36&idtypel=4&blob=ABPQqLGUK1SZAWg1d6CYWU_ifFySn7e_egqvCG4MQBN1BxUwiObHXYbSEa4aHmzF99ZAARNKsnlCAtJffzJLRRoRqnDEB2ei3DLUdjRX0wqp0f9UUR3vjLEhBIawft2PX5ICraJclr2p4PJgq5iG7DyYuJfUQ-eXuBnf1fWvCpt54op4zAB5H8O5nhIaOS6gFukMa_pOuQlX67bjoY5BsamkFwu6dHYCQDXBR_c6ER-eqWVKZdx6fjELAqig6KrTgsZnMHXj42E9BEmjlksn3ky-9LcycdhEzuo_BBJ3lbRJb_I_XgOhqZS2yma0tfW6qupNzgHS_33ffZZCP3Q0DdYtahl9RujDnOfEQ9fk&et=3&tcar=5&jsv=sdk_20190107_RC02-production-sdk_20201105_RC01&urll=2767
+		:authority: pubads.g.doubleclick.net
+		cookie: IDE=AHWqTUmvP4m_A6YhZcN7kjEdiaoUaXbIAn1BG0o30WVp90CCltqfmZFYtA686pZ3
+		accept: */*
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+		timing-allow-origin: *
+		cross-origin-resource-policy: cross-origin
+		x-afma-content-vertical-opted-out: true
+		x-afma-ad-size: 320x50
+		x-afma-content-url-opted-out: true
+		x-afma-use-https: false
+		x-afma-on-device-brand-safety-opted-out: true
+		x-afma-ad-slot-size: 320x50
+		x-afma-gws-query-id: xbKzX6zhILKrrAShtIKQDQ
+		x-afma-auto-collect-location: true
+		cache-control: no-cache, must-revalidate
+		content-type: application/json; charset=UTF-8
+		x-afma-mediation: true
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		pragma: no-cache
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		x-content-type-options: nosniff
+		content-disposition: attachment; filename="f.txt"
+		content-encoding: br
+		server: cafe
+		content-length: 1126
+		x-xss-protection: 0
+		alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+

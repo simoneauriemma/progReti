@@ -1,0 +1,39 @@
+# POST identity.api.ua.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /oauth/token?grant_type=client_credentials&client_id=28887945-7a97-4ebc-a512-e514f5fd06b3&client_secret=cwia5onqbpaiagxp6ku4mj5hjmlx6q56fx7jigf7vfshtm2ln3sa
+		:authority: identity.api.ua.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: IDM/7.0.2 MYFITNESSPAL/20.23.0.33252 iOS/14.2
+		accept-language: it-it
+		content-length: 0
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/json;charset=UTF-8
+		content-length: 243
+		cache-control: no-store
+		date: Tue, 17 Nov 2020 11:23:48 GMT
+		pragma: no-cache
+		uacf-request-id: 08b80cb0-0edd-444b-beb4-729c881fd790
+		x-content-type-options: nosniff
+		x-frame-options: DENY
+		x-cache: Miss from cloudfront
+		via: 1.1 bfac9e4c7bc65408e96753cd7c5717e5.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: uEYdaoIoaP1espySz_ZpLVdx85LYlt8BffokeFnR5L_rbw3TJmbh1g==
+
+
+
+===========================================================================
+
+

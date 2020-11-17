@@ -1,0 +1,44 @@
+# GET graph.facebook.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /v6.0/186796388009496?fields=app_events_feature_bitmask%2Cname%2Cdefault_share_mode%2Cios_dialog_configs%2Cios_sdk_dialog_flows.os_version%2814.2.0%29%2Cios_sdk_error_categories%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_enabled%2Cgdpv4_nux_content%2Capp_events_session_timeout%2Clogging_token%2Crestrictive_data_filter_params%2Caam_rules%2Csuggested_events_setting%2Cauto_event_mapping_ios&format=json&include_headers=false&sdk=ios
+		:authority: graph.facebook.com
+		accept: */*
+		content-type: application/json
+		user-agent: FBiOSSDK.6.2.0
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		etag: "222866e1157a56a0c37c2c9eb4174e0ab3b7b9b2"
+		expires: Sat, 01 Jan 2000 00:00:00 GMT
+		x-fb-request-id: AvRciqNbQCKHJnlA5-sUS5-
+		strict-transport-security: max-age=15552000; preload
+		x-fb-trace-id: CUm2iZsp8vy
+		facebook-api-version: v6.0
+		content-type: application/json; charset=UTF-8
+		content-encoding: br
+		x-fb-rev: 1002990831
+		cache-control: private, no-cache, no-store, must-revalidate
+		vary: Accept-Encoding
+		pragma: no-cache
+		access-control-allow-origin: *
+		x-fb-debug: 9zKxQPE2PuuoY2DaPbpncgb/2fDfX3na3fFusnsTpLdmNVjd7b6xMD2v2jDJkn+fyUSWJtKdFmrSFsRYZlQBcQ==
+		content-length: 531
+		date: Tue, 17 Nov 2020 11:23:48 GMT
+		alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+
+
+===========================================================================
+
+

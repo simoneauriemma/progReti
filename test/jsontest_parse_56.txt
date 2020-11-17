@@ -1,0 +1,36 @@
+# GET adplatform.vrtcal.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /dexch.vap?aid=2492&clickurl=https%3A%2F%2Fads.mopub.com%2Fm%2Faclk%3Fcid%3D1b5e7742eac411e9861a0cc47a9467b0%26city%3D%26ckv%3D2%26country_code%3DIT%26cppck%3DCF57E%26current_consent_status%3Ddnt%26dev%3DiPhone10%252C6%26exclude_adgroups%3D0fe2d76470fd11e98411506b4b15f4e0%252C1b5e7440eac411e9861a0cc47a9467b0%252Cf3dca5500bf111ea9f5a98039b92cd3e%26gdpr_applies%3D1%26id%3D70a58139e12b4f698b140bd256d5c0a3%26is_mraid%3D0%26os%3DiOS%26osv%3D14.2.0%26priority%3D11%26req%3Da08bc51250f144bea9ff5a3d5572e3d2_00f351110087dc61%26reqt%3D1605612232.0%26rev%3D0%26udid%3Dmopub%253A66E98CF5-EF0E-4726-BB43-A212D1B6F664%26video_type%3D%26r%3D&cb=1605612232792&auid=70a58139e12b4f698b140bd256d5c0a3&plid=4b7abd0c8455421ab3dbee36d07ce7f6&agid=1b5e7440eac411e9861a0cc47a9467b0&crid=1b5e7742eac411e9861a0cc47a9467b0&dsturl=&adid=00000000-0000-0000-0000-000000000000&keywords=gmext&lat=&long=&dnt=1&bundle=341232718
+		:authority: adplatform.vrtcal.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: http://ads.mopub.com/
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:23:54 GMT
+		content-type: text/html
+		content-length: 136
+		server: Apache/2.4.7 (Ubuntu)
+		x-powered-by: PHP/5.5.9-1ubuntu4.26
+		set-cookie: vrtcaluid=V79.47.32.43-0.45894600+1605612234; expires=Wed, 17-Nov-2021 11:23:54 GMT; Max-Age=31536000; path=/; domain=.vrtcal.com
+		vary: Accept-Encoding
+		content-encoding: gzip
+		access-control-allow-origin: *
+
+
+
+===========================================================================
+
+

@@ -31,7 +31,7 @@ def parse_chlsj(filename, data):
         out_file.write('\n')
 
     # request body
-    out_file.write('===========================================================================')
+
     out_file.write('\n\n\n')
 
     # Response
@@ -51,6 +51,9 @@ def parse_chlsj(filename, data):
 
     out_file.write('\n\n\n')
 
+    out_file.write('===========================================================================')
+    out_file.write('\n\n\n')
+
     """
     body_content_json = response['body']['text']
     out_file.write('\t' + '> Body' + '\n')
@@ -64,8 +67,6 @@ def parse_chlsj(filename, data):
     """
 
     out_file.close()
-    print('file output: '+filename)
-
 
 
 def main(args):
