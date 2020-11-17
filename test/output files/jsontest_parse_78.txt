@@ -1,0 +1,34 @@
+# GET ads.nexage.com
+
++ Request
+
+	> Headers
+		Host: ads.nexage.com
+		Accept: */*
+		User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		Accept-Language: it-it
+		Referer: http://ads.mopub.com/
+		Accept-Encoding: gzip, deflate
+		Connection: keep-alive
+===========================================================================
+
+
++ Response (200)
+
+	> Headers
+		Date: Tue, 17 Nov 2020 11:24:14 GMT
+		Content-Type: application/x-javascript;charset=utf-8
+		Content-Length: 48
+		Cache-Control: no-store
+		Cache-Control: no-cache
+		Cache-Control: must-revalidate
+		Cache-Control: max-age=0
+		Cache-Control: no-transform
+		Cache-Control: post-check=0, pre-check=0
+		Pragma: no-cache
+		Expires: Thu, 01 Jan 1970 00:00:00 GMT
+		Server: Jetty(9.4.7.v20170914)
+		Proxy-Connection: keep-alive
+
+
+

@@ -1,0 +1,30 @@
+# POST aax-eu.amazon-adsystem.com
+
++ Request
+
+	> Headers
+		Host: aax-eu.amazon-adsystem.com
+		Content-Type: application/x-www-form-urlencoded
+		Connection: keep-alive
+		Accept: application/json
+		User-Agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		Accept-Language: it-it
+		Content-Length: 630
+		Accept-Encoding: gzip, deflate, br
+===========================================================================
+
+
++ Response (200)
+
+	> Headers
+		Server: Server
+		Date: Tue, 17 Nov 2020 11:23:50 GMT
+		Content-Type: text/plain;charset=ISO-8859-1
+		Content-Length: 26
+		Cache-Control: no-cache, must-revalidate
+		Expires: Thu, 01 Jan 1970 00:00:00 GMT
+		Vary: User-Agent
+		Connection: keep-alive
+
+
+

@@ -1,0 +1,18 @@
+# CONNECT xp.apple.com
+
++ Request
+
+	> Headers
+		Host: xp.apple.com
+		User-Agent: Music/1.0.6 (Macintosh; OS X 10.15.7; 19H15) AppleWebKit/5609.4.1 CommerceKit/709.6.5 build/10
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+===========================================================================
+
+
++ Response (200)
+
+	> Headers
+
+
+

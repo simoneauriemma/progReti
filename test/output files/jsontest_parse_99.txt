@@ -1,0 +1,41 @@
+# POST firebaselogging-pa.googleapis.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /v1/firelog/legacy/batchlog
+		:authority: firebaselogging-pa.googleapis.com
+		accept: */*
+		content-type: application/x-protobuf
+		accept-encoding: gzip
+		content-length: 370
+		content-encoding: gzip
+		accept-language: it-it
+		user-agent: datatransport/7.3.0 fllsupport/7.3.0 apple/
+		x-goog-api-key: AIzaSyB4G40IhwotnuD26vAV-0PAxOVr5zn1BCc
+===========================================================================
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/x-protobuf
+		content-disposition: attachment
+		vary: Origin
+		vary: X-Origin
+		vary: Referer
+		content-encoding: gzip
+		date: Tue, 17 Nov 2020 11:24:47 GMT
+		server: ESF
+		cache-control: private
+		content-length: 30
+		x-xss-protection: 0
+		x-frame-options: SAMEORIGIN
+		x-content-type-options: nosniff
+		alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+

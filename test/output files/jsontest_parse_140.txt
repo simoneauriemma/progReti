@@ -1,0 +1,18 @@
+# CONNECT gateway.icloud.com
+
++ Request
+
+	> Headers
+		Host: gateway.icloud.com
+		User-Agent: cloudd/962 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+===========================================================================
+
+
++ Response (200)
+
+	> Headers
+
+
+

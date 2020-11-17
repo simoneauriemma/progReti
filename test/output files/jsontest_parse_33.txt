@@ -1,0 +1,31 @@
+# POST api2.amplitude.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /
+		:authority: api2.amplitude.com
+		accept: */*
+		content-type: application/x-www-form-urlencoded
+		accept-encoding: gzip, deflate, br
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		content-length: 63185
+		accept-language: it-it
+===========================================================================
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:23:50 GMT
+		content-type: text/html;charset=utf-8
+		content-length: 7
+		access-control-allow-origin: *
+		access-control-allow-methods: GET, POST
+		strict-transport-security: max-age=15768000
+
+
+

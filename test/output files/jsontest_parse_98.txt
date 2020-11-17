@@ -1,0 +1,38 @@
+# GET googleads.g.doubleclick.net
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /pagead/conversion/?ai=C7lBZxbKzX-HMB9uV7_UPjfm5mAS_pIS8XJ63maOFCcCNtwEQASAAYP2CgIDgEoIBHmNhLW1iLWFwcC1wdWItOTM4MzA4MDI4NTE2NTY2NcgBCeACAKgDAaoEuQJP0I9dmgM3mMGXCEnhI6AVppJU_m4DJmST3JCT_fYNharZN1U-pn-4KBdqb1MAJawE967gVe7TE8g7lDCceW2CNUu4SkdDMy3sIS_mTBlAsOSXe2XzsmBgvpsyXMqX7j-K2JQcX7Qvh_h1MtK7unScS4R4Rm7JBGRyd3hQYKTt0FrztWBP8FALTRNJEjDl_9K4_XHqGsiEBquK6NbW49y-ejxQyyq4lYKkTdOScPkLwanaYOJq7QDV_NTFLIbXvExp02owGlvkCQW-NWlrp7l6AJpaOF223RMkhP-ANFbik-aDU0-Hwt2TXHdBdY1HFd03uApx1U9gBDoxkc0qmc3TnVPQEDaDWCKhRi42mbBt40X1IPbWfkdFAAMyWHYxaiGhc5TMYaZ5z3YBVPSU2XGVG-5-gA5n4VW14AQBoAYhwAYLqAemvhuoB_DZG6gH8tkbqAfs1RuoB5bYG6gH5OAbqAebl7EC2AcA0ggHCIThgHAQAYAKA_oLAggAgAwBshcaChgIARIUcHViLTkzODMwODAyODUxNjU2NjU&sigh=MfXH7yARLsk&cid=CAQSGwCNIrLM9Ll3YJ7kZXz3J5Wl-PsWD6TsBrPMwA&label=drx_mediation_request_fill_result&mediation_fill_status=310653639582.6.3444._325944683448.2.20090._314714887345.2.20091.
+		:authority: googleads.g.doubleclick.net
+		cookie: IDE=AHWqTUmvP4m_A6YhZcN7kjEdiaoUaXbIAn1BG0o30WVp90CCltqfmZFYtA686pZ3
+		accept: */*
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+===========================================================================
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+		timing-allow-origin: *
+		cross-origin-resource-policy: cross-origin
+		date: Tue, 17 Nov 2020 11:24:32 GMT
+		pragma: no-cache
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		cache-control: no-cache, must-revalidate
+		content-type: image/gif
+		access-control-allow-origin: *
+		x-content-type-options: nosniff
+		server: cafe
+		content-length: 42
+		x-xss-protection: 0
+		alt-svc: h3-Q050="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-29="googleads.g.doubleclick.net:443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051="googleads.g.doubleclick.net:443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic="googleads.g.doubleclick.net:443"; ma=2592000; v="46,43",quic=":443"; ma=2592000; v="46,43"
+
+
+

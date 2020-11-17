@@ -1,0 +1,35 @@
+# GET pubads.g.doubleclick.net
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /pagead/adview?ai=CiGxWxbKzX6yhIpGhrASd1J6QAcOgjLxc04_507MHwI23ARABIABg_YKAgOASggEeY2EtbWItYXBwLXB1Yi05MzgzMDgwMjg1MTY1NjY1yAEJ4AIAqAMBqgSoAk_QtE8SDEriyfBPS4Uyeqy8L1legisNrs7PYhndU_c79mu7AK3D9_kXWdgac-Dbudg1gfF3kqw-6Q5kRQeY07TxdRNPo6iyT9QgrogvXGFT68mkz0hoqed5MDKJRJ43HF-YQM4UTDvTydHceN1VPgkVrf9uyHtT0cFmOXQcDf64Sw3_12iWaxhsOJQYQymW5dlkSEY5RgxeDwwF3KNNm53TkcR-NoSUESymm_IVT4UxbPzHmiFK7rk2y3PB1OZBJyCw3fxezt_knobwERwUUt_Lxr7c2m19C5jzBzGJMfEMscoD_MRx1nqp8NX5QhZFfoGeNhO1QVmU9C_YbPgceWItlZ-I6xrVNzwgU4K_pTNsys4y4yhwo73wnSXBryUT_8R65LyYXRst4AQBoAYhwAYLqAemvhuoB_DZG6gH8tkbqAfs1RuoB5bYG6gH5OAbqAebl7EC2AcA0ggHCIThgHAQAYAKA_oLAggAgAwBshcaChgIARIUcHViLTkzODMwODAyODUxNjU2NjU&sigh=4HcF9RPlKmQ&ms=a6qjxYQPZjTzt-0yOUUkk1pHbUuuFGZ6SXMEUWCitjlfeKiSyM7iEasM3vKz7r4_rxzRwc1lSPGFf0X8B71w_FKSnyayHu-GAqrOKWv1c4RoKPntNeYuSEHzKo9slbrcTFKnGykwZNR5AmFEvqUFts3xEVqWny1Nle2KOYBAuzFeXGj6Fy-og1z_CXI1OhCBQFkfOBXFAWw1tx3VHR8YW1rUZDlHcBoyeBF2WI3Mqxc6IGWtwqhzoKRVagimnG5Uq3STGBYW0pGjMetf3A8UCZva71tb_4iFCU9V29qQEhvKSNNiz9QG0TIm0UGY3uouNcN8fYH60F_cxkY82u0H-g
+		:authority: pubads.g.doubleclick.net
+		cookie: IDE=AHWqTUmvP4m_A6YhZcN7kjEdiaoUaXbIAn1BG0o30WVp90CCltqfmZFYtA686pZ3
+		accept: */*
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+===========================================================================
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+		timing-allow-origin: *
+		cross-origin-resource-policy: cross-origin
+		content-security-policy: script-src 'none'; object-src 'none'
+		content-type: text/html; charset=UTF-8
+		x-content-type-options: nosniff
+		date: Tue, 17 Nov 2020 11:24:17 GMT
+		server: cafe
+		content-length: 0
+		x-xss-protection: 0
+		alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+

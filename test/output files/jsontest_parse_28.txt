@@ -1,0 +1,53 @@
+# POST sync.myfitnesspal.com
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /iphone_api/action_request?lang=it-IT
+		:authority: sync.myfitnesspal.com
+		content-type: multipart/form-data; boundary=kguaocudecaouhrkjchrkueaoureakgcceagducegaduahbkjqtjgecuaoehuaebkjahjbeobjaeco
+		accept: */*
+		authorization: Bearer IT.M.665CLnwaXUyquhPCZRd271UAp6Inlq70mIpMN60Q806cv4ozyq1rnTC83VfSyiOu6M5QOU0ZcCHafcVpsc5KZJk_f1t6baczyy5nNJEEKz9o83uVywJwaz1HCPCoZ18XgeMW.lG0tCLkBdaVa2tgZo0i-RgoSUKUXc05V5sgOYe7B2ZG1fPRabREUM67rNncmihP2aeUB7BKH4Vo-Q90B7Si4AOBKxxAqeQNKh-EpVhmb1i9ofxIsWcqUDZkQXXBZ7DUP-5esHuCUk4UY08yQlXnpUw
+		mfp-client-id: mfp-mobile-ios
+		mfp-user-id: 102546566729005
+		accept-language: it-IT
+		accept-encoding: gzip, deflate, br
+		content-length: 514
+		user-agent: MyFitnessPal/33252 CFNetwork/1206 Darwin/20.1.0
+		mfp-device-id: C40ABD70-A717-4C90-A075-98A29E7F06A9
+		cookie: amplitude_id_2746a27a28431837e776d192ed6db604myfitnesspal.com=eyJkZXZpY2VJZCI6ImJhMDg1MDU2LTVkOTgtNDQ5MC04NjBmLTdiMjg5NTZiNTMxYVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwNTI1OTYxMTM3OSwibGFzdEV2ZW50VGltZSI6MTYwNTI1OTYxMTM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjF9
+===========================================================================
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/octet-stream
+		content-length: 116
+		cache-control: no-cache, no-store, proxy-revalidate
+		content-disposition: inline
+		content-transfer-encoding: binary
+		date: Tue, 17 Nov 2020 11:23:49 GMT
+		etag: W/"a4bb92058aee1951e4962bd6bf1a70d6"
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		pragma: no-cache
+		recruiting: If you are reading this maybe you should be working at MyFitnessPal instead! Check out https://www.myfitnesspal.com/careers
+		set-cookie: _mfp_session=ZWJ6YW5yZjUyaUhpQzBPd3VRNnh1WDIrK3JqK2R4N2tvVG4xOTdpWStCQWlYd245WituajAzYzhQTlpsSEVBQU1kZkdzN29QRDYxZEV3cG9aWHFzS3RlQjZDQkE2RnErNjVkcXNJcTNScFcvREUvNmxYZGZhaWFMTEppRUZubEYtLVp0M3BtU1h2MTQ0dTRSSDdCVzlDR2c9PQ%3D%3D--a81d9e7f4590a68de26cf646b566071df9a8809b; path=/; secure; HttpOnly
+		status: 200 OK
+		strict-transport-security: max-age=631138519
+		x-download-options: noopen
+		x-frame-options: SAMEORIGIN
+		x-permitted-cross-domain-policies: none
+		x-request-id: 7e4e6cfda57de2e4ab60d368134a44ba
+		x-runtime: 0.045106
+		x-xss-protection: 1; mode=block
+		x-cache: Miss from cloudfront
+		via: 1.1 b8f7ec2a292687370773a41cd1bdc97a.cloudfront.net (CloudFront)
+		x-amz-cf-pop: MXP64-C2
+		x-amz-cf-id: poNgtb8eR5_OnwDvacNIusAYtAgwcQznAAS0QwbKg03nPy3DVcKFlQ==
+
+
+

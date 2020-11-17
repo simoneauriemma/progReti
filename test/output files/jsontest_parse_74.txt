@@ -1,0 +1,36 @@
+# GET ads.nexage.com
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /adServe?dcn=2c9d2b50015f5f3a288d501aa26c0212&pos=js_banner_1&grp=&req(loc)=,&loctype=1&d(id24)=00000000-0000-0000-0000-000000000000&dnt=1&of=js&secure=1
+		:authority: ads.nexage.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+		accept-language: it-it
+		referer: http://ads.mopub.com/
+===========================================================================
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		date: Tue, 17 Nov 2020 11:24:13 GMT
+		content-type: application/x-javascript;charset=utf-8
+		content-length: 48
+		server: nginx/1.16.1
+		cache-control: no-store
+		cache-control: no-cache
+		cache-control: must-revalidate
+		cache-control: max-age=0
+		cache-control: no-transform
+		cache-control: post-check=0, pre-check=0
+		pragma: no-cache
+		expires: Thu, 01 Jan 1970 00:00:00 GMT
+
+
+

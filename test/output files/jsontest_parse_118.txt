@@ -1,0 +1,18 @@
+# CONNECT self.events.data.microsoft.com
+
++ Request
+
+	> Headers
+		Host: self.events.data.microsoft.com
+		User-Agent: Excel/16.43.20110804 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+===========================================================================
+
+
++ Response (200)
+
+	> Headers
+
+
+
