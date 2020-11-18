@@ -3,21 +3,20 @@ import sys
 from urllib.parse import unquote
 
 
-def parse_chlsj(filename, data):
+def parse_chlsj(output_directory, count, data):
     host = data['host']
-    client_address = data['clientAddress']
+    #client_address = data['clientAddress']
     method = data['method']
     request = data['request']
     response = data['response']
-
-
-    out_file = open(filename, 'w')
 
     if 'path' in data:
         path = data['path']
         line_sum = '# ' + method + ' ' + host + str(path)
     else:
         line_sum = '# ' + method + ' ' + host
+
+    out_file = open(output_directory + '/' + method + ' - ' + host + '_' + str(count) + '.txt', 'w')
 
     out_file.write(line_sum)
     out_file.write('\n\n')
@@ -75,30 +74,28 @@ def parse_chlsj(filename, data):
 
     out_file.close()
 
+try:
+    in_file_name = sys.argv[1]
+    output_directory = sys.argv[2]
+    print('Converto il file ' + in_file_name + ' e metto le richieste in ' + output_directory + '\n')
+except:
+    print('Errore: parametri errati!\n')
+    sys.exit("Assicurati di scrivere chlsj2json.py '<path/to/.chlsj>' '<path/to/output_directory>'")
 
-def main(args):
-    in_file_name = args[0]
-    out_file_name = in_file_name.split('.')[0] + '_parse.txt'
-    if len(args) > 2:
-        out_file_name = args[1] + '.txt'
+print(output_directory)
 
-    if in_file_name.endswith('.chlsj'):
-        with open(in_file_name) as in_file:
-            datas = json.load(in_file)
-            if len(datas) > 1:
-                i = 1
-                for data in datas:
-                    out_file_name_with_no = out_file_name.replace('.txt', '_' + str(i) + '.txt')
-                    parse_chlsj(out_file_name_with_no, data)
-                    i = i + 1
-            else:
-                parse_chlsj(out_file_name, datas[0])
+if in_file_name.endswith('.chlsj'):
+    with open(in_file_name) as in_file:
+        datas = json.load(in_file)
+        if len(datas) > 1:
+            count = 1
+            for data in datas:
+                parse_chlsj(output_directory, count, data)
+                count = count + 1
+        else:
+            parse_chlsj(output_directory, count, datas[0])
 
-        print('Process complete!')
+    print('Process complete!')
 
-    else:
-        print('Unrecognized file type.')
-
-
-if __name__ == '__main__':
-    main(sys.argv[1:])
+else:
+    print('Unrecognized file type.')
