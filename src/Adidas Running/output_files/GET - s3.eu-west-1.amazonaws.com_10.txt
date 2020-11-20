@@ -1,0 +1,35 @@
+# GET s3.eu-west-1.amazonaws.com/mobileassets.runtastic.com/localizations/ios/runtastic-iphone-runtastic/latest
+
++ Request
+
+	> Headers
+		Host: s3.eu-west-1.amazonaws.com
+		Accept: */*
+		Accept-Language: it-it
+		Connection: keep-alive
+		Accept-Encoding: gzip, deflate, br
+		User-Agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+
+
+
++ Response (200)
+
+	> Headers
+		x-amz-id-2: 45LTMhD97p/YqNgdPIzQMx13JyumoW1kgtMqPS/vp2rpFYg14OSIXabFnyD+LBAqxQMnZwmkScM=
+		x-amz-request-id: 563BA131C2AA5D4D
+		Date: Fri, 20 Nov 2020 08:49:39 GMT
+		Last-Modified: Fri, 20 Nov 2020 08:15:12 GMT
+		ETag: "711873cbaa9899fb79ca9114a79b3295"
+		Accept-Ranges: bytes
+		Content-Type: 
+		Content-Length: 32
+		Server: AmazonS3
+		Connection: keep-alive
+
+
+
+		Response body text: aeb859ac3932072435bc40294db2c1fb
+
+===========================================================================
+
+

@@ -1,0 +1,34 @@
+# GET gspe19-ssl.ls.apple.com/tile.vf
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /tile.vf?
+		:authority: gspe19-ssl.ls.apple.com
+		accept: */*
+		accept-encoding: gzip, deflate, br
+		maps-tile-style: flags=3&style=30&size=2&scale=0&v=12164451&vlang=it&preflight=2
+		maps-tile-x: 554
+		maps-tile-z: 10
+		maps-auth-token: Tz+kEV0fXN+SGS0nkNGQvFjGnNnjRyC3YVHqb5EfZGM=
+		user-agent: 18B92
+		accept-language: it-it
+		maps-tile-y: 386
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: application/octet-stream
+		content-length: 28
+		date: Fri, 20 Nov 2020 08:49:37 GMT
+
+
+
+===========================================================================
+
+

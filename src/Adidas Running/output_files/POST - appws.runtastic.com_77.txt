@@ -1,0 +1,56 @@
+# POST appws.runtastic.com/webapps/services/users/me
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /webapps/services/users/me
+		:authority: appws.runtastic.com
+		cookie: a4926be326b08cd3a67891d57a33d87b=1a5cbcdcad85986841f1096b481b0256
+		x-device-name: iPhone10,6
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		x-app-key: at.runtastic.gpssportapp
+		x-device-token: 6EB04A05-D8CC-4724-88B5-3DD49372A25A
+		x-device-vendor: Apple
+		content-length: 2
+		x-auth-token: 6cf9e8627ca38b709892817688f1147747f47991
+		x-date: 2020.11.20 08:49:38
+		x-device-firmware: iOS 14.2
+		x-app-version: 11.14
+		x-screen-pixels: 320x480
+		authorization: Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiIxbVNwMUVKek85NGlLazV0YW9HWWVibmVjb1JOYnB0YiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJ3aU51Yno4dGI2S3NLdFdVIiwiYmlydGhkYXRlIjoiMTk5OC0wOS0yMSIsImVtYWlsX3ZlcmlmaWVkIjoidHJ1ZSIsImFpYy5yZWdpc3RlcmVkX2F0IjoxNjA0Mzk0Mzk3LCJhbXIiOiJnb29nbGVwbHVzIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJUZXNhdXJvIiwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjoiZmFsc2UiLCJhY2lkIjoiUVdNNFdIMEc3RzJIQTFTQSIsInBpLnVrIjoiUVdNNFdIMEc3RzJIQTFTQSIsImF1dGhfdGltZSI6MTYwNDM5NDM5NywibWluX2FnZSI6MjIsImJyYW5kIjoiYWRpZGFzIiwiZmlyc3RfbmFtZSI6IkVtbWFudWVsIiwiZW1haWwiOiJjbGFzaG9mY2xhbnNlbXVAZ21haWwuY29tIiwiZXhwIjoxNjA3MDcyNzk3fQ.fCuMRlj2l0dWUyZmQt40nfKkP0Rdb6wbZJgq_01dgh0dqYX-EH7P4FhCIR4bFkofWDxsIOsamMX6J1dKGUbqd86qD9AR3BuOmiEAs3qTmTqw0q149fkA3-_gf1r7bOGqGv64Ws7rIfL0A4apwF5-ni9bFZmZ-G6JvbA1n6S90aMYiR71zY-JdMmBWPjHoatgf6gCGC78dwSg7jeAQXLGF0qNuULBy0mMw8rP-iO9xUWTZxM4R2lOouFq0DcjfC59rxL2XbNzKT0N9pduZUAAYnEsZL3GhI-jbuJRdzFpRk_WWGw2FAUSMySVCrVKV19psqqfvS0ckGfJjXHTDhlxNQ
+		accept-language: it-it
+		x-locale: it-IT
+		x-app-feature-set: lite
+		x-carrier: Vodafone IT;MCC=222;MNC=10
+		accept: application/json
+		content-type: application/json
+		accept-encoding: gzip
+		x-newrelic-id: Vw4AU1VACwUCVlhXAAU=
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		server: nginx
+		date: Fri, 20 Nov 2020 08:49:38 GMT
+		content-type: application/json
+		vary: Accept-Encoding
+		set-cookie: JSESSIONID=tf-prd-glassfish-server-001~4d83f519b925773c9bf7e1dbb267; Path=/webapps; HttpOnly
+		content-encoding: gzip
+		expires: 0
+		cache-control: no-cache, no-store
+		strict-transport-security: max-age=631152000
+		set-cookie: JSESSIONID=tf-prd-glassfish-server-001~""; Path=/webapps; HttpOnly
+		content-security-policy: frame-ancestors 'self';
+
+
+
+		Response body text: {"userInfo":{"userData":{"firstName":"Emmanuel","lastName":"Tesauro","height":"1.76","isDefaultHeight":"false","weight":"75.0","isDefaultWeight":"false","gender":"M","birthday":"906336000000","birthdayEstimated":"false","countryCode":"IT","locale":"it","unit":"0","avatarUrl":"https://dxp86gw5pke1r.cloudfront.net/files___135614505___big.79fe8d1d-c1c9-4c87-a87d-9eec022a8d75.png?w=480&h=480","avatarUrlMedium":"https://dxp86gw5pke1r.cloudfront.net/files___135614505___big.79fe8d1d-c1c9-4c87-a87d-9eec022a8d75.png?w=170&h=170","avatarUrlSmall":"https://dxp86gw5pke1r.cloudfront.net/files___135614505___big.79fe8d1d-c1c9-4c87-a87d-9eec022a8d75.png?w=70&h=70","activityLevel":"2","weightUnit":"0","temperatureUnit":"0","liquidUnit":"0","agbAccepted":"true","id":"168573707","localytics":"Basic","membershipStatus":"basic","createdAt":"1604394397000","email":"clashofclansemu@gmail.com","isEmailConfirmed":"true","emailValid":"true","isPhoneConfirmed":"false","phoneValid":"true","uidt":"f3967ce30b3c571b9ee0f07a1c896f2364af4048","guid":"QWM4WH0G7G2HA1SA","aicMigrationState":"COMMUNICATED"},"userSettings":{"myFitnessPalConnected":"false","jawboneConnected":"false","garminConnected":"false","polarConnected":"false","leaderboardMeVisible":"true","leaderboardCoreVisible":"true"},"dataChanged":"true"},"abilities":{"canSeeNewsFeed":"true","workoutCreator":"false","freeTrainingPlans":"false","hideGoldUpselling":"false","canUseGarminConnect":"true","canSeeNotificationInbox":"true","unlimitedDailyGoals":"false","bodyTransformationUnlimitedStandaloneWorkouts":"false","canSeeChallenges":"true","meDailyTips":"false","unlimitedHistoryForMonthlyStatisticOfDailySession":"false","bodyTransformationUnlimitedExercises":"false","unlimitedHistoryForYearlyStatisticOfDailySession":"false","gamificationRecords":"false","unlimitedHistoryForWeeklyStatisticOfDailySession":"false","bodyTransformationTrainingPlans":"false","canSeePolar":"true","canSeeFollowers":"false","unlimitedHistoryForDailySessionDetail":"false","canSeeGoalsPremium":"false","canSeeNotificationSettings":"true","pro":"false","canUseInstabug":"false","canSeeSharingVersionTwo":"true","noAds":"true","canSeeAdidasRunners":"true","freeStoryRuns":"false","canSeeShoeTracking":"true","canWatchRunningAbcVideos":"false","bodyTransformationUnlimitedNutritionGuide":"false","canSeeGroups":"true"}}
+
+===========================================================================
+
+

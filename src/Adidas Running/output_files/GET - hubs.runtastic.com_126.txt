@@ -1,0 +1,57 @@
+# GET hubs.runtastic.com/users/v3/users/QWM4WH0G7G2HA1SA
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /users/v3/users/QWM4WH0G7G2HA1SA?include=avatar,country,mutual_friendship
+		:authority: hubs.runtastic.com
+		cookie: ced84a72831210e0630153f9a0cdb7d1=0d128bce9f80bcf71d3321a6aa53e4aa
+		cookie: a4926be326b08cd3a67891d57a33d87b=d5b7616ce277701cc4754293f345eec7
+		x-device-name: iPhone10,6
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		x-app-key: at.runtastic.gpssportapp
+		x-device-vendor: Apple
+		x-auth-token: 8dc2a4a944f55a6e783395b4fd395b1173c10dba
+		x-date: 2020.11.20 08:50:02
+		x-device-firmware: iOS 14.2
+		x-app-version: 11.14
+		x-screen-pixels: 320x480
+		authorization: Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiIxbVNwMUVKek85NGlLazV0YW9HWWVibmVjb1JOYnB0YiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJ3aU51Yno4dGI2S3NLdFdVIiwiYmlydGhkYXRlIjoiMTk5OC0wOS0yMSIsImVtYWlsX3ZlcmlmaWVkIjoidHJ1ZSIsImFpYy5yZWdpc3RlcmVkX2F0IjoxNjA0Mzk0Mzk3LCJhbXIiOiJnb29nbGVwbHVzIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJUZXNhdXJvIiwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjoiZmFsc2UiLCJhY2lkIjoiUVdNNFdIMEc3RzJIQTFTQSIsInBpLnVrIjoiUVdNNFdIMEc3RzJIQTFTQSIsImF1dGhfdGltZSI6MTYwNDM5NDM5NywibWluX2FnZSI6MjIsImJyYW5kIjoiYWRpZGFzIiwiZmlyc3RfbmFtZSI6IkVtbWFudWVsIiwiZW1haWwiOiJjbGFzaG9mY2xhbnNlbXVAZ21haWwuY29tIiwiZXhwIjoxNjA3MDcyNzk3fQ.fCuMRlj2l0dWUyZmQt40nfKkP0Rdb6wbZJgq_01dgh0dqYX-EH7P4FhCIR4bFkofWDxsIOsamMX6J1dKGUbqd86qD9AR3BuOmiEAs3qTmTqw0q149fkA3-_gf1r7bOGqGv64Ws7rIfL0A4apwF5-ni9bFZmZ-G6JvbA1n6S90aMYiR71zY-JdMmBWPjHoatgf6gCGC78dwSg7jeAQXLGF0qNuULBy0mMw8rP-iO9xUWTZxM4R2lOouFq0DcjfC59rxL2XbNzKT0N9pduZUAAYnEsZL3GhI-jbuJRdzFpRk_WWGw2FAUSMySVCrVKV19psqqfvS0ckGfJjXHTDhlxNQ
+		accept-language: it-it
+		x-locale: it-IT
+		x-app-feature-set: lite
+		x-carrier: Vodafone IT;MCC=222;MNC=10
+		accept: application/vnd.api+json;case=snake;time_format=ms
+		content-type: application/vnd.api+json;case=snake;time_format=ms
+		accept-encoding: gzip
+		x-newrelic-id: Vw4AU1VACwUCVlhXAAU=
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		server: nginx
+		date: Fri, 20 Nov 2020 08:50:03 GMT
+		content-type: application/vnd.api+json;charset=utf-8
+		content-length: 4239
+		x-content-type-options: nosniff
+		etag: W/"20c7c492fdd85c0e5dde7eedc76fd4e3"
+		cache-control: max-age=0, private, must-revalidate
+		x-request-id: 41e5f1ba-d70c-4909-8c0a-de3ddb63c826
+		x-runtime: 0.073367
+		referrer-policy: origin-when-cross-origin
+		x-frame-options: SAMEORIGIN
+		x-xss-protection: 1; mode=block
+		content-security-policy: frame-ancestors 'self';
+
+
+
+		Response body text: {"data":{"id":"168573707","type":"user","attributes":{"first_name":"Emmanuel","last_name":"Tesauro","guid":"QWM4WH0G7G2HA1SA","profile_url":"https://www.runtastic.com/users/QWM4WH0G7G2HA1SA","created_at":1604394397000,"motivation":null,"aic_migration_state":"COMMUNICATED","acquisition_source":"adjust_tracker_token=p2ioor\u0026adjust_adgroup=\u0026adjust_campaign=\u0026adjust_network=Organic\u0026adjust_click_label=\u0026adjust_creative=\u0026adjust_adid=64c227c0d2d98aee8a2eeb313a474719\u0026adjust_tracker_name=Organic","activated_at":1604394397000,"activation_code":null,"activity_level":2,"address":null,"agb_accepted":true,"apple_proxied_email":null,"apple_user_id":null,"begin_week":"monday","birthday":"1998-09-21","birthday_estimated":false,"city_name":null,"company":null,"confirmation_sent_at":null,"confirmed_at":1604394397000,"current_sign_in_at":null,"current_sign_in_ip":"87.18.249.234","deleted_at":null,"description":null,"docomo_email":null,"docomo_refresh_token":null,"docomo_user_id":null,"email":"clashofclansemu@gmail.com","email_confirmed":true,"email_hash":null,"email_manually_confirmed_at":null,"email_valid":true,"external_service_credentials":null,"failed_attempts":0,"fat_ratio":null,"fb_access_device_id":null,"fb_access_expires_at":null,"fb_access_token":null,"fb_connected_at":null,"fb_connection_established":null,"fb_permission_set_version":0,"fb_photo_last_checked_at":null,"fb_proxied_email":null,"fb_timeline_connected":false,"fb_token_for_business":null,"fb_user_id":null,"first_web_login_at":null,"fitnessreport_counter":null,"fitbit_connected":false,"format_of_date":"eu","format_of_time":"24","gender":"M","google_email":null,"google_user_id":"117181426073006321135","has_first_login_dialog_completed":true,"has_recurring_payment_with_adyen_established":false,"has_recurring_payment_with_paypal_express_established":false,"has_recurring_payment_with_paypal_wps_established":false,"height":1.76,"language":"it","last_active_at":1605259211000,"last_login_at":null,"last_sign_in_at":null,"last_sign_in_ip":"87.18.249.234","linkedin":null,"locale":"it","login":"emmanuel-tesauro-1","login_slug":"emmanuel-tesauro-1","maximum_pulse":null,"merged_at":null,"merged_into_user_id":null,"my_fitness_pal_connected":false,"myspace":null,"newest_session_at":null,"notification_data":null,"notify_comments":true,"notify_community_news":true,"notify_friend_requests":true,"notify_personal_messages":false,"oldest_session_at":null,"paypal_express_profile":null,"phone":null,"phone_confirmed_at":null,"privacy_settings_version":0,"receive_runtastic_ad_mails":true,"recurring_payment_agb_version":0,"registration_provider":"google","remember_created_at":null,"remember_token":null,"remember_token_expires_at":null,"reset_password_token":null,"resting_pulse_rate":null,"school":null,"send_fitnessreport":true,"send_fitnessreport_at":null,"serialized_settings":{"default_activity_level":2,"weight_unit_type":0,"temperature_unit_type":0,"liquid_unit_type":0},"sign_in_count":0,"skype":null,"social_accounts":{},"target":null,"time_zone":"Europe/Rome","tos_accepted_at":1604394398000,"tos_accepted_version":2,"twitter":null,"twitter_id":null,"uidt":"f3967ce30b3c571b9ee0f07a1c896f2364af4048","unit_type":0,"university":null,"unlock_token":null,"update_profile_photo_from_facebook":true,"updated_at":1605259288000,"url":"https://www.runtastic.com/users/168573707/settings","view_count":0,"weight":75.0,"www":null,"xing":null,"zip":null},"relationships":{"avatar":{"data":{"type":"avatar","id":"135614505"}},"country":{"data":{"type":"country","id":"82"}},"city":{"data":null},"family_status":{"data":null},"job_type":{"data":null},"registration_application":{"data":{"type":"application","id":"2800"}},"sportsman_type":{"data":null},"state":{"data":null},"user_statistics":{"data":{"type":"user_statistics","id":""}},"whitelabel":{"data":null}}},"included":[{"id":"135614505","type":"avatar","attributes":{"url":"https://dxp86gw5pke1r.cloudfront.net/files___135614505___big.79fe8d1d-c1c9-4c87-a87d-9eec022a8d75.png"}},{"id":"82","type":"country","attributes":{"continent":"Europe","iso":"IT","iso3":"ITA","localization":"loc_italy","name":"italy","numcode":380,"region":"Southern Europe"}}],"jsonapi":{"version":"1.0"}}
+
+===========================================================================
+
+

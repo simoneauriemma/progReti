@@ -1,0 +1,44 @@
+# POST runtastic.pushwoosh.com/json/1.3/postEvent
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /json/1.3/postEvent
+		:authority: runtastic.pushwoosh.com
+		accept: */*
+		content-type: application/json; charset=utf-8
+		x-newrelic-id: Vw4AU1VACwUCVlhXAAU=
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		accept-language: it-it
+		content-length: 289
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		server: nginx
+		date: Fri, 20 Nov 2020 08:49:37 GMT
+		content-type: application/json
+		vary: Accept-Encoding
+		x-powered-by: phpDaemon/1.0-beta3
+		access-control-allow-origin: *
+		access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept
+		access-control-allow-methods: GET, POST, PUT, OPTIONS
+		access-control-allow-credentials: true
+		x-pw-cluster-node: cloud-main-backend-goback-inapp-api-0-6d4d44b688-njcj7
+		x-pw-front-node: cloud-main-backend-goback-inapp-api-0-6d4d44b688-njcj7
+		x-pw-front-node: front-06.r2v.nue
+		content-encoding: gzip
+
+
+
+		Response body text: {"status_code": 200, "status_message": "OK","response":null}
+
+===========================================================================
+
+

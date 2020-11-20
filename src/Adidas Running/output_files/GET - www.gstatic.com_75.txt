@@ -1,0 +1,31 @@
+# GET www.gstatic.com/identity/sdk/config/ios/v4.1.0
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /identity/sdk/config/ios/v4.1.0?clientID=190569399906-n7q98tmbt19k52q64aqamcsg7t8at8ra.apps.googleusercontent.com&bundleID=at.runtastic.gpssportapp
+		:authority: www.gstatic.com
+		accept: */*
+		if-modified-since: Tue, 03 Mar 2020 20:15:00 GMT
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (304)
+
+	> Headers
+		:status: 304
+		date: Fri, 20 Nov 2020 08:18:04 GMT
+		expires: Fri, 20 Nov 2020 09:08:04 GMT
+		age: 1894
+		alt-svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+

@@ -1,0 +1,39 @@
+# GET dk3tgol2dsarh.cloudfront.net/c9d469a7-6748-42ba-875d-c49ddfa1c59d.jpg
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /c9d469a7-6748-42ba-875d-c49ddfa1c59d.jpg
+		:authority: dk3tgol2dsarh.cloudfront.net
+		accept: */*
+		x-newrelic-id: Vw4AU1VACwUCVlhXAAU=
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		content-type: image/jpeg
+		content-length: 150199
+		date: Thu, 19 Nov 2020 14:30:08 GMT
+		x-amzn-requestid: ca909389-234a-4f01-b20f-ea47ea8686be
+		x-amz-apigw-id: WQkpgExJoAMF66g=
+		x-amzn-trace-id: Root=1-5fb6816f-1b23959131334449048c686f;Sampled=0
+		via: 1.1 dfeaf865724e57eaac72220929416926.cloudfront.net (CloudFront), 1.1 a492d514787de63e7daf0f07b0c799fe.cloudfront.net (CloudFront)
+		x-amz-cf-pop: DUS51-C1
+		x-cache: Hit from cloudfront
+		x-amz-cf-pop: MXP64-C1
+		x-amz-cf-id: K4JyK12hPeVb3E1TS8N80mb-jLskFj1e39xi1EPMJrLHa99aUW0P7Q==
+		age: 65980
+
+
+
+===========================================================================
+
+

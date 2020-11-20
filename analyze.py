@@ -29,16 +29,19 @@ if path.exists(output_directory + '/outputFile.txt'):
 # Creo la lista che contiene i nomi di tutti i file nella directory test
 files = glob.glob(output_directory + '/*.txt')
 
-# Leggo apro file in file
+# Per ogni file in files
 for file in files:
     found = False
 
+    # Apro il file
     with open(file) as infile:
+
         for line in infile:
-            # Controlla se c'è un match con le regex
-            if re.search("emmanuel", line):
+            x = re.search(r'\b[a-zA-Z_]+profile\b', line)
+            if x:
                 found = True
-            
+
+        # Se non c'è un match con niente, elimino il file
         if not found:
             os.remove(file)
 

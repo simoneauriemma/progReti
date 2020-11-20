@@ -1,0 +1,21 @@
+# CONNECT init.itunes.apple.comNone
+
++ Request
+
+	> Headers
+		Host: init.itunes.apple.com
+		User-Agent: itunescloudd/1 CFNetwork/1206 Darwin/20.1.0
+		Connection: keep-alive
+		Proxy-Connection: keep-alive
+
+
+
++ Response (200)
+
+	> Headers
+
+
+
+===========================================================================
+
+

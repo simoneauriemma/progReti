@@ -1,0 +1,40 @@
+# GET richmedia.pushwoosh.com/0/9/09021-A934C.zip
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /0/9/09021-A934C.zip
+		:authority: richmedia.pushwoosh.com
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		accept: */*
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		server: nginx
+		date: Fri, 20 Nov 2020 08:49:38 GMT
+		content-type: application/zip
+		content-length: 91082
+		last-modified: Wed, 18 Nov 2020 10:40:24 GMT
+		etag: "5fb4fa18-163ca"
+		access-control-allow-origin: *
+		expires: Fri, 20 Nov 2020 08:59:38 GMT
+		cache-control: max-age=600
+		cache-control: public
+		x-cache-status: HIT
+		x-proxy-cache: HIT
+		cache-control: private
+		accept-ranges: bytes
+
+
+
+===========================================================================
+
+

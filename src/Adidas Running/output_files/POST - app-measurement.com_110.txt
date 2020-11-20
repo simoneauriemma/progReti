@@ -1,0 +1,39 @@
+# POST app-measurement.com/a
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /a
+		:authority: app-measurement.com
+		accept: */*
+		content-type: application/x-www-form-urlencoded
+		x-newrelic-id: Vw4AU1VACwUCVlhXAAU=
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		content-encoding: gzip
+		accept-language: it-it
+		content-length: 1037
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (204)
+
+	> Headers
+		:status: 204
+		date: Fri, 20 Nov 2020 08:49:52 GMT
+		pragma: no-cache
+		expires: Fri, 01 Jan 1990 00:00:00 GMT
+		cache-control: no-cache, no-store, must-revalidate
+		content-type: image/gif
+		cross-origin-resource-policy: cross-origin
+		server: Golfe2
+		content-length: 0
+		alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+

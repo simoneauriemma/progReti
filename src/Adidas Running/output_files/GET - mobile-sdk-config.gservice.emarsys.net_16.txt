@@ -1,0 +1,37 @@
+# GET mobile-sdk-config.gservice.emarsys.net/EMS04-D6947
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /EMS04-D6947
+		:authority: mobile-sdk-config.gservice.emarsys.net
+		content-type: application/json
+		x-emarsys-sdk-version: 2.7.1
+		accept: */*
+		if-modified-since: Tue, 05 May 2020 10:07:00 GMT
+		if-none-match: "99914b932bd37a50b983c5e7c90ae93b"
+		x-emarsys-sdk-mode: production
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		x-newrelic-id: Vw4AU1VACwUCVlhXAAU=
+
+
+
++ Response (304)
+
+	> Headers
+		:status: 304
+		date: Fri, 20 Nov 2020 07:54:56 GMT
+		expires: Fri, 20 Nov 2020 08:54:56 GMT
+		age: 3281
+		etag: "99914b932bd37a50b983c5e7c90ae93b"
+		alt-svc: clear
+
+
+
+===========================================================================
+
+

@@ -1,6 +1,8 @@
+import os
 import json
 import sys
 from urllib.parse import unquote
+from os import path
 
 
 def parse_chlsj(output_directory, count, data):
@@ -82,11 +84,21 @@ except:
     print('Errore: parametri errati!\n')
     sys.exit("Assicurati di scrivere chlsj2json.py '<path/to/.chlsj>' '<path/to/output_directory>'")
 
-print(output_directory)
+# Controllo se esiste la directory di output. Se non c'è la creo
+if not path.exists(output_directory):
+    os.mkdir(output_directory)
 
 if in_file_name.endswith('.chlsj'):
     with open(in_file_name) as in_file:
         datas = json.load(in_file)
+
+        # Formatto
+        json_formattato = json.dumps(datas, sort_keys=True, indent=4)
+
+#        # Scrivo su file .json
+#        with open(in_file_name.split('.')[0] + '.json', 'w') as json_file:
+#            json_file.write(json_formattato)
+
         if len(datas) > 1:
             count = 1
             for data in datas:

@@ -1,0 +1,37 @@
+# GET app-measurement.com/config/app/1:190569399906:ios:c52abed3a901777f
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /config/app/1:190569399906:ios:c52abed3a901777f?platform=ios&app_instance_id=080C86EF09C043E680813C96FCA3DAF3&gmp_version=60900
+		:authority: app-measurement.com
+		accept: */*
+		if-modified-since: Wed, 11 Nov 2020 09:46:03 GMT
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (304)
+
+	> Headers
+		:status: 304
+		content-type: application/x-protobuf
+		access-control-allow-origin: *
+		date: Fri, 20 Nov 2020 08:49:51 GMT
+		expires: Fri, 20 Nov 2020 09:39:51 GMT
+		cache-control: public, max-age=3000
+		last-modified: Wed, 11 Nov 2020 09:46:03 GMT
+		x-content-type-options: nosniff
+		server: sffe
+		x-xss-protection: 0
+		alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+
+===========================================================================
+
+

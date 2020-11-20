@@ -1,0 +1,47 @@
+# GET graph.facebook.com/v4.0/162918433202
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /v4.0/162918433202?fields=app_events_feature_bitmask%2Cname%2Cdefault_share_mode%2Cios_dialog_configs%2Cios_sdk_dialog_flows.os_version%2814.2.0%29%2Cios_sdk_error_categories%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_enabled%2Cgdpv4_nux_content%2Cios_supports_native_proxy_auth_flow%2Cios_supports_system_auth%2Capp_events_session_timeout%2Clogging_token%2Crestrictive_data_filter_params%2Caam_rules%2Cauto_event_mapping_ios&format=json&include_headers=false&sdk=ios
+		:authority: graph.facebook.com
+		accept: */*
+		content-type: application/json
+		x-newrelic-id: Vw4AU1VACwUCVlhXAAU=
+		user-agent: FBiOSSDK.5.8.0
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		etag: "2b781375bba13237b3f1322f51a5948078819acb"
+		expires: Sat, 01 Jan 2000 00:00:00 GMT
+		x-fb-request-id: ALxJabzQnjLL406l78HRl1B
+		strict-transport-security: max-age=15552000; preload
+		x-fb-trace-id: E+zVbfCKlTj
+		facebook-api-version: v4.0
+		content-type: application/json; charset=UTF-8
+		content-encoding: br
+		x-fb-rev: 1003015302
+		cache-control: private, no-cache, no-store, must-revalidate
+		vary: Accept-Encoding
+		pragma: no-cache
+		access-control-allow-origin: *
+		x-fb-debug: QsQtJgoVW+ZCkJcS+nDjiL5chuk58aWYumFMnJxcAz0pF7zVQSV6fJkHgAJbDp5s6YQz3nmruHf7hVw/J6CTYw==
+		content-length: 517
+		date: Fri, 20 Nov 2020 08:49:37 GMT
+		alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+
+
+		Response body text: {"app_events_feature_bitmask":65541,"name":"adidas Runtastic","default_share_mode":"share_sheet","ios_sdk_dialog_flows":{"default":{"use_native_flow":false,"use_safari_vc":true},"message":{"use_native_flow":true}},"ios_sdk_error_categories":[{"name":"login","items":[{"code":102},{"code":190}],"recovery_message":"Effettua di nuovo l'accesso a questa app per riconnettere il tuo account Facebook.","recovery_options":["Ok","Annulla"]},{"name":"transient","items":[{"code":341},{"code":9},{"code":2},{"code":4},{"code":17}],"recovery_message":"Il server \u00e8 temporaneamente occupato, riprova.","recovery_options":["Ok"]}],"supports_implicit_sdk_logging":true,"gdpv4_nux_enabled":false,"ios_supports_native_proxy_auth_flow":true,"ios_supports_system_auth":true,"app_events_session_timeout":60,"restrictive_data_filter_params":"{\"fb_mobile_deactivate_app\":{\"deprecated_param\":[\"fb_mmbile_launch_source\"]}}","aam_rules":"{}","id":"162918433202"}
+
+===========================================================================
+
+

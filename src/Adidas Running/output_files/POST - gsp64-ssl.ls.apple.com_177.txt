@@ -1,0 +1,28 @@
+# POST gsp64-ssl.ls.apple.com/hvr/v3/use
+
++ Request
+
+	> Headers
+		Host: gsp64-ssl.ls.apple.com
+		Content-Type: application/octet-stream
+		Connection: keep-alive
+		Accept: */*
+		User-Agent: geod/1 CFNetwork/1206 Darwin/20.1.0
+		Accept-Language: it-it
+		Content-Length: 364
+		Accept-Encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		content-length: 10
+		X-RID: e1dc1ea0-9ee8-4a24-b993-eb5428ab4c5d
+		Connection: keep-alive
+
+
+
+===========================================================================
+
+

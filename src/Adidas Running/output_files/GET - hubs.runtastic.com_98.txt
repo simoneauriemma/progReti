@@ -1,0 +1,52 @@
+# GET hubs.runtastic.com/events/v1/event_surrogates
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /events/v1/event_surrogates?filter[promotion.regions]=user_region&filter[target_app]=running&filter[type]=competition_challenge_event,collaboration_challenge_event&include=participants_group,banner,user_statuses,campaigns,campaigns.campaign_image,comparison_user&page[size]=20&sort=promotion_priority
+		:authority: hubs.runtastic.com
+		cookie: a4926be326b08cd3a67891d57a33d87b=d5b7616ce277701cc4754293f345eec7
+		x-device-name: iPhone10,6
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		x-app-key: at.runtastic.gpssportapp
+		x-device-vendor: Apple
+		x-auth-token: b5d57a1d2e3ce861f7580c42f093f3400c96bcee
+		x-date: 2020.11.20 08:49:47
+		x-device-firmware: iOS 14.2
+		x-app-version: 11.14
+		x-screen-pixels: 320x480
+		authorization: Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiIxbVNwMUVKek85NGlLazV0YW9HWWVibmVjb1JOYnB0YiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJ3aU51Yno4dGI2S3NLdFdVIiwiYmlydGhkYXRlIjoiMTk5OC0wOS0yMSIsImVtYWlsX3ZlcmlmaWVkIjoidHJ1ZSIsImFpYy5yZWdpc3RlcmVkX2F0IjoxNjA0Mzk0Mzk3LCJhbXIiOiJnb29nbGVwbHVzIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJUZXNhdXJvIiwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjoiZmFsc2UiLCJhY2lkIjoiUVdNNFdIMEc3RzJIQTFTQSIsInBpLnVrIjoiUVdNNFdIMEc3RzJIQTFTQSIsImF1dGhfdGltZSI6MTYwNDM5NDM5NywibWluX2FnZSI6MjIsImJyYW5kIjoiYWRpZGFzIiwiZmlyc3RfbmFtZSI6IkVtbWFudWVsIiwiZW1haWwiOiJjbGFzaG9mY2xhbnNlbXVAZ21haWwuY29tIiwiZXhwIjoxNjA3MDcyNzk3fQ.fCuMRlj2l0dWUyZmQt40nfKkP0Rdb6wbZJgq_01dgh0dqYX-EH7P4FhCIR4bFkofWDxsIOsamMX6J1dKGUbqd86qD9AR3BuOmiEAs3qTmTqw0q149fkA3-_gf1r7bOGqGv64Ws7rIfL0A4apwF5-ni9bFZmZ-G6JvbA1n6S90aMYiR71zY-JdMmBWPjHoatgf6gCGC78dwSg7jeAQXLGF0qNuULBy0mMw8rP-iO9xUWTZxM4R2lOouFq0DcjfC59rxL2XbNzKT0N9pduZUAAYnEsZL3GhI-jbuJRdzFpRk_WWGw2FAUSMySVCrVKV19psqqfvS0ckGfJjXHTDhlxNQ
+		accept-language: it
+		x-locale: it-IT
+		x-app-feature-set: lite
+		x-carrier: Vodafone IT;MCC=222;MNC=10
+		accept: application/vnd.api+json;case=snake;time_format=ms
+		content-type: application/vnd.api+json;case=snake;time_format=ms
+		accept-encoding: gzip
+		x-newrelic-id: Vw4AU1VACwUCVlhXAAU=
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		server: nginx
+		date: Fri, 20 Nov 2020 08:49:48 GMT
+		content-type: application/vnd.api+json
+		content-length: 5879
+		x-content-type-options: nosniff
+		referrer-policy: origin-when-cross-origin
+		x-frame-options: SAMEORIGIN
+		x-xss-protection: 1; mode=block
+		content-security-policy: frame-ancestors 'self';
+
+
+
+		Response body text: {"data":[{"id":"113e9325-535e-4ec2-bcaa-46f0a6ecaaf5","type":"competition_challenge_event_surrogate","attributes":{"slug":"run_november20","state":"scheduled","title":"1 mese - 30 km","description":"Dimostra di avere costanza e dedizione correndo 30 km nel mese di novembre. Decidi tu come portare a termine questa sfida ideale anche per i principianti: che sia asfalto, sterrato, spiaggia o un sentiero di montagna, l'importante Ã¨ correre!","start_time":1604188800000,"start_time_timezone_offset":3600000,"end_time":1606780740000,"end_time_timezone_offset":3600000,"created_at":1601456300055,"updated_at":1604503977650,"deleted_at":null,"version":65,"is_local_time":true,"is_change_maker":false,"is_virtual":false,"adidas_runners_points":null,"location":{"longitude":16.3377,"latitude":48.1968,"name":"Runtastic Vienna Office","description":"Vienna","url":"http://runtastic.com"},"restrictions":{"gender":null,"min_adidas_runners_level":null,"max_adidas_runners_level":null,"max_members_count":null,"age":{"lte":null,"gte":null}},"allowed_sample_types":["run_session"],"allowed_manual_run_sessions":true,"retroactive_linking_enabled":true,"public":true,"target_app":["running"],"notifications_enabled":true,"notifications_priority":2,"community_leaderboard_enabled":false,"statistics_enabled":true,"promotion":{"start_time":1604188800000,"age":{"lte":null,"gte":null},"radius":null,"regions":null,"priority":2,"video_url":null},"aggregation":{"attribute":"distance","goal":30000,"filters":[{"name":"distance","sport_type_id":"1","constraints":{"lte":80000}},{"name":"duration","sport_type_id":"1","constraints":{"lte":28800000}},{"name":"distance","sport_type_id":"14","constraints":{"lte":20000}},{"name":"duration","sport_type_id":"14","constraints":{"lte":4800000}},{"name":"distance","sport_type_id":"115","constraints":{"lte":20000}},{"name":"duration","sport_type_id":"115","constraints":{"lte":4800000}},{"name":"distance","sport_type_id":"82","constraints":{"lte":80000}},{"name":"duration","sport_type_id":"82","constraints":{"lte":28800000}}]},"sponsor":null,"additional_information":{"title":"Tutte le informazioni sulle sfide","sections":[{"title":"Quali attivitÃ  contano?","description":"Per il completamento della sfida contano tutte le attivitÃ  di corsa, tapis roulant e corsa virtuale. Non dimenticare di tracciare le tue attivitÃ !"}]},"campaign":{"title":"Vero o falso?","description":"Abbiamo sfatato 5 miti diffusi sulla corsa. Continua a leggere per scoprire quali!","button_label":"Informati","website":"https://rbt.runtastic.com/v1/referral/?key=c7140144f14e3ecec56c6dd57e7d458f&target=runtastic&target_link=https://www.runtastic.com/blog/it/5-miti-diffusi-sulla-corsa/&utm_source=apps.various&utm_medium=campaign-card&utm_campaign=Nov_Challenge&utm_content=running-myths/"}},"relationships":{"creator":{"data":{"type":"user","id":"137929951"}},"owner":{"data":{"type":"user","id":"137929951"}},"participants_group":{"data":{"type":"event_group","id":"dd43447c-5389-4d26-80fb-5f58f3d3fe00"}},"banner":{"data":{"type":"event_banner","id":"9f447254-fda6-48f0-abba-dc6f475804cc"}},"comparison_user":{"data":null},"marketing_consent":{"data":null},"marketing_consent_image":{"data":null},"campaign_image":{"data":{"type":"challenge_campaign_image","id":"3408ed9a-364d-46ac-9604-4c8f7bb1072b"}},"allowed_run_session_sport_types":{"data":[{"type":"sport_type","id":"1"},{"type":"sport_type","id":"14"},{"type":"sport_type","id":"82"},{"type":"sport_type","id":"115"}]},"user_statuses":{"data":[]},"campaigns":{"data":[{"type":"event_campaign_surrogate","id":"6ca74112-8f62-48df-a84a-2b468633e1e7"}]}}}],"included":[{"id":"dd43447c-5389-4d26-80fb-5f58f3d3fe00","type":"event_group","attributes":{"member_count":166694,"external_member_count":0},"relationships":{"group_members":{"links":{"related":"https://hubs.runtastic.com/groups/v1/groups/dd43447c-5389-4d26-80fb-5f58f3d3fe00/members","create":{"href":"https://hubs.runtastic.com/groups/v1/groups/dd43447c-5389-4d26-80fb-5f58f3d3fe00/members","meta":{"method":"POST"}}},"meta":{"restrictions":[]}}}},{"id":"9f447254-fda6-48f0-abba-dc6f475804cc","type":"event_banner","attributes":{"url":"https://dk3tgol2dsarh.cloudfront.net/9f447254-fda6-48f0-abba-dc6f475804cc.jpg"}},{"id":"6ca74112-8f62-48df-a84a-2b468633e1e7","type":"event_campaign_surrogate","attributes":{"url":"https://rbt.runtastic.com/v1/referral/?key=c7140144f14e3ecec56c6dd57e7d458f&target=runtastic&target_link=https://www.runtastic.com/blog/it/5-miti-diffusi-sulla-corsa/&utm_source=apps.various&utm_medium=campaign-card&utm_campaign=Nov_Challenge&utm_content=running-myths/","cta_text":"Informati","title":"Vero o falso?","description":"Abbiamo sfatato 5 miti diffusi sulla corsa. Continua a leggere per scoprire quali!"},"relationships":{"campaign_image":{"data":{"type":"event_campaign_background_image","id":"eefb098b-b58e-4a6d-a9f4-0ef147befcca"}}}},{"id":"eefb098b-b58e-4a6d-a9f4-0ef147befcca","type":"event_campaign_background_image","attributes":{"url":"https://d34urssukxzvke.cloudfront.net/eefb098b-b58e-4a6d-a9f4-0ef147befcca.jpg"}}],"links":{"first":"https://hubs.runtastic.com/events/v1/event_surrogates?sort=promotion_priority&page[number]=1&page[size]=20&filter[type]=competition_challenge_event,collaboration_challenge_event&filter[target_app]=running&filter[promotion.regions]=user_region&include=participants_group,banner,user_statuses,campaigns,campaigns.campaign_image,comparison_user","last":"https://hubs.runtastic.com/events/v1/event_surrogates?sort=promotion_priority&page[number]=1&page[size]=20&filter[type]=competition_challenge_event,collaboration_challenge_event&filter[target_app]=running&filter[promotion.regions]=user_region&include=participants_group,banner,user_statuses,campaigns,campaigns.campaign_image,comparison_user"},"meta":{"overall_count":1},"jsonapi":{"version":"1.0"}}
+
+===========================================================================
+
+

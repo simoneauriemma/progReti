@@ -1,0 +1,46 @@
+# POST graph.facebook.com/v4.0/535415513277333/activities
+
++ Request
+
+	> Headers
+		:method: POST
+		:scheme: https
+		:path: /v4.0/535415513277333/activities
+		:authority: graph.facebook.com
+		accept: */*
+		content-type: application/json
+		x-newrelic-id: Vw4AU1VACwUCVlhXAAU=
+		accept-encoding: gzip, deflate, br
+		content-encoding: gzip
+		user-agent: FBiOSSDK.5.8.0
+		content-length: 674
+		accept-language: it-it
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		access-control-allow-origin: *
+		pragma: no-cache
+		cache-control: private, no-cache, no-store, must-revalidate
+		x-fb-rev: 1003015302
+		content-type: application/json; charset=UTF-8
+		x-fb-trace-id: B3/aSP4pWjX
+		strict-transport-security: max-age=15552000; preload
+		x-fb-request-id: Ar_SdVwJGuhaR_nVjkfXaPX
+		facebook-api-version: v4.0
+		expires: Sat, 01 Jan 2000 00:00:00 GMT
+		x-fb-debug: 3NE49ze7BQaREj+nVb4vOk0dHbW96hg67P0Ntfxyx+/LT9m/f02IgAxbesh6nKP9LAwFpF43qnZydvTo/hgi+A==
+		content-length: 16
+		date: Fri, 20 Nov 2020 08:49:38 GMT
+		alt-svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+
+
+
+		Response body text: {"success":true}
+
+===========================================================================
+
+

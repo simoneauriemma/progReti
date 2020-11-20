@@ -1,0 +1,32 @@
+# GET static-maps.runtastic.com/static-map/
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /static-map/?color=007681&width=650&height=365&weight=5&path=qnnuFmrvzA%3F%3F
+		:authority: static-maps.runtastic.com
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		accept: */*
+		accept-language: it-it
+		accept-encoding: gzip, deflate, br
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		server: nginx
+		date: Fri, 20 Nov 2020 08:50:11 GMT
+		content-type: image/png
+		content-security-policy: frame-ancestors 'self';
+		set-cookie: osm-staticmap=tf-prd-osm-staticmap-1283|X7eDR|X7eDR; path=/
+		content-security-policy: frame-ancestors 'self';
+
+
+
+===========================================================================
+
+

@@ -1,0 +1,53 @@
+# GET appws.runtastic.com/webapps/services/settings/apps
+
++ Request
+
+	> Headers
+		:method: GET
+		:scheme: https
+		:path: /webapps/services/settings/apps
+		:authority: appws.runtastic.com
+		x-device-name: iPhone10,6
+		user-agent: runtastic/11.14.0.5457 CFNetwork/1206 Darwin/20.1.0
+		x-app-key: at.runtastic.gpssportapp
+		x-device-vendor: Apple
+		x-auth-token: a79454ac374aa3719706cc37cab9d9567c4dd0cf
+		x-date: 2020.11.20 08:49:36
+		x-device-firmware: iOS 14.2
+		x-app-version: 11.14
+		x-screen-pixels: 320x480
+		authorization: Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiIxbVNwMUVKek85NGlLazV0YW9HWWVibmVjb1JOYnB0YiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJ3aU51Yno4dGI2S3NLdFdVIiwiYmlydGhkYXRlIjoiMTk5OC0wOS0yMSIsImVtYWlsX3ZlcmlmaWVkIjoidHJ1ZSIsImFpYy5yZWdpc3RlcmVkX2F0IjoxNjA0Mzk0Mzk3LCJhbXIiOiJnb29nbGVwbHVzIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJUZXNhdXJvIiwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjoiZmFsc2UiLCJhY2lkIjoiUVdNNFdIMEc3RzJIQTFTQSIsInBpLnVrIjoiUVdNNFdIMEc3RzJIQTFTQSIsImF1dGhfdGltZSI6MTYwNDM5NDM5NywibWluX2FnZSI6MjIsImJyYW5kIjoiYWRpZGFzIiwiZmlyc3RfbmFtZSI6IkVtbWFudWVsIiwiZW1haWwiOiJjbGFzaG9mY2xhbnNlbXVAZ21haWwuY29tIiwiZXhwIjoxNjA3MDcyNzk3fQ.fCuMRlj2l0dWUyZmQt40nfKkP0Rdb6wbZJgq_01dgh0dqYX-EH7P4FhCIR4bFkofWDxsIOsamMX6J1dKGUbqd86qD9AR3BuOmiEAs3qTmTqw0q149fkA3-_gf1r7bOGqGv64Ws7rIfL0A4apwF5-ni9bFZmZ-G6JvbA1n6S90aMYiR71zY-JdMmBWPjHoatgf6gCGC78dwSg7jeAQXLGF0qNuULBy0mMw8rP-iO9xUWTZxM4R2lOouFq0DcjfC59rxL2XbNzKT0N9pduZUAAYnEsZL3GhI-jbuJRdzFpRk_WWGw2FAUSMySVCrVKV19psqqfvS0ckGfJjXHTDhlxNQ
+		accept-language: it-it
+		x-app-feature-set: lite
+		x-locale: it-IT
+		x-carrier: Vodafone IT;MCC=222;MNC=10
+		accept: application/json
+		content-type: application/json
+		accept-encoding: gzip, deflate, br
+		x-newrelic-id: Vw4AU1VACwUCVlhXAAU=
+
+
+
++ Response (200)
+
+	> Headers
+		:status: 200
+		server: nginx
+		date: Fri, 20 Nov 2020 08:49:38 GMT
+		content-type: application/json
+		content-length: 757
+		x-content-type-options: nosniff
+		referrer-policy: origin-when-cross-origin
+		x-frame-options: SAMEORIGIN
+		x-xss-protection: 1; mode=block
+		set-cookie: a4926be326b08cd3a67891d57a33d87b=1a5cbcdcad85986841f1096b481b0256; path=/; HttpOnly
+		cache-control: private
+		content-security-policy: frame-ancestors 'self';
+
+
+
+		Response body text: {"elevationServiceCanyonThreshold":"5.0","elevationServiceRefreshRate":"60","flatGradientZoneBorderHigh":"2.0","flatGradientZoneBorderLow":"-2.0","gpsLostTimeout":"30","hrmDongleNoiseThreshold":"10000","liveTracking":{"maxNumberOfLocations":"30","updateInterval":"30"},"maxGeoImageSize":"800","rnaCheckGuardInterval":"86400000","speedFilterForInvalidAcceleration":"1.3","trainingPlanMobilePurchaseEnabled":"true","useRuntasticElevationService":"true","weatherCacheTimeout":"3600","autoPause":{"allowed":"true","minGpsAccuracyEnter":"40","minGpsAccuracyExit":"100"},"fullFriendshipSyncGuardInterval":"60","goodGpsAccuracy":"80","maxGpsPositionAge":"180","maxValidGpsAccuracy":"163","maxValidGpsVerticalAccuracy":"160","usersMeRequestGuardInterval":"3600000"}
+
+===========================================================================
+
+
