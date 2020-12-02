@@ -1,52 +1,76 @@
 import os
 import sys
+import json
+import methods
 from datetime import datetime
-import re
-import glob
 from os import path
 
-
 try:
-    output_directory = sys.argv[1]
-    print('Analizzo la directory ' + output_directory + '\n')
+    input_file = sys.argv[1]
+    print('\nAnalizzo il file ' + input_file + '\n')
 except:
-    print('Errore: parametri errati!\n')
-    sys.exit("Assicurati di scrivere analyze.py '<path/to/input_directory>'")
+    print('\nErrore: parametri errati!\n')
+    sys.exit('Assicurati di scrivere analyze.py "<path/to/input_file>"')
 
-print("\n")
 start_time = datetime.now()
-print("Current time: " + str(start_time))
-print("\n")
-print("Starting analysis...")
-print("\n\n")
+print('Analisi iniziata...\n\n')
 
-# Controllo se ci sia già il file di output
-# Se c'è lo elimino, altrimenti l'esecuzione andrebbe in loop perchè
-# si aprirebbe da solo e si scriverebbe all'interno all'infinito
-if path.exists(output_directory + '/outputFile.txt'):
-    os.remove(output_directory + 'outputFile.txt')
+# Apro il file
+with open(input_file) as infile:
+    # Converto il file in json
+    json_file = json.load(infile)
 
-# Creo la lista che contiene i nomi di tutti i file nella directory test
-files = glob.glob(output_directory + '/*.txt')
+    # Recupero le entries (= richieste effettuate)
+    json_entries = json_file["log"]["entries"]
 
-# Per ogni file in files
-for file in files:
-    found = False
+    # Creo la cartella di output
+    output_folder = './results'
+    if not os.path.exists(output_folder):
+        os.mkdir(output_folder)
 
-    # Apro il file
-    with open(file) as infile:
+    # Creo il file di output
+    input_file_name = input_file.split('/')[-1].split('.')[0]
 
-        for line in infile:
-            x = re.search(r'\b[a-zA-Z_]+profile\b', line)
-            if x:
-                found = True
+    if path.exists(output_folder + '/' + input_file_name + '.txt'):
+        os.remove(output_folder + '/' + input_file_name + '.txt')
 
-        # Se non c'è un match con niente, elimino il file
-        if not found:
-            os.remove(file)
+    output_file = open(output_folder + '/' + input_file_name + '.txt', 'w')
 
-print("\n\n")
+    # Le scorro una ad una
+    for index, http_request in enumerate(json_entries):
+
+        # Controllo il method per recuperare solo i campi che mi servono
+        #GET & DELETE
+        if http_request['request']['method'] == 'GET' or http_request['request']['method'] == 'DELETE':
+
+            # REQUEST
+            request = http_request['request']
+            methods.analyze_get_delete_request(request, output_file)
+
+            # RESPONSE
+            response = http_request['response']
+            methods.analyze_get_delete_response(response, output_file) #TODO
+
+        # POST & PUT
+        elif http_request['request']['method'] == 'POST' or http_request['request']['method'] == 'PUT':
+
+            # REQUEST
+            request = http_request['request']
+            methods.analyze_post_put_request(request, output_file)
+
+            # RESPONSE
+            #TODO
+
+        # PATCH
+        elif http_request['request']['method'] == 'PATCH':
+            pass
+
+        else:
+            print(http_request['request']['method'])
+
+    output_file.close()
+
+print('\n')
+print('\aAnalisi completata.')
 end_time = datetime.now() - start_time
-print("Total time:" + str(end_time))
-print("\n")
-print("\aAnalysis completed.")
+print('Tempo totale:' + str(end_time) + '\n')
