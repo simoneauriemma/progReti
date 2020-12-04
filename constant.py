@@ -1,6 +1,6 @@
 class Constant:
-    NOME_COGNOME = r"\bLeonardo Caruso\b|\bLeonardo\b|\bCaruso\b"
-    EMAIL = r"\bleonardo.caruso@gmail.com\b"
+    NOME_COGNOME = r"\b[Ll]eonardo\s*[Cc]aruso\b|\b[Ll]eonardo\b|\b[cC]aruso\b"
+    EMAIL = r"\bleonardo.caruso597@gmail.com\b"
     GENDER = r"\bgender\b"
     ALTEZZA = ""
     PESO = r"\bweight\b"
@@ -10,5 +10,5 @@ class Constant:
     MATTINE = r"\bMattine\b"
     POSTAL_CODE = r"\b8404\\d\b"
     CARRIER = r"\bVodafone\b"
-    PHONE_NAME = r"\bEmmanuel\b"
+    PHONE_NAME = r"\b(i[pP]hone\s*([1-9][0-9]?,[0-9]|\d+s?|ce|[xX]|di\s*[Ee]mmanuel))\b"
     UDID = r"\b9c93c5bd4ae0d361640428bd3800f5b588de1699\b"

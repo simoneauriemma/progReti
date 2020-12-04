@@ -12,6 +12,7 @@ def chooseFile():
     os.system("python3 analyze.py " + filename)
     quit()
 
+"""
 root = Tk()
 root.title('Choose File')
 root.config(height=200, width=400)
@@ -43,6 +44,9 @@ y = (hs/2) - (h/2)
 root.geometry('%dx%d+%d+%d' % (root.winfo_reqwidth(),root.winfo_reqheight(), x-400, y- 200))
 
 root.mainloop()
+"""
+
+chooseFile()
 
 if __name__ == '__main__':
     chooseFile()
