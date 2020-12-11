@@ -7,10 +7,12 @@ from tkinter import PanedWindow
 from tkinter import Label
 from tkinter.filedialog import askopenfilename
 
+
 def chooseFile():
     filename = askopenfilename()
     os.system("python3 analyze.py " + filename)
     quit()
+
 
 """
 root = Tk()

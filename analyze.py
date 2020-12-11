@@ -45,18 +45,18 @@ with open(input_file) as infile:
 
             # REQUEST
             request = http_request['request']
-            methods.analyze_get_delete_request(request, output_file)
+            methods.analyze_get_delete_request(request, output_file, index)
 
             # RESPONSE
             response = http_request['response']
-            methods.analyze_get_delete_response(response, output_file) #TODO
+            methods.analyze_get_delete_response(response, output_file, index) #TODO
 
         # POST & PUT
         elif http_request['request']['method'] == 'POST' or http_request['request']['method'] == 'PUT':
 
             # REQUEST
             request = http_request['request']
-            methods.analyze_post_put_request(request, output_file)
+            methods.analyze_post_put_request(request, output_file, index)
 
             # RESPONSE
             #TODO

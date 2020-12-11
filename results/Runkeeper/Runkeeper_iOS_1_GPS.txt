@@ -1,0 +1,4471 @@
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 1159,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "application/x-protobuf"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "content-length",
+            "value": "402"
+        },
+        {
+            "name": "content-encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "user-agent",
+            "value": "datatransport/7.3.0 fllsupport/7.3.0 apple/"
+        },
+        {
+            "name": "x-goog-api-key",
+            "value": "AIzaSyB4G40IhwotnuD26vAV-0PAxOVr5zn1BCc"
+        }
+    ],
+    "headersSize": 328,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-protobuf",
+        "params": [],
+        "text": "\n\u0084\t\n7\b\u000f\"3\u001a\u000214\"\u000414.2*\u0005147022\u0002IT:\niPhone10,6B\u0002itZ\fRunKeeperPro\u0010\u0089\u0001\u001a\u00e6\u0002\b\u00b1\u008c\u00db\u00f9\u00df.2\u00d2\u0002\b\u0001:\u0003\u0002\u0013\u0012J\niPhone10,6R)1:662804283022:ios:7964cd5e772cfe81c013dfb\fRunKeeperPro\u0080\u0001\u0002\u0092\u0001\b61001000\u00a8\u0001\u0001\u00b2\u0001\u000414.2\u00c2\u0001\u000413.0\u00c8\u0001\u0001\u00d0\u0001\u0001\u00d8\u0001\u0015\u00e2\u0001\u000f12A7403-18A8394\u00e8\u0001\u0000\u00f0\u0001\u0001\u00fa\u0001\u00bc\u0001apple-platform/ios apple-sdk/18A8394 fire-abt/4.2.0 fire-analytics/6.8.0 fire-iid/4.6.0 fire-install/1.7.0 fire-ios/6.10.1 fire-rc/4.9.0 firebase-crashlytics/4.5.0 swift/true xcode/12A7403\u0088\u0002\u0000\u00a0\u0002\u0001x\u00a08\u0088\u0001\u00ff\u0097\u008d\u0096\u0003\u001a\u00e6\u0002\b\u00c9\u0098\u00db\u00f9\u00df.2\u00d2\u0002\b\u0001:\u0003\u0002\u0013\u0012J\niPhone10,6R)1:662804283022:ios:7964cd5e772cfe81c013dfb\fRunKeeperPro\u0080\u0001\u0002\u0092\u0001\b61001000\u00a8\u0001\u0001\u00b2\u0001\u000414.2\u00c2\u0001\u000413.0\u00c8\u0001\u0001\u00d0\u0001\u0001\u00d8\u0001\u0015\u00e2\u0001\u000f12A7403-18A8394\u00e8\u0001\u0000\u00f0\u0001\u0001\u00fa\u0001\u00bc\u0001apple-platform/ios apple-sdk/18A8394 fire-abt/4.2.0 fire-analytics/6.8.0 fire-iid/4.6.0 fire-install/1.7.0 fire-ios/6.10.1 fire-rc/4.9.0 firebase-crashlytics/4.5.0 swift/true xcode/12A7403\u0088\u0002\u0000\u00a0\u0002\u0001x\u00a08\u0088\u0001\u0096\u00a4\u008d\u0096\u0003\u001a\u00e6\u0002\b\u00ad\u00a9\u00d8\u00f9\u00df.2\u00d2\u0002\b\u0001:\u0003\u0002\u0013\u0012J\niPhone10,6R)1:662804283022:ios:7964cd5e772cfe81c013dfb\fRunKeeperPro\u0080\u0001\u0002\u0092\u0001\b61001000\u00a8\u0001\u0001\u00b2\u0001\u000414.2\u00c2\u0001\u000413.0\u00c8\u0001\u0001\u00d0\u0001\u0001\u00d8\u0001\u0015\u00e2\u0001\u000f12A7403-18A8394\u00e8\u0001\u0000\u00f0\u0001\u0001\u00fa\u0001\u00bc\u0001apple-platform/ios apple-sdk/18A8394 fire-abt/4.2.0 fire-analytics/6.8.0 fire-iid/4.6.0 fire-install/1.7.0 fire-ios/6.10.1 fire-rc/4.9.0 firebase-crashlytics/4.5.0 swift/true xcode/12A7403\u0088\u0002\u0000\u00a0\u0002\u0001x\u00a08\u0088\u0001\u00fa\u00b4\u008a\u0096\u0003 \u00d1\u00cc\u00e6\u00f9\u00df.@\u009f\u00d8\u0098\u0096\u0003"
+    },
+    "queryString": [],
+    "url": "https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/batchlog"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 362,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gsp64-ssl.ls.apple.com"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/octet-stream"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "User-Agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Content-Length",
+            "value": "362"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 308,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/octet-stream",
+        "params": [],
+        "text": "\u0000\u0002\u0000\bit-IT_IT\u0000\u000ecom.apple.geod\u0000\n14.2.18B92\u0000\u0004NONE\u0000\u0000\u0003\u00f9\u0000\u0000\u00014\n\u00b1\u0002\u00b2\u0006\u00a9\u0002\n#\u0098\u0006\u00c9\u0001\u00ca\f\u001c\n\n14.2.18B92\u0012\niPhone10,6\u0018\u0000 \u0000\n\u001f\u0098\u0006\u00ad\u0002\u00ea\u0012\u0018\n\u000ecom.apple.geod\u0012\u00031.0\u001a\u00011\n\u000e\u0098\u0006\u0092\u0003\u0092\u0019\u0007\n\u0005it-IT\n\u0014\u0098\u0006\u0093\u0003\u009a\u0019\r\b\u0003\u0012\u0002IT\u001a\u0003ho. \u0003\n\t\u0098\u0006\u0097\u0003\u00ba\u0019\u0002\u0010\u0000\n\t\u0098\u0006\u0094\u0003\u00a2\u0019\u0002\b\u0000\n\"\u0098\u0006\u0095\u0003\u00aa\u0019\u001b\b\u0001\u001a\u0017\n\u000b4.3.2.15U70\u0012\bWatch1,2\n\u000b\u0098\u0006\u00da\u0004\u00d2%\u0004\u001a\u0002\b\u0000\n4\u0098\u0006\u00d9\u0004\u00ca%-\n\u0015\b\u00ca\u00cb\u009f\u0084\u009d\u0091\u009a\u00a4X\u0010\u00b2\u00bb\u00b2\u0087\u00a9\u00a3\u00fd\u00c4\u00a1\u0001\u0019\u0000\u0000\u0000b=\u00b7\u00c2A2\u000b\b\u00c0\u00fd\u00b9\u00ab\u0002\u0015\u0000\u0000\u0080?\u00a0\u0006\u0006\u00d2\u0006:\b\u0013\u0010\u0000\u0018\u0000\u0080\u0001\u0080\u0002\u0088\u0001\u00b0\u0002\u00b2\u0001\u0004prod\u00b8\u0001\u00ec\u00e0z\u00c0\u0001\u0000\u00c8\u0001\u0000\u0092\u0003\u0014192.168.178.103:8080\u0098\u0003\u0000\u00c0>\u00e0]"
+    },
+    "queryString": [],
+    "url": "https://gsp64-ssl.ls.apple.com/hvr/v3/use"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gspe35-ssl.ls.apple.com"
+        },
+        {
+            "name": "If-None-Match",
+            "value": "\"7b884d2c35c72f14a273f098d97eb834f806139d\""
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "User-Agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        }
+    ],
+    "headersSize": 299,
+    "httpVersion": "HTTP/1.1",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "application",
+            "value": "geod"
+        },
+        {
+            "name": "application_version",
+            "value": "1"
+        },
+        {
+            "name": "country_code",
+            "value": "IT"
+        },
+        {
+            "name": "hardware",
+            "value": "iPhone10,6"
+        },
+        {
+            "name": "os",
+            "value": "ios"
+        },
+        {
+            "name": "os_build",
+            "value": "18B92"
+        },
+        {
+            "name": "os_version",
+            "value": "14.2"
+        }
+    ],
+    "url": "https://gspe35-ssl.ls.apple.com/geo_manifest/dynamic/config?application=geod&application_version=1&country_code=IT&hardware=iPhone10,6&os=ios&os_build=18B92&os_version=14.2"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gspe35-ssl.ls.apple.com"
+        },
+        {
+            "name": "If-None-Match",
+            "value": "\"7b884d2c35c72f14a273f098d97eb834f806139d\""
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "User-Agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        }
+    ],
+    "headersSize": 299,
+    "httpVersion": "HTTP/1.1",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "application",
+            "value": "geod"
+        },
+        {
+            "name": "application_version",
+            "value": "1"
+        },
+        {
+            "name": "country_code",
+            "value": "IT"
+        },
+        {
+            "name": "hardware",
+            "value": "iPhone10,6"
+        },
+        {
+            "name": "os",
+            "value": "ios"
+        },
+        {
+            "name": "os_build",
+            "value": "18B92"
+        },
+        {
+            "name": "os_version",
+            "value": "14.2"
+        }
+    ],
+    "url": "https://gspe35-ssl.ls.apple.com/geo_manifest/dynamic/config?application=geod&application_version=1&country_code=IT&hardware=iPhone10,6&os=ios&os_build=18B92&os_version=14.2"
+}
+
+####################################
+
+Ho trovato NOME_COGNOME, EMAIL, 
+
+{
+    "bodySize": 538,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "api-key",
+            "value": "33c39709f2c64477ae12d89864eb048a"
+        },
+        {
+            "name": "content-type",
+            "value": "application/json"
+        },
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-length",
+            "value": "538"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "sdk-version",
+            "value": "6.2.2"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/14702 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "sdk-platform",
+            "value": "iOS"
+        }
+    ],
+    "headersSize": 345,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/json",
+        "params": [],
+        "text": "{\"device\":{\"platform\":\"APNS\",\"applicationName\":\"iOS\",\"token\":\"38a2c3f5e5c5ad32ddb09b632b5415fa87d1f839ad11ba90ea11e94153b9f6da\",\"dataFields\":{\"userInterfaceIdiom\":\"Phone\",\"model\":\"iPhone\",\"systemVersion\":\"14.2\",\"appVersion\":\"11.2.1\",\"appBuild\":\"14702\",\"deviceId\":\"47BEF873-C5A5-436E-A39C-5AF4A37BAFD9\",\"iterableSdkVersion\":\"6.2.2\",\"notificationsEnabled\":true,\"systemName\":\"iOS\",\"appPackageName\":\"RunKeeperPro\",\"localizedModel\":\"iPhone\",\"identifierForVendor\":\"7B652CDF-A789-44B7-8B54-33853E682FF6\"}},\"email\":\"leonardo.caruso597@gmail.com\"}"
+    },
+    "queryString": [
+        {
+            "name": "Api-Key",
+            "value": "33c39709f2c64477ae12d89864eb048a"
+        }
+    ],
+    "url": "https://api.iterable.com/api/users/registerDeviceToken?Api-Key=33c39709f2c64477ae12d89864eb048a"
+}
+
+####################################
+
+Ho trovato NOME_COGNOME, EMAIL, 
+
+{
+    "bodySize": 538,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "api-key",
+            "value": "33c39709f2c64477ae12d89864eb048a"
+        },
+        {
+            "name": "content-type",
+            "value": "application/json"
+        },
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-length",
+            "value": "538"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "sdk-version",
+            "value": "6.2.2"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/14702 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "sdk-platform",
+            "value": "iOS"
+        }
+    ],
+    "headersSize": 345,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/json",
+        "params": [],
+        "text": "{\"email\":\"leonardo.caruso597@gmail.com\",\"device\":{\"applicationName\":\"iOS\",\"token\":\"38a2c3f5e5c5ad32ddb09b632b5415fa87d1f839ad11ba90ea11e94153b9f6da\",\"platform\":\"APNS\",\"dataFields\":{\"appBuild\":\"14702\",\"userInterfaceIdiom\":\"Phone\",\"deviceId\":\"47BEF873-C5A5-436E-A39C-5AF4A37BAFD9\",\"appPackageName\":\"RunKeeperPro\",\"localizedModel\":\"iPhone\",\"appVersion\":\"11.2.1\",\"systemVersion\":\"14.2\",\"notificationsEnabled\":true,\"systemName\":\"iOS\",\"model\":\"iPhone\",\"iterableSdkVersion\":\"6.2.2\",\"identifierForVendor\":\"7B652CDF-A789-44B7-8B54-33853E682FF6\"}}}"
+    },
+    "queryString": [
+        {
+            "name": "Api-Key",
+            "value": "33c39709f2c64477ae12d89864eb048a"
+        }
+    ],
+    "url": "https://api.iterable.com/api/users/registerDeviceToken?Api-Key=33c39709f2c64477ae12d89864eb048a"
+}
+
+####################################
+
+Ho trovato NOME_COGNOME, EMAIL, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "api-key",
+            "value": "33c39709f2c64477ae12d89864eb048a"
+        },
+        {
+            "name": "content-type",
+            "value": "application/json"
+        },
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/14702 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "sdk-version",
+            "value": "6.2.2"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "sdk-platform",
+            "value": "iOS"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 316,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "packageName",
+            "value": "RunKeeperPro"
+        },
+        {
+            "name": "platform",
+            "value": "iOS"
+        },
+        {
+            "name": "SDKVersion",
+            "value": "6.2.2"
+        },
+        {
+            "name": "count",
+            "value": "100"
+        },
+        {
+            "name": "email",
+            "value": "leonardo.caruso597@gmail.com"
+        }
+    ],
+    "url": "https://api.iterable.com/api/inApp/getMessages?packageName=RunKeeperPro&platform=iOS&SDKVersion=6.2.2&count=100&email=leonardo.caruso597@gmail.com"
+}
+
+####################################
+
+Ho trovato NOME_COGNOME, EMAIL, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "api-key",
+            "value": "33c39709f2c64477ae12d89864eb048a"
+        },
+        {
+            "name": "content-type",
+            "value": "application/json"
+        },
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/14702 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "sdk-version",
+            "value": "6.2.2"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "sdk-platform",
+            "value": "iOS"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 316,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "packageName",
+            "value": "RunKeeperPro"
+        },
+        {
+            "name": "platform",
+            "value": "iOS"
+        },
+        {
+            "name": "SDKVersion",
+            "value": "6.2.2"
+        },
+        {
+            "name": "count",
+            "value": "100"
+        },
+        {
+            "name": "email",
+            "value": "leonardo.caruso597@gmail.com"
+        }
+    ],
+    "url": "https://api.iterable.com/api/inApp/getMessages?packageName=RunKeeperPro&platform=iOS&SDKVersion=6.2.2&count=100&email=leonardo.caruso597@gmail.com"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 659,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gsp-ssl.ls.apple.com"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/octet-stream"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "x-msg-priority",
+            "value": "5"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Content-Length",
+            "value": "659"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "User-Agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        }
+    ],
+    "headersSize": 333,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/octet-stream",
+        "params": [],
+        "text": "\u0000\u0001\u0000\bit-IT_IT\u0000\u000ecom.apple.geod\u0000\n14.2.18B92\u0000\u0000\u0000<\u0000\u0000\u0002c\n\u0093\u0001\n\fRunKeeperPro\u0012\u000611.2.1\u001a\u000514702\"\niPhone10,6*\n14.2.18B920\u00008\u0000B\u0015\b\u00dc\u00bd\u00ce\u00ce\u00b4\u00e5\u00f0\u00a2\u007f\u0010\u00a0\u00b1\u00d7\u00fa\u00fb\u00fb\u00c2\u00a6\u00a8\u0001H\u0001`\u0000j(\b\u0012\u0012$EFE65AB7-AB7A-43F1-AC07-1124355BA3D2r\tiPhone OS\u0091\u0001\u0000\u0000\u0000\u0000`\u0019\u00d4>\u00122\n\u0002IT\u001a\u0005it-ITJ\u0000P\u0001X\f`\u0003\u0080\u0001\u0003\u0098\u0001\u0000\u00b0\u0001\u0007\u00ba\u0001\u0006\b\u0001\b\u0000\u0010\u0001\u00d0\u0001\u0001\u00a2\u0006\u0007*\u0005\b\u00a9?\u0010\u0000\u001a\u0005it-IT*!\b\u001a\u0018\u0003*\u001b\u00d2\u0001\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\b\b\u000f\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\t\bA\u0018\u0005*\u0003\u008a\u0004\u0000*\u0004\b<\u0018\u0001*\u0004\b\n\u0018\u0001*\u0004\b'\u0018\u0001*\u0004\b&\u0018\u0001*\u0004\bB\u0018\u0001*\u0007\b\u001e*\u0003\u00f2\u0001\u0000*\u0004\b0\u0018\u0001*\u0004\b\u0018\u0018\u0001*\t\bG\u0018\u0001*\u0003\u00ba\u0004\u0000*\u0004\b\r\u0018\u0001*\u0004\b\u0006\u0018\u0004*\u0004\b!\u0018\u0001*\u0004\bL\u0018\u0001*\b\b@\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0004\b2\u0018\u0001*\u0004\bM\u0018\u0001*\b\b?\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0010\b\u0007\u0018\u0003*\n:\b\n\u0004\b<\u0010<\u0010\u0001*3\b\u000b\u0018\u0001*-Z+*\r\n\t\b\u0082\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u00042\r\n\t\b\u0082\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u0004:\t\b\u0082\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e@\u0001*\b\b\u0010\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\t\b;\u0018\u0001*\u0003\u00da\u0003\u0000*\u0004\bI\u0018\u0001*\u0004\b\u0017\u0018\u0006*\t\b7\u0018\u0001*\u0003\u00ba\u0003\u0000*\u0004\b5\u0018\u0001*\u000b\b(\u0018\u0004*\u0005\u00c2\u0002\u0002\b\u0004*\u0004\b\u0014\u0018\u0001*\u0004\b>\u0018\u0001*\u0004\b8\u0018\u0001*!\b9\u0018\u0001*\u001b\u00ca\u0003\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\u0004\b6\u0018\u0001*\u000f\b$\u0018\u0003*\t\u00a2\u0002\u0006\n\u0004\b<\u0010<*\u0004\b\u0004\u0018\u0001*\u0004\b\u0016\u0018\u00018\u0018J\u0002IT"
+    },
+    "queryString": [],
+    "url": "https://gsp-ssl.ls.apple.com/dispatcher.arpc"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "if-none-match",
+            "value": "\"bcd0a449a9eaaabd83260246b42473fb405bc794\""
+        },
+        {
+            "name": "user-agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 228,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "os",
+            "value": "ios"
+        },
+        {
+            "name": "os_version",
+            "value": "14.2"
+        },
+        {
+            "name": "hardware",
+            "value": "iPhone10,6"
+        }
+    ],
+    "url": "https://configuration.ls.apple.com/config/defaults?os=ios&os_version=14.2&hardware=iPhone10,6"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "if-none-match",
+            "value": "\"bcd0a449a9eaaabd83260246b42473fb405bc794\""
+        },
+        {
+            "name": "user-agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 228,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "os",
+            "value": "ios"
+        },
+        {
+            "name": "os_version",
+            "value": "14.2"
+        },
+        {
+            "name": "hardware",
+            "value": "iPhone10,6"
+        }
+    ],
+    "url": "https://configuration.ls.apple.com/config/defaults?os=ios&os_version=14.2&hardware=iPhone10,6"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getLiveTrackingContacts?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getLiveTrackingContacts?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato NOME_COGNOME, EMAIL, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "api-key",
+            "value": "33c39709f2c64477ae12d89864eb048a"
+        },
+        {
+            "name": "content-type",
+            "value": "application/json"
+        },
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/14702 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "sdk-version",
+            "value": "6.2.2"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "sdk-platform",
+            "value": "iOS"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 316,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "platform",
+            "value": "iOS"
+        },
+        {
+            "name": "email",
+            "value": "leonardo.caruso597@gmail.com"
+        },
+        {
+            "name": "count",
+            "value": "100"
+        },
+        {
+            "name": "SDKVersion",
+            "value": "6.2.2"
+        },
+        {
+            "name": "packageName",
+            "value": "RunKeeperPro"
+        }
+    ],
+    "url": "https://api.iterable.com/api/inApp/getMessages?platform=iOS&email=leonardo.caruso597@gmail.com&count=100&SDKVersion=6.2.2&packageName=RunKeeperPro"
+}
+
+####################################
+
+Ho trovato NOME_COGNOME, EMAIL, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "api-key",
+            "value": "33c39709f2c64477ae12d89864eb048a"
+        },
+        {
+            "name": "content-type",
+            "value": "application/json"
+        },
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/14702 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "sdk-version",
+            "value": "6.2.2"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "sdk-platform",
+            "value": "iOS"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 316,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "platform",
+            "value": "iOS"
+        },
+        {
+            "name": "email",
+            "value": "leonardo.caruso597@gmail.com"
+        },
+        {
+            "name": "count",
+            "value": "100"
+        },
+        {
+            "name": "SDKVersion",
+            "value": "6.2.2"
+        },
+        {
+            "name": "packageName",
+            "value": "RunKeeperPro"
+        }
+    ],
+    "url": "https://api.iterable.com/api/inApp/getMessages?platform=iOS&email=leonardo.caruso597@gmail.com&count=100&SDKVersion=6.2.2&packageName=RunKeeperPro"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "goalTypes",
+            "value": "[\n  0,\n  1,\n  2,\n  3,\n  4\n]"
+        },
+        {
+            "name": "lastSyncTime",
+            "value": "0"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getUpdatedGoalIds?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&goalTypes=%5B%0A%20%200%2C%0A%20%201%2C%0A%20%202%2C%0A%20%203%2C%0A%20%204%0A%5D&lastSyncTime=0&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getThirdParty?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getAvailableVirtualRaceEvents?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getThirdParty?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/listRoutes?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/listRoutes?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getUserSettings?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "lastSyncTime",
+            "value": "1606304672978"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getActivityUUIDs?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&lastSyncTime=1606304672978&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/90dayGo?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/90dayGo?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getUserSettings?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getVirtualRaceEvents?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "includePendingInvitesSent",
+            "value": "true"
+        },
+        {
+            "name": "includeReceivedInvites",
+            "value": "true"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "staleOk",
+            "value": "1"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getFriends?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&includePendingInvitesSent=true&includeReceivedInvites=true&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&staleOk=1&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "lastUpdate",
+            "value": "1606304700602"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "notificationVersion",
+            "value": "7"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/pullNotifications?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&lastUpdate=1606304700602&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&notificationVersion=7&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "lastSyncTime",
+            "value": "1606304604758"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getWeights?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&lastSyncTime=1606304604758&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "goalTypes",
+            "value": "[\n  0,\n  1,\n  2,\n  3,\n  4\n]"
+        },
+        {
+            "name": "lastSyncTime",
+            "value": "0"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getUpdatedGoalIds?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&goalTypes=%5B%0A%20%200%2C%0A%20%201%2C%0A%20%202%2C%0A%20%203%2C%0A%20%204%0A%5D&lastSyncTime=0&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "countryCode",
+            "value": "IT"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "feedItemTypes",
+            "value": "[\n  0\n]"
+        },
+        {
+            "name": "includePoints",
+            "value": "1"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getFeedItems?apiVer=2.3&countryCode=IT&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&feedItemTypes=%5B%0A%20%200%0A%5D&includePoints=1&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gspe35-ssl.ls.apple.com"
+        },
+        {
+            "name": "If-None-Match",
+            "value": "\"7b884d2c35c72f14a273f098d97eb834f806139d\""
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "User-Agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        }
+    ],
+    "headersSize": 299,
+    "httpVersion": "HTTP/1.1",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "application",
+            "value": "geod"
+        },
+        {
+            "name": "application_version",
+            "value": "1"
+        },
+        {
+            "name": "country_code",
+            "value": "IT"
+        },
+        {
+            "name": "hardware",
+            "value": "iPhone10,6"
+        },
+        {
+            "name": "os",
+            "value": "ios"
+        },
+        {
+            "name": "os_build",
+            "value": "18B92"
+        },
+        {
+            "name": "os_version",
+            "value": "14.2"
+        }
+    ],
+    "url": "https://gspe35-ssl.ls.apple.com/geo_manifest/dynamic/config?application=geod&application_version=1&country_code=IT&hardware=iPhone10,6&os=ios&os_build=18B92&os_version=14.2"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gspe35-ssl.ls.apple.com"
+        },
+        {
+            "name": "If-None-Match",
+            "value": "\"7b884d2c35c72f14a273f098d97eb834f806139d\""
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "User-Agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        }
+    ],
+    "headersSize": 299,
+    "httpVersion": "HTTP/1.1",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "application",
+            "value": "geod"
+        },
+        {
+            "name": "application_version",
+            "value": "1"
+        },
+        {
+            "name": "country_code",
+            "value": "IT"
+        },
+        {
+            "name": "hardware",
+            "value": "iPhone10,6"
+        },
+        {
+            "name": "os",
+            "value": "ios"
+        },
+        {
+            "name": "os_build",
+            "value": "18B92"
+        },
+        {
+            "name": "os_version",
+            "value": "14.2"
+        }
+    ],
+    "url": "https://gspe35-ssl.ls.apple.com/geo_manifest/dynamic/config?application=geod&application_version=1&country_code=IT&hardware=iPhone10,6&os=ios&os_build=18B92&os_version=14.2"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 707,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gsp-ssl.ls.apple.com"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/octet-stream"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "x-msg-priority",
+            "value": "5"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Content-Length",
+            "value": "707"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "User-Agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        }
+    ],
+    "headersSize": 333,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/octet-stream",
+        "params": [],
+        "text": "\u0000\u0001\u0000\bit-IT_IT\u0000\u000ecom.apple.geod\u0000\n14.2.18B92\u0000\u0000\u0000<\u0000\u0000\u0002\u0093\n\u00c3\u0001\nCcom.apple.corelocation.CoreLocationVanillaWhenInUseAuthPromptPlugin\u0012\u00031.0\u001a\u00012\"\niPhone10,6*\n14.2.18B920\u00008\u0000B\u0015\b\u00fb\u00b8\u0091\u00ed\u009a\u0083\u00f3\u00a2\u00ff\u0001\u0010\u0098\u0083\u00fa\u00fc\u008b\u00f0\u008b\u00b4\rH\u0000`\u0000j(\b\u0012\u0012$064130DC-BF9D-46D7-BFB9-FF54751F2536r\tiPhone OS\u0091\u0001\u0000\u0000\u0000\u0000\u0000\u00c7\u00d0>\u00122\n\u0002IT\u001a\u0005it-ITJ\u0000P\u0001X\f`\u0003\u0080\u0001\u0003\u0098\u0001\u0000\u00b0\u0001\u0007\u00ba\u0001\u0006\b\u0001\b\u0000\u0010\u0001\u00d0\u0001\u0001\u00a2\u0006\u0007*\u0005\b\u00a9?\u0010\u0000\u001a\u0005it-IT*!\b\u001a\u0018\u0003*\u001b\u00d2\u0001\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\b\b\u000f\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\t\bA\u0018\u0005*\u0003\u008a\u0004\u0000*\u0004\b<\u0018\u0001*\u0004\b\n\u0018\u0001*\u0004\b'\u0018\u0001*\u0007\b\u001e*\u0003\u00f2\u0001\u0000*\u0004\bB\u0018\u0001*\u0004\b&\u0018\u0001*\u0004\b0\u0018\u0001*\u0004\b\u0018\u0018\u0001*\t\bG\u0018\u0001*\u0003\u00ba\u0004\u0000*\u0004\b\r\u0018\u0001*\u0004\b\u0006\u0018\u0004*\u0004\b!\u0018\u0001*\u0004\bL\u0018\u0001*\b\b@\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0004\b2\u0018\u0001*\u0004\bM\u0018\u0001*\b\b?\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0010\b\u0007\u0018\u0003*\n:\b\n\u0004\b<\u0010<\u0010\u0001*\b\b\u0010\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\t\b;\u0018\u0001*\u0003\u00da\u0003\u0000*\u0004\bI\u0018\u0001*\u0004\b\u0017\u0018\u0006*\t\b7\u0018\u0001*\u0003\u00ba\u0003\u0000*\u0004\b5\u0018\u0001*\u000b\b(\u0018\u0004*\u0005\u00c2\u0002\u0002\b\u0004*\u0004\b\u0014\u0018\u0001*\u0004\b>\u0018\u0001*3\b\u000b\u0018\u0001*-Z+*\r\n\t\b\u0097\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u00042\r\n\t\b\u0097\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u0004:\t\b\u0097\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e@\u0001*\u0004\b8\u0018\u0001*!\b9\u0018\u0001*\u001b\u00ca\u0003\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\u0004\b6\u0018\u0001*\u000f\b$\u0018\u0003*\t\u00a2\u0002\u0006\n\u0004\b<\u0010<*\u0004\b\u0004\u0018\u0001*\u0004\b\u0016\u0018\u00018\u0018J\u0002IT"
+    },
+    "queryString": [],
+    "url": "https://gsp-ssl.ls.apple.com/dispatcher.arpc"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "if-none-match",
+            "value": "\"bcd0a449a9eaaabd83260246b42473fb405bc794\""
+        },
+        {
+            "name": "user-agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 228,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "os",
+            "value": "ios"
+        },
+        {
+            "name": "os_version",
+            "value": "14.2"
+        },
+        {
+            "name": "hardware",
+            "value": "iPhone10,6"
+        }
+    ],
+    "url": "https://configuration.ls.apple.com/config/defaults?os=ios&os_version=14.2&hardware=iPhone10,6"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "if-none-match",
+            "value": "\"bcd0a449a9eaaabd83260246b42473fb405bc794\""
+        },
+        {
+            "name": "user-agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 228,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "os",
+            "value": "ios"
+        },
+        {
+            "name": "os_version",
+            "value": "14.2"
+        },
+        {
+            "name": "hardware",
+            "value": "iPhone10,6"
+        }
+    ],
+    "url": "https://configuration.ls.apple.com/config/defaults?os=ios&os_version=14.2&hardware=iPhone10,6"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 538,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/14702 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "content-encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "content-length",
+            "value": "476"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 288,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "\n\u0097\u0004\b\u0001\u0012)\n\t\n\u0003_et\u0018\u00f0\u00a7\u0001\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00e6\u00f7\u00e7\u00f9\u00df. \u00ce\u00a3\u00e3\u00f9\u00df.\u0012\u001f\n\n\n\u0002_o\u0012\u0004auto\u0012\u0003_ab\u0018\u00e6\u00f7\u00e7\u00f9\u00df. \u00cf\u00a3\u00e3\u00f9\u00df.\u001a\u000e\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0003_fi \u0001\u001a\u0014\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0004_fot \u0080\u00a4\u0099\u00fa\u00df.\u001a\u0013\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0004_sid \u00e3\u0085\u00f9\u00fd\u0005\u001a\u000f\b\u00ad\u009d\u00d5\u00f9\u00df.\u0012\u0004_sno \u0001\u001a\u0018\b\u00ec\u00c0\u00d7\u00f9\u00df.\u0012\tisNewUser\u001a\u0004true\u001a\u0011\b\u009c\u00f9\u00e7\u00f9\u00df.\u0012\u0004_lte \u0084\u0092\u000f\u001a\u0010\b\u009e\u00f9\u00e7\u00f9\u00df.\u0012\u0003_se \u0084\u0092\u000f\u001a\u000f\b\u008d\u00cd\u00e6\u00f9\u00df.\u0012\u0004_npa \u0001\u001a\u0016\b\u00b7\u00cd\u00e6\u00f9\u00df.\u0012\u0003_id\u001a\b72318391 \u00a6\u00f9\u00e7\u00f9\u00df.(\u00e6\u00f7\u00e7\u00f9\u00df.0\u00e6\u00f7\u00e7\u00f9\u00df.8\u00cf\u00a3\u00e3\u00f9\u00df.B\u0003iosJ\u000414.2R\niPhone10,6Z\u0005it-it`<r\fRunKeeperPro\u0082\u0001\u000611.2.1\u0088\u0001\u0080\u00db\u0003\u0090\u0001\u0080\u00db\u0003\u00aa\u0001 DE7B6F0EA3504015936367058CDF5D7E\u00b8\u0001\b\u00ca\u0001)1:662804283022:ios:7964cd5e772cfe81c013df\u00d0\u0001\u00c6\u00bc\u00e0\u00f9\u00df.\u00da\u0001$7B652CDF-A789-44B7-8B54-33853E682FF6\u00f2\u0001\u0016cYDzYIZm5081j3atBLxL_t\u00f8\u0001\u00eer\u0098\u0002\u00e8\u00db\u00fe\u00af\u00c0\u00af\u00e9\u0002\u00e8\u0002\u00b3\u00c3\u00b5\u0014\u00a2\u0003\u0004G1--\u00a8\u0003\u0005",
+                "value": ""
+            }
+        ],
+        "text": "\n\u0097\u0004\b\u0001\u0012)\n\t\n\u0003_et\u0018\u00f0\u00a7\u0001\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00e6\u00f7\u00e7\u00f9\u00df. \u00ce\u00a3\u00e3\u00f9\u00df.\u0012\u001f\n\n\n\u0002_o\u0012\u0004auto\u0012\u0003_ab\u0018\u00e6\u00f7\u00e7\u00f9\u00df. \u00cf\u00a3\u00e3\u00f9\u00df.\u001a\u000e\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0003_fi \u0001\u001a\u0014\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0004_fot \u0080\u00a4\u0099\u00fa\u00df.\u001a\u0013\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0004_sid \u00e3\u0085\u00f9\u00fd\u0005\u001a\u000f\b\u00ad\u009d\u00d5\u00f9\u00df.\u0012\u0004_sno \u0001\u001a\u0018\b\u00ec\u00c0\u00d7\u00f9\u00df.\u0012\tisNewUser\u001a\u0004true\u001a\u0011\b\u009c\u00f9\u00e7\u00f9\u00df.\u0012\u0004_lte \u0084\u0092\u000f\u001a\u0010\b\u009e\u00f9\u00e7\u00f9\u00df.\u0012\u0003_se \u0084\u0092\u000f\u001a\u000f\b\u008d\u00cd\u00e6\u00f9\u00df.\u0012\u0004_npa \u0001\u001a\u0016\b\u00b7\u00cd\u00e6\u00f9\u00df.\u0012\u0003_id\u001a\b72318391 \u00a6\u00f9\u00e7\u00f9\u00df.(\u00e6\u00f7\u00e7\u00f9\u00df.0\u00e6\u00f7\u00e7\u00f9\u00df.8\u00cf\u00a3\u00e3\u00f9\u00df.B\u0003iosJ\u000414.2R\niPhone10,6Z\u0005it-it`<r\fRunKeeperPro\u0082\u0001\u000611.2.1\u0088\u0001\u0080\u00db\u0003\u0090\u0001\u0080\u00db\u0003\u00aa\u0001 DE7B6F0EA3504015936367058CDF5D7E\u00b8\u0001\b\u00ca\u0001)1:662804283022:ios:7964cd5e772cfe81c013df\u00d0\u0001\u00c6\u00bc\u00e0\u00f9\u00df.\u00da\u0001$7B652CDF-A789-44B7-8B54-33853E682FF6\u00f2\u0001\u0016cYDzYIZm5081j3atBLxL_t\u00f8\u0001\u00eer\u0098\u0002\u00e8\u00db\u00fe\u00af\u00c0\u00af\u00e9\u0002\u00e8\u0002\u00b3\u00c3\u00b5\u0014\u00a2\u0003\u0004G1--\u00a8\u0003\u0005"
+    },
+    "queryString": [],
+    "url": "https://app-measurement.com/a"
+}
+
+####################################
+
+Ho trovato UDID, 
+
+{
+    "bodySize": 1364,
+    "cookies": [
+        {
+            "httpOnly": false,
+            "name": "xr_3n2093n1a",
+            "secure": false,
+            "value": "BVP7AN0KGxNMj1RonQnRBowBzOtpJT7Jnq66XGZvwZAebA=="
+        }
+    ],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "p50-fmf.icloud.com"
+        },
+        {
+            "name": "X-Apple-PrsId",
+            "value": "10176858006"
+        },
+        {
+            "name": "User-Agent",
+            "value": "fmflocatord/7.0 iPhone10,6/18B92"
+        },
+        {
+            "name": "Cookie",
+            "value": "xr_3n2093n1a=BVP7AN0KGxNMj1RonQnRBowBzOtpJT7Jnq66XGZvwZAebA=="
+        },
+        {
+            "name": "X-Apple-PushEnv",
+            "value": "production"
+        },
+        {
+            "name": "X-Apple-Realm-Support",
+            "value": "1.0"
+        },
+        {
+            "name": "Content-Length",
+            "value": "1364"
+        },
+        {
+            "name": "X-Apple-I-TimeZone",
+            "value": "CET"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "X-Apple-I-Client-Time",
+            "value": "2020-11-25T11:46:32Z"
+        },
+        {
+            "name": "X-Apple-Find-API-Ver",
+            "value": "7.0"
+        },
+        {
+            "name": "Authorization",
+            "value": "Basic MTAxNzY4NTgwMDY6RUFBUEFBQUFCTHdJQUFBQUFGLXBIWGNSRG1kekxtbGpiRzkxWkM1aGRYUm92UUJfSVV6UGxXUkRBTGZxSENPRzYta284dDRSOGg5LS1pRVNkRFo5Snk2bFMyemM1azQyQ0hIODlEbmNZUmtQX2dLcjZCVW1uVVI1TndkdEVReVNFbGh6ZkJqTmpCUlNSVHc1Wl9ZaEpSTS1sOHJia3RTczJJMXliV19SQWJES0tyb1ExNG5MZmx0R3Jid1BKdzJNeUN6ZzRmdHhfZ35+"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "X-Apple-I-MD-RINFO",
+            "value": "17106176"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/json"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "X-Apple-I-MD-M",
+            "value": "0K97Ed9w16v6vw+SaEEfowe0Bc2butK88d/pIdFp3s4RROvATIbsd66z/CykwvDUccvowvwTl9rOQHYk"
+        },
+        {
+            "name": "X-Apple-I-Locale",
+            "value": "it_IT"
+        },
+        {
+            "name": "X-Apple-I-MD",
+            "value": "AAAABQAAABBqipVmfVh+OHLB2Mh7d42bAAAAAw=="
+        }
+    ],
+    "headersSize": 1163,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/json",
+        "params": [],
+        "text": "{\"deviceContext\":{\"deviceTS\":\"2020-11-25T11:46:32.837Z\",\"cause\":\"FMFLocationServicesStateChanged\",\"registeredCauses\":[\"FMFLocationServicesStateChanged\"]},\"deviceInfo\":{\"supportsNotifyV2\":true,\"supportsForceTouch\":true,\"deviceClass\":\"iPhone\",\"locationServicesEnabled\":true,\"isChargerConnected\":true,\"unlockState\":3,\"smlLS\":true,\"deviceName\":\"iPhone di Emmanuel\",\"deviceColor\":\"1\",\"processId\":\"10664\",\"allPushTokens\":[\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\"],\"fmf\":true,\"fenceMonitoringCapable\":true,\"productType\":\"iPhone10,6\",\"udid\":\"9c93c5bd4ae0d361640428bd3800f5b588de1699\",\"aps-token\":\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\",\"locale\":\"it_IT\",\"fmfVersion\":\"526\",\"isFMFAppRemoved\":false,\"platform\":\"iphoneos\",\"batteryStatus\":\"Charging\",\"idsDeviceId\":\"76010A50-0E0F-4059-9848-1D1593A5DAAF\",\"serialNumber\":\"F2LW4E2GJCLH\",\"timezone\":\"Europe\\/Rome\",\"isInternal\":false,\"otherDevices\":[{\"connectionStatus\":\"not-connected\",\"productType\":\"Watch1,2\",\"deviceClass\":\"Watch\",\"platform\":\"watchos\",\"pairingId\":\"6543870E-D725-44EC-A1EE-D86F390E3A6B\",\"udid\":\"efc79ac8b8dc7310b6c31c3e76dec18212b9a891\",\"deviceName\":\"Apple\u00a0Watch di Emmanuel\",\"lastActiveTime\":1603197653498}],\"fmfRestrictions\":false,\"fmfBuildVersion\":\"5.0\",\"batteryLevel\":0.86000001430511475,\"enclosureColor\":\"1\",\"buildVersion\":\"18B92\",\"productVersion\":\"14.2\"}}"
+    },
+    "queryString": [],
+    "url": "https://p50-fmf.icloud.com/fmipservice/fmf/10176858006/9c93c5bd4ae0d361640428bd3800f5b588de1699/register"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 1364,
+    "cookies": [
+        {
+            "httpOnly": false,
+            "name": "xr_3n2093n1a",
+            "secure": false,
+            "value": "BVP7AN0KGxNMj1RonQnRBowBzOtpJT7Jnq66XGZvwZAebA=="
+        }
+    ],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "p50-fmf.icloud.com"
+        },
+        {
+            "name": "X-Apple-PrsId",
+            "value": "10176858006"
+        },
+        {
+            "name": "User-Agent",
+            "value": "fmflocatord/7.0 iPhone10,6/18B92"
+        },
+        {
+            "name": "Cookie",
+            "value": "xr_3n2093n1a=BVP7AN0KGxNMj1RonQnRBowBzOtpJT7Jnq66XGZvwZAebA=="
+        },
+        {
+            "name": "X-Apple-PushEnv",
+            "value": "production"
+        },
+        {
+            "name": "X-Apple-Realm-Support",
+            "value": "1.0"
+        },
+        {
+            "name": "Content-Length",
+            "value": "1364"
+        },
+        {
+            "name": "X-Apple-I-TimeZone",
+            "value": "CET"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "X-Apple-I-Client-Time",
+            "value": "2020-11-25T11:46:32Z"
+        },
+        {
+            "name": "X-Apple-Find-API-Ver",
+            "value": "7.0"
+        },
+        {
+            "name": "Authorization",
+            "value": "Basic MTAxNzY4NTgwMDY6RUFBUEFBQUFCTHdJQUFBQUFGLXBIWGNSRG1kekxtbGpiRzkxWkM1aGRYUm92UUJfSVV6UGxXUkRBTGZxSENPRzYta284dDRSOGg5LS1pRVNkRFo5Snk2bFMyemM1azQyQ0hIODlEbmNZUmtQX2dLcjZCVW1uVVI1TndkdEVReVNFbGh6ZkJqTmpCUlNSVHc1Wl9ZaEpSTS1sOHJia3RTczJJMXliV19SQWJES0tyb1ExNG5MZmx0R3Jid1BKdzJNeUN6ZzRmdHhfZ35+"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "X-Apple-I-MD-RINFO",
+            "value": "17106176"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/json"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "X-Apple-I-MD-M",
+            "value": "0K97Ed9w16v6vw+SaEEfowe0Bc2butK88d/pIdFp3s4RROvATIbsd66z/CykwvDUccvowvwTl9rOQHYk"
+        },
+        {
+            "name": "X-Apple-I-Locale",
+            "value": "it_IT"
+        },
+        {
+            "name": "X-Apple-I-MD",
+            "value": "AAAABQAAABBqipVmfVh+OHLB2Mh7d42bAAAAAw=="
+        }
+    ],
+    "headersSize": 1163,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/json",
+        "params": [],
+        "text": "{\"deviceContext\":{\"deviceTS\":\"2020-11-25T11:46:32.837Z\",\"cause\":\"FMFLocationServicesStateChanged\",\"registeredCauses\":[\"FMFLocationServicesStateChanged\"]},\"deviceInfo\":{\"supportsNotifyV2\":true,\"supportsForceTouch\":true,\"deviceClass\":\"iPhone\",\"locationServicesEnabled\":true,\"isChargerConnected\":true,\"unlockState\":3,\"smlLS\":true,\"deviceName\":\"iPhone di Emmanuel\",\"deviceColor\":\"1\",\"processId\":\"10664\",\"allPushTokens\":[\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\"],\"fmf\":true,\"fenceMonitoringCapable\":true,\"productType\":\"iPhone10,6\",\"udid\":\"9c93c5bd4ae0d361640428bd3800f5b588de1699\",\"aps-token\":\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\",\"locale\":\"it_IT\",\"fmfVersion\":\"526\",\"isFMFAppRemoved\":false,\"platform\":\"iphoneos\",\"batteryStatus\":\"Charging\",\"idsDeviceId\":\"76010A50-0E0F-4059-9848-1D1593A5DAAF\",\"serialNumber\":\"F2LW4E2GJCLH\",\"timezone\":\"Europe\\/Rome\",\"isInternal\":false,\"otherDevices\":[{\"connectionStatus\":\"not-connected\",\"productType\":\"Watch1,2\",\"deviceClass\":\"Watch\",\"platform\":\"watchos\",\"pairingId\":\"6543870E-D725-44EC-A1EE-D86F390E3A6B\",\"udid\":\"efc79ac8b8dc7310b6c31c3e76dec18212b9a891\",\"deviceName\":\"Apple\u00a0Watch di Emmanuel\",\"lastActiveTime\":1603197653498}],\"fmfRestrictions\":false,\"fmfBuildVersion\":\"5.0\",\"batteryLevel\":0.86000001430511475,\"enclosureColor\":\"1\",\"buildVersion\":\"18B92\",\"productVersion\":\"14.2\"}}"
+    },
+    "queryString": [],
+    "url": "https://p50-fmf.icloud.com/fmipservice/fmf/10176858006/9c93c5bd4ae0d361640428bd3800f5b588de1699/register"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, UDID, 
+
+{
+    "bodySize": 1364,
+    "cookies": [
+        {
+            "httpOnly": false,
+            "name": "xr_3n2093n1a",
+            "secure": false,
+            "value": "BVP7AN0KGxNMj1RonQnRBowBzOtpJT7Jnq66XGZvwZAebA=="
+        }
+    ],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "p50-fmf.icloud.com"
+        },
+        {
+            "name": "X-Apple-PrsId",
+            "value": "10176858006"
+        },
+        {
+            "name": "User-Agent",
+            "value": "fmflocatord/7.0 iPhone10,6/18B92"
+        },
+        {
+            "name": "Cookie",
+            "value": "xr_3n2093n1a=BVP7AN0KGxNMj1RonQnRBowBzOtpJT7Jnq66XGZvwZAebA=="
+        },
+        {
+            "name": "X-Apple-PushEnv",
+            "value": "production"
+        },
+        {
+            "name": "X-Apple-Realm-Support",
+            "value": "1.0"
+        },
+        {
+            "name": "Content-Length",
+            "value": "1364"
+        },
+        {
+            "name": "X-Apple-I-TimeZone",
+            "value": "CET"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "X-Apple-I-Client-Time",
+            "value": "2020-11-25T11:46:32Z"
+        },
+        {
+            "name": "X-Apple-Find-API-Ver",
+            "value": "7.0"
+        },
+        {
+            "name": "Authorization",
+            "value": "Basic MTAxNzY4NTgwMDY6RUFBUEFBQUFCTHdJQUFBQUFGLXBIWGNSRG1kekxtbGpiRzkxWkM1aGRYUm92UUJfSVV6UGxXUkRBTGZxSENPRzYta284dDRSOGg5LS1pRVNkRFo5Snk2bFMyemM1azQyQ0hIODlEbmNZUmtQX2dLcjZCVW1uVVI1TndkdEVReVNFbGh6ZkJqTmpCUlNSVHc1Wl9ZaEpSTS1sOHJia3RTczJJMXliV19SQWJES0tyb1ExNG5MZmx0R3Jid1BKdzJNeUN6ZzRmdHhfZ35+"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "X-Apple-I-MD-RINFO",
+            "value": "17106176"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/json"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "X-Apple-I-MD-M",
+            "value": "0K97Ed9w16v6vw+SaEEfowe0Bc2butK88d/pIdFp3s4RROvATIbsd66z/CykwvDUccvowvwTl9rOQHYk"
+        },
+        {
+            "name": "X-Apple-I-Locale",
+            "value": "it_IT"
+        },
+        {
+            "name": "X-Apple-I-MD",
+            "value": "AAAABQAAABBqipVmfVh+OHLB2Mh7d42bAAAAAw=="
+        }
+    ],
+    "headersSize": 1163,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/json",
+        "params": [],
+        "text": "{\"deviceContext\":{\"deviceTS\":\"2020-11-25T11:46:32.837Z\",\"cause\":\"FMFLocationServicesStateChanged\",\"registeredCauses\":[\"FMFLocationServicesStateChanged\"]},\"deviceInfo\":{\"supportsNotifyV2\":true,\"supportsForceTouch\":true,\"deviceClass\":\"iPhone\",\"locationServicesEnabled\":true,\"isChargerConnected\":true,\"unlockState\":3,\"smlLS\":true,\"deviceName\":\"iPhone di Emmanuel\",\"deviceColor\":\"1\",\"processId\":\"10664\",\"allPushTokens\":[\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\"],\"fmf\":true,\"fenceMonitoringCapable\":true,\"productType\":\"iPhone10,6\",\"udid\":\"9c93c5bd4ae0d361640428bd3800f5b588de1699\",\"aps-token\":\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\",\"locale\":\"it_IT\",\"fmfVersion\":\"526\",\"isFMFAppRemoved\":false,\"platform\":\"iphoneos\",\"batteryStatus\":\"Charging\",\"idsDeviceId\":\"76010A50-0E0F-4059-9848-1D1593A5DAAF\",\"serialNumber\":\"F2LW4E2GJCLH\",\"timezone\":\"Europe\\/Rome\",\"isInternal\":false,\"otherDevices\":[{\"connectionStatus\":\"not-connected\",\"productType\":\"Watch1,2\",\"deviceClass\":\"Watch\",\"platform\":\"watchos\",\"pairingId\":\"6543870E-D725-44EC-A1EE-D86F390E3A6B\",\"udid\":\"efc79ac8b8dc7310b6c31c3e76dec18212b9a891\",\"deviceName\":\"Apple\u00a0Watch di Emmanuel\",\"lastActiveTime\":1603197653498}],\"fmfRestrictions\":false,\"fmfBuildVersion\":\"5.0\",\"batteryLevel\":0.86000001430511475,\"enclosureColor\":\"1\",\"buildVersion\":\"18B92\",\"productVersion\":\"14.2\"}}"
+    },
+    "queryString": [],
+    "url": "https://p50-fmf.icloud.com/fmipservice/fmf/10176858006/9c93c5bd4ae0d361640428bd3800f5b588de1699/register"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 778,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gsp-ssl.ls.apple.com"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/octet-stream"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "x-msg-priority",
+            "value": "5"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Content-Length",
+            "value": "778"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "User-Agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        }
+    ],
+    "headersSize": 333,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/octet-stream",
+        "params": [],
+        "text": "\u0000\u0001\u0000\bit-IT_IT\u0000\u000ecom.apple.geod\u0000\n14.2.18B92\u0000\u0000\u0000<\u0000\u0000\u0002\u00da\n\u0096\u0001\n\fRunKeeperPro\u0012\u000611.2.1\u001a\u000514702\"\niPhone10,6*\n14.2.18B920\u00008\u0000B\u0015\b\u00dc\u00bd\u00ce\u00ce\u00b4\u00e5\u00f0\u00a2\u007f\u0010\u00a0\u00b1\u00d7\u00fa\u00fb\u00fb\u00c2\u00a6\u00a8\u0001H\u00c8\u00d5\u00b3\u0012`\u0001j(\b\u0012\u0012$D9BC26EB-2CDC-4998-BEB2-9D923C668CB1r\tiPhone OS\u0091\u0001\u0000\u00009E\u00ed\u00ba9@\u00122\n\u0002IT\u001a\u0005it-ITJ\u0000P\u0001X\f`\u0003\u0080\u0001\u0003\u0098\u0001\u0000\u00b0\u0001\u0007\u00ba\u0001\u0006\b\u0001\b\u0000\u0010\u0001\u00d0\u0001\u0001\u00a2\u0006\u0007*\u0005\b\u00a9?\u0010\u0000\u001a\u0005it-IT*\u0004\b\u0001\u0018\u0001*!\b\u001a\u0018\u0003*\u001b\u00d2\u0001\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\b\b\u000f\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0004\b<\u0018\u0001*\u0004\b\n\u0018\u0001*\u0004\b'\u0018\u0001*\u0004\b&\u0018\u0001*\u0004\bB\u0018\u0001*\u0004\b\u0018\u0018\u0001*\u0004\b0\u0018\u0001*\t\bG\u0018\u0001*\u0003\u00ba\u0004\u0000*\u0004\b\u0003\u0018\u0001*\u0004\b\r\u0018\u0001*\u0004\b\u0006\u0018\u0004*\u0004\b!\u0018\u0001*\u0004\b)\u0018\u0001*\u0004\bL\u0018\u0001*\t\b\u001e\u0018\u0001*\u0003\u00f2\u0001\u0000*\b\b@\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0004\b2\u0018\u0001*\u0004\bM\u0018\u0001*\b\b?\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0010\b\u0007\u0018\u0003*\n:\b\n\u0004\b<\u0010<\u0010\u0001*\b\b\u0010\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\t\b;\u0018\u0001*\u0003\u00da\u0003\u0000*\u0004\bI\u0018\u0001*\u0004\b\u0017\u0018\u0006*\t\b7\u0018\u0001*\u0003\u00ba\u0003\u0000*\u0004\b5\u0018\u0001*\u000b\b(\u0018\u0004*\u0005\u00c2\u0002\u0002\b\u0004*\u0004\b\u0002\u0018\u0001*\u0004\b\u0014\u0018\u0001*\u0004\b>\u0018\u0001*\u0004\b8\u0018\u0001*!\b9\u0018\u0001*\u001b\u00ca\u0003\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\u0004\b6\u0018\u0001*3\b\u000b\u0018\u0001*-Z+*\r\n\t\b\u009b\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u00042\r\n\t\b\u009b\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u0004:\t\b\u009b\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e@\u0001*\u000b\bA\u0018\u0005*\u0005\u008a\u0004\u0002\u0010\u0001*\u0014\b\u001f\u0018\u0001*\u000e\u00fa\u0001\u000b\n\t8.0.1-dev*\u000f\b$\u0018\u0003*\t\u00a2\u0002\u0006\n\u0004\b<\u0010<*\u0004\b\u0004\u0018\u0001*\u0004\b\u0016\u0018\u00018\u0004B@\">\u0018\u0001\":\n\u0012\tna!u)1D@\u0011\u008a\u00c9\u00d6)p\u000f.@\u0019\u00d3i\u00e5\u00ac<\u00b6\u00c2A \u0012)\u0000\u0000\u0000\u0000\u0000@P@1\u0000\u0000\u0000\u0000\u0000\u0000$@A\u0000\u0000\u0000\u0000\u0000\u0000\u00f0\u00bfJ\u0002IT"
+    },
+    "queryString": [],
+    "url": "https://gsp-ssl.ls.apple.com/dispatcher.arpc"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/listRoutes?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getLiveTrackingContacts?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getUserSettings?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getThirdParty?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/90dayGo?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "lastSyncTime",
+            "value": "1606304772064"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getWeights?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&lastSyncTime=1606304772064&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato NOME_COGNOME, EMAIL, 
+
+{
+    "bodySize": 538,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "api-key",
+            "value": "33c39709f2c64477ae12d89864eb048a"
+        },
+        {
+            "name": "content-type",
+            "value": "application/json"
+        },
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-length",
+            "value": "538"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "sdk-version",
+            "value": "6.2.2"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/14702 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "sdk-platform",
+            "value": "iOS"
+        }
+    ],
+    "headersSize": 345,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/json",
+        "params": [],
+        "text": "{\"email\":\"leonardo.caruso597@gmail.com\",\"device\":{\"applicationName\":\"iOS\",\"platform\":\"APNS\",\"token\":\"38a2c3f5e5c5ad32ddb09b632b5415fa87d1f839ad11ba90ea11e94153b9f6da\",\"dataFields\":{\"iterableSdkVersion\":\"6.2.2\",\"appVersion\":\"11.2.1\",\"systemName\":\"iOS\",\"systemVersion\":\"14.2\",\"model\":\"iPhone\",\"appPackageName\":\"RunKeeperPro\",\"appBuild\":\"14702\",\"notificationsEnabled\":true,\"deviceId\":\"47BEF873-C5A5-436E-A39C-5AF4A37BAFD9\",\"identifierForVendor\":\"7B652CDF-A789-44B7-8B54-33853E682FF6\",\"localizedModel\":\"iPhone\",\"userInterfaceIdiom\":\"Phone\"}}}"
+    },
+    "queryString": [
+        {
+            "name": "Api-Key",
+            "value": "33c39709f2c64477ae12d89864eb048a"
+        }
+    ],
+    "url": "https://api.iterable.com/api/users/registerDeviceToken?Api-Key=33c39709f2c64477ae12d89864eb048a"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 662,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gsp-ssl.ls.apple.com"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/octet-stream"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "x-msg-priority",
+            "value": "5"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Content-Length",
+            "value": "662"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "User-Agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        }
+    ],
+    "headersSize": 333,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/octet-stream",
+        "params": [],
+        "text": "\u0000\u0001\u0000\bit-IT_IT\u0000\u000ecom.apple.geod\u0000\n14.2.18B92\u0000\u0000\u0000<\u0000\u0000\u0002f\n\u0096\u0001\n\fRunKeeperPro\u0012\u000611.2.1\u001a\u000514702\"\niPhone10,6*\n14.2.18B920\u00008\u0000B\u0015\b\u00dc\u00bd\u00ce\u00ce\u00b4\u00e5\u00f0\u00a2\u007f\u0010\u00a0\u00b1\u00d7\u00fa\u00fb\u00fb\u00c2\u00a6\u00a8\u0001H\u0082\u00ad\u008c'`\u0000j(\b\u0012\u0012$AC1081A3-F99E-45A6-99C2-989F96D39786r\tiPhone OS\u0091\u0001\u0000\u00c0\u000eG\u0097TK@\u00122\n\u0002IT\u001a\u0005it-ITJ\u0000P\u0001X\f`\u0003\u0080\u0001\u0003\u0098\u0001\u0000\u00b0\u0001\u0007\u00ba\u0001\u0006\b\u0001\b\u0000\u0010\u0001\u00d0\u0001\u0001\u00a2\u0006\u0007*\u0005\b\u00a9?\u0010\u0000\u001a\u0005it-IT*!\b\u001a\u0018\u0003*\u001b\u00d2\u0001\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\b\b\u000f\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\t\bA\u0018\u0005*\u0003\u008a\u0004\u0000*\u0004\b<\u0018\u0001*\u0004\b\n\u0018\u0001*\u0004\b'\u0018\u0001*\u0007\b\u001e*\u0003\u00f2\u0001\u0000*\u0004\bB\u0018\u0001*\u0004\b&\u0018\u0001*\u0004\b0\u0018\u0001*\u0004\b\u0018\u0018\u0001*\t\bG\u0018\u0001*\u0003\u00ba\u0004\u0000*\u0004\b\r\u0018\u0001*\u0004\b\u0006\u0018\u0004*\u0004\b!\u0018\u0001*\u0004\bL\u0018\u0001*\b\b@\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0004\b2\u0018\u0001*3\b\u000b\u0018\u0001*-Z+*\r\n\t\b\u00b8\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u00042\r\n\t\b\u00b8\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u0004:\t\b\u00b8\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e@\u0001*\u0004\bM\u0018\u0001*\b\b?\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0010\b\u0007\u0018\u0003*\n:\b\n\u0004\b<\u0010<\u0010\u0001*\b\b\u0010\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\t\b;\u0018\u0001*\u0003\u00da\u0003\u0000*\u0004\bI\u0018\u0001*\u0004\b\u0017\u0018\u0006*\t\b7\u0018\u0001*\u0003\u00ba\u0003\u0000*\u0004\b5\u0018\u0001*\u000b\b(\u0018\u0004*\u0005\u00c2\u0002\u0002\b\u0004*\u0004\b\u0014\u0018\u0001*\u0004\b>\u0018\u0001*\u0004\b8\u0018\u0001*!\b9\u0018\u0001*\u001b\u00ca\u0003\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\u0004\b6\u0018\u0001*\u000f\b$\u0018\u0003*\t\u00a2\u0002\u0006\n\u0004\b<\u0010<*\u0004\b\u0004\u0018\u0001*\u0004\b\u0016\u0018\u00018\u0018J\u0002IT"
+    },
+    "queryString": [],
+    "url": "https://gsp-ssl.ls.apple.com/dispatcher.arpc"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "lastSyncTime",
+            "value": "1606304769983"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getActivityUUIDs?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&lastSyncTime=1606304769983&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 1767,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "multipart/form-data; boundary=Boundary+61AF791F8D07759A"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        },
+        {
+            "name": "content-length",
+            "value": "1767"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 354,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "multipart/form-data; boundary=Boundary+61AF791F8D07759A",
+        "params": [],
+        "text": "--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"apiVer\"\r\n\r\n2.3\r\n--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"deletedCardioActivities\"\r\n\r\n[]\r\n--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"device\"\r\n\r\niPhone,iPhone10.6,14.2\r\n--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"deviceApp\"\r\n\r\npaid,11.2.1.14702\r\n--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"deviceID\"\r\n\r\n1D93DFC0-B163-4E15-805E-B586BDDAA2E2\r\n--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"includeAlerts\"\r\n\r\n1\r\n--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"includeGoals\"\r\n\r\n1\r\n--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"maxWorkoutPaceVersion\"\r\n\r\n2\r\n--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"maxWorkoutUnitsVersion\"\r\n\r\n0\r\n--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"timeZoneStr\"\r\n\r\nEurope/Rome\r\n--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"utcOffsetSec\"\r\n\r\n3600\r\n--Boundary+61AF791F8D07759A\r\nContent-Disposition: form-data; name=\"addedOrModifiedActivities\"; filename=\"addedOrModifiedActivities\"\r\nContent-Type: gzip\r\n\r\n\u001f\u008b\b\u0000\u0000\u0000\u0000\u0000\u0000\u0013\u0095TM\u008f\u009b0\u0010\u00bd\u00e7W \u00ce\t\u00f2\u00f8\u000b\u00dc\u001b\u00da\r\u00b7\u00a8U\u009b\u009e\u0092\u001c\u00bc\u00e0l\u00acf\u001d\u0004\u00ceJQ\u0095\u00ff^\u0003q\u00be\u0080\u00aa\u0005\u0001\u00f2\u00bc7\u00e3\u00c7\u00ccxV\u0093 \u00f8\u00ed\u009e \b\u000bU\u00e7\u0095.\u00ad>\u0098\u00a5|\u00af\u00c3\u00e0K\u00b0\u009a\u00b4\u00d0f\u00da1v\u00b2\u00fev\u00d0\u00c6\u00b6\u0018\\\u008c\u00b5\u00ca\u000f\u00a6\u0090\u00d5)S\u00aax\u0093\u00f9\u00af\u0006D\u001e\u00b4\u00b2\u00b2K\u00fd\u00a1\u0016\u009d\u000fG\u009c \u001a\u000b\u008e\u0090\u00a7\u00e8z!\u00cdQ\u00ee\u001b|+\u00f7\u00b5\u00ba\u00d8\u0095\u00b1\u00d5iy*\u00d5c<U\u00b6\u0091\u00c2\u00d5\u00da8\u00e5\u00cd+\b\u00d6\u00a1]7\u00c6\u00b8\u0089\u00eaMuk\u0002\u00d2\u00ac\u00cf\u00d3\u0001\u00b6\u00e8\u00b31\u008c\u00b2\u0081\u000e\u00d0\u00e3q\u00fa\u0080\u0016BG\u00e9\u0018\u00f5\u00e9t\\\f\u00c6\u0003\u00f4d\u009c\u00ce\u00fat\u00c6Z\u00fa\u00dalB\u009f\u00db\u009d\u00ac\u00d4B\u0096\u00ad\u00c7\u00c5&s\u00ab?\u00b5\u00bd\u00d6!\u00fc~4F\u009bw\u00ef\u00e3Jo\u00ab\u00c3~\u00fe\u00a9.]1X\u0097\u00db\u00de\u00eai-\u00d7\u00d7\u00b2\u00ffE\u00bd\u0010\u00e2)\u0002\u00fc_\u0084\u00b8\u001f\u0081\u008cF\u00b8K\u0089u\u00e7\u00e1\u00e7Q\u0017\u00ed\u009fa\u0092\u0092\u00d7l\u009e\u00cep\u00ca\u00e73\u009af0K\u0011\u00b0Y\u0092f8\u00e3/,\u00c9(\u00f1\u008eG\u009b\u007f\u00ddnke\u00efOJY\u00e9\u008f\u00a7sB<$\u00ed\u00ee\u0096\u00beU'\u00cd\u00a7\u00c9\u007f)\u008aHBA`\u00ca\u0080\b\u0082\b\u00bd\u0000\u00c0\"\u00e4\u0096\u0088\u0089D`L\u0081p\u000f$\u0011B\u001c\u0081`\u00ce\u009e0`\u001e\u00e0\u00cc\u00c7n>\u009b\u00e9\u00dd\u00ae\u008c#\u0012\u00c5\u00c8\u00dd\f@ H\u00bc\u000f{\u0090\u0081D\u00ec\u00ce\u00b2\u00cb+\u00e7\u00c9\u0083\fHP\u00cc1!\u001c\u00e1\u00f8\u009fe\u0000\u008d\u00c4\u00f5b\u0088B\u00db\u00cc\u009b\u00e7\u00ee\u00bc\u00cf\u00a6\u001d\u009eQ\u00bec\u007fX\u00d9ud7\u00dd\u009a\u0081\u00b2\u0097e\u00ad\u008a\u00db4\u00ea\u001a\u00cb\u00c3\u0085v\u00c3\u00ca\u00e4\u00dd\u001e=9WZ.\u00f7\u0087J\u00abn\u009cE\u0018\u0013\u0097s\u0086)\u0006L8@\u00cb:{\u00c9\u00c7\u00b7\u00f9\u00c3\u0010s\u00e6\u00f3d\u00f3\u0007\u0090\u0086\u008d{s\u0005\u0000\u0000\r\n--Boundary+61AF791F8D07759A--\r\n"
+    },
+    "queryString": [],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/pushActivitiesList"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "goalTypes",
+            "value": "[\n  0,\n  1,\n  2,\n  3,\n  4\n]"
+        },
+        {
+            "name": "lastSyncTime",
+            "value": "0"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getUpdatedGoalIds?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&goalTypes=%5B%0A%20%200%2C%0A%20%201%2C%0A%20%202%2C%0A%20%203%2C%0A%20%204%0A%5D&lastSyncTime=0&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "extTripId",
+            "value": "-1"
+        },
+        {
+            "name": "includeTrip",
+            "value": "false"
+        },
+        {
+            "name": "includeWeather",
+            "value": "true"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "tripUuid",
+            "value": "23A3DFEA-2A6E-4AF1-A015-8AF2F6C58F43"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/activitySummary?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&extTripId=-1&includeTrip=false&includeWeather=true&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&tripUuid=23A3DFEA-2A6E-4AF1-A015-8AF2F6C58F43&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "jsonGoalIds",
+            "value": "[\n  \"97d1365e-2d0d-4e9d-a0d7-879ece6a00cd\"\n]"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getGoalList?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&jsonGoalIds=%5B%0A%20%20%2297d1365e-2d0d-4e9d-a0d7-879ece6a00cd%22%0A%5D&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "countryCode",
+            "value": "IT"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "feedItemTypes",
+            "value": "[\n  0\n]"
+        },
+        {
+            "name": "includePoints",
+            "value": "1"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getFeedItems?apiVer=2.3&countryCode=IT&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&feedItemTypes=%5B%0A%20%200%0A%5D&includePoints=1&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "extTripId",
+            "value": "1640225840"
+        },
+        {
+            "name": "includeTrip",
+            "value": "false"
+        },
+        {
+            "name": "includeWeather",
+            "value": "true"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "tripUuid",
+            "value": "23A3DFEA-2A6E-4AF1-A015-8AF2F6C58F43"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/activitySummary?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&extTripId=1640225840&includeTrip=false&includeWeather=true&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&tripUuid=23A3DFEA-2A6E-4AF1-A015-8AF2F6C58F43&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 662,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gsp-ssl.ls.apple.com"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/octet-stream"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "x-msg-priority",
+            "value": "5"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Content-Length",
+            "value": "662"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "User-Agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        }
+    ],
+    "headersSize": 333,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/octet-stream",
+        "params": [],
+        "text": "\u0000\u0001\u0000\bit-IT_IT\u0000\u000ecom.apple.geod\u0000\n14.2.18B92\u0000\u0000\u0000<\u0000\u0000\u0002f\n\u0096\u0001\n\fRunKeeperPro\u0012\u000611.2.1\u001a\u000514702\"\niPhone10,6*\n14.2.18B920\u00008\u0000B\u0015\b\u00dc\u00bd\u00ce\u00ce\u00b4\u00e5\u00f0\u00a2\u007f\u0010\u00a0\u00b1\u00d7\u00fa\u00fb\u00fb\u00c2\u00a6\u00a8\u0001H\u00ac\u00d7\u00e4A`\u0000j(\b\u0012\u0012$6992E809-B536-48FB-B70C-27D6D8696B99r\tiPhone OS\u0091\u0001\u0000\u00e0\u00b9\u00d4{\u00feV@\u00122\n\u0002IT\u001a\u0005it-ITJ\u0000P\u0001X\f`\u0003\u0080\u0001\u0003\u0098\u0001\u0000\u00b0\u0001\u0007\u00ba\u0001\u0006\b\u0001\b\u0000\u0010\u0001\u00d0\u0001\u0001\u00a2\u0006\u0007*\u0005\b\u00a9?\u0010\u0000\u001a\u0005it-IT*!\b\u001a\u0018\u0003*\u001b\u00d2\u0001\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\b\b\u000f\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\t\bA\u0018\u0005*\u0003\u008a\u0004\u0000*\u0004\b<\u0018\u0001*\u0004\b\n\u0018\u0001*\u0004\b'\u0018\u0001*\u0007\b\u001e*\u0003\u00f2\u0001\u0000*\u0004\bB\u0018\u0001*\u0004\b&\u0018\u0001*\u0004\b0\u0018\u0001*\u0004\b\u0018\u0018\u0001*\t\bG\u0018\u0001*\u0003\u00ba\u0004\u0000*\u0004\b\r\u0018\u0001*\u0004\b\u0006\u0018\u0004*\u0004\b!\u0018\u0001*\u0004\bL\u0018\u0001*\b\b@\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0004\b2\u0018\u0001*\u0004\bM\u0018\u0001*\b\b?\u0018\u00ff\u00ff\u00ff\u00ff\u0007*3\b\u000b\u0018\u0001*-Z+*\r\n\t\b\u00de\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u00042\r\n\t\b\u00de\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u0004:\t\b\u00de\u00f7\u00b9\u00ab\u0002\u0010\u0088\u000e@\u0001*\u0010\b\u0007\u0018\u0003*\n:\b\n\u0004\b<\u0010<\u0010\u0001*\b\b\u0010\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\t\b;\u0018\u0001*\u0003\u00da\u0003\u0000*\u0004\bI\u0018\u0001*\u0004\b\u0017\u0018\u0006*\t\b7\u0018\u0001*\u0003\u00ba\u0003\u0000*\u0004\b5\u0018\u0001*\u000b\b(\u0018\u0004*\u0005\u00c2\u0002\u0002\b\u0004*\u0004\b\u0014\u0018\u0001*\u0004\b>\u0018\u0001*\u0004\b8\u0018\u0001*!\b9\u0018\u0001*\u001b\u00ca\u0003\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\u0004\b6\u0018\u0001*\u000f\b$\u0018\u0003*\t\u00a2\u0002\u0006\n\u0004\b<\u0010<*\u0004\b\u0004\u0018\u0001*\u0004\b\u0016\u0018\u00018\u0018J\u0002IT"
+    },
+    "queryString": [],
+    "url": "https://gsp-ssl.ls.apple.com/dispatcher.arpc"
+}
+
+####################################
+
+Ho trovato BIRTHDATE, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "birthdate",
+            "value": "1998-01-30"
+        },
+        {
+            "name": "country",
+            "value": "IT"
+        }
+    ],
+    "url": "https://id-prod-age.prod.asics.digital/api/age-gate?&birthdate=1998-01-30&country=IT"
+}
+
+####################################
+
+Ho trovato BIRTHDATE, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "birthdate",
+            "value": "1998-01-30"
+        },
+        {
+            "name": "country",
+            "value": "IT"
+        }
+    ],
+    "url": "https://id-prod-age.prod.asics.digital/api/age-gate?&birthdate=1998-01-30&country=IT"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "lastUpdate",
+            "value": "1606304772056"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "notificationVersion",
+            "value": "7"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/pullNotifications?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&lastUpdate=1606304772056&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&notificationVersion=7&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "includePendingInvitesSent",
+            "value": "true"
+        },
+        {
+            "name": "includeReceivedInvites",
+            "value": "true"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "staleOk",
+            "value": "1"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getFriends?apiVer=2.3&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&includePendingInvitesSent=true&includeReceivedInvites=true&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&staleOk=1&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 662,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gsp-ssl.ls.apple.com"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/octet-stream"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "x-msg-priority",
+            "value": "5"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Content-Length",
+            "value": "662"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "User-Agent",
+            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
+        }
+    ],
+    "headersSize": 333,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/octet-stream",
+        "params": [],
+        "text": "\u0000\u0001\u0000\bit-IT_IT\u0000\u000ecom.apple.geod\u0000\n14.2.18B92\u0000\u0000\u0000<\u0000\u0000\u0002f\n\u0096\u0001\n\fRunKeeperPro\u0012\u000611.2.1\u001a\u000514702\"\niPhone10,6*\n14.2.18B920\u00008\u0000B\u0015\b\u00dc\u00bd\u00ce\u00ce\u00b4\u00e5\u00f0\u00a2\u007f\u0010\u00a0\u00b1\u00d7\u00fa\u00fb\u00fb\u00c2\u00a6\u00a8\u0001H\u00a7\u0088\u0093Z`\u0000j(\b\u0012\u0012$C7E339CD-3F2D-470B-AC72-4379B4AC7A6Cr\tiPhone OS\u0091\u0001\u0000\u00800\"d\u0082_@\u00122\n\u0002IT\u001a\u0005it-ITJ\u0000P\u0001X\f`\u0003\u0080\u0001\u0003\u0098\u0001\u0000\u00b0\u0001\u0007\u00ba\u0001\u0006\b\u0001\b\u0000\u0010\u0001\u00d0\u0001\u0001\u00a2\u0006\u0007*\u0005\b\u00a9?\u0010\u0000\u001a\u0005it-IT*!\b\u001a\u0018\u0003*\u001b\u00d2\u0001\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\b\b\u000f\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\t\bA\u0018\u0005*\u0003\u008a\u0004\u0000*\u0004\b<\u0018\u0001*\u0004\b\n\u0018\u0001*\u0004\b'\u0018\u0001*\u0007\b\u001e*\u0003\u00f2\u0001\u0000*\u0004\bB\u0018\u0001*\u0004\b&\u0018\u0001*\u0004\b0\u0018\u0001*\u0004\b\u0018\u0018\u0001*\t\bG\u0018\u0001*\u0003\u00ba\u0004\u0000*\u0004\b\r\u0018\u0001*\u0004\b\u0006\u0018\u0004*\u0004\b!\u0018\u0001*\u0004\bL\u0018\u0001*\b\b@\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0004\b2\u0018\u0001*\u0004\bM\u0018\u0001*\b\b?\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\u0010\b\u0007\u0018\u0003*\n:\b\n\u0004\b<\u0010<\u0010\u0001*\b\b\u0010\u0018\u00ff\u00ff\u00ff\u00ff\u0007*\t\b;\u0018\u0001*\u0003\u00da\u0003\u0000*\u0004\bI\u0018\u0001*\u0004\b\u0017\u0018\u0006*\t\b7\u0018\u0001*\u0003\u00ba\u0003\u0000*\u0004\b5\u0018\u0001*\u000b\b(\u0018\u0004*\u0005\u00c2\u0002\u0002\b\u0004*\u0004\b\u0014\u0018\u0001*3\b\u000b\u0018\u0001*-Z+*\r\n\t\b\u0080\u00f8\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u00042\r\n\t\b\u0080\u00f8\u00b9\u00ab\u0002\u0010\u0088\u000e\u0010\u0004:\t\b\u0080\u00f8\u00b9\u00ab\u0002\u0010\u0088\u000e@\u0001*\u0004\b>\u0018\u0001*\u0004\b8\u0018\u0001*!\b9\u0018\u0001*\u001b\u00ca\u0003\u0018\n\u0006\b\u00d8\u0004\u0010\u0090\u0003\n\u0006\b\u00f8\u0001\u0010\u00ba\u0001\n\u0006\b\u00b0\t\u0010\u00a0\u0006*\u0004\b6\u0018\u0001*\u000f\b$\u0018\u0003*\t\u00a2\u0002\u0006\n\u0004\b<\u0010<*\u0004\b\u0004\u0018\u0001*\u0004\b\u0016\u0018\u00018\u0018J\u0002IT"
+    },
+    "queryString": [],
+    "url": "https://gsp-ssl.ls.apple.com/dispatcher.arpc"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/11.2.1 (iPhone; iOS 14.2; Scale/3.00)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 53931fdc-e1ec-4c30-af1f-2316affbb5b7"
+        }
+    ],
+    "headersSize": 245,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "apiVer",
+            "value": "2.3"
+        },
+        {
+            "name": "countryCode",
+            "value": "IT"
+        },
+        {
+            "name": "device",
+            "value": "iPhone,iPhone10.6,14.2"
+        },
+        {
+            "name": "deviceApp",
+            "value": "paid,11.2.1.14702"
+        },
+        {
+            "name": "deviceID",
+            "value": "1D93DFC0-B163-4E15-805E-B586BDDAA2E2"
+        },
+        {
+            "name": "feedItemTypes",
+            "value": "[\n  0\n]"
+        },
+        {
+            "name": "includePoints",
+            "value": "1"
+        },
+        {
+            "name": "maxWorkoutPaceVersion",
+            "value": "2"
+        },
+        {
+            "name": "maxWorkoutUnitsVersion",
+            "value": "0"
+        },
+        {
+            "name": "timeZoneStr",
+            "value": "Europe/Rome"
+        },
+        {
+            "name": "utcOffsetSec",
+            "value": "3600"
+        }
+    ],
+    "url": "https://fitnesskeeperapi.com/RunKeeper/deviceApi/getFeedItems?apiVer=2.3&countryCode=IT&device=iPhone%2CiPhone10.6%2C14.2&deviceApp=paid%2C11.2.1.14702&deviceID=1D93DFC0-B163-4E15-805E-B586BDDAA2E2&feedItemTypes=%5B%0A%20%200%0A%5D&includePoints=1&maxWorkoutPaceVersion=2&maxWorkoutUnitsVersion=0&timeZoneStr=Europe/Rome&utcOffsetSec=3600"
+}
+
+####################################
+
+Ho trovato PHONE_NAME, 
+
+{
+    "bodySize": 622,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "user-agent",
+            "value": "Runkeeper/14702 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "content-encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "content-length",
+            "value": "531"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 288,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "\n\u00eb\u0004\b\u0001\u0012R\n\b\n\u0004_err\u0018\u0002\n",
+                "value": ""
+            },
+            {
+                "name": "\n\u0003_ev\u0012\u001fActivity Quality - Low Distance\n\n\n\u0002_o\u0012\u0004auto\u0012\u0004_err\u0018\u00ed\u00fb\u00e9\u00f9\u00df. \u00c6\u00bc\u00e0\u00f9\u00df.\u0012)\n\t\n\u0003_et\u0018\u008c\u00fa\u0006\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00fa\u0093\u00ef\u00f9\u00df. \u00e6\u00f7\u00e7\u00f9\u00df.\u0012\u001f\n\n\n\u0002_o\u0012\u0004auto\u0012\u0003_ab\u0018\u00fa\u0093\u00ef\u00f9\u00df. \u00e6\u00f7\u00e7\u00f9\u00df.\u001a\u000e\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0003_fi \u0001\u001a\u0014\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0004_fot \u0080\u00a4\u0099\u00fa\u00df.\u001a\u0013\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0004_sid \u00e3\u0085\u00f9\u00fd\u0005\u001a\u000f\b\u00ad\u009d\u00d5\u00f9\u00df.\u0012\u0004_sno \u0001\u001a\u0018\b\u00ec\u00c0\u00d7\u00f9\u00df.\u0012\tisNewUser\u001a\u0004true\u001a\u000f\b\u008d\u00cd\u00e6\u00f9\u00df.\u0012\u0004_npa \u0001\u001a\u0016\b\u00b7\u00cd\u00e6\u00f9\u00df.\u0012\u0003_id\u001a\b72318391\u001a\u0011\b\u00cf\u0094\u00ef\u00f9\u00df.\u0012\u0004_lte \u0090\u008c\u0016\u001a\u0010\b\u00d1\u0094\u00ef\u00f9\u00df.\u0012\u0003_se \u0090\u008c\u0016 \u00e0\u0094\u00ef\u00f9\u00df.(\u00ed\u00fb\u00e9\u00f9\u00df.0\u00fa\u0093\u00ef\u00f9\u00df.8\u00e6\u00f7\u00e7\u00f9\u00df.B\u0003iosJ\u000414.2R\niPhone10,6Z\u0005it-it`<r\fRunKeeperPro\u0082\u0001\u000611.2.1\u0088\u0001\u0080\u00db\u0003\u0090\u0001\u0080\u00db\u0003\u00aa\u0001 DE7B6F0EA3504015936367058CDF5D7E\u00b8\u0001\t\u00ca\u0001)1:662804283022:ios:7964cd5e772cfe81c013df\u00d0\u0001\u00e6\u00f7\u00e7\u00f9\u00df.\u00da\u0001$7B652CDF-A789-44B7-8B54-33853E682FF6\u00f2\u0001\u0016cYDzYIZm5081j3atBLxL_t\u00f8\u0001\u00eer\u0098\u0002\u00e8\u00db\u00fe\u00af\u00c0\u00af\u00e9\u0002\u00e8\u0002\u00b3\u00c3\u00b5\u0014\u00a2\u0003\u0004G1--\u00a8\u0003\u0005",
+                "value": ""
+            }
+        ],
+        "text": "\n\u00eb\u0004\b\u0001\u0012R\n\b\n\u0004_err\u0018\u0002\n&\n\u0003_ev\u0012\u001fActivity Quality - Low Distance\n\n\n\u0002_o\u0012\u0004auto\u0012\u0004_err\u0018\u00ed\u00fb\u00e9\u00f9\u00df. \u00c6\u00bc\u00e0\u00f9\u00df.\u0012)\n\t\n\u0003_et\u0018\u008c\u00fa\u0006\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00fa\u0093\u00ef\u00f9\u00df. \u00e6\u00f7\u00e7\u00f9\u00df.\u0012\u001f\n\n\n\u0002_o\u0012\u0004auto\u0012\u0003_ab\u0018\u00fa\u0093\u00ef\u00f9\u00df. \u00e6\u00f7\u00e7\u00f9\u00df.\u001a\u000e\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0003_fi \u0001\u001a\u0014\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0004_fot \u0080\u00a4\u0099\u00fa\u00df.\u001a\u0013\b\u00ec\u0091\u00d5\u00f9\u00df.\u0012\u0004_sid \u00e3\u0085\u00f9\u00fd\u0005\u001a\u000f\b\u00ad\u009d\u00d5\u00f9\u00df.\u0012\u0004_sno \u0001\u001a\u0018\b\u00ec\u00c0\u00d7\u00f9\u00df.\u0012\tisNewUser\u001a\u0004true\u001a\u000f\b\u008d\u00cd\u00e6\u00f9\u00df.\u0012\u0004_npa \u0001\u001a\u0016\b\u00b7\u00cd\u00e6\u00f9\u00df.\u0012\u0003_id\u001a\b72318391\u001a\u0011\b\u00cf\u0094\u00ef\u00f9\u00df.\u0012\u0004_lte \u0090\u008c\u0016\u001a\u0010\b\u00d1\u0094\u00ef\u00f9\u00df.\u0012\u0003_se \u0090\u008c\u0016 \u00e0\u0094\u00ef\u00f9\u00df.(\u00ed\u00fb\u00e9\u00f9\u00df.0\u00fa\u0093\u00ef\u00f9\u00df.8\u00e6\u00f7\u00e7\u00f9\u00df.B\u0003iosJ\u000414.2R\niPhone10,6Z\u0005it-it`<r\fRunKeeperPro\u0082\u0001\u000611.2.1\u0088\u0001\u0080\u00db\u0003\u0090\u0001\u0080\u00db\u0003\u00aa\u0001 DE7B6F0EA3504015936367058CDF5D7E\u00b8\u0001\t\u00ca\u0001)1:662804283022:ios:7964cd5e772cfe81c013df\u00d0\u0001\u00e6\u00f7\u00e7\u00f9\u00df.\u00da\u0001$7B652CDF-A789-44B7-8B54-33853E682FF6\u00f2\u0001\u0016cYDzYIZm5081j3atBLxL_t\u00f8\u0001\u00eer\u0098\u0002\u00e8\u00db\u00fe\u00af\u00c0\u00af\u00e9\u0002\u00e8\u0002\u00b3\u00c3\u00b5\u0014\u00a2\u0003\u0004G1--\u00a8\u0003\u0005"
+    },
+    "queryString": [],
+    "url": "https://app-measurement.com/a"
+}
+
+####################################
+
