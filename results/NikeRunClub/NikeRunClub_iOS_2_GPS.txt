@@ -294,7 +294,7 @@ Ho trovato nella richiesta 5: PHONE_NAME,
 
 ####################################
 
-Ho trovato nella richiesta 7: PHONE_NAME, 
+Ho trovato nella richiesta 7: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 377,
@@ -747,7 +747,7 @@ Ho trovato nella richiesta 9: PHONE_NAME, CARRIER, GENDER,
 
 ####################################
 
-Ho trovato nella richiesta 10: PHONE_NAME, 
+Ho trovato nella richiesta 10: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 373,
@@ -2270,7 +2270,7 @@ Ho trovato nella richiesta 31: PHONE_NAME,
 
 ####################################
 
-Ho trovato nella richiesta 32: PHONE_NAME, 
+Ho trovato nella richiesta 32: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 6998,

@@ -1,4 +1,4 @@
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 0: PHONE_NAME, 
 
 {
     "bodySize": 1858,
@@ -51,7 +51,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 6: PHONE_NAME, 
 
 {
     "bodySize": 473,
@@ -100,7 +100,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 8: PHONE_NAME, 
 
 {
     "bodySize": 830,
@@ -177,7 +177,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 11: PHONE_NAME, 
 
 {
     "bodySize": 323,
@@ -226,7 +226,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 15: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 7986,
@@ -436,7 +436,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 17: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 0,
@@ -524,95 +524,52 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
+Ho trovato nella richiesta 20: PHONE_NAME, 
 
 {
     "bodySize": 0,
     "cookies": [],
     "headers": [
         {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
+            "name": "Host",
+            "value": "s3.eu-west-1.amazonaws.com"
         },
         {
-            "name": "user-agent",
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "User-Agent",
             "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "821c381aab0d092d628eb0853d48d625a1823974"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:49:24"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/json"
-        },
-        {
-            "name": "content-type",
-            "value": "application/json"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
         }
     ],
-    "headersSize": 1905,
-    "httpVersion": "HTTP/2.0",
+    "headersSize": 251,
+    "httpVersion": "HTTP/1.1",
     "method": "GET",
-    "queryString": [],
-    "url": "https://appws.runtastic.com/webapps/services/settings/apps"
+    "queryString": [
+        {
+            "name": "cacheForce",
+            "value": "1606132165.330817"
+        }
+    ],
+    "url": "https://s3.eu-west-1.amazonaws.com/mobileassets.runtastic.com/localizations/ios/runtastic-iphone-runtastic/latest?cacheForce=1606132165.330817"
 }
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 22: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -685,80 +642,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "gspe35-ssl.ls.apple.com"
-        },
-        {
-            "name": "If-None-Match",
-            "value": "\"3b61baab069bfd32f555d72d9c96552f1349cbac\""
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "User-Agent",
-            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it-it"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        }
-    ],
-    "headersSize": 299,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "application",
-            "value": "geod"
-        },
-        {
-            "name": "application_version",
-            "value": "1"
-        },
-        {
-            "name": "country_code",
-            "value": "IT"
-        },
-        {
-            "name": "hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "os",
-            "value": "ios"
-        },
-        {
-            "name": "os_build",
-            "value": "18B92"
-        },
-        {
-            "name": "os_version",
-            "value": "14.2"
-        }
-    ],
-    "url": "https://gspe35-ssl.ls.apple.com/geo_manifest/dynamic/config?application=geod&application_version=1&country_code=IT&hardware=iPhone10,6&os=ios&os_build=18B92&os_version=14.2"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 24: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -807,56 +691,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [],
-    "headers": [
-        {
-            "name": "accept",
-            "value": "*/*"
-        },
-        {
-            "name": "if-none-match",
-            "value": "\"bcd0a449a9eaaabd83260246b42473fb405bc794\""
-        },
-        {
-            "name": "user-agent",
-            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip, deflate, br"
-        }
-    ],
-    "headersSize": 228,
-    "httpVersion": "HTTP/2.0",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "os",
-            "value": "ios"
-        },
-        {
-            "name": "os_version",
-            "value": "14.2"
-        },
-        {
-            "name": "hardware",
-            "value": "iPhone10,6"
-        }
-    ],
-    "url": "https://configuration.ls.apple.com/config/defaults?os=ios&os_version=14.2&hardware=iPhone10,6"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 25: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1298,
@@ -909,7 +744,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 26: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 2,
@@ -1021,119 +856,80 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
+Ho trovato nella richiesta 27: PHONE_NAME, 
 
 {
-    "bodySize": 2,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "a4926be326b08cd3a67891d57a33d87b",
-            "secure": false,
-            "value": "760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
+    "bodySize": 973,
+    "cookies": [],
     "headers": [
         {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
+            "name": "content-type",
+            "value": "application/json"
         },
         {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
+            "name": "x-emarsys-sdk-version",
+            "value": "2.9.1"
         },
         {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
+            "name": "accept",
+            "value": "*/*"
         },
         {
-            "name": "x-device-token",
-            "value": "BFF7CBB0-F420-49F4-8339-E174B7B26160"
+            "name": "x-client-state",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdXNoU2V0dGluZ3MiOnsiYXV0aG9yaXphdGlvblN0YXR1cyI6ImF1dGhvcml6ZWQifSwicGxhdGZvcm0iOiJpb3MiLCJvc1ZlcnNpb24iOiIxNC4yIiwic2RrVmVyc2lvbiI6IjIuOS4xIiwibGFuZ3VhZ2UiOiJpdCIsInRpbWV6b25lIjoiKzAxMDAiLCJhcHBsaWNhdGlvblZlcnNpb24iOiIxMS4xNSIsImRldmljZU1vZGVsIjoiaVBob25lMTAsNiIsImNvbnRhY3RGaWVsZCI6eyJjb250YWN0RmllbGRJZCI6NDc5LCJjb250YWN0RmllbGRWYWx1ZSI6ImFlYWZjODdhYzZhMTVmZDE0ZDQ1NmUzNzVlY2FlOWViYzNmMWVlMjYifSwicHVzaFRva2VuIjoiYjliNDdhMzM0ZTljYzVhYmYwNWM0MjY2MzRjODZhZDc2NzQ3ZTE5ZDA3ZmY5NjkwOTkxMjY1NDQyM2NlNzNlZiJ9.mowTgwX9b3aLcoyeWgJ1o6TCCjX_V7VBvbfQ3SEKru8"
         },
         {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "content-length",
-            "value": "2"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "ad3f39985854cdec538fcb8e1dcdba7a6ffb76f0"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:49:25"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
+            "name": "x-contact-token",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250YWN0UmVmZXJlbmNlIjoiY3I6NjQ3MzgxMmM4YjMyM2ViNTpldS1jZW50cmFsLTEiLCJjb250YWN0SWQiOjY0MTQ5NDU1LCJleHAiOjE2MDY3MzY5NjV9.EOOOM44LVlXieYRtWF146M1CzBLqaZ48kCxm1ztU49U"
         },
         {
             "name": "accept-language",
             "value": "it-it"
         },
         {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/json"
-        },
-        {
-            "name": "content-type",
-            "value": "application/json"
+            "name": "x-emarsys-sdk-mode",
+            "value": "production"
         },
         {
             "name": "accept-encoding",
-            "value": "gzip"
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "x-request-order",
+            "value": "1606132165717"
+        },
+        {
+            "name": "content-length",
+            "value": "973"
+        },
+        {
+            "name": "x-client-id",
+            "value": "4703C9DC-F144-475C-8E94-FEA54659562C"
+        },
+        {
+            "name": "user-agent",
+            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
         },
         {
             "name": "x-newrelic-id",
             "value": "Vw4AU1VACwUCVlhXAAU="
-        },
-        {
-            "name": "cookie",
-            "value": "a4926be326b08cd3a67891d57a33d87b=760bac34cd902aaa997f5cc27fc488ba"
         }
     ],
-    "headersSize": 2064,
+    "headersSize": 1315,
     "httpVersion": "HTTP/2.0",
     "method": "POST",
     "postData": {
         "mimeType": "application/json",
         "params": [],
-        "text": "{}"
+        "text": "{\n  \"hardware_id\" : \"4703C9DC-F144-475C-8E94-FEA54659562C\",\n  \"clicks\" : [\n\n  ],\n  \"events\" : [\n    {\n      \"timestamp\" : \"2020-11-23T11:49:25.582Z\",\n      \"type\" : \"custom\",\n      \"name\" : \"app_status\",\n      \"attributes\" : {\n        \"installed_apps\" : \"runtastic.lite,apple_health\",\n        \"app_version\" : \"11.15\",\n        \"push_ios_permission_dialog_shown\" : \"1\",\n        \"push_enabled\" : \"1\",\n        \"first_app_session_at\" : \"1606131838\",\n        \"last_app_open\" : \"1606132165\",\n        \"last_user_switch_at\" : \"1606131842\",\n        \"app_platform\" : \"iphone\",\n        \"rna_content_version\" : \"24.29.0\",\n        \"previous_app_version\" : \"11.15.0.5529\"\n      }\n    },\n    {\n      \"timestamp\" : \"2020-11-23T11:49:25.582Z\",\n      \"type\" : \"custom\",\n      \"name\" : \"screen_open\",\n      \"attributes\" : {\n        \"screen_name\" : \"activity_tab\"\n      }\n    }\n  ],\n  \"viewedMessages\" : [\n\n  ],\n  \"application_version\" : \"11.15\",\n  \"ems_sdk\" : \"2.9.1\",\n  \"language\" : \"it-IT\"\n}"
     },
     "queryString": [],
-    "url": "https://appws.runtastic.com/webapps/services/users/me"
+    "url": "https://mobile-events.eservice.emarsys.net/v3/apps/EMS04-D6947/client/events"
 }
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 29: PHONE_NAME, 
 
 {
     "bodySize": 676,
@@ -1190,7 +986,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato NOME_COGNOME, GENDER, 
+Ho trovato nella richiesta 31: NOME_COGNOME, GENDER, PHONE_NAME, 
 
 {
     "bodySize": 724,
@@ -1239,7 +1035,7 @@ Ho trovato NOME_COGNOME, GENDER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 32: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 0,
@@ -1327,95 +1123,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 0,
-    "cookies": [],
-    "headers": [
-        {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "ad3f39985854cdec538fcb8e1dcdba7a6ffb76f0"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:49:25"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/vnd.api+json;case=snake;time_format=ms"
-        },
-        {
-            "name": "content-type",
-            "value": "application/vnd.api+json;case=snake;time_format=ms"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
-        }
-    ],
-    "headersSize": 1973,
-    "httpVersion": "HTTP/2.0",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://hubs.runtastic.com/externals/v2/users/169425755/connections/adidas"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 33: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 0,
@@ -1516,108 +1224,47 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
+Ho trovato nella richiesta 34: PHONE_NAME, 
 
 {
     "bodySize": 0,
     "cookies": [],
     "headers": [
         {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
+            "name": "Host",
+            "value": "s3.eu-west-1.amazonaws.com"
         },
         {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
+            "name": "Accept",
+            "value": "*/*"
         },
         {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "ad3f39985854cdec538fcb8e1dcdba7a6ffb76f0"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:49:25"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
+            "name": "Accept-Language",
             "value": "it-it"
         },
         {
-            "name": "x-app-feature-set",
-            "value": "lite"
+            "name": "Connection",
+            "value": "keep-alive"
         },
         {
-            "name": "x-locale",
-            "value": "it-IT"
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
         },
         {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/vnd.api+json;case=snake;time_format=ms"
-        },
-        {
-            "name": "content-type",
-            "value": "application/vnd.api+json;case=snake;time_format=ms"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
+            "name": "User-Agent",
+            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
         }
     ],
-    "headersSize": 1960,
-    "httpVersion": "HTTP/2.0",
+    "headersSize": 251,
+    "httpVersion": "HTTP/1.1",
     "method": "GET",
-    "queryString": [
-        {
-            "name": "filter[country.iso]",
-            "value": "IT"
-        },
-        {
-            "name": "filter[type]",
-            "value": "min_age_registration_constraint"
-        },
-        {
-            "name": "include",
-            "value": "country"
-        }
-    ],
-    "url": "https://hubs.runtastic.com/users/v3/registration_constraints?filter[country.iso]=IT&filter[type]=min_age_registration_constraint&include=country"
+    "queryString": [],
+    "url": "https://s3.eu-west-1.amazonaws.com/mobileassets.runtastic.com/localizations/ios/runtastic-iphone-runtastic/OTALocalization.bundle.zip"
 }
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 38: PHONE_NAME, 
 
 {
     "bodySize": 712,
@@ -1674,7 +1321,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 39: PHONE_NAME, 
 
 {
     "bodySize": 3096,
@@ -1744,7 +1391,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 40: PHONE_NAME, 
 
 {
     "bodySize": 764,
@@ -1801,7 +1448,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato UDID, 
+Ho trovato nella richiesta 43: UDID, PHONE_NAME, 
 
 {
     "bodySize": 1367,
@@ -1909,223 +1556,7 @@ Ho trovato UDID,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 1367,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "xr_3n2093n1a",
-            "secure": false,
-            "value": "1+MT6ojNx9EaHgcHgSPIuVX+s3VQs9BwWU3RJE359ZfS"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "p50-fmf.icloud.com"
-        },
-        {
-            "name": "X-Apple-PrsId",
-            "value": "10176858006"
-        },
-        {
-            "name": "User-Agent",
-            "value": "fmflocatord/7.0 iPhone10,6/18B92"
-        },
-        {
-            "name": "Cookie",
-            "value": "xr_3n2093n1a=1+MT6ojNx9EaHgcHgSPIuVX+s3VQs9BwWU3RJE359ZfS"
-        },
-        {
-            "name": "X-Apple-PushEnv",
-            "value": "production"
-        },
-        {
-            "name": "X-Apple-Realm-Support",
-            "value": "1.0"
-        },
-        {
-            "name": "Content-Length",
-            "value": "1367"
-        },
-        {
-            "name": "X-Apple-I-TimeZone",
-            "value": "CET"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "X-Apple-I-Client-Time",
-            "value": "2020-11-23T11:49:31Z"
-        },
-        {
-            "name": "X-Apple-Find-API-Ver",
-            "value": "7.0"
-        },
-        {
-            "name": "Authorization",
-            "value": "Basic MTAxNzY4NTgwMDY6RUFBUEFBQUFCTHdJQUFBQUFGLXBIWGNSRG1kekxtbGpiRzkxWkM1aGRYUm92UUJfSVV6UGxXUkRBTGZxSENPRzYta284dDRSOGg5LS1pRVNkRFo5Snk2bFMyemM1azQyQ0hIODlEbmNZUmtQX2dLcjZCVW1uVVI1TndkdEVReVNFbGh6ZkJqTmpCUlNSVHc1Wl9ZaEpSTS1sOHJia3RTczJJMXliV19SQWJES0tyb1ExNG5MZmx0R3Jid1BKdzJNeUN6ZzRmdHhfZ35+"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it-it"
-        },
-        {
-            "name": "X-Apple-I-MD-RINFO",
-            "value": "17106176"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/json"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "X-Apple-I-MD-M",
-            "value": "0K97Ed9w16v6vw+SaEEfowe0Bc2butK88d/pIdFp3s4RROvATIbsd66z/CykwvDUccvowvwTl9rOQHYk"
-        },
-        {
-            "name": "X-Apple-I-Locale",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Apple-I-MD",
-            "value": "AAAABQAAABBQyfvwuPrKoZKHfuIIjYGiAAAAAw=="
-        }
-    ],
-    "headersSize": 1159,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"deviceContext\":{\"deviceTS\":\"2020-11-23T11:49:31.960Z\",\"cause\":\"FMFLocationServicesStateChanged\",\"registeredCauses\":[\"FMFLocationServicesStateChanged\"]},\"deviceInfo\":{\"supportsNotifyV2\":true,\"supportsForceTouch\":true,\"deviceClass\":\"iPhone\",\"locationServicesEnabled\":true,\"isChargerConnected\":false,\"unlockState\":3,\"smlLS\":true,\"deviceName\":\"iPhone di Emmanuel\",\"deviceColor\":\"1\",\"processId\":\"8474\",\"allPushTokens\":[\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\"],\"fmf\":true,\"fenceMonitoringCapable\":true,\"productType\":\"iPhone10,6\",\"udid\":\"9c93c5bd4ae0d361640428bd3800f5b588de1699\",\"aps-token\":\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\",\"locale\":\"it_IT\",\"fmfVersion\":\"526\",\"isFMFAppRemoved\":false,\"platform\":\"iphoneos\",\"batteryStatus\":\"NotCharging\",\"idsDeviceId\":\"76010A50-0E0F-4059-9848-1D1593A5DAAF\",\"serialNumber\":\"F2LW4E2GJCLH\",\"timezone\":\"Europe\\/Rome\",\"isInternal\":false,\"otherDevices\":[{\"connectionStatus\":\"not-connected\",\"productType\":\"Watch1,2\",\"deviceClass\":\"Watch\",\"platform\":\"watchos\",\"pairingId\":\"6543870E-D725-44EC-A1EE-D86F390E3A6B\",\"udid\":\"efc79ac8b8dc7310b6c31c3e76dec18212b9a891\",\"deviceName\":\"Apple\u00a0Watch di Emmanuel\",\"lastActiveTime\":1603197653498}],\"fmfRestrictions\":false,\"fmfBuildVersion\":\"5.0\",\"batteryLevel\":0.79000002145767212,\"enclosureColor\":\"1\",\"buildVersion\":\"18B92\",\"productVersion\":\"14.2\"}}"
-    },
-    "queryString": [],
-    "url": "https://p50-fmf.icloud.com/fmipservice/fmf/10176858006/9c93c5bd4ae0d361640428bd3800f5b588de1699/register"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, UDID, 
-
-{
-    "bodySize": 1367,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "xr_3n2093n1a",
-            "secure": false,
-            "value": "1+MT6ojNx9EaHgcHgSPIuVX+s3VQs9BwWU3RJE359ZfS"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "p50-fmf.icloud.com"
-        },
-        {
-            "name": "X-Apple-PrsId",
-            "value": "10176858006"
-        },
-        {
-            "name": "User-Agent",
-            "value": "fmflocatord/7.0 iPhone10,6/18B92"
-        },
-        {
-            "name": "Cookie",
-            "value": "xr_3n2093n1a=1+MT6ojNx9EaHgcHgSPIuVX+s3VQs9BwWU3RJE359ZfS"
-        },
-        {
-            "name": "X-Apple-PushEnv",
-            "value": "production"
-        },
-        {
-            "name": "X-Apple-Realm-Support",
-            "value": "1.0"
-        },
-        {
-            "name": "Content-Length",
-            "value": "1367"
-        },
-        {
-            "name": "X-Apple-I-TimeZone",
-            "value": "CET"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "X-Apple-I-Client-Time",
-            "value": "2020-11-23T11:49:31Z"
-        },
-        {
-            "name": "X-Apple-Find-API-Ver",
-            "value": "7.0"
-        },
-        {
-            "name": "Authorization",
-            "value": "Basic MTAxNzY4NTgwMDY6RUFBUEFBQUFCTHdJQUFBQUFGLXBIWGNSRG1kekxtbGpiRzkxWkM1aGRYUm92UUJfSVV6UGxXUkRBTGZxSENPRzYta284dDRSOGg5LS1pRVNkRFo5Snk2bFMyemM1azQyQ0hIODlEbmNZUmtQX2dLcjZCVW1uVVI1TndkdEVReVNFbGh6ZkJqTmpCUlNSVHc1Wl9ZaEpSTS1sOHJia3RTczJJMXliV19SQWJES0tyb1ExNG5MZmx0R3Jid1BKdzJNeUN6ZzRmdHhfZ35+"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it-it"
-        },
-        {
-            "name": "X-Apple-I-MD-RINFO",
-            "value": "17106176"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/json"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "X-Apple-I-MD-M",
-            "value": "0K97Ed9w16v6vw+SaEEfowe0Bc2butK88d/pIdFp3s4RROvATIbsd66z/CykwvDUccvowvwTl9rOQHYk"
-        },
-        {
-            "name": "X-Apple-I-Locale",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Apple-I-MD",
-            "value": "AAAABQAAABBQyfvwuPrKoZKHfuIIjYGiAAAAAw=="
-        }
-    ],
-    "headersSize": 1159,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"deviceContext\":{\"deviceTS\":\"2020-11-23T11:49:31.960Z\",\"cause\":\"FMFLocationServicesStateChanged\",\"registeredCauses\":[\"FMFLocationServicesStateChanged\"]},\"deviceInfo\":{\"supportsNotifyV2\":true,\"supportsForceTouch\":true,\"deviceClass\":\"iPhone\",\"locationServicesEnabled\":true,\"isChargerConnected\":false,\"unlockState\":3,\"smlLS\":true,\"deviceName\":\"iPhone di Emmanuel\",\"deviceColor\":\"1\",\"processId\":\"8474\",\"allPushTokens\":[\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\"],\"fmf\":true,\"fenceMonitoringCapable\":true,\"productType\":\"iPhone10,6\",\"udid\":\"9c93c5bd4ae0d361640428bd3800f5b588de1699\",\"aps-token\":\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\",\"locale\":\"it_IT\",\"fmfVersion\":\"526\",\"isFMFAppRemoved\":false,\"platform\":\"iphoneos\",\"batteryStatus\":\"NotCharging\",\"idsDeviceId\":\"76010A50-0E0F-4059-9848-1D1593A5DAAF\",\"serialNumber\":\"F2LW4E2GJCLH\",\"timezone\":\"Europe\\/Rome\",\"isInternal\":false,\"otherDevices\":[{\"connectionStatus\":\"not-connected\",\"productType\":\"Watch1,2\",\"deviceClass\":\"Watch\",\"platform\":\"watchos\",\"pairingId\":\"6543870E-D725-44EC-A1EE-D86F390E3A6B\",\"udid\":\"efc79ac8b8dc7310b6c31c3e76dec18212b9a891\",\"deviceName\":\"Apple\u00a0Watch di Emmanuel\",\"lastActiveTime\":1603197653498}],\"fmfRestrictions\":false,\"fmfBuildVersion\":\"5.0\",\"batteryLevel\":0.79000002145767212,\"enclosureColor\":\"1\",\"buildVersion\":\"18B92\",\"productVersion\":\"14.2\"}}"
-    },
-    "queryString": [],
-    "url": "https://p50-fmf.icloud.com/fmipservice/fmf/10176858006/9c93c5bd4ae0d361640428bd3800f5b588de1699/register"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 53: PHONE_NAME, 
 
 {
     "bodySize": 1346,
@@ -2187,7 +1618,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 58: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 93,
@@ -2301,121 +1732,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 93,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "JSESSIONID",
-            "secure": false,
-            "value": "tf-prd-glassfish-server-004~\"\""
-        },
-        {
-            "httpOnly": false,
-            "name": "a4926be326b08cd3a67891d57a33d87b",
-            "secure": false,
-            "value": "760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headers": [
-        {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "content-length",
-            "value": "93"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "15011b729a35235c6c48b3c70370eac2b31688de"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:49:44"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/json"
-        },
-        {
-            "name": "content-type",
-            "value": "application/json"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
-        },
-        {
-            "name": "cookie",
-            "value": "JSESSIONID=tf-prd-glassfish-server-004~\"\"; a4926be326b08cd3a67891d57a33d87b=760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headersSize": 2046,
-    "httpVersion": "HTTP/2.0",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"startTime\":\"1606132184000\",\"sportTypeId\":\"1\",\"allowCheering\":\"true\",\"requestRetry\":\"false\"}"
-    },
-    "queryString": [],
-    "url": "https://appws.runtastic.com/webapps/services/runsessions/startSession"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 59: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8067,
@@ -2625,7 +1942,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 60: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 566,
@@ -2743,125 +2060,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 566,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "JSESSIONID",
-            "secure": false,
-            "value": "tf-prd-glassfish-server-004~\"\""
-        },
-        {
-            "httpOnly": false,
-            "name": "a4926be326b08cd3a67891d57a33d87b",
-            "secure": false,
-            "value": "760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headers": [
-        {
-            "name": "content-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "content-length",
-            "value": "385"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "ffaec076eab1dba42cbf61d1f2cd35b229ed37a8"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:50:15"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/json"
-        },
-        {
-            "name": "content-type",
-            "value": "application/json"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
-        },
-        {
-            "name": "cookie",
-            "value": "JSESSIONID=tf-prd-glassfish-server-004~\"\"; a4926be326b08cd3a67891d57a33d87b=760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headersSize": 2079,
-    "httpVersion": "HTTP/2.0",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"distance\":\"24\",\"time\":\"1606132215000\",\"gpsData\":{\"latitude\":40.384086608886719,\"trace\":\"AAAABAAAAXX08DuIQXB7kUIhiU5BlBnVCkEAAAAAAAAHNQAAAAAAAAAAAAABdfTwdypBcHvaQiGJ\\nZ0GSf+IKQQAAAAAAAEHNAAAADAAAAAAAAAF19PCU8UFwe9hCIYlsQZHlSgpBAAAAAAAAYQ4AAAAO\\nAAAAAAAAAXX08KlsQXB7qEIhiVZBkjHyCkFA56TLAAB0lgAAABgAAAAA\",\"count\":4,\"longitude\":15.030167579650879,\"version\":1},\"heartRateData\":{\"avg\":0,\"count\":0,\"max\":0,\"version\":1},\"calories\":\"2\",\"duration\":\"30846\",\"speedData\":{\"avg\":2.8281991481781006,\"max\":7.2388668060302734},\"elevationGain\":\"0\",\"pause\":\"430\",\"elevationLoss\":\"0\"}"
-    },
-    "queryString": [],
-    "url": "https://appws.runtastic.com/webapps/services/runsessions/v2/3958215324/live/location"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 61: PHONE_NAME, 
 
 {
     "bodySize": 126205,
@@ -2938,7 +2137,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 62: PHONE_NAME, 
 
 {
     "bodySize": 538,
@@ -2991,7 +2190,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 83: PHONE_NAME, 
 
 {
     "bodySize": 914,
@@ -3068,7 +2267,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 84: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1562,
@@ -3186,125 +2385,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 1562,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "JSESSIONID",
-            "secure": false,
-            "value": "tf-prd-glassfish-server-004~\"\""
-        },
-        {
-            "httpOnly": false,
-            "name": "a4926be326b08cd3a67891d57a33d87b",
-            "secure": false,
-            "value": "760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headers": [
-        {
-            "name": "content-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "content-length",
-            "value": "919"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "47005834f63fe7590d5c223405bb5a8ebea10f8d"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:51:29"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/json"
-        },
-        {
-            "name": "content-type",
-            "value": "application/json"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
-        },
-        {
-            "name": "cookie",
-            "value": "JSESSIONID=tf-prd-glassfish-server-004~\"\"; a4926be326b08cd3a67891d57a33d87b=760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headersSize": 2079,
-    "httpVersion": "HTTP/2.0",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"distance\":\"107\",\"time\":\"1606132289000\",\"gpsData\":{\"latitude\":40.384086608886719,\"trace\":\"AAAAFwAAAXX08LtoQXB7aUIhiSlBkxuFX0BA5hhtAACENgAAACwAAAAAAAABdfTwwyxBcHtlQiGJ\\nK0GTowJYQEC48aoAAIwFAAAALQAAAAAAAAF19PDK90Fwe35CIYkuQZSn4FlAQJn5+AAAk9YAAAAv\\nAAAAAAAAAXX08NLKQXB7iEIhiTdBlZRFYUBAoMNPAACbpgAAADMAAAAAAAABdfTw2p9BcHuPQiGJ\\nP0GV7FIdMECrqS0AAKN3AAAANwAAAAAAAAF19PDidUFwe55CIYlEQZVoyhwwQKwVTwAAq0gAAAA5\\nAAAAAAAAAXX08OpKQXB7rkIhiUdBlMjqGzBArO38AACzFQAAADsAAAAAAAABdfTw+eRBcHvQQiGJ\\nX0GT6aVpQEEZpmkAAMK1AAAARQAAAAAAAAF19PEBuEFwe8pCIYluQZMJjWpAQSDbpgAAyoUAAABM\\nAAAAAAAAAXX08QmEQXB7vEIhiXhBkjZQYkBBHqi0AADSVAAAAFAAAAAAAAABdfTxaDJBcHv8QiGJ\\nyEGQLQY+IAAAAAAAANxVAAAAUAAAAAAAAAF19PFwB0Fwe\\/tCIYnIQY5B2zQYAAAAAAAA5CYAAABQ\\nAAAAAAAAAXX08XfSQXB720IhicxBjNhvOxgAAAAAAADr9gAAAFMAAAAAAAABdfTxf6NBcHurQiGJ\\nz0GLwShHGEBdbs4AAPPGAAAAVwAAAAAAAAF19PGHckFwe4tCIYnOQYrfZ2IYQIRJHQAA+5cAAABa\\nAAAAAAAAAXX08Y9EQXB7d0IhictBi3VGOBhAhXtdAAEDZgAAAFwAAAAAAAABdfTxlxVBcHtkQiGJ\\nyUGMKAA8GECWoLAAAQs4AAAAXgAAAAAAAAF19PGe40Fwe1tCIYnFQYzVkEIYQFX0YgABEwkAAABg\\nAAAAAAAAAXX08aazQXB7X0Ihib5BjWnrPRhAaMBCAAEa2wAAAGMAAAAAAAABdfTxroRBcHteQiGJ\\nuEGN7KgvIEB+hfYAASKsAAAAZQAAAAAAAAF19PG2VEFwe1RCIYm1QY5hECQgQHtmFAABKn0AAABn\\nAAAAAAAAAXX08b4eQXB7QUIhibNBjtaCHiBAfYOFAAEySAAAAGkAAAAAAAABdfTxxfJBcHsrQiGJ\\nsUGPWLAhIEBU\\/gcAAToYAAAAawAAAAA=\",\"count\":23,\"longitude\":15.030167579650879,\"version\":1},\"heartRateData\":{\"avg\":0,\"count\":0,\"max\":0,\"version\":1},\"calories\":\"9\",\"duration\":\"83249\",\"speedData\":{\"avg\":4.6090569496154785,\"max\":10.053625106811523},\"elevationGain\":\"0\",\"pause\":\"22341\",\"elevationLoss\":\"0\"}"
-    },
-    "queryString": [],
-    "url": "https://appws.runtastic.com/webapps/services/runsessions/v2/3958215324/end"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 85: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8067,
@@ -3514,7 +2595,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 86: PHONE_NAME, 
 
 {
     "bodySize": 679,
@@ -3571,7 +2652,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 87: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8021,
@@ -3785,7 +2866,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 88: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8084,
@@ -3999,7 +3080,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 91: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8073,
@@ -4209,7 +3290,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 94: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 0,
@@ -4314,112 +3395,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "JSESSIONID",
-            "secure": false,
-            "value": "tf-prd-glassfish-server-004~\"\""
-        },
-        {
-            "httpOnly": false,
-            "name": "a4926be326b08cd3a67891d57a33d87b",
-            "secure": false,
-            "value": "760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headers": [
-        {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "a988e9eee775a7afab0c2dc75a31b2362ad86a57"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:51:33"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/json"
-        },
-        {
-            "name": "content-type",
-            "value": "application/json"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
-        },
-        {
-            "name": "cookie",
-            "value": "JSESSIONID=tf-prd-glassfish-server-004~\"\"; a4926be326b08cd3a67891d57a33d87b=760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headersSize": 2031,
-    "httpVersion": "HTTP/2.0",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://appws.runtastic.com/webapps/services/training_plans/v1/users/169425755/training_plans.json"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 96: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 0,
@@ -4547,135 +3523,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "a4926be326b08cd3a67891d57a33d87b",
-            "secure": false,
-            "value": "8c425d4f9e43b8a457e3b04582e92fda"
-        }
-    ],
-    "headers": [
-        {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "a988e9eee775a7afab0c2dc75a31b2362ad86a57"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:51:33"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/vnd.api+json;case=snake;time_format=ms"
-        },
-        {
-            "name": "content-type",
-            "value": "application/vnd.api+json;case=snake;time_format=ms"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
-        },
-        {
-            "name": "cookie",
-            "value": "a4926be326b08cd3a67891d57a33d87b=8c425d4f9e43b8a457e3b04582e92fda"
-        }
-    ],
-    "headersSize": 2043,
-    "httpVersion": "HTTP/2.0",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "filter[recurrence.period]",
-            "value": "onetime,daily,weekly,monthly,yearly"
-        },
-        {
-            "name": "filter[sport_type_filter]",
-            "value": "running,biking,walking,hiking,cardio"
-        },
-        {
-            "name": "filter[type]",
-            "value": "distance_goal,duration_goal,frequency_goal"
-        },
-        {
-            "name": "filter[unscoped]",
-            "value": "false"
-        },
-        {
-            "name": "page[number]",
-            "value": "1"
-        },
-        {
-            "name": "page[size]",
-            "value": "30"
-        },
-        {
-            "name": "sort",
-            "value": "updated_at"
-        }
-    ],
-    "url": "https://hubs.runtastic.com/goals/v1/users/169425755/goals?filter[recurrence.period]=onetime,daily,weekly,monthly,yearly&filter[sport_type_filter]=running,biking,walking,hiking,cardio&filter[type]=distance_goal,duration_goal,frequency_goal&filter[unscoped]=false&page[number]=1&page[size]=30&sort=updated_at"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 98: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 0,
@@ -4779,111 +3627,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "a4926be326b08cd3a67891d57a33d87b",
-            "secure": false,
-            "value": "8c425d4f9e43b8a457e3b04582e92fda"
-        }
-    ],
-    "headers": [
-        {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "08727ce0326787023b06f1a57f3668334d059a4c"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:51:34"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/vnd.api+json;case=snake;time_format=ms"
-        },
-        {
-            "name": "content-type",
-            "value": "application/vnd.api+json;case=snake;time_format=ms"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
-        },
-        {
-            "name": "cookie",
-            "value": "a4926be326b08cd3a67891d57a33d87b=8c425d4f9e43b8a457e3b04582e92fda"
-        }
-    ],
-    "headersSize": 2043,
-    "httpVersion": "HTTP/2.0",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "filter[tags]",
-            "value": "running"
-        }
-    ],
-    "url": "https://hubs.runtastic.com/photos/v2/shareable_backgrounds?filter[tags]=running"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 99: PHONE_NAME, 
 
 {
     "bodySize": 1713,
@@ -4945,7 +3689,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 100: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 2694,
@@ -5063,125 +3807,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 2694,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "JSESSIONID",
-            "secure": false,
-            "value": "tf-prd-glassfish-server-004~\"\""
-        },
-        {
-            "httpOnly": false,
-            "name": "a4926be326b08cd3a67891d57a33d87b",
-            "secure": false,
-            "value": "760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headers": [
-        {
-            "name": "content-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "content-length",
-            "value": "1422"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "08727ce0326787023b06f1a57f3668334d059a4c"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:51:34"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/json"
-        },
-        {
-            "name": "content-type",
-            "value": "application/json"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
-        },
-        {
-            "name": "cookie",
-            "value": "JSESSIONID=tf-prd-glassfish-server-004~\"\"; a4926be326b08cd3a67891d57a33d87b=760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headersSize": 2080,
-    "httpVersion": "HTTP/2.0",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"syncedUntil\":\"1606131918000\",\"perPage\":\"100\",\"uploadSessions\":[{\"oldSessionId\":\"3958215324\",\"elevationLoss\":\"0\",\"duration\":\"83305\",\"wheelCircumference\":\"0\",\"elevationGain\":\"0\",\"gpsElevationGain\":\"0\",\"calories\":\"9\",\"gpsData\":{\"latitude\":40.384086608886719,\"trace\":\"AAAAHAAAAXX08DuIQXB7kUIhiU5BlBnVCkEAAAAAAAAHNQAAAAAAAAAAAAABdfTwdypBcHvaQiGJ\\nZ0GSf+IKQQAAAAAAAEHNAAAADAAAAAAAAAF19PCU8UFwe9hCIYlsQZHlSgpBAAAAAAAAYQ4AAAAO\\nAAAAAAAAAXX08KlsQXB7qEIhiVZBkjHyCkFA56TLAAB0lgAAABgAAAAAAAABdfTwu2hBcHtpQiGJ\\nKUGTG4VfQEDmGG0AAIQ2AAAALAAAAAAAAAF19PDDLEFwe2VCIYkrQZOjAlhAQLjxqgAAjAUAAAAt\\nAAAAAAAAAXX08Mr3QXB7fkIhiS5BlKfgWUBAmfn4AACT1gAAAC8AAAAAAAABdfTw0spBcHuIQiGJ\\nN0GVlEVhQECgw08AAJumAAAAMwAAAAAAAAF19PDan0Fwe49CIYk\\/QZXsUh0wQKupLQAAo3cAAAA3\\nAAAAAAAAAXX08OJ1QXB7nkIhiURBlWjKHDBArBVPAACrSAAAADkAAAAAAAABdfTw6kpBcHuuQiGJ\\nR0GUyOobMECs7fwAALMVAAAAOwAAAAAAAAF19PD55EFwe9BCIYlfQZPppWlAQRmmaQAAwrUAAABF\\nAAAAAAAAAXX08QG4QXB7ykIhiW5BkwmNakBBINumAADKhQAAAEwAAAAAAAABdfTxCYRBcHu8QiGJ\\neEGSNlBiQEEeqLQAANJUAAAAUAAAAAAAAAF19PFoMkFwe\\/xCIYnIQZAtBj4gAAAAAAAA3FUAAABQ\\nAAAAAAAAAXX08XAHQXB7+0IhichBjkHbNBgAAAAAAADkJgAAAFAAAAAAAAABdfTxd9JBcHvbQiGJ\\nzEGM2G87GAAAAAAAAOv2AAAAUwAAAAAAAAF19PF\\/o0Fwe6tCIYnPQYvBKEcYQF1uzgAA88YAAABX\\nAAAAAAAAAXX08YdyQXB7i0Ihic5Bit9nYhhAhEkdAAD7lwAAAFoAAAAAAAABdfTxj0RBcHt3QiGJ\\ny0GLdUY4GECFe10AAQNmAAAAXAAAAAAAAAF19PGXFUFwe2RCIYnJQYwoADwYQJagsAABCzgAAABe\\nAAAAAAAAAXX08Z7jQXB7W0IhicVBjNWQQhhAVfRiAAETCQAAAGAAAAAAAAABdfTxprNBcHtfQiGJ\\nvkGNaes9GEBowEIAARrbAAAAYwAAAAAAAAF19PGuhEFwe15CIYm4QY3sqC8gQH6F9gABIqwAAABl\\nAAAAAAAAAXX08bZUQXB7VEIhibVBjmEQJCBAe2YUAAEqfQAAAGcAAAAAAAABdfTxvh5BcHtBQiGJ\\ns0GO1oIeIEB9g4UAATJIAAAAaQAAAAAAAAF19PHF8kFweytCIYmxQY9YsCEgQFT+BwABOhgAAABr\\nAAAAAAAAAXX08c3oQXB7K0IhibFBj1iwISBAVP4HAAFFaQAAAGsAAAAA\",\"count\":28,\"longitude\":15.030167579650879,\"version\":1},\"additionalInfoData\":{\"temperature\":18,\"feelingId\":1,\"surfaceId\":0,\"weatherId\":1},\"stepRateData\":{\"avg\":144,\"stepLength\":\"72\",\"max\":186,\"totalSteps\":148},\"endTime\":\"1606132289000\",\"pause\":\"21695\",\"gpsElevationLoss\":\"0\",\"manual\":\"false\",\"records\":{\"achievements\":{\"fastestHalfMarathon\":\"none\",\"fastestKm\":\"none\",\"fastest3Mi\":\"none\",\"fastest10k\":\"none\",\"fastestMi\":\"none\",\"fastestMarathon\":\"none\",\"fastest5k\":\"none\"},\"positions\":{\"fastestHalfMarathon\":\"none\",\"fastestKm\":\"none\",\"fastest3Mi\":\"none\",\"fastest10k\":\"none\",\"fastestMi\":\"none\",\"fastestMarathon\":\"none\",\"fastest5k\":\"none\"}},\"extendedData\":{\"humidity\":73,\"windDirection\":350,\"dehydrationVolume\":14,\"windSpeed\":0},\"sportTypeId\":\"1\",\"distance\":\"107\",\"clientId\":\"x-coredata:\\/\\/1C1409E3-5D43-4CA6-A1A7-AA3EFA7C6C2F\\/RTCoreDataSession\\/p2\",\"speedData\":{\"avg\":4.6059584617614746,\"max\":10.053625106811523},\"startTime\":\"1606132184000\",\"userEquipmentIds\":[]}]}"
-    },
-    "queryString": [],
-    "url": "https://appws.runtastic.com/webapps/services/runsessions/v3/sync"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 101: PHONE_NAME, 
 
 {
     "bodySize": 800,
@@ -5243,7 +3869,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 102: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 0,
@@ -5367,131 +3993,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "a4926be326b08cd3a67891d57a33d87b",
-            "secure": false,
-            "value": "8c425d4f9e43b8a457e3b04582e92fda"
-        }
-    ],
-    "headers": [
-        {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "cd8f84b91a45c2f9ab573b32cf359021e1359625"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:51:35"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/vnd.api+json;case=snake;time_format=ms"
-        },
-        {
-            "name": "content-type",
-            "value": "application/vnd.api+json;case=snake;time_format=ms"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
-        },
-        {
-            "name": "cookie",
-            "value": "a4926be326b08cd3a67891d57a33d87b=8c425d4f9e43b8a457e3b04582e92fda"
-        }
-    ],
-    "headersSize": 2056,
-    "httpVersion": "HTTP/2.0",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "filter[type]",
-            "value": "user_equipment_shoe"
-        },
-        {
-            "name": "filter[unscoped]",
-            "value": "true"
-        },
-        {
-            "name": "filter[updated_at.gt]",
-            "value": "0"
-        },
-        {
-            "name": "include",
-            "value": "equipment.vendor"
-        },
-        {
-            "name": "page[number]",
-            "value": "1"
-        },
-        {
-            "name": "sort",
-            "value": "name"
-        }
-    ],
-    "url": "https://hubs.runtastic.com/equipment/v1/users/169425755/user_equipment?filter[type]=user_equipment_shoe&filter[unscoped]=true&filter[updated_at.gt]=0&include=equipment.vendor&page[number]=1&sort=name"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 106: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 0,
@@ -5596,112 +4098,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "JSESSIONID",
-            "secure": false,
-            "value": "tf-prd-glassfish-server-004~\"\""
-        },
-        {
-            "httpOnly": false,
-            "name": "a4926be326b08cd3a67891d57a33d87b",
-            "secure": false,
-            "value": "760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headers": [
-        {
-            "name": "x-device-name",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "user-agent",
-            "value": "runtastic/11.15.0.5529 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "x-app-key",
-            "value": "at.runtastic.gpssportapp"
-        },
-        {
-            "name": "x-device-vendor",
-            "value": "Apple"
-        },
-        {
-            "name": "x-auth-token",
-            "value": "cd8f84b91a45c2f9ab573b32cf359021e1359625"
-        },
-        {
-            "name": "x-date",
-            "value": "2020.11.23 11:51:35"
-        },
-        {
-            "name": "x-device-firmware",
-            "value": "iOS 14.2"
-        },
-        {
-            "name": "x-app-version",
-            "value": "11.15"
-        },
-        {
-            "name": "x-screen-pixels",
-            "value": "320x480"
-        },
-        {
-            "name": "authorization",
-            "value": "Bearer eyJhbGciOiJSUzUxMiIsImtpZCI6Imp3dHNpZ25pbmciLCJ4NXQiOiJQMENrMHhUTTBGczRvRzJhN1FTclI2Wk1jUGsiLCJwaS5hdG0iOiJjeWk5In0.eyJzY29wZSI6WyJhY2NvdW50cyIsInBpaSJdLCJjbGllbnRfaWQiOiJFMjAxNjZGMzI0NDcyQUYyQzE0MEZCOUFCREU4MTE1MCIsImd1aWQiOiJ4bDlrajBqWHlNeXVrUVNYWkFGTUd0UnU1WWw4QlA2UiIsImlzcyI6Imh0dHBzOi8vaWRwLmFkaWRhcy5jb20vIiwiYXVkIjoiT0F1dGgiLCJqdGkiOiJKRkNMMFl0a2RIb0RRWnpiIiwiYmlydGhkYXRlIjoiMTk5OC0wMS0zMCIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJhaWMucmVnaXN0ZXJlZF9hdCI6MTYwNjA2NDE0OCwiYW1yIjoib3RwIiwiYXV0aF9zb3VyY2UiOiJhaWMiLCJsYXN0X25hbWUiOiJDYXJ1c28iLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOiJmYWxzZSIsImFjaWQiOiJVNVNCQlpKWjJRNjlGUExEIiwicGkudWsiOiJVNVNCQlpKWjJRNjlGUExEIiwiYXV0aF90aW1lIjoxNjA2MDY0MTQ4LCJtaW5fYWdlIjoyMiwiYnJhbmQiOiJhZGlkYXMiLCJmaXJzdF9uYW1lIjoiTGVvbmFyZG8iLCJlbWFpbCI6Imxlb25hcmRvLmNhcnVzbzU5N0BnbWFpbC5jb20iLCJleHAiOjE2MDg3NDI1NDh9.cP7P1k6nJ9rBoVs7LOI-qprYId6G6aQ0BxpNmv49Puw825i8sRPfTRctTPp54fMX3-veiBHuziA7tTQlixMy9TCxvAJAbr4WPzriURz968yWux1Q1f4TW4UFxxKkY79ddBNEMhPaBbWDl0bf2rxyLhfaMUbOl4KF5Il-K6Uy56HObPZ4fb1yAgD1DxMimUHsvTRx_qk2YUyJrvqqi7anfwDPqfWvR2WuhqOuNNQB4ogUMonnwa6rpgkBXoKBV208oFJmf3tlpnOnTNBy7YwF6JYdtZOD9idwkVZVs3fh1LdLMPmJNXA2NDxjBck4KC_y1R-9gZTLCcDikTM0sHK1hw"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-locale",
-            "value": "it-IT"
-        },
-        {
-            "name": "x-app-feature-set",
-            "value": "lite"
-        },
-        {
-            "name": "x-carrier",
-            "value": "Vodafone IT;MCC=222;MNC=10"
-        },
-        {
-            "name": "accept",
-            "value": "application/json"
-        },
-        {
-            "name": "content-type",
-            "value": "application/json"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "Vw4AU1VACwUCVlhXAAU="
-        },
-        {
-            "name": "cookie",
-            "value": "JSESSIONID=tf-prd-glassfish-server-004~\"\"; a4926be326b08cd3a67891d57a33d87b=760bac34cd902aaa997f5cc27fc488ba"
-        }
-    ],
-    "headersSize": 2031,
-    "httpVersion": "HTTP/2.0",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://appws.runtastic.com/webapps/services/training_plans/v1/users/169425755/training_plans.json"
-}
-
-####################################
-
-Ho trovato NOME_COGNOME, GENDER, 
+Ho trovato nella richiesta 107: NOME_COGNOME, GENDER, 
 
 {
     "bodySize": 544,
@@ -5750,7 +4147,7 @@ Ho trovato NOME_COGNOME, GENDER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 123: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8073,
@@ -5960,7 +4357,72 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 129: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "user-agent",
+            "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+        },
+        {
+            "name": "accept",
+            "value": "image/webp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 304,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "key",
+            "value": "c7140144f14e3ecec56c6dd57e7d458f"
+        },
+        {
+            "name": "event_source",
+            "value": "rnt_in_app"
+        },
+        {
+            "name": "target",
+            "value": "runtastic"
+        },
+        {
+            "name": "utm_source",
+            "value": "runtastic.lite"
+        },
+        {
+            "name": "utm_medium",
+            "value": "iliam.ios"
+        },
+        {
+            "name": "utm_campaign",
+            "value": "premiumsale112020"
+        },
+        {
+            "name": "utm_term",
+            "value": "2020-11-18"
+        },
+        {
+            "name": "utm_content",
+            "value": "adiRUN-2020-11-18-Black-Friday-Sale"
+        }
+    ],
+    "url": "https://rbt.runtastic.com/v1/pageview/?key=c7140144f14e3ecec56c6dd57e7d458f&event_source=rnt_in_app&target=runtastic&utm_source=runtastic.lite&utm_medium=iliam.ios&utm_campaign=premiumsale112020&utm_term=2020-11-18&utm_content=adiRUN-2020-11-18-Black-Friday-Sale"
+}
+
+####################################
+
+Ho trovato nella richiesta 136: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8071,
@@ -6170,7 +4632,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 138: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8066,
@@ -6380,7 +4842,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 144: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8078,
@@ -6590,7 +5052,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 149: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8222,
@@ -6800,7 +5262,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 152: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8235,
@@ -7014,7 +5476,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PESO, 
+Ho trovato nella richiesta 156: PESO, 
 
 {
     "bodySize": 0,
@@ -7067,7 +5529,7 @@ Ho trovato PESO,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 158: PHONE_NAME, IDFA, 
 
 {
     "bodySize": 8222,
@@ -7277,7 +5739,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 160: PHONE_NAME, 
 
 {
     "bodySize": 3661,
@@ -7339,7 +5801,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 163: PHONE_NAME, 
 
 {
     "bodySize": 896,

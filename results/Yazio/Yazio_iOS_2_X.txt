@@ -1,0 +1,1253 @@
+Ho trovato nella richiesta 0: PHONE_NAME, 
+
+{
+    "bodySize": 413,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "application/x-protobuf"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "content-length",
+            "value": "356"
+        },
+        {
+            "name": "content-encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "user-agent",
+            "value": "datatransport/7.5.1 fllsupport/7.5.1 apple/"
+        },
+        {
+            "name": "x-goog-api-key",
+            "value": "AIzaSyB4G40IhwotnuD26vAV-0PAxOVr5zn1BCc"
+        }
+    ],
+    "headersSize": 328,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-protobuf",
+        "params": [],
+        "text": "\n\u009a\u0003\n<\b\u000f\"8\u001a\u000214\"\u000414.2*\u00039082\u0002IT:\niPhone10,6B\u0002itZ\u0013com.yazio.ios.YAZIO\u0010\u0089\u0001\u001a\u00c9\u0002\b\u00f3\u00b9\u0099\u00b1\u00df.2\u00b5\u0002\b\u0001:\u0003\u0013\u0012\u0014J\niPhone10,6R#1:121867625151:ios:d32c259700cd4cc5b\u0013com.yazio.ios.YAZIO\u0080\u0001\u0002\u0092\u0001\b61004000\u00a8\u0001\u0001\u00b2\u0001\u000414.2\u00c2\u0001\u000413.0\u00c8\u0001\u0001\u00d0\u0001\u0001\u00d8\u0001\b\u00e2\u0001\u000e12A7300-18A390\u00e8\u0001\u0000\u00f0\u0001\u0001\u00fa\u0001\u009f\u0001apple-platform/ios apple-sdk/18A390 fire-abt/4.2.0 fire-analytics/6.9.0 fire-dl/4.3.1 fire-install/1.7.0 fire-ios/6.10.4 fire-rc/4.9.1 swift/true xcode/12A7300\u0088\u0002\u0001\u00a0\u0002\u0001x\u00a08\u0088\u0001\u00f2\u00c5\u00cb\u00cd\u0002 \u00e3\u008e\u00a6\u00db\u00e5.@\u00b9\u009a\u00d8\u00f7\b"
+    },
+    "queryString": [],
+    "url": "https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/batchlog"
+}
+
+####################################
+
+Ho trovato nella richiesta 3: PHONE_NAME, 
+
+{
+    "bodySize": 560,
+    "cookies": [
+        {
+            "httpOnly": false,
+            "name": "JSESSIONID",
+            "secure": false,
+            "value": "1945C70C1F1062146838EB13782E04CD"
+        }
+    ],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "ca.iadsdk.apple.com"
+        },
+        {
+            "name": "storefront",
+            "value": "143450-7,29"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "timestamp",
+            "value": "1607851411.000000"
+        },
+        {
+            "name": "bundleID",
+            "value": "com.apple.ap.adprivacyd"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "Content-Length",
+            "value": "560"
+        },
+        {
+            "name": "User-Agent",
+            "value": "iPhone10,6; Version 14.2 (Build 18B92); com.apple.ap.adprivacyd; 143450-7,29"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "os_Version",
+            "value": "Version 14.2 (Build 18B92)"
+        },
+        {
+            "name": "device",
+            "value": "iPhone10,6"
+        },
+        {
+            "name": "Cookie",
+            "value": "JSESSIONID=1945C70C1F1062146838EB13782E04CD"
+        }
+    ],
+    "headersSize": 606,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "\u0000\u0000\u0000\u0019\u0000\u0000\u0002(\u001a\u0080\u0002d\u00b4w*\u00b4E\u00b5\u00a82\u0012\u0002\u000b\u00b3V \u00c0\\n\u00e4$\u00d8\u00c7G\u009dp\\\u00d7\u0087\u0010\r\u00aa\u008f\u001e\u00bf\u00ae\u00cf\u0010\u00f11d\u001c\u00ae0g\u008b",
+                "value": "\u00fd\u00be7\u00b0\u00cf\u00a8c\u00cfz\u00ddCC\u008a\u00a3\u00da\u009an\u00b0\u00b3\u009bd\f\u00aa\u0013\u00fe\u0010\u00ef\u0084\u0085\u00d9\t\u0096k\u00fc\u00efHR\u00e81\u00e9boDt\u00d0`\u0085\u0094\u000b\u00e9\u008d\u00ab\u009a# \u0098\u0010\u0087\u00a1\u0098_pE\u00f4\u000f"
+            },
+            {
+                "name": "\u0004:\u00d3$\u00a8\u009c\t\u00a2\u00f4\u0096#\u0015H\u00a9,q\u00bdS/ZY\u00b9l\u00fd/\u009b\u00db\u00cf\u00be\u00b4\u007f#\u0082\u00bb\u00ae\u0000\u00c4\"\u00d1\u00c1'\u00ae\u00fd\u00d9\u00c8\u00b8\u00d2\u008c\u00ach\u00ac\u00c5\u00d8\u0003\u00a4d%uO",
+                "value": "\u0083\u00f8\u00dag{\u00d0\u00f8\u009a\u00e9\u00e8uO)\u0081Ys\u00b5\u0007\u0004E\u008f\u00d2\u0017\u00a3({*\u00ffGy\u00c3\u00d3*9U\u0087co>Y\u0099=K\u00c0\u0094(\u00b1\u0000_\u00e3A\u00e0\u0098P\u0001\u00bb\u00f9\u00d8\u00ba6b\u00e7\u00b0\u00b5\u0086$\u0000\u0091\u00ed\u00b1\u00bbA\u008c\u00beY\u00ed\r\u00e7\u0007\f,\u0011\u000bp\"\u0013com.yazio.ios.YAZIO)\u0000\u0000\u00801\u0002\u00ee\u00d7A@\u0000H\u0002R\u0080\u00026-B\u00bbD"
+            },
+            {
+                "name": "\u00e3\u001c\u0007\u00f7\u00de\u00ec",
+                "value": ""
+            },
+            {
+                "name": "L\u00a9\"\u00db\"\u001b\u0081\u008c6\u00a3\u0007\u00cezI8\u00fc\u00f1\u001d)\tf\\>\u00b9A\u0096\u008dfoX\u0082O<\u0096\u008d\u0088\u00f5|F\u0097\u0080E7i'\u009d\u00d3\u0001\u00afR\u00a4%\u00ff\u001e\u001c\u0083\u00b2\u0012\u00ac\u00d9\u0092\u00d6\u00f0\u0012-\u00adu\u001f\u00cd\u008c\u00b9^\u0094\u00c0y~\u00df\u0086\u00b3\u00ecn\u0095\u0019sw\u00e3K\u00c7\u00b5",
+                "value": ""
+            },
+            {
+                "name": "\u00ed]P]\u00bb\u00f2\u00c5\u00c7}{\u00d1\u00cfO\u0014\u0097\u00e093\u001ah\u00deb\u00e6\u00a4#\u00bcz{\u00b4g\u0019b\u00cf_x\u00b3\u0083h\u0097",
+                "value": "\b0\u0090A\u00bb u69\u00d7\u00d6\u00f3!\u0006\u00e6\u00e5?\u008d>\u00eb \u0087\u00c1\u00fb\u00c4"
+            },
+            {
+                "name": "z>\u00db\u00f7\u00ff\u00aa\u00a6\u0004X\u00a5\u0085\u00d8\u001e\u00f3#\u00b5\u00a9\u00ac\u00c8'v\u0000\u00e3\u00dc\u009e\u00f2$\u0081\u00e0\u0096\u0014S\u00d4di\u00a1>%\u009bJ\u00f3\u00a4y\u00ffR2\u00ceG%\u0016\u00ee-\u0004\u009f.cj\u0001\u00d09\u00b6p\b\u00c1\u00c5\u0083u$\u00be\u00dd\u00fe\u00f4\u00cf\u00bag!\u0087\u00a8}3\u0011\u00e4\u0089@\u00bd\u00dcM",
+                "value": ""
+            }
+        ],
+        "text": "\u0000\u0000\u0000\u0019\u0000\u0000\u0002(\u001a\u0080\u0002d\u00b4w*\u00b4E\u00b5\u00a82\u0012\u0002\u000b\u00b3V \u00c0\\n\u00e4$\u00d8\u00c7G\u009dp\\\u00d7\u0087\u0010\r\u00aa\u008f\u001e\u00bf\u00ae\u00cf\u0010\u00f11d\u001c\u00ae0g\u008b=\u00fd\u00be7\u00b0\u00cf\u00a8c\u00cfz\u00ddCC\u008a\u00a3\u00da\u009an\u00b0\u00b3\u009bd\f\u00aa\u0013\u00fe\u0010\u00ef\u0084\u0085\u00d9\t\u0096k\u00fc\u00efHR\u00e81\u00e9boDt\u00d0`\u0085\u0094\u000b\u00e9\u008d\u00ab\u009a# \u0098\u0010\u0087\u00a1\u0098_pE\u00f4\u000f;\u0004:\u00d3$\u00a8\u009c\t\u00a2\u00f4\u0096#\u0015H\u00a9,q\u00bdS/ZY\u00b9l\u00fd/\u009b\u00db\u00cf\u00be\u00b4\u007f#\u0082\u00bb\u00ae\u0000\u00c4\"\u00d1\u00c1'\u00ae\u00fd\u00d9\u00c8\u00b8\u00d2\u008c\u00ach\u00ac\u00c5\u00d8\u0003\u00a4d%uO=\u0083\u00f8\u00dag{\u00d0\u00f8\u009a\u00e9\u00e8uO)\u0081Ys\u00b5\u0007\u0004E\u008f\u00d2\u0017\u00a3({*\u00ffGy\u00c3\u00d3*9U\u0087co>Y\u0099=K\u00c0\u0094(\u00b1\u0000_\u00e3A\u00e0\u0098P\u0001\u00bb\u00f9\u00d8\u00ba6b\u00e7\u00b0\u00b5\u0086$\u0000\u0091\u00ed\u00b1\u00bbA\u008c\u00beY\u00ed\r\u00e7\u0007\f,\u0011\u000bp\"\u0013com.yazio.ios.YAZIO)\u0000\u0000\u00801\u0002\u00ee\u00d7A@\u0000H\u0002R\u0080\u00026-B\u00bbD;\u00e3\u001c\u0007\u00f7\u00de\u00ec;L\u00a9\"\u00db\"\u001b\u0081\u008c6\u00a3\u0007\u00cezI8\u00fc\u00f1\u001d)\tf\\>\u00b9A\u0096\u008dfoX\u0082O<\u0096\u008d\u0088\u00f5|F\u0097\u0080E7i'\u009d\u00d3\u0001\u00afR\u00a4%\u00ff\u001e\u001c\u0083\u00b2\u0012\u00ac\u00d9\u0092\u00d6\u00f0\u0012-\u00adu\u001f\u00cd\u008c\u00b9^\u0094\u00c0y~\u00df\u0086\u00b3\u00ecn\u0095\u0019sw\u00e3K\u00c7\u00b5&\u00ed]P]\u00bb\u00f2\u00c5\u00c7}{\u00d1\u00cfO\u0014\u0097\u00e093\u001ah\u00deb\u00e6\u00a4#\u00bcz{\u00b4g\u0019b\u00cf_x\u00b3\u0083h\u0097=\b0\u0090A\u00bb u69\u00d7\u00d6\u00f3!\u0006\u00e6\u00e5?\u008d>\u00eb+\u0087\u00c1\u00fb\u00c4;z>\u00db\u00f7\u00ff\u00aa\u00a6\u0004X\u00a5\u0085\u00d8\u001e\u00f3#\u00b5\u00a9\u00ac\u00c8'v\u0000\u00e3\u00dc\u009e\u00f2$\u0081\u00e0\u0096\u0014S\u00d4di\u00a1>%\u009bJ\u00f3\u00a4y\u00ffR2\u00ceG%\u0016\u00ee-\u0004\u009f.cj\u0001\u00d09\u00b6p\b\u00c1\u00c5\u0083u$\u00be\u00dd\u00fe\u00f4\u00cf\u00bag!\u0087\u00a8}3\u0011\u00e4\u0089@\u00bd\u00dcM"
+    },
+    "queryString": [],
+    "url": "https://ca.iadsdk.apple.com/adserver/2.6/attribution"
+}
+
+####################################
+
+Ho trovato nella richiesta 25: PESO, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "br;q=1.0, gzip;q=0.9, deflate;q=0.8"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/7.0.11 (com.yazio.ios.YAZIO; build:908; iOS 14.2.0) Alamofire/5.3.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1.0"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 6646d7575a2ec2748002c31a985a33871341721d85847336975f474a7cfe151068bc743239c5a243ea2fdd"
+        }
+    ],
+    "headersSize": 341,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "date",
+            "value": "2020-12-13"
+        }
+    ],
+    "url": "https://yzapi.yazio.com/v8/user/bodyvalues/weight/last?date=2020-12-13"
+}
+
+####################################
+
+Ho trovato nella richiesta 36: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [
+        {
+            "httpOnly": false,
+            "name": "xt-src",
+            "secure": false,
+            "value": "b"
+        },
+        {
+            "httpOnly": false,
+            "name": "X-Dsid",
+            "secure": false,
+            "value": "10176858006"
+        },
+        {
+            "httpOnly": false,
+            "name": "xp_ab",
+            "secure": false,
+            "value": "1#isj11bm+-2+mqegB4t0"
+        },
+        {
+            "httpOnly": false,
+            "name": "itspod",
+            "secure": false,
+            "value": "55"
+        },
+        {
+            "httpOnly": false,
+            "name": "itre",
+            "secure": false,
+            "value": "1"
+        },
+        {
+            "httpOnly": false,
+            "name": "wosid-lite",
+            "secure": false,
+            "value": "AbmD3spWS3oy90GzOYxz00"
+        },
+        {
+            "httpOnly": false,
+            "name": "mt-tid-10176858006",
+            "secure": false,
+            "value": "AqS0xmew3NEgE0fPJWI82RtvmqeCzFY4UGQ8WTQJc5WtD7YoLjk+l11L0Et/0pHVMajMLbaFdJWpwDCHEEsazLyflMRyzzBKv4uaHifjiIaCAwltt6xif2HqhDyJMnwzZew/9VtnWgFcFouDBBmOqmDRDiGgNGmqpQfeygaFYeOWaxL/qVaBjzhP0V9YEIItUOySNUb5lej5BKgpJOMu8y5i90YyKa2VfIH7KOU8FtEwS347+g=="
+        },
+        {
+            "httpOnly": false,
+            "name": "mck",
+            "secure": false,
+            "value": "AAAAAAAAAAFqMFYbwaeo9xThvi4kgO51wUbBS8+7b1gF2pE4J56cuEplwMTqTOQ1LsmNBi1KOcu84Q6y922dd5jsjpjMQAVbsyjz9U6geNnBO+R5WwbeYA=="
+        },
+        {
+            "httpOnly": false,
+            "name": "pldfltcid",
+            "secure": false,
+            "value": "a393f4f830fe412daaea162d2fe66ffd055"
+        },
+        {
+            "httpOnly": false,
+            "name": "mz_at_ssl-10176858006",
+            "secure": false,
+            "value": "AwUAAAGiAAIjqAAAAABf1R/GNccbR9Z9YTkkh59VEFusJHG5EFo="
+        },
+        {
+            "httpOnly": false,
+            "name": "xp_cci",
+            "secure": false,
+            "value": "3z3DSZK7z6Hyz5RpzAKaz17a0UQUpB"
+        },
+        {
+            "httpOnly": false,
+            "name": "TrPod",
+            "secure": false,
+            "value": "8"
+        },
+        {
+            "httpOnly": false,
+            "name": "vrep",
+            "secure": false,
+            "value": "CJaP2vQlEgQIBxAAEgQIChAAEgUIBhC1FBIECAsQABIECAUQABIECAkQChIECA0QABIECAMQABIFCAEQ_wISBAgCEAASBAgEEAASBAgMEAASBAgIEAA"
+        },
+        {
+            "httpOnly": false,
+            "name": "geo",
+            "secure": false,
+            "value": "IT"
+        },
+        {
+            "httpOnly": false,
+            "name": "fsas",
+            "secure": false,
+            "value": "AAAAAAAAAAFhvbKEpTYveN1MatoRt3VtSmAUWIns7SHij1RzlhBPwp4+UxvniJfDsGm1BbTV4Jx4y5eME/6IJk89uR87jOyuFo+IpYQlDpaccPNY1ACjiw=="
+        },
+        {
+            "httpOnly": false,
+            "name": "radioUserToken",
+            "secure": false,
+            "value": "6d597d95-872d-4926-99b6-d612229c84d2"
+        },
+        {
+            "httpOnly": false,
+            "name": "xt-b-ts-10176858006",
+            "secure": false,
+            "value": "1607163431108"
+        },
+        {
+            "httpOnly": false,
+            "name": "xp_abc",
+            "secure": false,
+            "value": "mqegB4t0"
+        },
+        {
+            "httpOnly": false,
+            "name": "mz_at0-10176858006",
+            "secure": false,
+            "value": "AwQAAAGiAAIjqAAAAABfy1ygxj+dELivfQ3BTkbe63439AkmSGM="
+        },
+        {
+            "httpOnly": false,
+            "name": "itst",
+            "secure": false,
+            "value": "2"
+        },
+        {
+            "httpOnly": false,
+            "name": "ndcd",
+            "secure": false,
+            "value": "wc1.1.w-855182.1.2.sazXNzz481D8jsZWET_5rw%2C%2C.QTRK5gUQQeYKGv80515PycVy5EbWNIavZ1L4aYXFQIJnN2iRgEIB5vC4rI0imeOsWrgDgNBbeNVbBlFB21qoRxdZxqe6bxPRI0sLiuXMpTNFmHoNgBIcXrP3p19mFlQrfRzkajxH1B7zrVLFT0reCfCee2R6YDJOZ5i_2FzDJyw%2C"
+        },
+        {
+            "httpOnly": false,
+            "name": "mt-tkn-10176858006",
+            "secure": false,
+            "value": "AgQ/u50l6gR8XLzVi8LYXCI6kgREfafqmbTwpqu/hl9P/9G4+RkhiekR8+PY8nQGa3Sgt8ltYUOLqQj6tpVUtaQiTypQFs1Atb+r5uTb2lLy9B/0u+M/iGtwptjIscDzgDdzuHKXgHedE3c2WC36d+nJ88UIFGyloQy6rgXRzORzRPQ5VQOYhAHIs+r+2F2Tb6lofrY="
+        }
+    ],
+    "headers": [
+        {
+            "name": "x-apple-client-versions",
+            "value": "iBooks/7.2; iTunesU/??; GameCenter/??; Podcasts/3.9"
+        },
+        {
+            "name": "icloud-dsid",
+            "value": "10176858006"
+        },
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "x-apple-store-front",
+            "value": "143450-7,29"
+        },
+        {
+            "name": "x-apple-partner",
+            "value": "origin.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "x-apple-connection-type",
+            "value": "WiFi"
+        },
+        {
+            "name": "user-agent",
+            "value": "locationd/1.0 iOS/14.2 model/iPhone10,6 hwp/t8015 build/18B92 (6; dt:162)"
+        },
+        {
+            "name": "x-apple-tid-state",
+            "value": "EP"
+        },
+        {
+            "name": "x-dsid",
+            "value": "10176858006"
+        },
+        {
+            "name": "x-apple-tz",
+            "value": "3600"
+        },
+        {
+            "name": "cookie",
+            "value": "xt-src=b; X-Dsid=10176858006; xp_ab=1#isj11bm+-2+mqegB4t0; itspod=55; itre=1; wosid-lite=AbmD3spWS3oy90GzOYxz00; mt-tid-10176858006=AqS0xmew3NEgE0fPJWI82RtvmqeCzFY4UGQ8WTQJc5WtD7YoLjk+l11L0Et/0pHVMajMLbaFdJWpwDCHEEsazLyflMRyzzBKv4uaHifjiIaCAwltt6xif2HqhDyJMnwzZew/9VtnWgFcFouDBBmOqmDRDiGgNGmqpQfeygaFYeOWaxL/qVaBjzhP0V9YEIItUOySNUb5lej5BKgpJOMu8y5i90YyKa2VfIH7KOU8FtEwS347+g==; mck=AAAAAAAAAAFqMFYbwaeo9xThvi4kgO51wUbBS8+7b1gF2pE4J56cuEplwMTqTOQ1LsmNBi1KOcu84Q6y922dd5jsjpjMQAVbsyjz9U6geNnBO+R5WwbeYA==; pldfltcid=a393f4f830fe412daaea162d2fe66ffd055; mz_at_ssl-10176858006=AwUAAAGiAAIjqAAAAABf1R/GNccbR9Z9YTkkh59VEFusJHG5EFo=; xp_cci=3z3DSZK7z6Hyz5RpzAKaz17a0UQUpB; TrPod=8; vrep=CJaP2vQlEgQIBxAAEgQIChAAEgUIBhC1FBIECAsQABIECAUQABIECAkQChIECA0QABIECAMQABIFCAEQ_wISBAgCEAASBAgEEAASBAgMEAASBAgIEAA; geo=IT; fsas=AAAAAAAAAAFhvbKEpTYveN1MatoRt3VtSmAUWIns7SHij1RzlhBPwp4+UxvniJfDsGm1BbTV4Jx4y5eME/6IJk89uR87jOyuFo+IpYQlDpaccPNY1ACjiw==; radioUserToken=6d597d95-872d-4926-99b6-d612229c84d2; xt-b-ts-10176858006=1607163431108; xp_abc=mqegB4t0; mz_at0-10176858006=AwQAAAGiAAIjqAAAAABfy1ygxj+dELivfQ3BTkbe63439AkmSGM=; itst=2; ndcd=wc1.1.w-855182.1.2.sazXNzz481D8jsZWET_5rw%2C%2C.QTRK5gUQQeYKGv80515PycVy5EbWNIavZ1L4aYXFQIJnN2iRgEIB5vC4rI0imeOsWrgDgNBbeNVbBlFB21qoRxdZxqe6bxPRI0sLiuXMpTNFmHoNgBIcXrP3p19mFlQrfRzkajxH1B7zrVLFT0reCfCee2R6YDJOZ5i_2FzDJyw%2C; mt-tkn-10176858006=AgQ/u50l6gR8XLzVi8LYXCI6kgREfafqmbTwpqu/hl9P/9G4+RkhiekR8+PY8nQGa3Sgt8ltYUOLqQj6tpVUtaQiTypQFs1Atb+r5uTb2lLy9B/0u+M/iGtwptjIscDzgDdzuHKXgHedE3c2WC36d+nJ88UIFGyloQy6rgXRzORzRPQ5VQOYhAHIs+r+2F2Tb6lofrY="
+        }
+    ],
+    "headersSize": 2105,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "ix",
+            "value": "6"
+        },
+        {
+            "name": "os",
+            "value": "14"
+        },
+        {
+            "name": "locale",
+            "value": "it_IT"
+        }
+    ],
+    "url": "https://init.itunes.apple.com/bag.xml?ix=6&os=14&locale=it_IT"
+}
+
+####################################
+
+Ho trovato nella richiesta 37: PHONE_NAME, 
+
+{
+    "bodySize": 4115,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gsp10-ssl.apple.com"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "User-Agent",
+            "value": "locationd/2420.8.11 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "en-us"
+        },
+        {
+            "name": "Content-Length",
+            "value": "4115"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 328,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "\u0000\u0001\u0000\u0005en_US\u0000\u0013com.apple.locationd\u0000\n14.2.18B92\u0000\u0000\u0000e\u0000\u0000\u000f\u00e1\n\u001d\n\u0006D221AP\u0012\u0013iPhone OS14.2/18B92\u001a\u0018at.runtastic.gpssportapp\"$39103AE6-EFB9-46B0-AF7B-D82C6BC8BCBC(\u00f0\u008c\u0095\u00e4\u00fd\u00ff\u00ff\u00ff\u00ff\u00010\u00018\u00f0\u009f\u00d8\u00e4\u00fd\u00ff\u00ff\u00ff\u00ff\u0001B\u0018at.runtastic.gpssportapp\u0012`\t\u00a2\u00047\u009e*1D@\u0011\f\u0015s\u0092\u00a0\u000f.@\u001d\u00f3\u0004\u0080A-\u0000\u00fb\u0003B5\u00b5\u00fe\u00e8A",
+                "value": "]\u00f5\u00e3?E\u0095\f\u008eBI~\u008b\u00f9\u0085\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u00f3u\u00b4?\u0012`\tX\u008f\u00cd\u00c3*1D@\u0011\u0098H\u00e7F\u00a3\u000f.@\u001d\u00f3\u0004\u0080A-\u0087\u00e1\u0000B5\u000el\u00d9A=\u0019\u0092\u00ed?EE/\u008bBI\u0088\u008by\u0086\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00e2\u00e2^B\u00b5\u0001c\u0080g?\u0012`\tPl4\u000b 1D@\u0011\u0086k\u0003d\u00a5\u000f.@\u001d\u00f3\u0004\u0080A-\u00bf\u00a2\u00fdA5\u00cd\u00c7\u00ccA=\u0010\u00d0\u0004@EY\u00dawBI\u0098\u008b\u00f9\u0086\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00b2\u00f6\u00a4B\u00b5\u0001\u00a4\u00a4\u00a3?\u0012`\t\t\u00b9{\u0095 1D@\u0011>\u0082\u0019=\u00a7\u000f.@\u001d\u00f3\u0004\u0080A-L\u00c5\u00fcA5\u00b4N\u00daA=\u0019\u0092\u00ed?E=\biBI\u00a8\u008by\u0087\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u000f \u0012C\u00b5\u0001\u0083\u0017\u00aa?\u0012`\t\u00c3\u00d8m\u00e3 1D@\u0011ZW \u00ca\u00a8\u000f.@\u001d\u00f3\u0004\u0080A-3K\u00fdA5\u00b4\u0099\u00c5A=3\u00ce\u00e9?Ej\u009fnBI\u00b1\u008b\u00f9\u0087\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001=0\u00a0A\u00b5\u0001\r\u00c3\u00af?\u0012`\tt\u0097\u00b1q,1D@\u0011\u00e8\u001e9\u00bd\u00ab\u000f.@\u001d\u00f3\u0004\u0080A-V\u00ff\u00feA5\u000b=\u00b6A= ]\u0007@E\u0017vMBI\u00c7\u008by\u0088\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u00ec\r\u00ca?\u0012`\t\u0089u\u008d\u00e5,1D@\u0011\u00e2\u00ee/\u00fc\u00a9\u000f.@\u001d\u00f3\u0004\u0080A-\u00a8\u0012\u0002B5\u00d8y\u00abA= ]\u0007@EkjDBI\u00cd\u008b\u00f9\u0088\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u00af\u00d7\u00d2?\u0012`\t\u0012\u00b1\u0006\u00fe,1D@\u0011"
+            },
+            {
+                "name": "\u00eb\u00c7h\u00aa\u000f.@\u001d\u00f3\u0004\u0080A-\u00fd\u0085\u0004B5\u00c1\u00f5\u00a9A",
+                "value": "\u0089\u00d2\u00db?E\u0096'VBI\u00e1\u008by\u0089\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u0000H\u00b5?\u0012`\t] \u0002\u000b-1D@\u00119\u00de:g\u00aa\u000f.@\u001d\u00f3\u0004\u0080A-\u000bd\u0006B5"
+            },
+            {
+                "name": "\u00a0\u00a3A",
+                "value": "\u00f1h4?E:\u00e7NBI\u00ec\u008b\u00f9\u0089\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001K\u00a7\u0011C\u00b5\u00010\u0019\u00b3?\u0012`\t_\u00adK#-1D@\u0011F\u00bdg\u00a1\u00aa\u000f.@\u001d\u00f3\u0004\u0080A-\u0086"
+            },
+            {
+                "name": "\u0007B5\u00e8k\u00abA",
+                "value": "\u00c2\u00bc\u000b?EZ\u001dKBI\u00fc\u008by\u008a\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00f5@/B\u00b5\u0001\u00c8w\u00a6?\u0012`\tG\u00d2\u00f3\u0098-1D@\u0011s-\u00f2s\u00ae\u000f.@\u001d\u00f3\u0004\u0080A-8i\u0005B5S\u0087\u00a6A=\u0091 \u0098?E\u0081_qBI\n\u008c\u00f9\u008a\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0004{\u00fdA\u00b5\u0001\u00ec\u00eb\u0083?\u0012`\t\u00bc]\u0089\u00c6-1D@\u0011\f\u001d\u00e7A\u00b3\u000f.@\u001d\u00f3\u0004\u0080A-\u00f07\u0001B5o\u00e6\u00b4A=\u0091 \u0098?EW\u00e9\u009fBI\u0011\u008cy\u008b\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0013n\u00b5B\u00b5\u0001\u0005\u001f\u008a?\u0012`\t\u0092\u00a69\u00a0-1D@\u0011\u0001\u00e7\u00caR\u00b6\u000f.@\u001d\u00f3\u0004\u0080A-\u0016n\u00f8A5\u00aeq\u00c2A=\u0091 \u0098?E\u0018\u00de\u00c2BI\u001e\u008c\u00f9\u008b\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001/\u008bXB\u00b5\u0001}\u00c9\u00bb?\u0012`\t\u009d"
+            },
+            {
+                "name": "\u00a2-1D@\u0011zSW\u00a1\u00b8\u000f.@\u001d\u00f3\u0004\u0080A-\u00d1\u00de\u00ecA5S",
+                "value": "\u00baA=\u00b1\u00101>E\u0088\u0097\u00c3BI2\u008cy\u008c\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001D7\u008fB\u00b5\u0001\u00a8\u00ff\u00a5?\u0012`\tx\u0016S\u00ba-1D@\u0011\u0091\u0019(\u0087\u00b9\u000f.@\u001d\u00f3\u0004\u0080A-\u00de\u00a5\u00e0A5\fh\u00cbA=\u0018\u009d\u00a7>E\b?\u0086BI<\u008c\u00f9\u008c\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u0095\u001b\u00a6?\u0012`\t\u00ff!\u0019\u00b8-1D@\u0011wd\u00b3\u00a4\u00b9\u000f.@\u001d\u00f3\u0004\u0080A-i\"\u00d6A5\u0083\u00dd\u00d7A=\u0018\u009d\u00a7>E\u00ed\u000f\u0092BIL\u008cy\u008d\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u001f\u00a4\u0087B\u00b5\u0001\u008c7\u009e?\u0012`\tU\nR\u00a0-1D@\u0011\u00a46\u009d<\u00ba\u000f.@\u001d\u00f3\u0004\u0080A-\u0015/\u00cfA5Wa\u00d2A=lA\u0006?E\u00ce\u00b2\u00d3BI[\u008c\u00f9\u008d\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001}\u0016\u00f4B\u00b5\u0001\u00a1\u00eb\u00be?\u0012`\t\u00ec\u0081\u001e\u0081-1D@\u0011\u00f5\u001c\u00f7R\u00bb\u000f.@\u001d\u00f3\u0004\u0080A-\u00a6\u00f5\u00c8A5\u00c8\u0091\u00f3A=\u00aae\u00ef>E\u0082\u00c5\u00b9BIh\u008cy\u008e\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00de)FB\u00b5\u0001\u00eb\u00cd\u00ae?\u0012`\t\u00c7\r"
+            },
+            {
+                "name": "\u0095-1D@\u0011",
+                "value": ""
+            },
+            {
+                "name": "F\u001aU\u00bc\u000f.@\u001d\u00f3\u0004\u0080A-",
+                "value": "i\u00c2A5'\u0012\u000fB=\u009asV?E#\u0083\u00acBIt\u008c\u00f9\u008e\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00b1\u0004\u009bB\u00b5\u0001\u00818\u00be?\u0012`\tjK\u00b8\u0099-1D@\u0011r#y\u00f5\u00bd\u000f.@\u001d\u00f3\u0004\u0080A-\u00ae\u00ed\u00bcA5|!\u000eB=\u009asV?E>i\u00afBI\u0083\u008cy\u008f\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\b\u00cfsB\u00b5\u00018\u00ba\u00cd?\u0012`\t\u00f1\u008c\u0018\u0095-1D@\u0011\u00b8\u00e2QN\u00bf\u000f.@\u001d\u00f3\u0004\u0000B-E\u00fb\u00b9A5\u00d7\u0089\u00c3B=\t#\u00c6?E\u00ee0\u009eBI\u008c\u008c\u00f9\u008f\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001FQ\u001dC\u00b5\u0001<\u009c-@\u0012`\t\b9-\u00ed-1D@\u0011x\u007f\u00e6\u00a1\u00c0\u000f.@\u001d\u00f3\u0004\u0000B-%9\u00b6A5\u00a9\u0099\u00a6B=\u000f2\u001b?E\u001c\u00df\u008fBI\u009a\u008cy\u0090\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\"\u00e6>B\u00b5\u0001y(\u00a4?\u0012`\t\u00daD\u009a\b.1D@\u0011\u00c6?l\u00e8\u00c1\u000f.@\u001d\u00f3\u0004\u0000B-G\u00bb\u00b2A5lAyB=b\u00d2\u00cb?E\u0000%\u00a5BI\u00a6\u008c\u00f9\u0090\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0002\u0010\u0002\u009a\u0001\u0004\b\u0002\u0010\u0000\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001N\u00e6\u00ce?\u0012`\t*\u00fd\u000b\u00d2-1D@\u0011\u0015\u00ed\u000b}\u00c4\u000f.@\u001d\u00f3\u0004\u0000B-n\u00ea\u00b0A5\u00bf\u008eNB=b\u00d2\u00cb?El5\u00c8BI\u00b0\u008cy\u0091\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0002\u0010\u0002\u009a\u0001\u0004\b\u0002\u0010\u0000\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001i\u001d/C\u00b5\u0001y\u0080\u009e?\u0012`\tY\u00e9Y#-1D@\u0011\u00e6T\u00e1v\u00c9\u000f.@\u001d\u00f3\u0004\u0000B-\u00dd\u0085\u00b0A5\u00cd|4B=\b\u00ee\u0000@E#0\u00efBI\u00c1\u008c\u00f9\u0091\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00e1W\u0003C\u00b5\u0001\u009a\u00e0\u00c0?\u0012`\t/%\u0082\u00f0,1D@\u0011^5tY\u00c6\u000f.@\u001d\u00f3\u0004\u0000B-b\u000b\u00b4A5Nw\u0019B=\u00bc\u009f\u00be>EJ\u00b0\u00f0BI\u00d2\u008cy\u0092\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u0000\u00c8A\u00b5\u0001\u00e3\u00c7\u0080?\u0012`\t^\u008d\u00ce\u0007-1D@\u0011\u00d3\u00db\u00eb!\u00c5\u000f.@\u001d\u00f3\u0004\u0000B-6\u00c5\u00b6A5\u00ea\u00a8\u000eB=\u00bc\u009f\u00be>E=\u00db\u00ceBI\u00e0\u008c\u00f9\u0092\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00e79KB\u00b5\u0001}\u00df\u0094?\u0012`\t\u000b\u00a16\r-1D@\u00115\u00b0\u009f\u00f5\u00c2\u000f.@\u001d\u00f3\u0004\u0000B-\u00b3s\u00baA5\u00be\u0099\u0004B=\u00bc\u009f\u00be>E\u0081\u00e7\u00b2BI\u00e7\u008cy\u0093\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001o\u00f4\u00e9B\u00b5\u0001\u00f7\u00cd1?\u0012`\t\u00e2\u009e\u00d6.-1D@\u0011A\u00d9^\u00cf\u00c3\u000f.@\u001d\u00f3\u0004\u0000B-\u00f7\u0016\u00beA5\u00c6Y\u00fdA=F\u00d2\u00f5>E$\u00aa\u00b9BI\u00f5\u008c\u00f9\u0093\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00e8d\u00d8B\u00b5\u0001\u00d4\u00c2\u009d?\u0012`\tI\u00fchn-1D@\u0011\u00a7\u00d6\u0012e\u00c2\u000f.@\u001d\u00f3\u0004\u0000B-q)\u00c4A5Sm\u0003B=\u008f\u00e8\u00fc>E\u00c3{\u00aeBI\u0006\u008dy\u0094\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0002\u0081\u00bbB\u00b5\u00015\u008cr?\u0012`\t\u0011\u00a5\u008fx-1D@\u0011J_\u000fN\u00c1\u000f.@\u001d\u00f3\u0004\u0000B-\u008e\u00a2\u00c6A5Q8\u00e6A=t\u0089\u00e8?ECX\u0080CI\u000e\u008d\u00f9\u0094\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0002\u0010\u0002\u009a\u0001\u0004\b\u0002\u0010\u0000\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00b1\u00c6iB\u00b5\u0001\u00b1\u00e4Q?\u0012`\t\u00e4\u009cB9-1D@\u0011\u00cd\u001dNV\u00bc\u000f.@\u001d\u00f3\u0004\u0000B-"
+            },
+            {
+                "name": "m\u00c9A5A\u00d3\u00d4A",
+                "value": "t\u0089\u00e8?E\u00af\u0092\u008bCI!\u008dy\u0095\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u00018\u00c9\u00edA\u00b5\u0001`\u0082T?\u0012`\t\u009e2\u00f2.-1D@\u0011!\u00b24\u00cb\u00b6\u000f.@\u001d\u00f3\u0004\u0000B-\u001b\u00e8\u00cbA5\u00f2\u00a4\u00c0A=M\u00e5\u0003@E$\u00b2\u0089CI,\u008d\u00f9\u0095\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u0000\u00c8A\u00b5\u00011]d?\u0012`\t\u00bd\u0081e\u001f-1D@\u0011a\u0081$\u00dc\u00b3\u000f.@\u001d\u00f3\u0004\u0000B-6\u0015\u00ccA5n\u00c8\u00baA=\u008fm\u00cb?E\u00dd\u008d\u0085CI8\u008dy\u0096\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0002\u0010\u0002\u009a\u0001\u0004\b\u0002\u0010\u0000\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u0000\u00c8A\u00b5\u0001U\u00b5Y?\u0012`\t\u00da\u0090x\r-1D@\u0011\u00f5fA\u00cc\u00b2\u000f.@\u001d\u00f3\u0004\u0000B-~\u0014\u00ccA5\u0011(\u00aeA=%\u00bbL>E5y|CIF\u008d\u00f9\u0096\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00ef\u00e0-B\u00b5\u0001P\u00c1K?\u0012`\tQf\u009b\u001c-1D@\u0011\u0083\u00eb\u00f2,\u00b2\u000f.@\u001d\u00f3\u0004\u0000B-\\\u0082\u00cdA51c\u00a5A=\u00e19\u0011?E\u00f1\u00bb\u008eCIR\u008dy\u0097\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u008e\u00e4 C\u00b5\u0001s\u00e2P?\u0012`\t,\u00ecG=-1D@\u0011\u0014_\u0094p\u00b1\u000f.@\u001d\u00f3\u0004\u0000B-\u0091U\u00cfA5\u00b7S\u009fA=\u00e19\u0011?E\u0007/\u0092CIa\u008d\u00f9\u0097\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u001bf\u00eeB\u00b5\u0001\u008c\u00938?\u0012`\t\u00c8\u009c\u00e1E-1D@\u0011\u001fbP\u0004\u00b0\u000f.@\u001d\u00f3\u0004\u0080A-C\u00a9\u00d2A5\u0006/\u009bA=\u00c9F\u00e1>E\u0092M\u008bCIs\u008dy\u0098\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0002\u0010\u0002\u009a\u0001\u0004\b\u0002\u0010\u0000\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0014\u00b1\u0011C\u00b5\u0001q\u00ce5?\u0012`\t\u0096/\u00bd^-1D@\u0011\u0098\u00daK^\u00ae\u000f.@\u001d\u00f3\u0004\u0080A-\u001cx\u00d6A5\u0090B\u0098A=\u00c9F\u00e1>E\u0004G\u0096CI\u0080\u008d\u00f9\u0098\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u000f\u0018\u00bbB\u00b5\u0001\u00e5\u0015\"?\u0012`\t\u00d5\u001dEK-1D@\u0011\u00de$\u0000Y\u00ad\u000f.@\u001d\u00f3\u0004\u0080A-\u00baK\u00dbA5y\u0084\u00a9A=\u00c9F\u00e1>E\u0011\u00aa\u0094CI\u0088\u008dy\u0099\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001f\u00f5\u00bdB\u00b5\u0001\u00e3k8?"
+            }
+        ],
+        "text": "\u0000\u0001\u0000\u0005en_US\u0000\u0013com.apple.locationd\u0000\n14.2.18B92\u0000\u0000\u0000e\u0000\u0000\u000f\u00e1\n\u001d\n\u0006D221AP\u0012\u0013iPhone OS14.2/18B92\u001a\u0018at.runtastic.gpssportapp\"$39103AE6-EFB9-46B0-AF7B-D82C6BC8BCBC(\u00f0\u008c\u0095\u00e4\u00fd\u00ff\u00ff\u00ff\u00ff\u00010\u00018\u00f0\u009f\u00d8\u00e4\u00fd\u00ff\u00ff\u00ff\u00ff\u0001B\u0018at.runtastic.gpssportapp\u0012`\t\u00a2\u00047\u009e*1D@\u0011\f\u0015s\u0092\u00a0\u000f.@\u001d\u00f3\u0004\u0080A-\u0000\u00fb\u0003B5\u00b5\u00fe\u00e8A=]\u00f5\u00e3?E\u0095\f\u008eBI~\u008b\u00f9\u0085\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u00f3u\u00b4?\u0012`\tX\u008f\u00cd\u00c3*1D@\u0011\u0098H\u00e7F\u00a3\u000f.@\u001d\u00f3\u0004\u0080A-\u0087\u00e1\u0000B5\u000el\u00d9A=\u0019\u0092\u00ed?EE/\u008bBI\u0088\u008by\u0086\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00e2\u00e2^B\u00b5\u0001c\u0080g?\u0012`\tPl4\u000b+1D@\u0011\u0086k\u0003d\u00a5\u000f.@\u001d\u00f3\u0004\u0080A-\u00bf\u00a2\u00fdA5\u00cd\u00c7\u00ccA=\u0010\u00d0\u0004@EY\u00dawBI\u0098\u008b\u00f9\u0086\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00b2\u00f6\u00a4B\u00b5\u0001\u00a4\u00a4\u00a3?\u0012`\t\t\u00b9{\u0095+1D@\u0011>\u0082\u0019=\u00a7\u000f.@\u001d\u00f3\u0004\u0080A-L\u00c5\u00fcA5\u00b4N\u00daA=\u0019\u0092\u00ed?E=\biBI\u00a8\u008by\u0087\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u000f \u0012C\u00b5\u0001\u0083\u0017\u00aa?\u0012`\t\u00c3\u00d8m\u00e3+1D@\u0011ZW \u00ca\u00a8\u000f.@\u001d\u00f3\u0004\u0080A-3K\u00fdA5\u00b4\u0099\u00c5A=3\u00ce\u00e9?Ej\u009fnBI\u00b1\u008b\u00f9\u0087\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001=0\u00a0A\u00b5\u0001\r\u00c3\u00af?\u0012`\tt\u0097\u00b1q,1D@\u0011\u00e8\u001e9\u00bd\u00ab\u000f.@\u001d\u00f3\u0004\u0080A-V\u00ff\u00feA5\u000b=\u00b6A=+]\u0007@E\u0017vMBI\u00c7\u008by\u0088\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u00ec\r\u00ca?\u0012`\t\u0089u\u008d\u00e5,1D@\u0011\u00e2\u00ee/\u00fc\u00a9\u000f.@\u001d\u00f3\u0004\u0080A-\u00a8\u0012\u0002B5\u00d8y\u00abA=+]\u0007@EkjDBI\u00cd\u008b\u00f9\u0088\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u00af\u00d7\u00d2?\u0012`\t\u0012\u00b1\u0006\u00fe,1D@\u0011;\u00eb\u00c7h\u00aa\u000f.@\u001d\u00f3\u0004\u0080A-\u00fd\u0085\u0004B5\u00c1\u00f5\u00a9A=\u0089\u00d2\u00db?E\u0096'VBI\u00e1\u008by\u0089\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u0000H\u00b5?\u0012`\t]+\u0002\u000b-1D@\u00119\u00de:g\u00aa\u000f.@\u001d\u00f3\u0004\u0080A-\u000bd\u0006B5&\u00a0\u00a3A=\u00f1h4?E:\u00e7NBI\u00ec\u008b\u00f9\u0089\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001K\u00a7\u0011C\u00b5\u00010\u0019\u00b3?\u0012`\t_\u00adK#-1D@\u0011F\u00bdg\u00a1\u00aa\u000f.@\u001d\u00f3\u0004\u0080A-\u0086&\u0007B5\u00e8k\u00abA=\u00c2\u00bc\u000b?EZ\u001dKBI\u00fc\u008by\u008a\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00f5@/B\u00b5\u0001\u00c8w\u00a6?\u0012`\tG\u00d2\u00f3\u0098-1D@\u0011s-\u00f2s\u00ae\u000f.@\u001d\u00f3\u0004\u0080A-8i\u0005B5S\u0087\u00a6A=\u0091 \u0098?E\u0081_qBI\n\u008c\u00f9\u008a\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0004{\u00fdA\u00b5\u0001\u00ec\u00eb\u0083?\u0012`\t\u00bc]\u0089\u00c6-1D@\u0011\f\u001d\u00e7A\u00b3\u000f.@\u001d\u00f3\u0004\u0080A-\u00f07\u0001B5o\u00e6\u00b4A=\u0091 \u0098?EW\u00e9\u009fBI\u0011\u008cy\u008b\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0013n\u00b5B\u00b5\u0001\u0005\u001f\u008a?\u0012`\t\u0092\u00a69\u00a0-1D@\u0011\u0001\u00e7\u00caR\u00b6\u000f.@\u001d\u00f3\u0004\u0080A-\u0016n\u00f8A5\u00aeq\u00c2A=\u0091 \u0098?E\u0018\u00de\u00c2BI\u001e\u008c\u00f9\u008b\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001/\u008bXB\u00b5\u0001}\u00c9\u00bb?\u0012`\t\u009d;&\u00a2-1D@\u0011zSW\u00a1\u00b8\u000f.@\u001d\u00f3\u0004\u0080A-\u00d1\u00de\u00ecA5S=\u00baA=\u00b1\u00101>E\u0088\u0097\u00c3BI2\u008cy\u008c\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001D7\u008fB\u00b5\u0001\u00a8\u00ff\u00a5?\u0012`\tx\u0016S\u00ba-1D@\u0011\u0091\u0019(\u0087\u00b9\u000f.@\u001d\u00f3\u0004\u0080A-\u00de\u00a5\u00e0A5\fh\u00cbA=\u0018\u009d\u00a7>E\b?\u0086BI<\u008c\u00f9\u008c\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u0095\u001b\u00a6?\u0012`\t\u00ff!\u0019\u00b8-1D@\u0011wd\u00b3\u00a4\u00b9\u000f.@\u001d\u00f3\u0004\u0080A-i\"\u00d6A5\u0083\u00dd\u00d7A=\u0018\u009d\u00a7>E\u00ed\u000f\u0092BIL\u008cy\u008d\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u001f\u00a4\u0087B\u00b5\u0001\u008c7\u009e?\u0012`\tU\nR\u00a0-1D@\u0011\u00a46\u009d<\u00ba\u000f.@\u001d\u00f3\u0004\u0080A-\u0015/\u00cfA5Wa\u00d2A=lA\u0006?E\u00ce\u00b2\u00d3BI[\u008c\u00f9\u008d\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001}\u0016\u00f4B\u00b5\u0001\u00a1\u00eb\u00be?\u0012`\t\u00ec\u0081\u001e\u0081-1D@\u0011\u00f5\u001c\u00f7R\u00bb\u000f.@\u001d\u00f3\u0004\u0080A-\u00a6\u00f5\u00c8A5\u00c8\u0091\u00f3A=\u00aae\u00ef>E\u0082\u00c5\u00b9BIh\u008cy\u008e\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00de)FB\u00b5\u0001\u00eb\u00cd\u00ae?\u0012`\t\u00c7\r&\u0095-1D@\u0011&F\u001aU\u00bc\u000f.@\u001d\u00f3\u0004\u0080A-=i\u00c2A5'\u0012\u000fB=\u009asV?E#\u0083\u00acBIt\u008c\u00f9\u008e\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00b1\u0004\u009bB\u00b5\u0001\u00818\u00be?\u0012`\tjK\u00b8\u0099-1D@\u0011r#y\u00f5\u00bd\u000f.@\u001d\u00f3\u0004\u0080A-\u00ae\u00ed\u00bcA5|!\u000eB=\u009asV?E>i\u00afBI\u0083\u008cy\u008f\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\b\u00cfsB\u00b5\u00018\u00ba\u00cd?\u0012`\t\u00f1\u008c\u0018\u0095-1D@\u0011\u00b8\u00e2QN\u00bf\u000f.@\u001d\u00f3\u0004\u0000B-E\u00fb\u00b9A5\u00d7\u0089\u00c3B=\t#\u00c6?E\u00ee0\u009eBI\u008c\u008c\u00f9\u008f\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001FQ\u001dC\u00b5\u0001<\u009c-@\u0012`\t\b9-\u00ed-1D@\u0011x\u007f\u00e6\u00a1\u00c0\u000f.@\u001d\u00f3\u0004\u0000B-%9\u00b6A5\u00a9\u0099\u00a6B=\u000f2\u001b?E\u001c\u00df\u008fBI\u009a\u008cy\u0090\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\"\u00e6>B\u00b5\u0001y(\u00a4?\u0012`\t\u00daD\u009a\b.1D@\u0011\u00c6?l\u00e8\u00c1\u000f.@\u001d\u00f3\u0004\u0000B-G\u00bb\u00b2A5lAyB=b\u00d2\u00cb?E\u0000%\u00a5BI\u00a6\u008c\u00f9\u0090\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0002\u0010\u0002\u009a\u0001\u0004\b\u0002\u0010\u0000\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001N\u00e6\u00ce?\u0012`\t*\u00fd\u000b\u00d2-1D@\u0011\u0015\u00ed\u000b}\u00c4\u000f.@\u001d\u00f3\u0004\u0000B-n\u00ea\u00b0A5\u00bf\u008eNB=b\u00d2\u00cb?El5\u00c8BI\u00b0\u008cy\u0091\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0002\u0010\u0002\u009a\u0001\u0004\b\u0002\u0010\u0000\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001i\u001d/C\u00b5\u0001y\u0080\u009e?\u0012`\tY\u00e9Y#-1D@\u0011\u00e6T\u00e1v\u00c9\u000f.@\u001d\u00f3\u0004\u0000B-\u00dd\u0085\u00b0A5\u00cd|4B=\b\u00ee\u0000@E#0\u00efBI\u00c1\u008c\u00f9\u0091\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00e1W\u0003C\u00b5\u0001\u009a\u00e0\u00c0?\u0012`\t/%\u0082\u00f0,1D@\u0011^5tY\u00c6\u000f.@\u001d\u00f3\u0004\u0000B-b\u000b\u00b4A5Nw\u0019B=\u00bc\u009f\u00be>EJ\u00b0\u00f0BI\u00d2\u008cy\u0092\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u0000\u00c8A\u00b5\u0001\u00e3\u00c7\u0080?\u0012`\t^\u008d\u00ce\u0007-1D@\u0011\u00d3\u00db\u00eb!\u00c5\u000f.@\u001d\u00f3\u0004\u0000B-6\u00c5\u00b6A5\u00ea\u00a8\u000eB=\u00bc\u009f\u00be>E=\u00db\u00ceBI\u00e0\u008c\u00f9\u0092\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00e79KB\u00b5\u0001}\u00df\u0094?\u0012`\t\u000b\u00a16\r-1D@\u00115\u00b0\u009f\u00f5\u00c2\u000f.@\u001d\u00f3\u0004\u0000B-\u00b3s\u00baA5\u00be\u0099\u0004B=\u00bc\u009f\u00be>E\u0081\u00e7\u00b2BI\u00e7\u008cy\u0093\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001o\u00f4\u00e9B\u00b5\u0001\u00f7\u00cd1?\u0012`\t\u00e2\u009e\u00d6.-1D@\u0011A\u00d9^\u00cf\u00c3\u000f.@\u001d\u00f3\u0004\u0000B-\u00f7\u0016\u00beA5\u00c6Y\u00fdA=F\u00d2\u00f5>E$\u00aa\u00b9BI\u00f5\u008c\u00f9\u0093\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00e8d\u00d8B\u00b5\u0001\u00d4\u00c2\u009d?\u0012`\tI\u00fchn-1D@\u0011\u00a7\u00d6\u0012e\u00c2\u000f.@\u001d\u00f3\u0004\u0000B-q)\u00c4A5Sm\u0003B=\u008f\u00e8\u00fc>E\u00c3{\u00aeBI\u0006\u008dy\u0094\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0002\u0081\u00bbB\u00b5\u00015\u008cr?\u0012`\t\u0011\u00a5\u008fx-1D@\u0011J_\u000fN\u00c1\u000f.@\u001d\u00f3\u0004\u0000B-\u008e\u00a2\u00c6A5Q8\u00e6A=t\u0089\u00e8?ECX\u0080CI\u000e\u008d\u00f9\u0094\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0002\u0010\u0002\u009a\u0001\u0004\b\u0002\u0010\u0000\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00b1\u00c6iB\u00b5\u0001\u00b1\u00e4Q?\u0012`\t\u00e4\u009cB9-1D@\u0011\u00cd\u001dNV\u00bc\u000f.@\u001d\u00f3\u0004\u0000B-&m\u00c9A5A\u00d3\u00d4A=t\u0089\u00e8?E\u00af\u0092\u008bCI!\u008dy\u0095\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u00018\u00c9\u00edA\u00b5\u0001`\u0082T?\u0012`\t\u009e2\u00f2.-1D@\u0011!\u00b24\u00cb\u00b6\u000f.@\u001d\u00f3\u0004\u0000B-\u001b\u00e8\u00cbA5\u00f2\u00a4\u00c0A=M\u00e5\u0003@E$\u00b2\u0089CI,\u008d\u00f9\u0095\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u0000\u00c8A\u00b5\u00011]d?\u0012`\t\u00bd\u0081e\u001f-1D@\u0011a\u0081$\u00dc\u00b3\u000f.@\u001d\u00f3\u0004\u0000B-6\u0015\u00ccA5n\u00c8\u00baA=\u008fm\u00cb?E\u00dd\u008d\u0085CI8\u008dy\u0096\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0002\u0010\u0002\u009a\u0001\u0004\b\u0002\u0010\u0000\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u0000\u00c8A\u00b5\u0001U\u00b5Y?\u0012`\t\u00da\u0090x\r-1D@\u0011\u00f5fA\u00cc\u00b2\u000f.@\u001d\u00f3\u0004\u0000B-~\u0014\u00ccA5\u0011(\u00aeA=%\u00bbL>E5y|CIF\u008d\u00f9\u0096\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u00ef\u00e0-B\u00b5\u0001P\u00c1K?\u0012`\tQf\u009b\u001c-1D@\u0011\u0083\u00eb\u00f2,\u00b2\u000f.@\u001d\u00f3\u0004\u0000B-\\\u0082\u00cdA51c\u00a5A=\u00e19\u0011?E\u00f1\u00bb\u008eCIR\u008dy\u0097\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u008e\u00e4 C\u00b5\u0001s\u00e2P?\u0012`\t,\u00ecG=-1D@\u0011\u0014_\u0094p\u00b1\u000f.@\u001d\u00f3\u0004\u0000B-\u0091U\u00cfA5\u00b7S\u009fA=\u00e19\u0011?E\u0007/\u0092CIa\u008d\u00f9\u0097\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u001bf\u00eeB\u00b5\u0001\u008c\u00938?\u0012`\t\u00c8\u009c\u00e1E-1D@\u0011\u001fbP\u0004\u00b0\u000f.@\u001d\u00f3\u0004\u0080A-C\u00a9\u00d2A5\u0006/\u009bA=\u00c9F\u00e1>E\u0092M\u008bCIs\u008dy\u0098\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0002\u0010\u0002\u009a\u0001\u0004\b\u0002\u0010\u0000\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0014\u00b1\u0011C\u00b5\u0001q\u00ce5?\u0012`\t\u0096/\u00bd^-1D@\u0011\u0098\u00daK^\u00ae\u000f.@\u001d\u00f3\u0004\u0080A-\u001cx\u00d6A5\u0090B\u0098A=\u00c9F\u00e1>E\u0004G\u0096CI\u0080\u008d\u00f9\u0098\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u000f\u0018\u00bbB\u00b5\u0001\u00e5\u0015\"?\u0012`\t\u00d5\u001dEK-1D@\u0011\u00de$\u0000Y\u00ad\u000f.@\u001d\u00f3\u0004\u0080A-\u00baK\u00dbA5y\u0084\u00a9A=\u00c9F\u00e1>E\u0011\u00aa\u0094CI\u0088\u008dy\u0099\t\u00c3\u00c2Ah\u0001z\u00010\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001f\u00f5\u00bdB\u00b5\u0001\u00e3k8?"
+    },
+    "queryString": [],
+    "url": "https://gsp10-ssl.apple.com/pds/pd"
+}
+
+####################################
+
+Ho trovato nella richiesta 38: PHONE_NAME, 
+
+{
+    "bodySize": 1166,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gsp10-ssl.apple.com"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "User-Agent",
+            "value": "locationd/2420.8.11 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "en-us"
+        },
+        {
+            "name": "Content-Length",
+            "value": "1166"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 328,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "\u0000\u0001\u0000\u0005en_US\u0000\u0013com.apple.locationd\u0000\n14.2.18B92\u0000\u0000\u0000d\u0000\u0000\u0004\\\n\u001d\n\u0006D221AP\u0012\u0013iPhone OS14.2/18B92\u001a\u00a6\u0001\n\u001112:13:31:70:c6:23\u00108\u0018\u00d3\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\tt\u0097\u00b1q,1D@\u0011\u00e8\u001e9\u00bd\u00ab\u000f.@\u001d\u00f3\u0004\u0080A-V\u00ff\u00feA5\u000b",
+                "value": "\u00b6A= ]\u0007@E\u0017vMBI\u00c7\u008by\u0088\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u00ec\r\u00ca?*\u0018at.runtastic.gpssportapp8\u0000A#\u00de\u00cc\u0088\t\u00c3\u00c2AH\u0003\u001a\u00a5\u0001\n\u00102c:91:ab:ac:ae:3\u0010\u0001\u0018\u00c1\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\tQf\u009b\u001c-1D@\u0011\u0083\u00eb\u00f2,\u00b2\u000f.@\u001d\u00f3\u0004\u0000B-\\\u0082\u00cdA51c\u00a5A=\u00e19\u0011?E\u00f1\u00bb\u008eCIR\u008dy\u0097\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u008e\u00e4 C\u00b5\u0001s\u00e2P?*\u0018at.runtastic.gpssportapp8\u0000A\u009fV\u0097\u0097\t\u00c3\u00c2AH\u0001\u001a\u00a6\u0001\n\u0011fa:b4:6a:79:8f:72\u0010\u0001\u0018\u00d0\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\tQf\u009b\u001c-1D@\u0011\u0083\u00eb\u00f2,\u00b2\u000f.@\u001d\u00f3\u0004\u0000B-\\\u0082\u00cdA51c\u00a5A=\u00e19\u0011?E\u00f1\u00bb\u008eCIR\u008dy\u0097\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u008e\u00e4 C\u00b5\u0001s\u00e2P?*\u0018at.runtastic.gpssportapp8\u0000A4\u009a\u00a2\u0097\t\u00c3\u00c2AH\u0001\u001a\u008e\u0001\n\u001156:19:54:a3:21:16\u0010\u0005\u0018\u00a4\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\t\u00cd\u001f|`-1D@\u0011g\u00993\u009a\u00a0\u000f.@\u001d\u00f3\u0004\u0000B-\u0087\u00e0\u00e9A5\u00a9\u0097yA=q\u001d\u0080=E\u00d7,\u00cfBI\u008b\u0090\u00f9\u00b5\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\u0003\u0010\u0002\u00ad\u0001\u00e1 \u00e9B\u00b5\u0001<n)?*\u00008\u0000A\u0096_\u00c4\u00b5\t\u00c3\u00c2AH\u0002\u001a\u008d\u0001\n\u00100:a0:a2:a7:aa:4e\u0010\n\u0018\u00a9\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\t\u00cd\u001f|`-1D@\u0011g\u00993\u009a\u00a0\u000f.@\u001d\u00f3\u0004\u0000B-\u0087\u00e0\u00e9A5\u00a9\u0097yA=q\u001d\u0080=E\u00d7,\u00cfBI\u008b\u0090\u00f9\u00b5\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\u0003\u0010\u0002\u00ad\u0001\u00e1 \u00e9B\u00b5\u0001<n)?*\u00008\u0000A<\u00fb\b\u00b6\t\u00c3\u00c2AH\u0002\u001a\u008e\u0001\n\u0011e0:28:6d:b0:f7:17\u0010\u0007\u0018\u00b5\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\t\u00cd\u001f|`-1D@\u0011g\u00993\u009a\u00a0\u000f.@\u001d\u00f3\u0004\u0000B-\u0087\u00e0\u00e9A5\u00a9\u0097yA=q\u001d\u0080=E\u00d7,\u00cfBI\u008b\u0090\u00f9\u00b5\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\u0003\u0010\u0002\u00ad\u0001\u00e1 \u00e9B\u00b5\u0001<n)?*\u00008\u0000Au\u00af\u00d1\u00b5\t\u00c3\u00c2AH\u0002\u001a\u008e\u0001\n\u001110:13:31:70:c6:1b\u0010\n\u0018\u00c7\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\t\u00cd\u001f|`-1D@\u0011g\u00993\u009a\u00a0\u000f.@\u001d\u00f3\u0004\u0000B-\u0087\u00e0\u00e9A5\u00a9\u0097yA=q\u001d\u0080=E\u00d7,\u00cfBI\u008b\u0090\u00f9\u00b5\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\u0003\u0010\u0002\u00ad\u0001\u00e1 \u00e9B\u00b5\u0001<n)?*\u00008\u0000A6z\u0003\u00b6\t\u00c3\u00c2AH\u0002"
+            }
+        ],
+        "text": "\u0000\u0001\u0000\u0005en_US\u0000\u0013com.apple.locationd\u0000\n14.2.18B92\u0000\u0000\u0000d\u0000\u0000\u0004\\\n\u001d\n\u0006D221AP\u0012\u0013iPhone OS14.2/18B92\u001a\u00a6\u0001\n\u001112:13:31:70:c6:23\u00108\u0018\u00d3\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\tt\u0097\u00b1q,1D@\u0011\u00e8\u001e9\u00bd\u00ab\u000f.@\u001d\u00f3\u0004\u0080A-V\u00ff\u00feA5\u000b=\u00b6A=+]\u0007@E\u0017vMBI\u00c7\u008by\u0088\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\b\u0010\u0002\u009a\u0001\u0004\b\b\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u0000\u00004C\u00b5\u0001\u00ec\r\u00ca?*\u0018at.runtastic.gpssportapp8\u0000A#\u00de\u00cc\u0088\t\u00c3\u00c2AH\u0003\u001a\u00a5\u0001\n\u00102c:91:ab:ac:ae:3\u0010\u0001\u0018\u00c1\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\tQf\u009b\u001c-1D@\u0011\u0083\u00eb\u00f2,\u00b2\u000f.@\u001d\u00f3\u0004\u0000B-\\\u0082\u00cdA51c\u00a5A=\u00e19\u0011?E\u00f1\u00bb\u008eCIR\u008dy\u0097\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u008e\u00e4 C\u00b5\u0001s\u00e2P?*\u0018at.runtastic.gpssportapp8\u0000A\u009fV\u0097\u0097\t\u00c3\u00c2AH\u0001\u001a\u00a6\u0001\n\u0011fa:b4:6a:79:8f:72\u0010\u0001\u0018\u00d0\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\tQf\u009b\u001c-1D@\u0011\u0083\u00eb\u00f2,\u00b2\u000f.@\u001d\u00f3\u0004\u0000B-\\\u0082\u00cdA51c\u00a5A=\u00e19\u0011?E\u00f1\u00bb\u008eCIR\u008dy\u0097\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\b\u0010\u0002\u00ad\u0001\u008e\u00e4 C\u00b5\u0001s\u00e2P?*\u0018at.runtastic.gpssportapp8\u0000A4\u009a\u00a2\u0097\t\u00c3\u00c2AH\u0001\u001a\u008e\u0001\n\u001156:19:54:a3:21:16\u0010\u0005\u0018\u00a4\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\t\u00cd\u001f|`-1D@\u0011g\u00993\u009a\u00a0\u000f.@\u001d\u00f3\u0004\u0000B-\u0087\u00e0\u00e9A5\u00a9\u0097yA=q\u001d\u0080=E\u00d7,\u00cfBI\u008b\u0090\u00f9\u00b5\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\u0003\u0010\u0002\u00ad\u0001\u00e1 \u00e9B\u00b5\u0001<n)?*\u00008\u0000A\u0096_\u00c4\u00b5\t\u00c3\u00c2AH\u0002\u001a\u008d\u0001\n\u00100:a0:a2:a7:aa:4e\u0010\n\u0018\u00a9\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\t\u00cd\u001f|`-1D@\u0011g\u00993\u009a\u00a0\u000f.@\u001d\u00f3\u0004\u0000B-\u0087\u00e0\u00e9A5\u00a9\u0097yA=q\u001d\u0080=E\u00d7,\u00cfBI\u008b\u0090\u00f9\u00b5\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\u0003\u0010\u0002\u00ad\u0001\u00e1 \u00e9B\u00b5\u0001<n)?*\u00008\u0000A<\u00fb\b\u00b6\t\u00c3\u00c2AH\u0002\u001a\u008e\u0001\n\u0011e0:28:6d:b0:f7:17\u0010\u0007\u0018\u00b5\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\t\u00cd\u001f|`-1D@\u0011g\u00993\u009a\u00a0\u000f.@\u001d\u00f3\u0004\u0000B-\u0087\u00e0\u00e9A5\u00a9\u0097yA=q\u001d\u0080=E\u00d7,\u00cfBI\u008b\u0090\u00f9\u00b5\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\u0003\u0010\u0002\u00ad\u0001\u00e1 \u00e9B\u00b5\u0001<n)?*\u00008\u0000Au\u00af\u00d1\u00b5\t\u00c3\u00c2AH\u0002\u001a\u008e\u0001\n\u001110:13:31:70:c6:1b\u0010\n\u0018\u00c7\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001\"]\t\u00cd\u001f|`-1D@\u0011g\u00993\u009a\u00a0\u000f.@\u001d\u00f3\u0004\u0000B-\u0087\u00e0\u00e9A5\u00a9\u0097yA=q\u001d\u0080=E\u00d7,\u00cfBI\u008b\u0090\u00f9\u00b5\t\u00c3\u00c2Ah\u0001\u0080\u0001\u0000\u0088\u0001\u0000\u0092\u0001\u0004\b\u0003\u0010\u0002\u009a\u0001\u0004\b\u0003\u0010\u0002\u00a2\u0001\u0004\b\u0003\u0010\u0002\u00ad\u0001\u00e1 \u00e9B\u00b5\u0001<n)?*\u00008\u0000A6z\u0003\u00b6\t\u00c3\u00c2AH\u0002"
+    },
+    "queryString": [],
+    "url": "https://gsp10-ssl.apple.com/hcy/pbcwloc"
+}
+
+####################################
+
+Ho trovato nella richiesta 39: PHONE_NAME, 
+
+{
+    "bodySize": 196,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "gsp10-ssl.apple.com"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "User-Agent",
+            "value": "locationd/2420.8.11 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "en-us"
+        },
+        {
+            "name": "Content-Length",
+            "value": "196"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 327,
+    "httpVersion": "HTTP/1.1",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "\u0000\u0001\u0000\u0005en_US\u0000\u0013com.apple.locationd\u0000\n14.2.18B92\u0000\u0000\u0000f\u0000\u0000\u0000\u0092\n\u001d\n\u0006D221AP\u0012\u0013iPhone OS14.2/18B92\u0012q\n\u0013com.yazio.ios.YAZIO\u0010\u0001\u0019\u0000\u0000 :\u00e0S|@\"B\t\u001f\u00bd`'.1D@\u0011\u00927\u00ea\u0006\u00a4\u000f.@\u001d\u00f3\u0004\u0080A-w\u009b\u0005B5wv\u0081A",
+                "value": "S\u008d"
+            },
+            {
+                "name": ">Ef\u008a\u0092CI7\u008fy\u00a9\t\u00c3\u00c2Ah\u0001\u00ad\u0001\u00a220B\u00b5\u0001\u00e7\u00cb#?0\u00008\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001",
+                "value": ""
+            }
+        ],
+        "text": "\u0000\u0001\u0000\u0005en_US\u0000\u0013com.apple.locationd\u0000\n14.2.18B92\u0000\u0000\u0000f\u0000\u0000\u0000\u0092\n\u001d\n\u0006D221AP\u0012\u0013iPhone OS14.2/18B92\u0012q\n\u0013com.yazio.ios.YAZIO\u0010\u0001\u0019\u0000\u0000 :\u00e0S|@\"B\t\u001f\u00bd`'.1D@\u0011\u00927\u00ea\u0006\u00a4\u000f.@\u001d\u00f3\u0004\u0080A-w\u009b\u0005B5wv\u0081A=S\u008d&>Ef\u008a\u0092CI7\u008fy\u00a9\t\u00c3\u00c2Ah\u0001\u00ad\u0001\u00a220B\u00b5\u0001\u00e7\u00cb#?0\u00008\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u0001"
+    },
+    "queryString": [],
+    "url": "https://gsp10-ssl.apple.com/au"
+}
+
+####################################
+
+Ho trovato nella richiesta 41: PHONE_NAME, 
+
+{
+    "bodySize": 1437,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/908 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "content-encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "content-length",
+            "value": "787"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 282,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "\n\u00c3\u0006\b\u0001\u0012F\n\b\n\u0004_sno\u0018\u0003\n\n\n\u0002_o\u0012\u0004auto\n\u0006\n\u0002_r\u0018\u0001\n\u0006\n\u0002_c\u0018\u0001\n\f\n\u0004_sid\u0018\u0093\u00bb\u00d7\u00fe\u0005\u0012\u0002_s\u0018\u009d\u008e\u00a6\u00db\u00e5. \u00b0\u00b2\u00ea\u00b0\u00df.\u0012I\n\u000f\n\u0003_si\u0018\u00f4\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0017\n\u0003_sc\u0012\u0010UIViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0003_vs\u0018\u008b\u0090\u00a6\u00db\u00e5. \u00d1\u00b4\u00ea\u00b0\u00df.\u0012 \n\u0006\n\u0002_r\u0018\u0001\n\n\n\u0002_o\u0012\u0004auto\u0012\u0003_fx\u0018\u009d\u008e\u00a6\u00db\u00e5.\u0012\u00a7\u0001\n\u0010\n\u0006medium\u0012\u0006search\n\u000f\n\u0006source\u0012\u0005Apple\n\n\n\u0002_o\u0012\u0004auto\n\u0016\n\bcampaign\u0012\nIT - Brand\n\u0017\n\u0003_sc\u0012\u0010UIViewController\n\u000f\n\u0003_si\u0018\u00f4\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0018\n\u000fclick_timestamp\u0018\u00b5\u00ab\u00d5\u00ab\u00df.\n\r\n\u0004term\u0012\u0005yazio\u0012\u0004_cmp\u0018\u0086\u0094\u00a6\u00db\u00e5.\u001a\u000e\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0003_fi \u0001\u001a\u0014\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0004_fot \u0080\u00cb\u00f9\u00ac\u00df.\u001a\u0011\b\u00ff\u00bc\u0099\u00b1\u00df.\u0012\u0004_lte \u00d4\u00c3\u000e\u001a\u000f\b\u0081\u00bd\u0099\u00b1\u00df.\u0012\u0003_se \u00b8\u0002\u001a\u0013\b\u009d\u008e\u00a6\u00db\u00e5.\u0012\u0004_sid \u0093\u00bb\u00d7\u00fe\u0005\u001a\u000f\b\u009d\u0090\u00a6\u00db\u00e5.\u0012\u0004_sno \u0003 \u00e4\u0087\u00a7\u00db\u00e5.(\u009d\u008e\u00a6\u00db\u00e5.0\u0086\u0094\u00a6\u00db\u00e5.8\u009a\u00bc\u0099\u00b1\u00df.B\u0003iosJ\u000414.2R\niPhone10,6Z\u0005it-it`<r\u0013com.yazio.ios.YAZIO\u0082\u0001\u00067.0.11\u0088\u0001\u00e4\u00db\u0003\u0090\u0001\u00e4\u00db\u0003\u009a\u0001$C395F8FC-06E0-4B50-AF41-AC0BADC3727E\u00a0\u0001\u0000\u00aa\u0001 F4C67905096C47BA8C4BCFBEAFB8D6C3\u00b8\u0001\t\u00c2\u0001\\2:1E_60900:Cannot send request for Search Ad campaign attribution. Error:ADClientErrorDomain\u00ca\u0001#1:121867625151:ios:d32c259700cd4cc5\u00d0\u0001\u0099\u00bc\u0099\u00b1\u00df.\u00f2\u0001\u0016eaUvo7mqJ0ecmeYBU5XGRL\u00f8\u0001\u008c\u0007\u0098\u0002\u00f3\u0085\u0085\u008c\u00d7\u0084\u00ea\u0002\u00a2\u0003\u0004G1--\u00a8\u0003\u0005\n\u00d4\u0004\b\u0001\u0012R\n\u000f\n\u0003_si\u0018\u00f4\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00a8\u0016\n\u0017\n\u0003_sc\u0012\u0010UIViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00da\u00a7\u00a6\u00db\u00e5. \u0099\u00bc\u0099\u00b1\u00df.\u0012y\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0017\n\u0003_pc\u0012\u0010UIViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f4\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00db\u00a7\u00a6\u00db\u00e5. \u008b\u0090\u00a6\u00db\u00e5.\u001a\u000e\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0003_fi \u0001\u001a\u0014\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0004_fot \u0080\u00cb\u00f9\u00ac\u00df.\u001a\u0011\b\u00d3\u0087\u00a7\u00db\u00e5.\u0012\u0004_lte \u00fc\u00d9\u000e\u001a\u000f\b\u00d6\u0087\u00a7\u00db\u00e5.\u0012\u0003_se \u00a8\u0016\u001a\u0013\b\u009d\u008e\u00a6\u00db\u00e5.\u0012\u0004_sid \u0093\u00bb\u00d7\u00fe\u0005\u001a\u000f\b\u009d\u0090\u00a6\u00db\u00e5.\u0012\u0004_sno \u0003 \u00e4\u0087\u00a7\u00db\u00e5.(\u00da\u00a7\u00a6\u00db\u00e5.0\u00db\u00a7\u00a6\u00db\u00e5.8\u0086\u0094\u00a6\u00db\u00e5.B\u0003iosJ\u000414.2R\niPhone10,6Z\u0005it-it`<r\u0013com.yazio.ios.YAZIO\u0082\u0001\u00067.0.11\u0088\u0001\u00e4\u00db\u0003\u0090\u0001\u00e4\u00db\u0003\u009a\u0001$C395F8FC-06E0-4B50-AF41-AC0BADC3727E\u00a0\u0001\u0000\u00aa\u0001 F4C67905096C47BA8C4BCFBEAFB8D6C3\u00b8\u0001\n\u00ca\u0001#1:121867625151:ios:d32c259700cd4cc5\u00d0\u0001\u009d\u008e\u00a6\u00db\u00e5.\u00f2\u0001\u0016eaUvo7mqJ0ecmeYBU5XGRL\u00f8\u0001\u008c\u0007\u0098\u0002\u00f3\u0085\u0085\u008c\u00d7\u0084\u00ea\u0002\u00a2\u0003\u0004G1--\u00a8\u0003\u0004",
+                "value": ""
+            }
+        ],
+        "text": "\n\u00c3\u0006\b\u0001\u0012F\n\b\n\u0004_sno\u0018\u0003\n\n\n\u0002_o\u0012\u0004auto\n\u0006\n\u0002_r\u0018\u0001\n\u0006\n\u0002_c\u0018\u0001\n\f\n\u0004_sid\u0018\u0093\u00bb\u00d7\u00fe\u0005\u0012\u0002_s\u0018\u009d\u008e\u00a6\u00db\u00e5. \u00b0\u00b2\u00ea\u00b0\u00df.\u0012I\n\u000f\n\u0003_si\u0018\u00f4\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0017\n\u0003_sc\u0012\u0010UIViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0003_vs\u0018\u008b\u0090\u00a6\u00db\u00e5. \u00d1\u00b4\u00ea\u00b0\u00df.\u0012 \n\u0006\n\u0002_r\u0018\u0001\n\n\n\u0002_o\u0012\u0004auto\u0012\u0003_fx\u0018\u009d\u008e\u00a6\u00db\u00e5.\u0012\u00a7\u0001\n\u0010\n\u0006medium\u0012\u0006search\n\u000f\n\u0006source\u0012\u0005Apple\n\n\n\u0002_o\u0012\u0004auto\n\u0016\n\bcampaign\u0012\nIT - Brand\n\u0017\n\u0003_sc\u0012\u0010UIViewController\n\u000f\n\u0003_si\u0018\u00f4\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0018\n\u000fclick_timestamp\u0018\u00b5\u00ab\u00d5\u00ab\u00df.\n\r\n\u0004term\u0012\u0005yazio\u0012\u0004_cmp\u0018\u0086\u0094\u00a6\u00db\u00e5.\u001a\u000e\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0003_fi \u0001\u001a\u0014\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0004_fot \u0080\u00cb\u00f9\u00ac\u00df.\u001a\u0011\b\u00ff\u00bc\u0099\u00b1\u00df.\u0012\u0004_lte \u00d4\u00c3\u000e\u001a\u000f\b\u0081\u00bd\u0099\u00b1\u00df.\u0012\u0003_se \u00b8\u0002\u001a\u0013\b\u009d\u008e\u00a6\u00db\u00e5.\u0012\u0004_sid \u0093\u00bb\u00d7\u00fe\u0005\u001a\u000f\b\u009d\u0090\u00a6\u00db\u00e5.\u0012\u0004_sno \u0003 \u00e4\u0087\u00a7\u00db\u00e5.(\u009d\u008e\u00a6\u00db\u00e5.0\u0086\u0094\u00a6\u00db\u00e5.8\u009a\u00bc\u0099\u00b1\u00df.B\u0003iosJ\u000414.2R\niPhone10,6Z\u0005it-it`<r\u0013com.yazio.ios.YAZIO\u0082\u0001\u00067.0.11\u0088\u0001\u00e4\u00db\u0003\u0090\u0001\u00e4\u00db\u0003\u009a\u0001$C395F8FC-06E0-4B50-AF41-AC0BADC3727E\u00a0\u0001\u0000\u00aa\u0001 F4C67905096C47BA8C4BCFBEAFB8D6C3\u00b8\u0001\t\u00c2\u0001\\2:1E_60900:Cannot send request for Search Ad campaign attribution. Error:ADClientErrorDomain\u00ca\u0001#1:121867625151:ios:d32c259700cd4cc5\u00d0\u0001\u0099\u00bc\u0099\u00b1\u00df.\u00f2\u0001\u0016eaUvo7mqJ0ecmeYBU5XGRL\u00f8\u0001\u008c\u0007\u0098\u0002\u00f3\u0085\u0085\u008c\u00d7\u0084\u00ea\u0002\u00a2\u0003\u0004G1--\u00a8\u0003\u0005\n\u00d4\u0004\b\u0001\u0012R\n\u000f\n\u0003_si\u0018\u00f4\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00a8\u0016\n\u0017\n\u0003_sc\u0012\u0010UIViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00da\u00a7\u00a6\u00db\u00e5. \u0099\u00bc\u0099\u00b1\u00df.\u0012y\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0017\n\u0003_pc\u0012\u0010UIViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f4\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00db\u00a7\u00a6\u00db\u00e5. \u008b\u0090\u00a6\u00db\u00e5.\u001a\u000e\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0003_fi \u0001\u001a\u0014\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0004_fot \u0080\u00cb\u00f9\u00ac\u00df.\u001a\u0011\b\u00d3\u0087\u00a7\u00db\u00e5.\u0012\u0004_lte \u00fc\u00d9\u000e\u001a\u000f\b\u00d6\u0087\u00a7\u00db\u00e5.\u0012\u0003_se \u00a8\u0016\u001a\u0013\b\u009d\u008e\u00a6\u00db\u00e5.\u0012\u0004_sid \u0093\u00bb\u00d7\u00fe\u0005\u001a\u000f\b\u009d\u0090\u00a6\u00db\u00e5.\u0012\u0004_sno \u0003 \u00e4\u0087\u00a7\u00db\u00e5.(\u00da\u00a7\u00a6\u00db\u00e5.0\u00db\u00a7\u00a6\u00db\u00e5.8\u0086\u0094\u00a6\u00db\u00e5.B\u0003iosJ\u000414.2R\niPhone10,6Z\u0005it-it`<r\u0013com.yazio.ios.YAZIO\u0082\u0001\u00067.0.11\u0088\u0001\u00e4\u00db\u0003\u0090\u0001\u00e4\u00db\u0003\u009a\u0001$C395F8FC-06E0-4B50-AF41-AC0BADC3727E\u00a0\u0001\u0000\u00aa\u0001 F4C67905096C47BA8C4BCFBEAFB8D6C3\u00b8\u0001\n\u00ca\u0001#1:121867625151:ios:d32c259700cd4cc5\u00d0\u0001\u009d\u008e\u00a6\u00db\u00e5.\u00f2\u0001\u0016eaUvo7mqJ0ecmeYBU5XGRL\u00f8\u0001\u008c\u0007\u0098\u0002\u00f3\u0085\u0085\u008c\u00d7\u0084\u00ea\u0002\u00a2\u0003\u0004G1--\u00a8\u0003\u0004"
+    },
+    "queryString": [],
+    "url": "https://app-measurement.com/a"
+}
+
+####################################
+
+Ho trovato nella richiesta 86: PHONE_NAME, 
+
+{
+    "bodySize": 2106,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/908 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "content-length",
+            "value": "2106"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        }
+    ],
+    "headersSize": 251,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "v",
+                "value": "3"
+            },
+            {
+                "name": "client",
+                "value": "035744ac25f21ead3e90774de9a14e28"
+            },
+            {
+                "name": "e",
+                "value": "[{\"session_id\":1607851411393,\"user_properties\":{\"$setOnce\":{\"App Install Date\":\"2020-12-13T10:23:31\"}},\"language\":\"Italian\",\"event_type\":\"$identify\",\"sequence_number\":23,\"user_id\":\"1606130139481-8903320\",\"country\":\"Italy\",\"api_properties\":{\"tracking_options\":{\"dma\":false,\"ip_address\":false,\"lat_lng\":false}},\"device_id\":\"58CD8C04-A9D0-4840-9ECC-674353794704R\",\"event_properties\":{},\"uuid\":\"0B437587-B964-4CA5-8D87-16C932C33C15\",\"device_manufacturer\":\"Apple\",\"version_name\":\"7.0.11\",\"library\":{\"name\":\"amplitude-ios\",\"version\":\"7.1.1\"},\"os_name\":\"ios\",\"platform\":\"iOS\",\"event_id\":6,\"timestamp\":1607851411386,\"groups\":{},\"os_version\":\"14.2\",\"device_model\":\"iPhone X\",\"group_properties\":{}},{\"session_id\":1607851411393,\"user_properties\":{},\"language\":\"Italian\",\"event_type\":\"First Daily Open App\",\"sequence_number\":24,\"user_id\":\"1606130139481-8903320\",\"country\":\"Italy\",\"api_properties\":{\"tracking_options\":{\"dma\":false,\"ip_address\":false,\"lat_lng\":false}},\"device_id\":\"58CD8C04-A9D0-4840-9ECC-674353794704R\",\"event_properties\":{},\"uuid\":\"0CE9A093-ED5A-4218-BF81-FB8C59E85DFF\",\"device_manufacturer\":\"Apple\",\"version_name\":\"7.0.11\",\"library\":{\"name\":\"amplitude-ios\",\"version\":\"7.1.1\"},\"os_name\":\"ios\",\"platform\":\"iOS\",\"event_id\":18,\"timestamp\":1607851411628,\"groups\":{},\"os_version\":\"14.2\",\"device_model\":\"iPhone X\",\"group_properties\":{}}]"
+            },
+            {
+                "name": "upload_time",
+                "value": "1607851441485"
+            },
+            {
+                "name": "checksum",
+                "value": "583989d4eac4c31dfa4519b3c7cd9c38"
+            }
+        ],
+        "text": "v=3&client=035744ac25f21ead3e90774de9a14e28&e=%5B%7B%22session_id%22%3A1607851411393%2C%22user_properties%22%3A%7B%22%24setOnce%22%3A%7B%22App%20Install%20Date%22%3A%222020-12-13T10%3A23%3A31%22%7D%7D%2C%22language%22%3A%22Italian%22%2C%22event_type%22%3A%22%24identify%22%2C%22sequence_number%22%3A23%2C%22user_id%22%3A%221606130139481-8903320%22%2C%22country%22%3A%22Italy%22%2C%22api_properties%22%3A%7B%22tracking_options%22%3A%7B%22dma%22%3Afalse%2C%22ip_address%22%3Afalse%2C%22lat_lng%22%3Afalse%7D%7D%2C%22device_id%22%3A%2258CD8C04-A9D0-4840-9ECC-674353794704R%22%2C%22event_properties%22%3A%7B%7D%2C%22uuid%22%3A%220B437587-B964-4CA5-8D87-16C932C33C15%22%2C%22device_manufacturer%22%3A%22Apple%22%2C%22version_name%22%3A%227.0.11%22%2C%22library%22%3A%7B%22name%22%3A%22amplitude-ios%22%2C%22version%22%3A%227.1.1%22%7D%2C%22os_name%22%3A%22ios%22%2C%22platform%22%3A%22iOS%22%2C%22event_id%22%3A6%2C%22timestamp%22%3A1607851411386%2C%22groups%22%3A%7B%7D%2C%22os_version%22%3A%2214.2%22%2C%22device_model%22%3A%22iPhone%20X%22%2C%22group_properties%22%3A%7B%7D%7D%2C%7B%22session_id%22%3A1607851411393%2C%22user_properties%22%3A%7B%7D%2C%22language%22%3A%22Italian%22%2C%22event_type%22%3A%22First%20Daily%20Open%20App%22%2C%22sequence_number%22%3A24%2C%22user_id%22%3A%221606130139481-8903320%22%2C%22country%22%3A%22Italy%22%2C%22api_properties%22%3A%7B%22tracking_options%22%3A%7B%22dma%22%3Afalse%2C%22ip_address%22%3Afalse%2C%22lat_lng%22%3Afalse%7D%7D%2C%22device_id%22%3A%2258CD8C04-A9D0-4840-9ECC-674353794704R%22%2C%22event_properties%22%3A%7B%7D%2C%22uuid%22%3A%220CE9A093-ED5A-4218-BF81-FB8C59E85DFF%22%2C%22device_manufacturer%22%3A%22Apple%22%2C%22version_name%22%3A%227.0.11%22%2C%22library%22%3A%7B%22name%22%3A%22amplitude-ios%22%2C%22version%22%3A%227.1.1%22%7D%2C%22os_name%22%3A%22ios%22%2C%22platform%22%3A%22iOS%22%2C%22event_id%22%3A18%2C%22timestamp%22%3A1607851411628%2C%22groups%22%3A%7B%7D%2C%22os_version%22%3A%2214.2%22%2C%22device_model%22%3A%22iPhone%20X%22%2C%22group_properties%22%3A%7B%7D%7D%5D&upload_time=1607851441485&checksum=583989d4eac4c31dfa4519b3c7cd9c38"
+    },
+    "queryString": [],
+    "url": "https://api.amplitude.com/"
+}
+
+####################################
+
+Ho trovato nella richiesta 129: PHONE_NAME, 
+
+{
+    "bodySize": 748,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "application/x-protobuf"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "content-length",
+            "value": "380"
+        },
+        {
+            "name": "content-encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "user-agent",
+            "value": "datatransport/7.5.1 fllsupport/7.5.1 apple/"
+        },
+        {
+            "name": "x-goog-api-key",
+            "value": "AIzaSyB4G40IhwotnuD26vAV-0PAxOVr5zn1BCc"
+        }
+    ],
+    "headersSize": 328,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-protobuf",
+        "params": [],
+        "text": "\n\u00e9\u0005\n<\b\u000f\"8\u001a\u000214\"\u000414.2*\u00039082\u0002IT:\niPhone10,6B\u0002itZ\u0013com.yazio.ios.YAZIO\u0010\u0089\u0001\u001a\u00c9\u0002\b\u00b4\u0091\u00a6\u00db\u00e5.2\u00b5\u0002\b\u0001:\u0003\u0013\u0012\u0014J\niPhone10,6R#1:121867625151:ios:d32c259700cd4cc5b\u0013com.yazio.ios.YAZIO\u0080\u0001\u0002\u0092\u0001\b61004000\u00a8\u0001\u0001\u00b2\u0001\u000414.2\u00c2\u0001\u000413.0\u00c8\u0001\u0001\u00d0\u0001\u0001\u00d8\u0001\b\u00e2\u0001\u000e12A7300-18A390\u00e8\u0001\u0000\u00f0\u0001\u0001\u00fa\u0001\u009f\u0001apple-platform/ios apple-sdk/18A390 fire-abt/4.2.0 fire-analytics/6.9.0 fire-dl/4.3.1 fire-install/1.7.0 fire-ios/6.10.4 fire-rc/4.9.1 swift/true xcode/12A7300\u0088\u0002\u0001\u00a0\u0002\u0001x\u00a08\u0088\u0001\u008a\u009d\u00d8\u00f7\b\u001a\u00cc\u0002\b\u00a7\u008f\u00a6\u00db\u00e5.2\u00b8\u0002\b\u0001:\u0003\u0013\u0012\u0014J\niPhone10,6R#1:121867625151:ios:d32c259700cd4cc5b\u0013com.yazio.ios.YAZIO\u0080\u0001\u0002\u0092\u0001\b61004000\u00a0\u0001\u0001\u00a8\u0001\u0001\u00b2\u0001\u000414.2\u00c2\u0001\u000413.0\u00c8\u0001\u0001\u00d0\u0001\u0001\u00d8\u0001\b\u00e2\u0001\u000e12A7300-18A390\u00e8\u0001\u0000\u00f0\u0001\u0001\u00fa\u0001\u009f\u0001apple-platform/ios apple-sdk/18A390 fire-abt/4.2.0 fire-analytics/6.9.0 fire-dl/4.3.1 fire-install/1.7.0 fire-ios/6.10.4 fire-rc/4.9.1 swift/true xcode/12A7300\u0088\u0002\u0001\u00a0\u0002\u0001x\u00a08\u0088\u0001\u00fd\u009a\u00d8\u00f7\b \u009b\u00f2\u00a9\u00db\u00e5.@\u00f1\u00fd\u00db\u00f7\b"
+    },
+    "queryString": [],
+    "url": "https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/batchlog"
+}
+
+####################################
+
+Ho trovato nella richiesta 130: PHONE_NAME, 
+
+{
+    "bodySize": 1119,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/908 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "content-length",
+            "value": "1119"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        }
+    ],
+    "headersSize": 251,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "v",
+                "value": "3"
+            },
+            {
+                "name": "client",
+                "value": "035744ac25f21ead3e90774de9a14e28"
+            },
+            {
+                "name": "e",
+                "value": "[{\"session_id\":1607851411393,\"user_properties\":{},\"language\":\"Italian\",\"event_type\":\"Open Recipe Details\",\"sequence_number\":25,\"user_id\":\"1606130139481-8903320\",\"country\":\"Italy\",\"api_properties\":{\"tracking_options\":{\"dma\":false,\"ip_address\":false,\"lat_lng\":false}},\"device_id\":\"58CD8C04-A9D0-4840-9ECC-674353794704R\",\"event_properties\":{\"Screen Name\":\"Recipe Details\"},\"uuid\":\"B1794792-0972-4B32-A316-94AD13B5268E\",\"device_manufacturer\":\"Apple\",\"version_name\":\"7.0.11\",\"library\":{\"name\":\"amplitude-ios\",\"version\":\"7.1.1\"},\"os_name\":\"ios\",\"platform\":\"iOS\",\"event_id\":19,\"timestamp\":1607851455033,\"groups\":{},\"os_version\":\"14.2\",\"device_model\":\"iPhone X\",\"group_properties\":{}}]"
+            },
+            {
+                "name": "upload_time",
+                "value": "1607851488400"
+            },
+            {
+                "name": "checksum",
+                "value": "11f2b48b282277f10d315f5e8c16f2e1"
+            }
+        ],
+        "text": "v=3&client=035744ac25f21ead3e90774de9a14e28&e=%5B%7B%22session_id%22%3A1607851411393%2C%22user_properties%22%3A%7B%7D%2C%22language%22%3A%22Italian%22%2C%22event_type%22%3A%22Open%20Recipe%20Details%22%2C%22sequence_number%22%3A25%2C%22user_id%22%3A%221606130139481-8903320%22%2C%22country%22%3A%22Italy%22%2C%22api_properties%22%3A%7B%22tracking_options%22%3A%7B%22dma%22%3Afalse%2C%22ip_address%22%3Afalse%2C%22lat_lng%22%3Afalse%7D%7D%2C%22device_id%22%3A%2258CD8C04-A9D0-4840-9ECC-674353794704R%22%2C%22event_properties%22%3A%7B%22Screen%20Name%22%3A%22Recipe%20Details%22%7D%2C%22uuid%22%3A%22B1794792-0972-4B32-A316-94AD13B5268E%22%2C%22device_manufacturer%22%3A%22Apple%22%2C%22version_name%22%3A%227.0.11%22%2C%22library%22%3A%7B%22name%22%3A%22amplitude-ios%22%2C%22version%22%3A%227.1.1%22%7D%2C%22os_name%22%3A%22ios%22%2C%22platform%22%3A%22iOS%22%2C%22event_id%22%3A19%2C%22timestamp%22%3A1607851455033%2C%22groups%22%3A%7B%7D%2C%22os_version%22%3A%2214.2%22%2C%22device_model%22%3A%22iPhone%20X%22%2C%22group_properties%22%3A%7B%7D%7D%5D&upload_time=1607851488400&checksum=11f2b48b282277f10d315f5e8c16f2e1"
+    },
+    "queryString": [],
+    "url": "https://api.amplitude.com/"
+}
+
+####################################
+
+Ho trovato nella richiesta 208: PHONE_NAME, 
+
+{
+    "bodySize": 1123,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/908 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "content-length",
+            "value": "1123"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        }
+    ],
+    "headersSize": 251,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "v",
+                "value": "3"
+            },
+            {
+                "name": "client",
+                "value": "035744ac25f21ead3e90774de9a14e28"
+            },
+            {
+                "name": "e",
+                "value": "[{\"session_id\":1607851411393,\"user_properties\":{},\"language\":\"Italian\",\"event_type\":\"Open Exercise Details\",\"sequence_number\":26,\"user_id\":\"1606130139481-8903320\",\"country\":\"Italy\",\"api_properties\":{\"tracking_options\":{\"dma\":false,\"ip_address\":false,\"lat_lng\":false}},\"device_id\":\"58CD8C04-A9D0-4840-9ECC-674353794704R\",\"event_properties\":{\"Screen Name\":\"Exercise Details\"},\"uuid\":\"932A3213-05B5-448C-AA9C-ECE22AABDA2A\",\"device_manufacturer\":\"Apple\",\"version_name\":\"7.0.11\",\"library\":{\"name\":\"amplitude-ios\",\"version\":\"7.1.1\"},\"os_name\":\"ios\",\"platform\":\"iOS\",\"event_id\":20,\"timestamp\":1607851518431,\"groups\":{},\"os_version\":\"14.2\",\"device_model\":\"iPhone X\",\"group_properties\":{}}]"
+            },
+            {
+                "name": "upload_time",
+                "value": "1607851553585"
+            },
+            {
+                "name": "checksum",
+                "value": "ec423493fb2c78d902197198c1aebe8b"
+            }
+        ],
+        "text": "v=3&client=035744ac25f21ead3e90774de9a14e28&e=%5B%7B%22session_id%22%3A1607851411393%2C%22user_properties%22%3A%7B%7D%2C%22language%22%3A%22Italian%22%2C%22event_type%22%3A%22Open%20Exercise%20Details%22%2C%22sequence_number%22%3A26%2C%22user_id%22%3A%221606130139481-8903320%22%2C%22country%22%3A%22Italy%22%2C%22api_properties%22%3A%7B%22tracking_options%22%3A%7B%22dma%22%3Afalse%2C%22ip_address%22%3Afalse%2C%22lat_lng%22%3Afalse%7D%7D%2C%22device_id%22%3A%2258CD8C04-A9D0-4840-9ECC-674353794704R%22%2C%22event_properties%22%3A%7B%22Screen%20Name%22%3A%22Exercise%20Details%22%7D%2C%22uuid%22%3A%22932A3213-05B5-448C-AA9C-ECE22AABDA2A%22%2C%22device_manufacturer%22%3A%22Apple%22%2C%22version_name%22%3A%227.0.11%22%2C%22library%22%3A%7B%22name%22%3A%22amplitude-ios%22%2C%22version%22%3A%227.1.1%22%7D%2C%22os_name%22%3A%22ios%22%2C%22platform%22%3A%22iOS%22%2C%22event_id%22%3A20%2C%22timestamp%22%3A1607851518431%2C%22groups%22%3A%7B%7D%2C%22os_version%22%3A%2214.2%22%2C%22device_model%22%3A%22iPhone%20X%22%2C%22group_properties%22%3A%7B%7D%7D%5D&upload_time=1607851553585&checksum=ec423493fb2c78d902197198c1aebe8b"
+    },
+    "queryString": [],
+    "url": "https://api.amplitude.com/"
+}
+
+####################################
+
+Ho trovato nella richiesta 221: PHONE_NAME, 
+
+{
+    "bodySize": 3119,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/908 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "content-length",
+            "value": "3119"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        }
+    ],
+    "headersSize": 251,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "v",
+                "value": "3"
+            },
+            {
+                "name": "client",
+                "value": "035744ac25f21ead3e90774de9a14e28"
+            },
+            {
+                "name": "e",
+                "value": "[{\"session_id\":1607851411393,\"user_properties\":{},\"language\":\"Italian\",\"event_type\":\"Open Coach Details\",\"sequence_number\":27,\"user_id\":\"1606130139481-8903320\",\"country\":\"Italy\",\"api_properties\":{\"tracking_options\":{\"dma\":false,\"ip_address\":false,\"lat_lng\":false}},\"device_id\":\"58CD8C04-A9D0-4840-9ECC-674353794704R\",\"event_properties\":{\"Screen Name\":\"Coach Details\"},\"uuid\":\"EF477D33-D1E9-4F79-9845-30DAE01C1721\",\"device_manufacturer\":\"Apple\",\"version_name\":\"7.0.11\",\"library\":{\"name\":\"amplitude-ios\",\"version\":\"7.1.1\"},\"os_name\":\"ios\",\"platform\":\"iOS\",\"event_id\":21,\"timestamp\":1607851559071,\"groups\":{},\"os_version\":\"14.2\",\"device_model\":\"iPhone X\",\"group_properties\":{}},{\"session_id\":1607851411393,\"user_properties\":{},\"language\":\"Italian\",\"event_type\":\"Open PRO In-App\",\"sequence_number\":28,\"user_id\":\"1606130139481-8903320\",\"country\":\"Italy\",\"api_properties\":{\"tracking_options\":{\"dma\":false,\"ip_address\":false,\"lat_lng\":false}},\"device_id\":\"58CD8C04-A9D0-4840-9ECC-674353794704R\",\"event_properties\":{\"Screen Name\":\"Dafault Pro Page\"},\"uuid\":\"9735CD6C-1509-449B-BAAD-8EC33751EFFF\",\"device_manufacturer\":\"Apple\",\"version_name\":\"7.0.11\",\"library\":{\"name\":\"amplitude-ios\",\"version\":\"7.1.1\"},\"os_name\":\"ios\",\"platform\":\"iOS\",\"event_id\":22,\"timestamp\":1607851566096,\"groups\":{},\"os_version\":\"14.2\",\"device_model\":\"iPhone X\",\"group_properties\":{}},{\"session_id\":1607851411393,\"user_properties\":{},\"language\":\"Italian\",\"event_type\":\"Open Coach Details\",\"sequence_number\":29,\"user_id\":\"1606130139481-8903320\",\"country\":\"Italy\",\"api_properties\":{\"tracking_options\":{\"dma\":false,\"ip_address\":false,\"lat_lng\":false}},\"device_id\":\"58CD8C04-A9D0-4840-9ECC-674353794704R\",\"event_properties\":{\"Screen Name\":\"Coach Details\"},\"uuid\":\"1AC62740-B3A9-441B-B30B-AB61CF1F3BB4\",\"device_manufacturer\":\"Apple\",\"version_name\":\"7.0.11\",\"library\":{\"name\":\"amplitude-ios\",\"version\":\"7.1.1\"},\"os_name\":\"ios\",\"platform\":\"iOS\",\"event_id\":23,\"timestamp\":1607851578957,\"groups\":{},\"os_version\":\"14.2\",\"device_model\":\"iPhone X\",\"group_properties\":{}}]"
+            },
+            {
+                "name": "upload_time",
+                "value": "1607851589107"
+            },
+            {
+                "name": "checksum",
+                "value": "a1668a6a98b6bf90283b4bb8a4588810"
+            }
+        ],
+        "text": "v=3&client=035744ac25f21ead3e90774de9a14e28&e=%5B%7B%22session_id%22%3A1607851411393%2C%22user_properties%22%3A%7B%7D%2C%22language%22%3A%22Italian%22%2C%22event_type%22%3A%22Open%20Coach%20Details%22%2C%22sequence_number%22%3A27%2C%22user_id%22%3A%221606130139481-8903320%22%2C%22country%22%3A%22Italy%22%2C%22api_properties%22%3A%7B%22tracking_options%22%3A%7B%22dma%22%3Afalse%2C%22ip_address%22%3Afalse%2C%22lat_lng%22%3Afalse%7D%7D%2C%22device_id%22%3A%2258CD8C04-A9D0-4840-9ECC-674353794704R%22%2C%22event_properties%22%3A%7B%22Screen%20Name%22%3A%22Coach%20Details%22%7D%2C%22uuid%22%3A%22EF477D33-D1E9-4F79-9845-30DAE01C1721%22%2C%22device_manufacturer%22%3A%22Apple%22%2C%22version_name%22%3A%227.0.11%22%2C%22library%22%3A%7B%22name%22%3A%22amplitude-ios%22%2C%22version%22%3A%227.1.1%22%7D%2C%22os_name%22%3A%22ios%22%2C%22platform%22%3A%22iOS%22%2C%22event_id%22%3A21%2C%22timestamp%22%3A1607851559071%2C%22groups%22%3A%7B%7D%2C%22os_version%22%3A%2214.2%22%2C%22device_model%22%3A%22iPhone%20X%22%2C%22group_properties%22%3A%7B%7D%7D%2C%7B%22session_id%22%3A1607851411393%2C%22user_properties%22%3A%7B%7D%2C%22language%22%3A%22Italian%22%2C%22event_type%22%3A%22Open%20PRO%20In-App%22%2C%22sequence_number%22%3A28%2C%22user_id%22%3A%221606130139481-8903320%22%2C%22country%22%3A%22Italy%22%2C%22api_properties%22%3A%7B%22tracking_options%22%3A%7B%22dma%22%3Afalse%2C%22ip_address%22%3Afalse%2C%22lat_lng%22%3Afalse%7D%7D%2C%22device_id%22%3A%2258CD8C04-A9D0-4840-9ECC-674353794704R%22%2C%22event_properties%22%3A%7B%22Screen%20Name%22%3A%22Dafault%20Pro%20Page%22%7D%2C%22uuid%22%3A%229735CD6C-1509-449B-BAAD-8EC33751EFFF%22%2C%22device_manufacturer%22%3A%22Apple%22%2C%22version_name%22%3A%227.0.11%22%2C%22library%22%3A%7B%22name%22%3A%22amplitude-ios%22%2C%22version%22%3A%227.1.1%22%7D%2C%22os_name%22%3A%22ios%22%2C%22platform%22%3A%22iOS%22%2C%22event_id%22%3A22%2C%22timestamp%22%3A1607851566096%2C%22groups%22%3A%7B%7D%2C%22os_version%22%3A%2214.2%22%2C%22device_model%22%3A%22iPhone%20X%22%2C%22group_properties%22%3A%7B%7D%7D%2C%7B%22session_id%22%3A1607851411393%2C%22user_properties%22%3A%7B%7D%2C%22language%22%3A%22Italian%22%2C%22event_type%22%3A%22Open%20Coach%20Details%22%2C%22sequence_number%22%3A29%2C%22user_id%22%3A%221606130139481-8903320%22%2C%22country%22%3A%22Italy%22%2C%22api_properties%22%3A%7B%22tracking_options%22%3A%7B%22dma%22%3Afalse%2C%22ip_address%22%3Afalse%2C%22lat_lng%22%3Afalse%7D%7D%2C%22device_id%22%3A%2258CD8C04-A9D0-4840-9ECC-674353794704R%22%2C%22event_properties%22%3A%7B%22Screen%20Name%22%3A%22Coach%20Details%22%7D%2C%22uuid%22%3A%221AC62740-B3A9-441B-B30B-AB61CF1F3BB4%22%2C%22device_manufacturer%22%3A%22Apple%22%2C%22version_name%22%3A%227.0.11%22%2C%22library%22%3A%7B%22name%22%3A%22amplitude-ios%22%2C%22version%22%3A%227.1.1%22%7D%2C%22os_name%22%3A%22ios%22%2C%22platform%22%3A%22iOS%22%2C%22event_id%22%3A23%2C%22timestamp%22%3A1607851578957%2C%22groups%22%3A%7B%7D%2C%22os_version%22%3A%2214.2%22%2C%22device_model%22%3A%22iPhone%20X%22%2C%22group_properties%22%3A%7B%7D%7D%5D&upload_time=1607851589107&checksum=a1668a6a98b6bf90283b4bb8a4588810"
+    },
+    "queryString": [],
+    "url": "https://api.amplitude.com/"
+}
+
+####################################
+
+Ho trovato nella richiesta 232: PESO, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "br;q=1.0, gzip;q=0.9, deflate;q=0.8"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/7.0.11 (com.yazio.ios.YAZIO; build:908; iOS 14.2.0) Alamofire/5.3.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1.0"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 6646d7575a2ec2748002c31a985a33871341721d85847336975f474a7cfe151068bc743239c5a243ea2fdd"
+        }
+    ],
+    "headersSize": 341,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "date",
+            "value": "2020-12-12"
+        }
+    ],
+    "url": "https://yzapi.yazio.com/v8/user/bodyvalues/weight/last?date=2020-12-12"
+}
+
+####################################
+
+Ho trovato nella richiesta 240: PESO, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "br;q=1.0, gzip;q=0.9, deflate;q=0.8"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/7.0.11 (com.yazio.ios.YAZIO; build:908; iOS 14.2.0) Alamofire/5.3.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1.0"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 6646d7575a2ec2748002c31a985a33871341721d85847336975f474a7cfe151068bc743239c5a243ea2fdd"
+        }
+    ],
+    "headersSize": 341,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "date",
+            "value": "2020-12-11"
+        }
+    ],
+    "url": "https://yzapi.yazio.com/v8/user/bodyvalues/weight/last?date=2020-12-11"
+}
+
+####################################
+
+Ho trovato nella richiesta 245: PESO, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "br;q=1.0, gzip;q=0.9, deflate;q=0.8"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/7.0.11 (com.yazio.ios.YAZIO; build:908; iOS 14.2.0) Alamofire/5.3.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1.0"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 6646d7575a2ec2748002c31a985a33871341721d85847336975f474a7cfe151068bc743239c5a243ea2fdd"
+        }
+    ],
+    "headersSize": 341,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "date",
+            "value": "2020-12-10"
+        }
+    ],
+    "url": "https://yzapi.yazio.com/v8/user/bodyvalues/weight/last?date=2020-12-10"
+}
+
+####################################
+
+Ho trovato nella richiesta 250: PESO, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "br;q=1.0, gzip;q=0.9, deflate;q=0.8"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/7.0.11 (com.yazio.ios.YAZIO; build:908; iOS 14.2.0) Alamofire/5.3.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1.0"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 6646d7575a2ec2748002c31a985a33871341721d85847336975f474a7cfe151068bc743239c5a243ea2fdd"
+        }
+    ],
+    "headersSize": 341,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "date",
+            "value": "2020-12-09"
+        }
+    ],
+    "url": "https://yzapi.yazio.com/v8/user/bodyvalues/weight/last?date=2020-12-09"
+}
+
+####################################
+
+Ho trovato nella richiesta 260: PESO, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "br;q=1.0, gzip;q=0.9, deflate;q=0.8"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/7.0.11 (com.yazio.ios.YAZIO; build:908; iOS 14.2.0) Alamofire/5.3.0"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-IT;q=1.0"
+        },
+        {
+            "name": "authorization",
+            "value": "Bearer 6646d7575a2ec2748002c31a985a33871341721d85847336975f474a7cfe151068bc743239c5a243ea2fdd"
+        }
+    ],
+    "headersSize": 341,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "date",
+            "value": "2020-12-08"
+        }
+    ],
+    "url": "https://yzapi.yazio.com/v8/user/bodyvalues/weight/last?date=2020-12-08"
+}
+
+####################################
+
+Ho trovato nella richiesta 264: PHONE_NAME, 
+
+{
+    "bodySize": 9729,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "content-type",
+            "value": "application/x-www-form-urlencoded"
+        },
+        {
+            "name": "user-agent",
+            "value": "YAZIO/908 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "name": "content-encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "content-length",
+            "value": "2014"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 283,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/x-www-form-urlencoded",
+        "params": [
+            {
+                "name": "\n\u00feK\b\u0001\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u009de\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00f8\u008c\u00a7\u00db\u00e5. \u00da\u00a7\u00a6\u00db\u00e5.\u0012\u0083\u0001\n\u000f\n\u0003_si\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00f9\u008c\u00a7\u00db\u00e5. \u00db\u00a7\u00a6\u00db\u00e5.\u0012\\\n\u000f\n\u0003_si\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b0\b\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00a9\u0095\u00a7\u00db\u00e5. \u00f8\u008c\u00a7\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u00f7\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n!\n\u0003_pc\u0012\u001aFoodOverviewViewController\n\u0019\n\u0003_sc\u0012\u0012UISearchController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00aa\u0095\u00a7\u00db\u00e5. \u00f9\u008c\u00a7\u00db\u00e5.\u0012T\n\u000f\n\u0003_si\u0018\u00f7\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b5 \n\u0019\n\u0003_sc\u0012\u0012UISearchController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00df\u00c0\u00a7\u00db\u00e5. \u00a9\u0095\u00a7\u00db\u00e5.\u0012\u0080\u0001\n\u000f\n\u0003_si\u0018\u00f8\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0019\n\u0003_pc\u0012\u0012UISearchController\n\"\n\u0003_sc\u0012\u001bProductDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f7\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00e0\u00c0\u00a7\u00db\u00e5. \u00aa\u0095\u00a7\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u00f8\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b7,\n\"\n\u0003_sc\u0012\u001bProductDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0096\u00ed\u00a7\u00db\u00e5. \u00df\u00c0\u00a7\u00db\u00e5.\u0012\u0080\u0001\n\u000f\n\u0003_si\u0018\u00f7\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\"\n\u0003_pc\u0012\u001bProductDetailViewController\n\u0019\n\u0003_sc\u0012\u0012UISearchController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f8\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0097\u00ed\u00a7\u00db\u00e5. \u00e0\u00c0\u00a7\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0019\n\u0003_pc\u0012\u0012UISearchController\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f7\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0098\u00ed\u00a7\u00db\u00e5. \u0097\u00ed\u00a7\u00db\u00e5.\u0012\\\n\u000f\n\u0003_si\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00d74\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00ee\u00a1\u00a8\u00db\u00e5. \u0096\u00ed\u00a7\u00db\u00e5.\u0012\u0083\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n!\n\u0003_pc\u0012\u001aFoodOverviewViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00ef\u00a1\u00a8\u00db\u00e5. \u0098\u00ed\u00a7\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00c6\u0017\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00b5\u00b9\u00a8\u00db\u00e5. \u00ee\u00a1\u00a8\u00db\u00e5.\u0012~\n\u000f\n\u0003_si\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001c\n\u0003_sc\u0012\u0015RecipesViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00b5\u00b9\u00a8\u00db\u00e5. \u00ef\u00a1\u00a8\u00db\u00e5.\u0012W\n\u000f\n\u0003_si\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u0080 \n\u001c\n\u0003_sc\u0012\u0015RecipesViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00b5\u00e4\u00a8\u00db\u00e5. \u00b5\u00b9\u00a8\u00db\u00e5.\u0012\u0082\u0001\n\u000f\n\u0003_si\u0018\u00fa\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015RecipesViewController\n!\n\u0003_sc\u0012\u001aRecipeDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00b6\u00e4\u00a8\u00db\u00e5. \u00b5\u00b9\u00a8\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u00fa\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\t\n\u0003_et\u0018\u00e1\u00da\u0002\n!\n\u0003_sc\u0012\u001aRecipeDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0097\u00bf\u00ab\u00db\u00e5. \u00b5\u00e4\u00a8\u00db\u00e5.\u0012\u0082\u0001\n\u000f\n\u0003_si\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n!\n\u0003_pc\u0012\u001aRecipeDetailViewController\n\u001c\n\u0003_sc\u0012\u0015RecipesViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00fa\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0099\u00bf\u00ab\u00db\u00e5. \u00b6\u00e4\u00a8\u00db\u00e5.\u0012W\n\u000f\n\u0003_si\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00e6t\n\u001c\n\u0003_sc\u0012\u0015RecipesViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00fe\u00b3\u00ac\u00db\u00e5. \u0097\u00bf\u00ab\u00db\u00e5.\u0012\u0088\u0001\n\u000f\n\u0003_si\u0018\u00fb\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015RecipesViewController\n'\n\u0003_sc\u0012 AddDiaryEntrySheetViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00ff\u00b3\u00ac\u00db\u00e5. \u0099\u00bf\u00ab\u00db\u00e5.\u0012b\n\u000f\n\u0003_si\u0018\u00fb\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00df\u0010\n'\n\u0003_sc\u0012 AddDiaryEntrySheetViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00dd\u00c4\u00ac\u00db\u00e5. \u00fe\u00b3\u00ac\u00db\u00e5.\u0012\u008b\u0001\n\u000f\n\u0003_si\u0018\u00fc\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n'\n\u0003_pc\u0012 AddDiaryEntrySheetViewController\n\u001f\n\u0003_sc\u0012\u0018WorkoutAddViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00fb\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00e0\u00c4\u00ac\u00db\u00e5. \u00ff\u00b3\u00ac\u00db\u00e5.\u0012Z\n\u000f\n\u0003_si\u0018\u00fc\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00f1\u000e\n\u001f\n\u0003_sc\u0012\u0018WorkoutAddViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00cf\u00d3\u00ac\u00db\u00e5. \u00dd\u00c4\u00ac\u00db\u00e5.\u0012\u0086\u0001\n\u000f\n\u0003_si\u0018\u00fd\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001f\n\u0003_pc\u0012\u0018WorkoutAddViewController\n\"\n\u0003_sc\u0012\u001bWorkoutDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00fc\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00d2\u00d3\u00ac\u00db\u00e5. \u00e0\u00c4\u00ac\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u00fd\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u0084\u0018\n\"\n\u0003_sc\u0012\u001bWorkoutDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00d4\u00eb\u00ac\u00db\u00e5. \u00cf\u00d3\u00ac\u00db\u00e5.\u0012\u0084\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\"\n\u0003_pc\u0012\u001bWorkoutDetailViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00fd\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00d6\u00eb\u00ac\u00db\u00e5. \u00d2\u00d3\u00ac\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00fd\u0011\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00d2\u00fd\u00ac\u00db\u00e5. \u00d4\u00eb\u00ac\u00db\u00e5.\u0012\u0089\u0001\n\u000f\n\u0003_si\u0018\u00fe\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n'\n\u0003_sc\u0012 AddDiaryEntrySheetViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00d3\u00fd\u00ac\u00db\u00e5. \u00d6\u00eb\u00ac\u00db\u00e5.\u0012b\n\u000f\n\u0003_si\u0018\u00fe\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00e9\u0015\n'\n\u0003_sc\u0012 AddDiaryEntrySheetViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00bb\u0093\u00ad\u00db\u00e5. \u00d2\u00fd\u00ac\u00db\u00e5.\u0012\u0089\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n'\n\u0003_pc\u0012 AddDiaryEntrySheetViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00fe\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00bd\u0093\u00ad\u00db\u00e5. \u00d3\u00fd\u00ac\u00db\u00e5.\u0012\u0083\u0001\n\u000f\n\u0003_si\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00fc\u0097\u00ad\u00db\u00e5. \u00bd\u0093\u00ad\u00db\u00e5.\u0012\\\n\u000f\n\u0003_si\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00c0A\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00fc\u00d4\u00ad\u00db\u00e5. \u00bb\u0093\u00ad\u00db\u00e5.\u0012\u0088\u0001\n\u000f\n\u0003_si\u0018\u0080\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n!\n\u0003_pc\u0012\u001aFoodOverviewViewController\n\"\n\u0003_sc\u0012\u001bProductDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00fe\u00d4\u00ad\u00db\u00e5. \u00fc\u0097\u00ad\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u0080\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00e3\u0013\n\"\n\u0003_sc\u0012\u001bProductDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00e0\u00e8\u00ad\u00db\u00e5. \u00fc\u00d4\u00ad\u00db\u00e5.\u0012\u0088\u0001\n\u000f\n\u0003_si\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\"\n\u0003_pc\u0012\u001bProductDetailViewController\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0080\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00e1\u00e8\u00ad\u00db\u00e5. \u00fe\u00d4\u00ad\u00db\u00e5.\u0012\\\n\u000f\n\u0003_si\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00d9#\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00b9\u008c\u00ae\u00db\u00e5. \u00e0\u00e8\u00ad\u00db\u00e5.\u0012\u0083\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n!\n\u0003_pc\u0012\u001aFoodOverviewViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00bb\u008c\u00ae\u00db\u00e5. \u00e1\u00e8\u00ad\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00f6\u000b\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00b0\u0098\u00ae\u00db\u00e5. \u00b9\u008c\u00ae\u00db\u00e5.\u0012~\n\u000f\n\u0003_si\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001c\n\u0003_sc\u0012\u0015RecipesViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00b1\u0098\u00ae\u00db\u00e5. \u00bb\u008c\u00ae\u00db\u00e5.\u0012{\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015RecipesViewController\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00bf\u009e\u00ae\u00db\u00e5. \u00b1\u0098\u00ae\u00db\u00e5.\u0012U\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00e1x\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0092\u0091\u00af\u00db\u00e5. \u00b0\u0098\u00ae\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001a\n\u0003_pc\u0012\u0013CoachViewController\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0094\u0091\u00af\u00db\u00e5. \u00bf\u009e\u00ae\u00db\u00e5.\u0012[\n\u000f\n\u0003_si\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00fa6\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u008d\u00c8\u00af\u00db\u00e5. \u0092\u0091\u00af\u00db\u00e5.\u0012\u0081\u0001\n\u000f\n\u0003_si\u0018\u0083\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n \n\u0003_pc\u0012\u0019CoachDetailViewController\n\u001c\n\u0003_sc\u0012\u0015PremiumViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0090\u00c8\u00af\u00db\u00e5. \u0094\u0091\u00af\u00db\u00e5.\u0012y\n\u000f\n\u0003_si\u0018\u0084\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015PremiumViewController\n\u0018\n\u0003_sc\u0012\u0011UIAlertController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0083\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00ed\u00cb\u00af\u00db\u00e5. \u0090\u00c8\u00af\u00db\u00e5.\u0012S\n\u000f\n\u0003_si\u0018\u0084\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u0092\f\n\u0018\n\u0003_sc\u0012\u0011UIAlertController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u009f\u00d4\u00af\u00db\u00e5. \u008d\u00c8\u00af\u00db\u00e5.\u0012y\n\u000f\n\u0003_si\u0018\u0083\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0018\n\u0003_pc\u0012\u0011UIAlertController\n\u001c\n\u0003_sc\u0012\u0015PremiumViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0084\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00a1\u00d4\u00af\u00db\u00e5. \u00ed\u00cb\u00af\u00db\u00e5.\u0012W\n\u000f\n\u0003_si\u0018\u0083\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u009f(\n\u001c\n\u0003_sc\u0012\u0015PremiumViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00bf\u00fc\u00af\u00db\u00e5. \u009f\u00d4\u00af\u00db\u00e5.\u0012\u0081\u0001\n\u000f\n\u0003_si\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015PremiumViewController\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0083\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00c1\u00fc\u00af\u00db\u00e5. \u00a1\u00d4\u00af\u00db\u00e5.\u0012[\n\u000f\n\u0003_si\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00ea\r\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00aa\u008a\u00b0\u00db\u00e5. \u00bf\u00fc\u00af\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n \n\u0003_pc\u0012\u0019CoachDetailViewController\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00ab\u008a\u00b0\u00db\u00e5. \u00c1\u00fc\u00af\u00db\u00e5.\u0012U\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u0098\"\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00c2\u00ac\u00b0\u00db\u00e5. \u00aa\u008a\u00b0\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u0085\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001a\n\u0003_pc\u0012\u0013CoachViewController\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00c3\u00ac\u00b0\u00db\u00e5. \u00ab\u008a\u00b0\u00db\u00e5.\u0012[\n\u000f\n\u0003_si\u0018\u0085\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b0\u0011\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00f2\u00bd\u00b0\u00db\u00e5. \u00c2\u00ac\u00b0\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n \n\u0003_pc\u0012\u0019CoachDetailViewController\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0085\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00f4\u00bd\u00b0\u00db\u00e5. \u00c3\u00ac\u00b0\u00db\u00e5.\u0012U\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00cb\u0017\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00be\u00d5\u00b0\u00db\u00e5. \u00f2\u00bd\u00b0\u00db\u00e5.\u0012{\n\u000f\n\u0003_si\u0018\u0086\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001a\n\u0003_pc\u0012\u0013CoachViewController\n\u001c\n\u0003_sc\u0012\u0015ProfileViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00bf\u00d5\u00b0\u00db\u00e5. \u00f4\u00bd\u00b0\u00db\u00e5.\u0012W\n\u000f\n\u0003_si\u0018\u0086\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b3a\n\u001c\n\u0003_sc\u0012\u0015ProfileViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00f2\u00b6\u00b1\u00db\u00e5. \u00be\u00d5\u00b0\u00db\u00e5.\u0012~\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015ProfileViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0086\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00f3\u00b6\u00b1\u00db\u00e5. \u00bf\u00d5\u00b0\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00df*\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00d1\u00e1\u00b1\u00db\u00e5. \u00f2\u00b6\u00b1\u00db\u00e5.\u0012\u0080\u0001\n\u000f\n\u0003_si\u0018\u0087\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001e\n\u0003_sc\u0012\u0017AddToSiriViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00d3\u00e1\u00b1\u00db\u00e5. \u00f3\u00b6\u00b1\u00db\u00e5.\u0012Y\n\u000f\n\u0003_si\u0018\u0087\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b1\u0019\n\u001e\n\u0003_sc\u0012\u0017AddToSiriViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0082\u00fb\u00b1\u00db\u00e5. \u00d1\u00e1\u00b1\u00db\u00e5.\u0012\u0080\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001e\n\u0003_pc\u0012\u0017AddToSiriViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0087\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0084\u00fb\u00b1\u00db\u00e5. \u00d3\u00e1\u00b1\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b01\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00b3\u00ac\u00b2\u00db\u00e5. \u0082\u00fb\u00b1\u00db\u00e5.\u0012\u0085\u0001\n\u000f\n\u0003_si\u0018\u0088\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n#\n\u0003_sc\u0012\u001cFeelingsDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00b5\u00ac\u00b2\u00db\u00e5. \u0084\u00fb\u00b1\u00db\u00e5.\u0012^\n\u000f\n\u0003_si\u0018\u0088\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u008d\n\n#\n\u0003_sc\u0012\u001cFeelingsDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00c1\u00b6\u00b2\u00db\u00e5. \u00b3\u00ac\u00b2\u00db\u00e5.\u0012\u0085\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n#\n\u0003_pc\u0012\u001cFeelingsDetailViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0088\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00c2\u00b6\u00b2\u00db\u00e5. \u00b5\u00ac\u00b2\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u008b\u001a\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00cc\u00d0\u00b2\u00db\u00e5. \u00c1\u00b6\u00b2\u00db\u00e5.\u0012\u0084\u0001\n\u000f\n\u0003_si\u0018\u0089\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\"\n\u0003_sc\u0012\u001bDiaryCalendarViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00ce\u00d0\u00b2\u00db\u00e5. \u00c2\u00b6\u00b2\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u0089\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00c1\b\n\"\n\u0003_sc\u0012\u001bDiaryCalendarViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u008e\u00d9\u00b2\u00db\u00e5. \u00cc\u00d0\u00b2\u00db\u00e5.\u0012\u0084\u0001\n\u000f\n\u0003_si\u0018\u008a\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\"\n\u0003_pc\u0012\u001bDiaryCalendarViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0089\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u008f\u00d9\u00b2\u00db\u00e5. \u00ce\u00d0\u00b2\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u008a\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00e3\u000e\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00f1\u00e7\u00b2\u00db\u00e5. \u008e\u00d9\u00b2\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u008b\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008a\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00f2\u00e7\u00b2\u00db\u00e5. \u008f\u00d9\u00b2\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u008b\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u009a\b\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u008c\u00f0\u00b2\u00db\u00e5. \u00f1\u00e7\u00b2\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u008c\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008b\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u008d\u00f0\u00b2\u00db\u00e5. \u00f2\u00e7\u00b2\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u008d\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008c\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00eb\u00f5\u00b2\u00db\u00e5. \u008d\u00f0\u00b2\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u008d\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00f7\u0010\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0084\u0081\u00b3\u00db\u00e5. \u008c\u00f0\u00b2\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u008e\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008d\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0084\u0081\u00b3\u00db\u00e5. \u00eb\u00f5\u00b2\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u008e\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00a2 \n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00a6\u00a1\u00b3\u00db\u00e5. \u0084\u0081\u00b3\u00db\u00e5.\u0012\u0084\u0001\n\u000f\n\u0003_si\u0018\u008f\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\"\n\u0003_sc\u0012\u001bDiaryCalendarViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008e\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00a8\u00a1\u00b3\u00db\u00e5. \u0084\u0081\u00b3\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u008f\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b2\f\n\"\n\u0003_sc\u0012\u001bDiaryCalendarViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00d9\u00ad\u00b3\u00db\u00e5. \u00a6\u00a1\u00b3\u00db\u00e5.\u0012\u0084\u0001\n\u000f\n\u0003_si\u0018\u0090\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\"\n\u0003_pc\u0012\u001bDiaryCalendarViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008f\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00db\u00ad\u00b3\u00db\u00e5. \u00a8\u00a1\u00b3\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u0090\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00aa \n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0083\u00d9\u00b3\u00db\u00e5. \u00d9\u00ad\u00b3\u00db\u00e5.\u0012O\n\u000f\n\u0003_si\u0018\u0090\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0003_ab\u0018\u0085\u00d9\u00b3\u00db\u00e5. \u009a\u00bc\u0099\u00b1\u00df.\u001a\u000e\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0003_fi \u0001\u001a\u0014\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0004_fot \u0080\u00cb\u00f9\u00ac\u00df.\u001a\u0013\b\u009d\u008e\u00a6\u00db\u00e5.\u0012\u0004_sid \u0093\u00bb\u00d7\u00fe\u0005\u001a\u000f\b\u009d\u0090\u00a6\u00db\u00e5.\u0012\u0004_sno \u0003\u001a\u0011\b\u00d6\u00d9\u00b3\u00db\u00e5.\u0012\u0004_lte \u008c\u008b\u001c\u001a\u0010\b\u00d9\u00d9\u00b3\u00db\u00e5.\u0012\u0003_se \u00b8\u00c7\r \u0080\u00da\u00b3\u00db\u00e5.(\u00f8\u008c\u00a7\u00db\u00e5.0\u0085\u00d9\u00b3\u00db\u00e5.8\u00db\u00a7\u00a6\u00db\u00e5.B\u0003iosJ\u000414.2R\niPhone10,6Z\u0005it-it`<r\u0013com.yazio.ios.YAZIO\u0082\u0001\u00067.0.11\u0088\u0001\u00e4\u00db\u0003\u0090\u0001\u00e4\u00db\u0003\u009a\u0001$C395F8FC-06E0-4B50-AF41-AC0BADC3727E\u00a0\u0001\u0000\u00aa\u0001 F4C67905096C47BA8C4BCFBEAFB8D6C3\u00b8\u0001\u000b\u00ca\u0001#1:121867625151:ios:d32c259700cd4cc5\u00d0\u0001\u00da\u00a7\u00a6\u00db\u00e5.\u00f2\u0001\u0016eaUvo7mqJ0ecmeYBU5XGRL\u00f8\u0001\u008c\u0007\u0098\u0002\u00f3\u0085\u0085\u008c\u00d7\u0084\u00ea\u0002\u00a2\u0003\u0004G1--\u00a8\u0003\u0004",
+                "value": ""
+            }
+        ],
+        "text": "\n\u00feK\b\u0001\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u009de\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00f8\u008c\u00a7\u00db\u00e5. \u00da\u00a7\u00a6\u00db\u00e5.\u0012\u0083\u0001\n\u000f\n\u0003_si\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00f9\u008c\u00a7\u00db\u00e5. \u00db\u00a7\u00a6\u00db\u00e5.\u0012\\\n\u000f\n\u0003_si\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b0\b\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00a9\u0095\u00a7\u00db\u00e5. \u00f8\u008c\u00a7\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u00f7\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n!\n\u0003_pc\u0012\u001aFoodOverviewViewController\n\u0019\n\u0003_sc\u0012\u0012UISearchController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00aa\u0095\u00a7\u00db\u00e5. \u00f9\u008c\u00a7\u00db\u00e5.\u0012T\n\u000f\n\u0003_si\u0018\u00f7\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b5+\n\u0019\n\u0003_sc\u0012\u0012UISearchController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00df\u00c0\u00a7\u00db\u00e5. \u00a9\u0095\u00a7\u00db\u00e5.\u0012\u0080\u0001\n\u000f\n\u0003_si\u0018\u00f8\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0019\n\u0003_pc\u0012\u0012UISearchController\n\"\n\u0003_sc\u0012\u001bProductDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f7\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00e0\u00c0\u00a7\u00db\u00e5. \u00aa\u0095\u00a7\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u00f8\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b7,\n\"\n\u0003_sc\u0012\u001bProductDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0096\u00ed\u00a7\u00db\u00e5. \u00df\u00c0\u00a7\u00db\u00e5.\u0012\u0080\u0001\n\u000f\n\u0003_si\u0018\u00f7\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\"\n\u0003_pc\u0012\u001bProductDetailViewController\n\u0019\n\u0003_sc\u0012\u0012UISearchController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f8\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0097\u00ed\u00a7\u00db\u00e5. \u00e0\u00c0\u00a7\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0019\n\u0003_pc\u0012\u0012UISearchController\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f7\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0098\u00ed\u00a7\u00db\u00e5. \u0097\u00ed\u00a7\u00db\u00e5.\u0012\\\n\u000f\n\u0003_si\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00d74\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00ee\u00a1\u00a8\u00db\u00e5. \u0096\u00ed\u00a7\u00db\u00e5.\u0012\u0083\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n!\n\u0003_pc\u0012\u001aFoodOverviewViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f6\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00ef\u00a1\u00a8\u00db\u00e5. \u0098\u00ed\u00a7\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00c6\u0017\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00b5\u00b9\u00a8\u00db\u00e5. \u00ee\u00a1\u00a8\u00db\u00e5.\u0012~\n\u000f\n\u0003_si\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001c\n\u0003_sc\u0012\u0015RecipesViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00b5\u00b9\u00a8\u00db\u00e5. \u00ef\u00a1\u00a8\u00db\u00e5.\u0012W\n\u000f\n\u0003_si\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u0080+\n\u001c\n\u0003_sc\u0012\u0015RecipesViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00b5\u00e4\u00a8\u00db\u00e5. \u00b5\u00b9\u00a8\u00db\u00e5.\u0012\u0082\u0001\n\u000f\n\u0003_si\u0018\u00fa\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015RecipesViewController\n!\n\u0003_sc\u0012\u001aRecipeDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00b6\u00e4\u00a8\u00db\u00e5. \u00b5\u00b9\u00a8\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u00fa\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\t\n\u0003_et\u0018\u00e1\u00da\u0002\n!\n\u0003_sc\u0012\u001aRecipeDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0097\u00bf\u00ab\u00db\u00e5. \u00b5\u00e4\u00a8\u00db\u00e5.\u0012\u0082\u0001\n\u000f\n\u0003_si\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n!\n\u0003_pc\u0012\u001aRecipeDetailViewController\n\u001c\n\u0003_sc\u0012\u0015RecipesViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00fa\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0099\u00bf\u00ab\u00db\u00e5. \u00b6\u00e4\u00a8\u00db\u00e5.\u0012W\n\u000f\n\u0003_si\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00e6t\n\u001c\n\u0003_sc\u0012\u0015RecipesViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00fe\u00b3\u00ac\u00db\u00e5. \u0097\u00bf\u00ab\u00db\u00e5.\u0012\u0088\u0001\n\u000f\n\u0003_si\u0018\u00fb\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015RecipesViewController\n'\n\u0003_sc\u0012 AddDiaryEntrySheetViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00ff\u00b3\u00ac\u00db\u00e5. \u0099\u00bf\u00ab\u00db\u00e5.\u0012b\n\u000f\n\u0003_si\u0018\u00fb\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00df\u0010\n'\n\u0003_sc\u0012 AddDiaryEntrySheetViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00dd\u00c4\u00ac\u00db\u00e5. \u00fe\u00b3\u00ac\u00db\u00e5.\u0012\u008b\u0001\n\u000f\n\u0003_si\u0018\u00fc\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n'\n\u0003_pc\u0012 AddDiaryEntrySheetViewController\n\u001f\n\u0003_sc\u0012\u0018WorkoutAddViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00fb\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00e0\u00c4\u00ac\u00db\u00e5. \u00ff\u00b3\u00ac\u00db\u00e5.\u0012Z\n\u000f\n\u0003_si\u0018\u00fc\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00f1\u000e\n\u001f\n\u0003_sc\u0012\u0018WorkoutAddViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00cf\u00d3\u00ac\u00db\u00e5. \u00dd\u00c4\u00ac\u00db\u00e5.\u0012\u0086\u0001\n\u000f\n\u0003_si\u0018\u00fd\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001f\n\u0003_pc\u0012\u0018WorkoutAddViewController\n\"\n\u0003_sc\u0012\u001bWorkoutDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00fc\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00d2\u00d3\u00ac\u00db\u00e5. \u00e0\u00c4\u00ac\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u00fd\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u0084\u0018\n\"\n\u0003_sc\u0012\u001bWorkoutDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00d4\u00eb\u00ac\u00db\u00e5. \u00cf\u00d3\u00ac\u00db\u00e5.\u0012\u0084\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\"\n\u0003_pc\u0012\u001bWorkoutDetailViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00fd\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00d6\u00eb\u00ac\u00db\u00e5. \u00d2\u00d3\u00ac\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00fd\u0011\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00d2\u00fd\u00ac\u00db\u00e5. \u00d4\u00eb\u00ac\u00db\u00e5.\u0012\u0089\u0001\n\u000f\n\u0003_si\u0018\u00fe\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n'\n\u0003_sc\u0012 AddDiaryEntrySheetViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00d3\u00fd\u00ac\u00db\u00e5. \u00d6\u00eb\u00ac\u00db\u00e5.\u0012b\n\u000f\n\u0003_si\u0018\u00fe\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00e9\u0015\n'\n\u0003_sc\u0012 AddDiaryEntrySheetViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00bb\u0093\u00ad\u00db\u00e5. \u00d2\u00fd\u00ac\u00db\u00e5.\u0012\u0089\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n'\n\u0003_pc\u0012 AddDiaryEntrySheetViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00fe\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00bd\u0093\u00ad\u00db\u00e5. \u00d3\u00fd\u00ac\u00db\u00e5.\u0012\u0083\u0001\n\u000f\n\u0003_si\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00fc\u0097\u00ad\u00db\u00e5. \u00bd\u0093\u00ad\u00db\u00e5.\u0012\\\n\u000f\n\u0003_si\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00c0A\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00fc\u00d4\u00ad\u00db\u00e5. \u00bb\u0093\u00ad\u00db\u00e5.\u0012\u0088\u0001\n\u000f\n\u0003_si\u0018\u0080\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n!\n\u0003_pc\u0012\u001aFoodOverviewViewController\n\"\n\u0003_sc\u0012\u001bProductDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00fe\u00d4\u00ad\u00db\u00e5. \u00fc\u0097\u00ad\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u0080\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00e3\u0013\n\"\n\u0003_sc\u0012\u001bProductDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00e0\u00e8\u00ad\u00db\u00e5. \u00fc\u00d4\u00ad\u00db\u00e5.\u0012\u0088\u0001\n\u000f\n\u0003_si\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\"\n\u0003_pc\u0012\u001bProductDetailViewController\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0080\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00e1\u00e8\u00ad\u00db\u00e5. \u00fe\u00d4\u00ad\u00db\u00e5.\u0012\\\n\u000f\n\u0003_si\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00d9#\n!\n\u0003_sc\u0012\u001aFoodOverviewViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00b9\u008c\u00ae\u00db\u00e5. \u00e0\u00e8\u00ad\u00db\u00e5.\u0012\u0083\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n!\n\u0003_pc\u0012\u001aFoodOverviewViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00ff\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00bb\u008c\u00ae\u00db\u00e5. \u00e1\u00e8\u00ad\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00f6\u000b\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00b0\u0098\u00ae\u00db\u00e5. \u00b9\u008c\u00ae\u00db\u00e5.\u0012~\n\u000f\n\u0003_si\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001c\n\u0003_sc\u0012\u0015RecipesViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00b1\u0098\u00ae\u00db\u00e5. \u00bb\u008c\u00ae\u00db\u00e5.\u0012{\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015RecipesViewController\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f9\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00bf\u009e\u00ae\u00db\u00e5. \u00b1\u0098\u00ae\u00db\u00e5.\u0012U\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00e1x\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0092\u0091\u00af\u00db\u00e5. \u00b0\u0098\u00ae\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001a\n\u0003_pc\u0012\u0013CoachViewController\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0094\u0091\u00af\u00db\u00e5. \u00bf\u009e\u00ae\u00db\u00e5.\u0012[\n\u000f\n\u0003_si\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00fa6\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u008d\u00c8\u00af\u00db\u00e5. \u0092\u0091\u00af\u00db\u00e5.\u0012\u0081\u0001\n\u000f\n\u0003_si\u0018\u0083\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n \n\u0003_pc\u0012\u0019CoachDetailViewController\n\u001c\n\u0003_sc\u0012\u0015PremiumViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0090\u00c8\u00af\u00db\u00e5. \u0094\u0091\u00af\u00db\u00e5.\u0012y\n\u000f\n\u0003_si\u0018\u0084\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015PremiumViewController\n\u0018\n\u0003_sc\u0012\u0011UIAlertController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0083\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00ed\u00cb\u00af\u00db\u00e5. \u0090\u00c8\u00af\u00db\u00e5.\u0012S\n\u000f\n\u0003_si\u0018\u0084\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u0092\f\n\u0018\n\u0003_sc\u0012\u0011UIAlertController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u009f\u00d4\u00af\u00db\u00e5. \u008d\u00c8\u00af\u00db\u00e5.\u0012y\n\u000f\n\u0003_si\u0018\u0083\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u0018\n\u0003_pc\u0012\u0011UIAlertController\n\u001c\n\u0003_sc\u0012\u0015PremiumViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0084\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00a1\u00d4\u00af\u00db\u00e5. \u00ed\u00cb\u00af\u00db\u00e5.\u0012W\n\u000f\n\u0003_si\u0018\u0083\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u009f(\n\u001c\n\u0003_sc\u0012\u0015PremiumViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00bf\u00fc\u00af\u00db\u00e5. \u009f\u00d4\u00af\u00db\u00e5.\u0012\u0081\u0001\n\u000f\n\u0003_si\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015PremiumViewController\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0083\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00c1\u00fc\u00af\u00db\u00e5. \u00a1\u00d4\u00af\u00db\u00e5.\u0012[\n\u000f\n\u0003_si\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00ea\r\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00aa\u008a\u00b0\u00db\u00e5. \u00bf\u00fc\u00af\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n \n\u0003_pc\u0012\u0019CoachDetailViewController\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0082\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00ab\u008a\u00b0\u00db\u00e5. \u00c1\u00fc\u00af\u00db\u00e5.\u0012U\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u0098\"\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00c2\u00ac\u00b0\u00db\u00e5. \u00aa\u008a\u00b0\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u0085\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001a\n\u0003_pc\u0012\u0013CoachViewController\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00c3\u00ac\u00b0\u00db\u00e5. \u00ab\u008a\u00b0\u00db\u00e5.\u0012[\n\u000f\n\u0003_si\u0018\u0085\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b0\u0011\n \n\u0003_sc\u0012\u0019CoachDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00f2\u00bd\u00b0\u00db\u00e5. \u00c2\u00ac\u00b0\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n \n\u0003_pc\u0012\u0019CoachDetailViewController\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0085\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00f4\u00bd\u00b0\u00db\u00e5. \u00c3\u00ac\u00b0\u00db\u00e5.\u0012U\n\u000f\n\u0003_si\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00cb\u0017\n\u001a\n\u0003_sc\u0012\u0013CoachViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00be\u00d5\u00b0\u00db\u00e5. \u00f2\u00bd\u00b0\u00db\u00e5.\u0012{\n\u000f\n\u0003_si\u0018\u0086\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001a\n\u0003_pc\u0012\u0013CoachViewController\n\u001c\n\u0003_sc\u0012\u0015ProfileViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0081\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00bf\u00d5\u00b0\u00db\u00e5. \u00f4\u00bd\u00b0\u00db\u00e5.\u0012W\n\u000f\n\u0003_si\u0018\u0086\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b3a\n\u001c\n\u0003_sc\u0012\u0015ProfileViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00f2\u00b6\u00b1\u00db\u00e5. \u00be\u00d5\u00b0\u00db\u00e5.\u0012~\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001c\n\u0003_pc\u0012\u0015ProfileViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0086\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00f3\u00b6\u00b1\u00db\u00e5. \u00bf\u00d5\u00b0\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00df*\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00d1\u00e1\u00b1\u00db\u00e5. \u00f2\u00b6\u00b1\u00db\u00e5.\u0012\u0080\u0001\n\u000f\n\u0003_si\u0018\u0087\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001e\n\u0003_sc\u0012\u0017AddToSiriViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00d3\u00e1\u00b1\u00db\u00e5. \u00f3\u00b6\u00b1\u00db\u00e5.\u0012Y\n\u000f\n\u0003_si\u0018\u0087\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b1\u0019\n\u001e\n\u0003_sc\u0012\u0017AddToSiriViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0082\u00fb\u00b1\u00db\u00e5. \u00d1\u00e1\u00b1\u00db\u00e5.\u0012\u0080\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001e\n\u0003_pc\u0012\u0017AddToSiriViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0087\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0084\u00fb\u00b1\u00db\u00e5. \u00d3\u00e1\u00b1\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b01\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00b3\u00ac\u00b2\u00db\u00e5. \u0082\u00fb\u00b1\u00db\u00e5.\u0012\u0085\u0001\n\u000f\n\u0003_si\u0018\u0088\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n#\n\u0003_sc\u0012\u001cFeelingsDetailViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00b5\u00ac\u00b2\u00db\u00e5. \u0084\u00fb\u00b1\u00db\u00e5.\u0012^\n\u000f\n\u0003_si\u0018\u0088\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u008d\n\n#\n\u0003_sc\u0012\u001cFeelingsDetailViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00c1\u00b6\u00b2\u00db\u00e5. \u00b3\u00ac\u00b2\u00db\u00e5.\u0012\u0085\u0001\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n#\n\u0003_pc\u0012\u001cFeelingsDetailViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0088\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00c2\u00b6\u00b2\u00db\u00e5. \u00b5\u00ac\u00b2\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u008b\u001a\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00cc\u00d0\u00b2\u00db\u00e5. \u00c1\u00b6\u00b2\u00db\u00e5.\u0012\u0084\u0001\n\u000f\n\u0003_si\u0018\u0089\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\"\n\u0003_sc\u0012\u001bDiaryCalendarViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u00f5\u00bb\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00ce\u00d0\u00b2\u00db\u00e5. \u00c2\u00b6\u00b2\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u0089\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00c1\b\n\"\n\u0003_sc\u0012\u001bDiaryCalendarViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u008e\u00d9\u00b2\u00db\u00e5. \u00cc\u00d0\u00b2\u00db\u00e5.\u0012\u0084\u0001\n\u000f\n\u0003_si\u0018\u008a\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\"\n\u0003_pc\u0012\u001bDiaryCalendarViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u0089\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u008f\u00d9\u00b2\u00db\u00e5. \u00ce\u00d0\u00b2\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u008a\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00e3\u000e\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00f1\u00e7\u00b2\u00db\u00e5. \u008e\u00d9\u00b2\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u008b\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008a\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00f2\u00e7\u00b2\u00db\u00e5. \u008f\u00d9\u00b2\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u008b\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u009a\b\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u008c\u00f0\u00b2\u00db\u00e5. \u00f1\u00e7\u00b2\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u008c\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008b\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u008d\u00f0\u00b2\u00db\u00e5. \u00f2\u00e7\u00b2\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u008d\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008c\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00eb\u00f5\u00b2\u00db\u00e5. \u008d\u00f0\u00b2\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u008d\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00f7\u0010\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0084\u0081\u00b3\u00db\u00e5. \u008c\u00f0\u00b2\u00db\u00e5.\u0012\u007f\n\u000f\n\u0003_si\u0018\u008e\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008d\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u0084\u0081\u00b3\u00db\u00e5. \u00eb\u00f5\u00b2\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u008e\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00a2 \n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00a6\u00a1\u00b3\u00db\u00e5. \u0084\u0081\u00b3\u00db\u00e5.\u0012\u0084\u0001\n\u000f\n\u0003_si\u0018\u008f\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_pc\u0012\u0016DiaryDayViewController\n\"\n\u0003_sc\u0012\u001bDiaryCalendarViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008e\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00a8\u00a1\u00b3\u00db\u00e5. \u0084\u0081\u00b3\u00db\u00e5.\u0012]\n\u000f\n\u0003_si\u0018\u008f\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00b2\f\n\"\n\u0003_sc\u0012\u001bDiaryCalendarViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u00d9\u00ad\u00b3\u00db\u00e5. \u00a6\u00a1\u00b3\u00db\u00e5.\u0012\u0084\u0001\n\u000f\n\u0003_si\u0018\u0090\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\"\n\u0003_pc\u0012\u001bDiaryCalendarViewController\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\n\u000f\n\u0003_pi\u0018\u008f\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\u0012\u0003_vs\u0018\u00db\u00ad\u00b3\u00db\u00e5. \u00a8\u00a1\u00b3\u00db\u00e5.\u0012X\n\u000f\n\u0003_si\u0018\u0090\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\b\n\u0003_et\u0018\u00aa+\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0002_e\u0018\u0083\u00d9\u00b3\u00db\u00e5. \u00d9\u00ad\u00b3\u00db\u00e5.\u0012O\n\u000f\n\u0003_si\u0018\u0090\u00bc\u00d8\u00ed\u00ac\u00d3\u00cd\u00e8V\n\u001d\n\u0003_sc\u0012\u0016DiaryDayViewController\n\n\n\u0002_o\u0012\u0004auto\u0012\u0003_ab\u0018\u0085\u00d9\u00b3\u00db\u00e5. \u009a\u00bc\u0099\u00b1\u00df.\u001a\u000e\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0003_fi \u0001\u001a\u0014\b\u00b6\u00ab\u00d5\u00ab\u00df.\u0012\u0004_fot \u0080\u00cb\u00f9\u00ac\u00df.\u001a\u0013\b\u009d\u008e\u00a6\u00db\u00e5.\u0012\u0004_sid \u0093\u00bb\u00d7\u00fe\u0005\u001a\u000f\b\u009d\u0090\u00a6\u00db\u00e5.\u0012\u0004_sno \u0003\u001a\u0011\b\u00d6\u00d9\u00b3\u00db\u00e5.\u0012\u0004_lte \u008c\u008b\u001c\u001a\u0010\b\u00d9\u00d9\u00b3\u00db\u00e5.\u0012\u0003_se \u00b8\u00c7\r \u0080\u00da\u00b3\u00db\u00e5.(\u00f8\u008c\u00a7\u00db\u00e5.0\u0085\u00d9\u00b3\u00db\u00e5.8\u00db\u00a7\u00a6\u00db\u00e5.B\u0003iosJ\u000414.2R\niPhone10,6Z\u0005it-it`<r\u0013com.yazio.ios.YAZIO\u0082\u0001\u00067.0.11\u0088\u0001\u00e4\u00db\u0003\u0090\u0001\u00e4\u00db\u0003\u009a\u0001$C395F8FC-06E0-4B50-AF41-AC0BADC3727E\u00a0\u0001\u0000\u00aa\u0001 F4C67905096C47BA8C4BCFBEAFB8D6C3\u00b8\u0001\u000b\u00ca\u0001#1:121867625151:ios:d32c259700cd4cc5\u00d0\u0001\u00da\u00a7\u00a6\u00db\u00e5.\u00f2\u0001\u0016eaUvo7mqJ0ecmeYBU5XGRL\u00f8\u0001\u008c\u0007\u0098\u0002\u00f3\u0085\u0085\u008c\u00d7\u0084\u00ea\u0002\u00a2\u0003\u0004G1--\u00a8\u0003\u0004"
+    },
+    "queryString": [],
+    "url": "https://app-measurement.com/a"
+}
+
+####################################
+

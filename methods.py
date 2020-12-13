@@ -89,6 +89,12 @@ def analyze(request, items, output_file, index):
                 info.append("UDID")
             found = True
 
+        if re.findall(Constant.IDFA, line):
+            # print("'IDFA' trovate in " + line)
+            if not 'IDFA' in info:
+                info.append("IDFA")
+            found = True
+
     if found:
         output_file.write("Ho trovato nella richiesta " + str(index) + ": ")
         for inf in info:

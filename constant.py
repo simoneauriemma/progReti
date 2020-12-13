@@ -12,3 +12,4 @@ class Constant:
     CARRIER = r"\b(Vodafone IT)|(VodafoneIT)|(Vodafone)\b"
     PHONE_NAME = r"\b(i[pP]hone\s*(10%2C6|[1-9][0-9]?,[0-9]|\d+s?|ce|[xX]|di\s*[Ee]mmanuel)?)\b"
     UDID = r"\b9c93c5bd4ae0d361640428bd3800f5b588de1699\b"
+    IDFA = r"\b(idfa|IDFA)\b"

@@ -1,4 +1,4 @@
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 0: PHONE_NAME, 
 
 {
     "bodySize": 1700,
@@ -51,7 +51,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 1: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 681,
@@ -100,7 +100,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 4: PHONE_NAME, 
 
 {
     "bodySize": 1072,
@@ -145,7 +145,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 5: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -248,110 +248,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:54.572+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/assets/com.fitnessbuddy.premium"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 7: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -454,110 +351,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:54.558+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/connect"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 8: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -685,135 +479,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:54.519+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "modifiedAfter",
-            "value": "1606141302693"
-        },
-        {
-            "name": "_expand",
-            "value": "none"
-        },
-        {
-            "name": "_registerForPushWithToken",
-            "value": "282103e7a8d565075538def7a9fa5b14779debc1b3d9e26f60cfd3662e9c5981"
-        },
-        {
-            "name": "_includeDeleted",
-            "value": "true"
-        },
-        {
-            "name": "userId",
-            "value": "30736769700"
-        },
-        {
-            "name": "limit",
-            "value": "100"
-        }
-    ],
-    "url": "https://api.azumio.com/v2/checkins?modifiedAfter=1606141302693&_expand=none&_registerForPushWithToken=282103e7a8d565075538def7a9fa5b14779debc1b3d9e26f60cfd3662e9c5981&_includeDeleted=true&userId=30736769700&limit=100"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 12: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -916,110 +582,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:54.620+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/assets/coachingpremium"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 13: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1127,7 +690,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 14: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1158,7 +721,7 @@ Ho trovato PHONE_NAME,
         },
         {
             "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:54.526+0100"
+            "value": "2020-11-23T15:28:55.052+0100"
         },
         {
             "name": "X-Advertising-ID",
@@ -1222,226 +785,76 @@ Ho trovato PHONE_NAME,
         }
     ],
     "headersSize": 874,
+    "httpVersion": "HTTP/1.1",
+    "method": "GET",
+    "queryString": [],
+    "url": "https://api.azumio.com/v2/assets/com.fitnessbuddy.premium"
+}
+
+####################################
+
+Ho trovato nella richiesta 15: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "ads.mopub.com"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+        }
+    ],
+    "headersSize": 296,
     "httpVersion": "HTTP/1.1",
     "method": "GET",
     "queryString": [
         {
-            "name": "limit",
-            "value": "50"
-        }
-    ],
-    "url": "https://api.azumio.com/v2/notifications/social,tile,app?limit=50"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
+            "name": "v",
+            "value": "8"
         },
         {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
+            "name": "udid",
+            "value": "mopub:C338ABE1-6F8F-4A8F-BCC6-C5A67A12257C"
         },
         {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:55.052+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
+            "name": "id",
             "value": "com.skyhealth.fitnessbuddyfree"
         },
         {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
+            "name": "av",
+            "value": "5.262"
         },
         {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
+            "name": "st",
             "value": "1"
         }
     ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/assets/com.fitnessbuddy.premium"
+    "url": "https://ads.mopub.com/m/open?v=8&udid=mopub:C338ABE1-6F8F-4A8F-BCC6-C5A67A12257C&id=com.skyhealth.fitnessbuddyfree&av=5.262&st=1"
 }
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:55.052+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/assets/com.fitnessbuddy.premium"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 16: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1509,
@@ -1490,7 +903,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 17: PHONE_NAME, 
 
 {
     "bodySize": 363,
@@ -1544,7 +957,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 18: PHONE_NAME, 
 
 {
     "bodySize": 70,
@@ -1665,128 +1078,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 70,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:55.030+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "70"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 959,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "token",
-                "value": "282103e7a8d565075538def7a9fa5b14779debc1b3d9e26f60cfd3662e9c5981"
-            }
-        ],
-        "text": "token=282103e7a8d565075538def7a9fa5b14779debc1b3d9e26f60cfd3662e9c5981"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v1/registerforpush"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 19: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1889,110 +1181,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:55.395+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/programs/v1/programs"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 20: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1415,
@@ -2041,7 +1230,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 21: PHONE_NAME, 
 
 {
     "bodySize": 878,
@@ -2162,128 +1351,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 878,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:55.223+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "878"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 960,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "json",
-                "value": "{\"id\":\"30779859983\",\"source_breakdown\":[{\"remoteid\":\"26C56B52-8DBE-4D76-B515-D1CB2D168BCB\",\"simpleType\":\"activity-workout\",\"activeMinutes\":1.3333333333333333,\"id\":\"30767983707\"}],\"basalCalories\":1889.9999999999998,\"calories\":1897,\"version\":69,\"modified\":1606141372885,\"timestamp\":1606141371639,\"user_id\":\"30736769700\",\"remoteid\":\"30736769700-calories-18589\",\"type\":\"calories\",\"live\":false,\"value\":1897,\"activeCalories\":7.0000000000002274,\"calorie_breakdown\":[{\"activeMinutes\":1.3333333333333333,\"value\":6.9999999999999991,\"type\":\"activity\",\"subtype\":\"workout\",\"duration\":2}],\"timezone\":1,\"activeMinutes\":1.3333333333333333}"
-            }
-        ],
-        "text": "json=%7B%22id%22%3A%2230779859983%22%2C%22source_breakdown%22%3A%5B%7B%22remoteid%22%3A%2226C56B52-8DBE-4D76-B515-D1CB2D168BCB%22%2C%22simpleType%22%3A%22activity-workout%22%2C%22activeMinutes%22%3A1.3333333333333333%2C%22id%22%3A%2230767983707%22%7D%5D%2C%22basalCalories%22%3A1889.9999999999998%2C%22calories%22%3A1897%2C%22version%22%3A69%2C%22modified%22%3A1606141372885%2C%22timestamp%22%3A1606141371639%2C%22user_id%22%3A%2230736769700%22%2C%22remoteid%22%3A%2230736769700-calories-18589%22%2C%22type%22%3A%22calories%22%2C%22live%22%3Afalse%2C%22value%22%3A1897%2C%22activeCalories%22%3A7.0000000000002274%2C%22calorie_breakdown%22%3A%5B%7B%22activeMinutes%22%3A1.3333333333333333%2C%22value%22%3A6.9999999999999991%2C%22type%22%3A%22activity%22%2C%22subtype%22%3A%22workout%22%2C%22duration%22%3A2%7D%5D%2C%22timezone%22%3A1%2C%22activeMinutes%22%3A1.3333333333333333%7D"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 22: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2411,135 +1479,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:55.609+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "modifiedAfter",
-            "value": "1606141373245"
-        },
-        {
-            "name": "_expand",
-            "value": "none"
-        },
-        {
-            "name": "_registerForPushWithToken",
-            "value": "282103e7a8d565075538def7a9fa5b14779debc1b3d9e26f60cfd3662e9c5981"
-        },
-        {
-            "name": "_includeDeleted",
-            "value": "true"
-        },
-        {
-            "name": "userId",
-            "value": "30736769700"
-        },
-        {
-            "name": "limit",
-            "value": "100"
-        }
-    ],
-    "url": "https://api.azumio.com/v2/checkins?modifiedAfter=1606141373245&_expand=none&_registerForPushWithToken=282103e7a8d565075538def7a9fa5b14779debc1b3d9e26f60cfd3662e9c5981&_includeDeleted=true&userId=30736769700&limit=100"
-}
-
-####################################
-
-Ho trovato NOME_COGNOME, EMAIL, PESO, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 28: NOME_COGNOME, EMAIL, PESO, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1847,
@@ -2617,7 +1557,7 @@ Ho trovato NOME_COGNOME, EMAIL, PESO, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 29: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 2985,
@@ -2695,7 +1635,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 30: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 989,
@@ -2773,7 +1713,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 31: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2876,110 +1816,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:59.350+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/assets/dnapremiumsequenced"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 32: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3082,110 +1919,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:59.357+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/connect"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 33: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3288,110 +2022,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:28:59.700+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/assets/dnapremium"
-}
-
-####################################
-
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 34: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1020,
@@ -3469,7 +2100,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 35: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3572,110 +2203,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:01.041+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/helix/orderstatus"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 36: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3778,110 +2306,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:01.035+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/data/custom_workout"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 37: PHONE_NAME, 
 
 {
     "bodySize": 710,
@@ -3938,7 +2363,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 38: PHONE_NAME, 
 
 {
     "bodySize": 736,
@@ -3983,7 +2408,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 39: PHONE_NAME, 
 
 {
     "bodySize": 386,
@@ -4036,7 +2461,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 40: PHONE_NAME, 
 
 {
     "bodySize": 543,
@@ -4157,128 +2582,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 543,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:02.464+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "543"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 960,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "json",
-                "value": "{\"start\":1606141742256,\"met\":5,\"version\":2,\"timestamp\":1606141742256,\"remoteid\":\"8FEA06F4-A780-4D38-9896-450E947F9D96\",\"type\":\"activity\",\"user_id\":\"30736769700\",\"live\":true,\"end\":1606141742256,\"timezone\":1,\"exercises\":[{\"exercise_name\":\"Bodyweight T-Pushup\",\"exercise_id\":\"16\",\"sets\":[{\"draft\":true}],\"exercise_type\":\"builtin_exercise\"}],\"subtype\":\"workout\"}"
-            }
-        ],
-        "text": "json=%7B%22start%22%3A1606141742256%2C%22met%22%3A5%2C%22version%22%3A2%2C%22timestamp%22%3A1606141742256%2C%22remoteid%22%3A%228FEA06F4-A780-4D38-9896-450E947F9D96%22%2C%22type%22%3A%22activity%22%2C%22user_id%22%3A%2230736769700%22%2C%22live%22%3Atrue%2C%22end%22%3A1606141742256%2C%22timezone%22%3A1%2C%22exercises%22%3A%5B%7B%22exercise_name%22%3A%22Bodyweight%20T-Pushup%22%2C%22exercise_id%22%3A%2216%22%2C%22sets%22%3A%5B%7B%22draft%22%3Atrue%7D%5D%2C%22exercise_type%22%3A%22builtin_exercise%22%7D%5D%2C%22subtype%22%3A%22workout%22%7D"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 41: PHONE_NAME, 
 
 {
     "bodySize": 6055,
@@ -4376,7 +2680,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 42: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1009,
@@ -4454,7 +2758,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 43: PHONE_NAME, 
 
 {
     "bodySize": 539,
@@ -4507,7 +2811,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 44: PHONE_NAME, 
 
 {
     "bodySize": 548,
@@ -4560,7 +2864,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 45: PHONE_NAME, 
 
 {
     "bodySize": 1115,
@@ -4605,7 +2909,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato UDID, 
+Ho trovato nella richiesta 46: UDID, PHONE_NAME, 
 
 {
     "bodySize": 1367,
@@ -4713,223 +3017,7 @@ Ho trovato UDID,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 1367,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "xr_3n2093n1a",
-            "secure": false,
-            "value": "1+MT6ojNx9EaHgcHgSPIuVX+s3VQs9BwWU3RJE359ZfS"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "p50-fmf.icloud.com"
-        },
-        {
-            "name": "X-Apple-PrsId",
-            "value": "10176858006"
-        },
-        {
-            "name": "User-Agent",
-            "value": "fmflocatord/7.0 iPhone10,6/18B92"
-        },
-        {
-            "name": "Cookie",
-            "value": "xr_3n2093n1a=1+MT6ojNx9EaHgcHgSPIuVX+s3VQs9BwWU3RJE359ZfS"
-        },
-        {
-            "name": "X-Apple-PushEnv",
-            "value": "production"
-        },
-        {
-            "name": "X-Apple-Realm-Support",
-            "value": "1.0"
-        },
-        {
-            "name": "Content-Length",
-            "value": "1367"
-        },
-        {
-            "name": "X-Apple-I-TimeZone",
-            "value": "CET"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "X-Apple-I-Client-Time",
-            "value": "2020-11-23T14:29:03Z"
-        },
-        {
-            "name": "X-Apple-Find-API-Ver",
-            "value": "7.0"
-        },
-        {
-            "name": "Authorization",
-            "value": "Basic MTAxNzY4NTgwMDY6RUFBUEFBQUFCTHdJQUFBQUFGLXBIWGNSRG1kekxtbGpiRzkxWkM1aGRYUm92UUJfSVV6UGxXUkRBTGZxSENPRzYta284dDRSOGg5LS1pRVNkRFo5Snk2bFMyemM1azQyQ0hIODlEbmNZUmtQX2dLcjZCVW1uVVI1TndkdEVReVNFbGh6ZkJqTmpCUlNSVHc1Wl9ZaEpSTS1sOHJia3RTczJJMXliV19SQWJES0tyb1ExNG5MZmx0R3Jid1BKdzJNeUN6ZzRmdHhfZ35+"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it-it"
-        },
-        {
-            "name": "X-Apple-I-MD-RINFO",
-            "value": "17106176"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/json"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "X-Apple-I-MD-M",
-            "value": "0K97Ed9w16v6vw+SaEEfowe0Bc2butK88d/pIdFp3s4RROvATIbsd66z/CykwvDUccvowvwTl9rOQHYk"
-        },
-        {
-            "name": "X-Apple-I-Locale",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Apple-I-MD",
-            "value": "AAAABQAAABCjCZXJjERJH1Y2UznMdAKJAAAAAw=="
-        }
-    ],
-    "headersSize": 1159,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"deviceContext\":{\"deviceTS\":\"2020-11-23T14:29:03.641Z\",\"cause\":\"FMFLocationServicesStateChanged\",\"registeredCauses\":[\"FMFLocationServicesStateChanged\"]},\"deviceInfo\":{\"supportsNotifyV2\":true,\"supportsForceTouch\":true,\"deviceClass\":\"iPhone\",\"locationServicesEnabled\":true,\"isChargerConnected\":false,\"unlockState\":3,\"smlLS\":true,\"deviceName\":\"iPhone di Emmanuel\",\"deviceColor\":\"1\",\"processId\":\"8474\",\"allPushTokens\":[\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\"],\"fmf\":true,\"fenceMonitoringCapable\":true,\"productType\":\"iPhone10,6\",\"udid\":\"9c93c5bd4ae0d361640428bd3800f5b588de1699\",\"aps-token\":\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\",\"locale\":\"it_IT\",\"fmfVersion\":\"526\",\"isFMFAppRemoved\":false,\"platform\":\"iphoneos\",\"batteryStatus\":\"NotCharging\",\"idsDeviceId\":\"76010A50-0E0F-4059-9848-1D1593A5DAAF\",\"serialNumber\":\"F2LW4E2GJCLH\",\"timezone\":\"Europe\\/Rome\",\"isInternal\":false,\"otherDevices\":[{\"connectionStatus\":\"not-connected\",\"productType\":\"Watch1,2\",\"deviceClass\":\"Watch\",\"platform\":\"watchos\",\"pairingId\":\"6543870E-D725-44EC-A1EE-D86F390E3A6B\",\"udid\":\"efc79ac8b8dc7310b6c31c3e76dec18212b9a891\",\"deviceName\":\"Apple\u00a0Watch di Emmanuel\",\"lastActiveTime\":1603197653498}],\"fmfRestrictions\":false,\"fmfBuildVersion\":\"5.0\",\"batteryLevel\":0.54000002145767212,\"enclosureColor\":\"1\",\"buildVersion\":\"18B92\",\"productVersion\":\"14.2\"}}"
-    },
-    "queryString": [],
-    "url": "https://p50-fmf.icloud.com/fmipservice/fmf/10176858006/9c93c5bd4ae0d361640428bd3800f5b588de1699/register"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, UDID, 
-
-{
-    "bodySize": 1367,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "xr_3n2093n1a",
-            "secure": false,
-            "value": "1+MT6ojNx9EaHgcHgSPIuVX+s3VQs9BwWU3RJE359ZfS"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "p50-fmf.icloud.com"
-        },
-        {
-            "name": "X-Apple-PrsId",
-            "value": "10176858006"
-        },
-        {
-            "name": "User-Agent",
-            "value": "fmflocatord/7.0 iPhone10,6/18B92"
-        },
-        {
-            "name": "Cookie",
-            "value": "xr_3n2093n1a=1+MT6ojNx9EaHgcHgSPIuVX+s3VQs9BwWU3RJE359ZfS"
-        },
-        {
-            "name": "X-Apple-PushEnv",
-            "value": "production"
-        },
-        {
-            "name": "X-Apple-Realm-Support",
-            "value": "1.0"
-        },
-        {
-            "name": "Content-Length",
-            "value": "1367"
-        },
-        {
-            "name": "X-Apple-I-TimeZone",
-            "value": "CET"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "X-Apple-I-Client-Time",
-            "value": "2020-11-23T14:29:03Z"
-        },
-        {
-            "name": "X-Apple-Find-API-Ver",
-            "value": "7.0"
-        },
-        {
-            "name": "Authorization",
-            "value": "Basic MTAxNzY4NTgwMDY6RUFBUEFBQUFCTHdJQUFBQUFGLXBIWGNSRG1kekxtbGpiRzkxWkM1aGRYUm92UUJfSVV6UGxXUkRBTGZxSENPRzYta284dDRSOGg5LS1pRVNkRFo5Snk2bFMyemM1azQyQ0hIODlEbmNZUmtQX2dLcjZCVW1uVVI1TndkdEVReVNFbGh6ZkJqTmpCUlNSVHc1Wl9ZaEpSTS1sOHJia3RTczJJMXliV19SQWJES0tyb1ExNG5MZmx0R3Jid1BKdzJNeUN6ZzRmdHhfZ35+"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it-it"
-        },
-        {
-            "name": "X-Apple-I-MD-RINFO",
-            "value": "17106176"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/json"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "X-Apple-I-MD-M",
-            "value": "0K97Ed9w16v6vw+SaEEfowe0Bc2butK88d/pIdFp3s4RROvATIbsd66z/CykwvDUccvowvwTl9rOQHYk"
-        },
-        {
-            "name": "X-Apple-I-Locale",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Apple-I-MD",
-            "value": "AAAABQAAABCjCZXJjERJH1Y2UznMdAKJAAAAAw=="
-        }
-    ],
-    "headersSize": 1159,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"deviceContext\":{\"deviceTS\":\"2020-11-23T14:29:03.641Z\",\"cause\":\"FMFLocationServicesStateChanged\",\"registeredCauses\":[\"FMFLocationServicesStateChanged\"]},\"deviceInfo\":{\"supportsNotifyV2\":true,\"supportsForceTouch\":true,\"deviceClass\":\"iPhone\",\"locationServicesEnabled\":true,\"isChargerConnected\":false,\"unlockState\":3,\"smlLS\":true,\"deviceName\":\"iPhone di Emmanuel\",\"deviceColor\":\"1\",\"processId\":\"8474\",\"allPushTokens\":[\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\"],\"fmf\":true,\"fenceMonitoringCapable\":true,\"productType\":\"iPhone10,6\",\"udid\":\"9c93c5bd4ae0d361640428bd3800f5b588de1699\",\"aps-token\":\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\",\"locale\":\"it_IT\",\"fmfVersion\":\"526\",\"isFMFAppRemoved\":false,\"platform\":\"iphoneos\",\"batteryStatus\":\"NotCharging\",\"idsDeviceId\":\"76010A50-0E0F-4059-9848-1D1593A5DAAF\",\"serialNumber\":\"F2LW4E2GJCLH\",\"timezone\":\"Europe\\/Rome\",\"isInternal\":false,\"otherDevices\":[{\"connectionStatus\":\"not-connected\",\"productType\":\"Watch1,2\",\"deviceClass\":\"Watch\",\"platform\":\"watchos\",\"pairingId\":\"6543870E-D725-44EC-A1EE-D86F390E3A6B\",\"udid\":\"efc79ac8b8dc7310b6c31c3e76dec18212b9a891\",\"deviceName\":\"Apple\u00a0Watch di Emmanuel\",\"lastActiveTime\":1603197653498}],\"fmfRestrictions\":false,\"fmfBuildVersion\":\"5.0\",\"batteryLevel\":0.54000002145767212,\"enclosureColor\":\"1\",\"buildVersion\":\"18B92\",\"productVersion\":\"14.2\"}}"
-    },
-    "queryString": [],
-    "url": "https://p50-fmf.icloud.com/fmipservice/fmf/10176858006/9c93c5bd4ae0d361640428bd3800f5b588de1699/register"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 47: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -5057,135 +3145,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:04.067+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "modifiedAfter",
-            "value": "1606141735499"
-        },
-        {
-            "name": "_expand",
-            "value": "none"
-        },
-        {
-            "name": "_registerForPushWithToken",
-            "value": "282103e7a8d565075538def7a9fa5b14779debc1b3d9e26f60cfd3662e9c5981"
-        },
-        {
-            "name": "_includeDeleted",
-            "value": "true"
-        },
-        {
-            "name": "userId",
-            "value": "30736769700"
-        },
-        {
-            "name": "limit",
-            "value": "100"
-        }
-    ],
-    "url": "https://api.azumio.com/v2/checkins?modifiedAfter=1606141735499&_expand=none&_registerForPushWithToken=282103e7a8d565075538def7a9fa5b14779debc1b3d9e26f60cfd3662e9c5981&_includeDeleted=true&userId=30736769700&limit=100"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 49: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -5293,115 +3253,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:04.021+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "limit",
-            "value": "50"
-        }
-    ],
-    "url": "https://api.azumio.com/v2/notifications/social,tile,app?limit=50"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 50: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 2005,
@@ -5450,7 +3302,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 51: PHONE_NAME, 
 
 {
     "bodySize": 1061,
@@ -5571,128 +3423,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 1061,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:04.347+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "1061"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 961,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "json",
-                "value": "{\"id\":\"30779859983\",\"source_breakdown\":[{\"remoteid\":\"26C56B52-8DBE-4D76-B515-D1CB2D168BCB\",\"simpleType\":\"activity-workout\",\"activeMinutes\":1.3333333333333333,\"id\":\"30767983707\"},{\"remoteid\":\"8FEA06F4-A780-4D38-9896-450E947F9D96\",\"simpleType\":\"activity-workout\",\"activeMinutes\":0,\"id\":\"30762812925\"}],\"basalCalories\":1889.9999999999998,\"calories\":1897.109375,\"version\":70,\"modified\":1606141735499,\"timestamp\":1606141745726,\"user_id\":\"30736769700\",\"remoteid\":\"30736769700-calories-18589\",\"type\":\"calories\",\"live\":false,\"value\":1897.109375,\"activeCalories\":7.1093750000002274,\"calorie_breakdown\":[{\"activeMinutes\":1.3333333333333333,\"value\":7.1093749999999991,\"type\":\"activity\",\"subtype\":\"workout\",\"duration\":3}],\"timezone\":1,\"activeMinutes\":1.3333333333333333}"
-            }
-        ],
-        "text": "json=%7B%22id%22%3A%2230779859983%22%2C%22source_breakdown%22%3A%5B%7B%22remoteid%22%3A%2226C56B52-8DBE-4D76-B515-D1CB2D168BCB%22%2C%22simpleType%22%3A%22activity-workout%22%2C%22activeMinutes%22%3A1.3333333333333333%2C%22id%22%3A%2230767983707%22%7D%2C%7B%22remoteid%22%3A%228FEA06F4-A780-4D38-9896-450E947F9D96%22%2C%22simpleType%22%3A%22activity-workout%22%2C%22activeMinutes%22%3A0%2C%22id%22%3A%2230762812925%22%7D%5D%2C%22basalCalories%22%3A1889.9999999999998%2C%22calories%22%3A1897.109375%2C%22version%22%3A70%2C%22modified%22%3A1606141735499%2C%22timestamp%22%3A1606141745726%2C%22user_id%22%3A%2230736769700%22%2C%22remoteid%22%3A%2230736769700-calories-18589%22%2C%22type%22%3A%22calories%22%2C%22live%22%3Afalse%2C%22value%22%3A1897.109375%2C%22activeCalories%22%3A7.1093750000002274%2C%22calorie_breakdown%22%3A%5B%7B%22activeMinutes%22%3A1.3333333333333333%2C%22value%22%3A7.1093749999999991%2C%22type%22%3A%22activity%22%2C%22subtype%22%3A%22workout%22%2C%22duration%22%3A3%7D%5D%2C%22timezone%22%3A1%2C%22activeMinutes%22%3A1.3333333333333333%7D"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 52: PHONE_NAME, 
 
 {
     "bodySize": 1127,
@@ -5745,7 +3476,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 53: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -5848,110 +3579,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:08.060+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/assets/com.fitnessbuddy.premium"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 54: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -6054,110 +3682,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:08.078+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/assets/dnapremiumsequenced"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 55: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -6260,110 +3785,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:08.088+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/connect"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 56: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -6466,110 +3888,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:08.298+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/assets/dnapremium"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 67: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -6672,110 +3991,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:10.410+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/data/custom_workout"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 68: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -6878,110 +4094,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:10.415+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/helix/orderstatus"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 69: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -7084,110 +4197,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:13.951+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/connect"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 70: PHONE_NAME, 
 
 {
     "bodySize": 397,
@@ -7240,7 +4250,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 124: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1339,
@@ -7289,7 +4299,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 134: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -7392,110 +4402,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:26.117+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/helix/orderstatus"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 135: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -7598,110 +4505,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:26.111+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/data/custom_workout"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 136: PHONE_NAME, 
 
 {
     "bodySize": 708,
@@ -7754,7 +4558,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 137: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1038,
@@ -7832,7 +4636,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 138: PHONE_NAME, 
 
 {
     "bodySize": 605,
@@ -7953,128 +4757,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 605,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:39.429+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "605"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 960,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "json",
-                "value": "{\"met\":5,\"modified\":1606141742752,\"subtype\":\"workout\",\"live\":false,\"paused\":true,\"user_id\":\"30736769700\",\"duration\":36,\"calories\":3.5000000000000004,\"activeDuration\":32,\"version\":42,\"type\":\"activity\",\"remoteid\":\"8FEA06F4-A780-4D38-9896-450E947F9D96\",\"id\":\"30762812925\",\"timestamp\":1606141780736,\"TotalExercisesInWorkout\":3,\"end\":1606141778733,\"timezone\":1,\"start\":1606141742733,\"pauses\":[32000],\"exercises\":[]}"
-            }
-        ],
-        "text": "json=%7B%22met%22%3A5%2C%22modified%22%3A1606141742752%2C%22subtype%22%3A%22workout%22%2C%22live%22%3Afalse%2C%22paused%22%3Atrue%2C%22user_id%22%3A%2230736769700%22%2C%22duration%22%3A36%2C%22calories%22%3A3.5000000000000004%2C%22activeDuration%22%3A32%2C%22version%22%3A42%2C%22type%22%3A%22activity%22%2C%22remoteid%22%3A%228FEA06F4-A780-4D38-9896-450E947F9D96%22%2C%22id%22%3A%2230762812925%22%2C%22timestamp%22%3A1606141780736%2C%22TotalExercisesInWorkout%22%3A3%2C%22end%22%3A1606141778733%2C%22timezone%22%3A1%2C%22start%22%3A1606141742733%2C%22pauses%22%3A%5B32000%5D%2C%22exercises%22%3A%5B%5D%7D"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 139: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1860,
@@ -8123,7 +4806,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 140: PHONE_NAME, 
 
 {
     "bodySize": 614,
@@ -8244,128 +4927,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 614,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:39.842+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "614"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 960,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "json",
-                "value": "{\"met\":5,\"modified\":1606141779625,\"subtype\":\"workout\",\"live\":false,\"paused\":false,\"user_id\":\"30736769700\",\"duration\":36,\"calories\":3.5000000000000004,\"activeDuration\":32,\"version\":43,\"type\":\"activity\",\"remoteid\":\"8FEA06F4-A780-4D38-9896-450E947F9D96\",\"id\":\"30762812925\",\"timestamp\":1606141779730,\"TotalExercisesInWorkout\":3,\"end\":1606141778733,\"timezone\":1,\"start\":1606141742733,\"pauses\":[32000,36000],\"exercises\":[]}"
-            }
-        ],
-        "text": "json=%7B%22met%22%3A5%2C%22modified%22%3A1606141779625%2C%22subtype%22%3A%22workout%22%2C%22live%22%3Afalse%2C%22paused%22%3Afalse%2C%22user_id%22%3A%2230736769700%22%2C%22duration%22%3A36%2C%22calories%22%3A3.5000000000000004%2C%22activeDuration%22%3A32%2C%22version%22%3A43%2C%22type%22%3A%22activity%22%2C%22remoteid%22%3A%228FEA06F4-A780-4D38-9896-450E947F9D96%22%2C%22id%22%3A%2230762812925%22%2C%22timestamp%22%3A1606141779730%2C%22TotalExercisesInWorkout%22%3A3%2C%22end%22%3A1606141778733%2C%22timezone%22%3A1%2C%22start%22%3A1606141742733%2C%22pauses%22%3A%5B32000%2C36000%5D%2C%22exercises%22%3A%5B%5D%7D"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 141: PHONE_NAME, 
 
 {
     "bodySize": 250,
@@ -8418,7 +4980,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 142: PHONE_NAME, 
 
 {
     "bodySize": 1022,
@@ -8539,128 +5101,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 1022,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:40.192+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "1022"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 961,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "json",
-                "value": "{\"id\":\"30779859983\",\"source_breakdown\":[{\"remoteid\":\"26C56B52-8DBE-4D76-B515-D1CB2D168BCB\",\"simpleType\":\"activity-workout\",\"activeMinutes\":1.3333333333333333,\"id\":\"30767983707\"},{\"remoteid\":\"8FEA06F4-A780-4D38-9896-450E947F9D96\",\"simpleType\":\"activity-workout\",\"activeMinutes\":0.66666666666666674,\"id\":\"30762812925\"}],\"basalCalories\":1889.9999999999998,\"calories\":1900.5,\"version\":108,\"modified\":1606141744600,\"timestamp\":1606141779720,\"user_id\":\"30736769700\",\"remoteid\":\"30736769700-calories-18589\",\"type\":\"calories\",\"live\":false,\"value\":1900.5,\"activeCalories\":10.500000000000227,\"calorie_breakdown\":[{\"activeMinutes\":2,\"value\":10.5,\"type\":\"activity\",\"subtype\":\"workout\",\"duration\":3}],\"timezone\":1,\"activeMinutes\":2}"
-            }
-        ],
-        "text": "json=%7B%22id%22%3A%2230779859983%22%2C%22source_breakdown%22%3A%5B%7B%22remoteid%22%3A%2226C56B52-8DBE-4D76-B515-D1CB2D168BCB%22%2C%22simpleType%22%3A%22activity-workout%22%2C%22activeMinutes%22%3A1.3333333333333333%2C%22id%22%3A%2230767983707%22%7D%2C%7B%22remoteid%22%3A%228FEA06F4-A780-4D38-9896-450E947F9D96%22%2C%22simpleType%22%3A%22activity-workout%22%2C%22activeMinutes%22%3A0.66666666666666674%2C%22id%22%3A%2230762812925%22%7D%5D%2C%22basalCalories%22%3A1889.9999999999998%2C%22calories%22%3A1900.5%2C%22version%22%3A108%2C%22modified%22%3A1606141744600%2C%22timestamp%22%3A1606141779720%2C%22user_id%22%3A%2230736769700%22%2C%22remoteid%22%3A%2230736769700-calories-18589%22%2C%22type%22%3A%22calories%22%2C%22live%22%3Afalse%2C%22value%22%3A1900.5%2C%22activeCalories%22%3A10.500000000000227%2C%22calorie_breakdown%22%3A%5B%7B%22activeMinutes%22%3A2%2C%22value%22%3A10.5%2C%22type%22%3A%22activity%22%2C%22subtype%22%3A%22workout%22%2C%22duration%22%3A3%7D%5D%2C%22timezone%22%3A1%2C%22activeMinutes%22%3A2%7D"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 143: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -8763,110 +5204,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:40.086+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins/30762812925/comments,likes/comments"
-}
-
-####################################
-
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 144: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1424,
@@ -8944,7 +5282,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 145: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1262,
@@ -9022,7 +5360,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato NOME_COGNOME, EMAIL, PESO, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 148: NOME_COGNOME, EMAIL, PESO, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1965,
@@ -9100,7 +5438,7 @@ Ho trovato NOME_COGNOME, EMAIL, PESO, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 149: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -9203,110 +5541,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:47.894+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/users/30736769700"
-}
-
-####################################
-
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 150: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 985,
@@ -9384,7 +5619,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 151: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1139,
@@ -9433,7 +5668,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 152: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -9541,115 +5776,44 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 153: PHONE_NAME, 
 
 {
     "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
+    "cookies": [],
     "headers": [
         {
-            "name": "Host",
-            "value": "api.azumio.com"
+            "name": "user-agent",
+            "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
         },
         {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
+            "name": "accept",
+            "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
         },
         {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
+            "name": "accept-language",
+            "value": "it-it"
         },
         {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:55.053+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
         }
     ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
+    "headersSize": 295,
+    "httpVersion": "HTTP/2.0",
     "method": "GET",
     "queryString": [
         {
-            "name": "limit",
-            "value": "5"
+            "name": "sdk",
+            "value": "afma-sdk-i-v7.58.0"
         }
     ],
-    "url": "https://api.azumio.com/v2/page?limit=5"
+    "url": "https://googleads.g.doubleclick.net/mads/static/sdk/native/sdk-core-v40.html?sdk=afma-sdk-i-v7.58.0"
 }
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 156: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -9757,115 +5921,43 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 157: PHONE_NAME, 
 
 {
     "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
+    "cookies": [],
     "headers": [
         {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:55.335+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
+            "name": "accept",
             "value": "*/*"
         },
         {
-            "name": "Accept-Encoding",
-            "value": "gzip"
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
         },
         {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [
+            "name": "user-agent",
+            "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+        },
         {
-            "name": "limit",
-            "value": "5"
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "referer",
+            "value": "https://googleads.g.doubleclick.net/mads/static/sdk/native/sdk-core-v40.html?sdk=afma-sdk-i-v7.58.0"
         }
     ],
-    "url": "https://api.azumio.com/v2/page?limit=5"
+    "headersSize": 353,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [],
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.js"
 }
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 160: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -9973,115 +6065,137 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 161: PHONE_NAME, 
 
 {
     "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
+    "cookies": [],
     "headers": [
         {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:29:55.618+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
+            "name": "accept",
             "value": "*/*"
         },
         {
-            "name": "Accept-Encoding",
-            "value": "gzip"
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
         },
         {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [
+            "name": "user-agent",
+            "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+        },
         {
-            "name": "limit",
-            "value": "5"
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "referer",
+            "value": "https://googleads.g.doubleclick.net/mads/static/sdk/native/sdk-core-v40.html?sdk=afma-sdk-i-v7.58.0"
         }
     ],
-    "url": "https://api.azumio.com/v2/page?limit=5"
+    "headersSize": 353,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [],
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.appcache"
 }
 
 ####################################
 
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 162: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "referer",
+            "value": "https://googleads.g.doubleclick.net/mads/static/sdk/native/sdk-core-v40.html?sdk=afma-sdk-i-v7.58.0"
+        }
+    ],
+    "headersSize": 353,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "n",
+            "value": "true"
+        },
+        {
+            "name": "lv",
+            "value": "sdk_20190107_RC02"
+        }
+    ],
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.js?n=true&lv=sdk_20190107_RC02"
+}
+
+####################################
+
+Ho trovato nella richiesta 163: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "user-agent",
+            "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "referer",
+            "value": "https://googleads.g.doubleclick.net/mads/static/sdk/native/sdk-core-v40.html?sdk=afma-sdk-i-v7.58.0"
+        }
+    ],
+    "headersSize": 353,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "app_name",
+            "value": "com.skyhealth.fitnessbuddyfree"
+        },
+        {
+            "name": "client",
+            "value": "ca-app-pub-1111111111111111"
+        },
+        {
+            "name": "admob_appcc",
+            "value": "1111111111"
+        }
+    ],
+    "url": "https://googleads.g.doubleclick.net/getconfig/pubsetting?app_name=com.skyhealth.fitnessbuddyfree&client=ca-app-pub-1111111111111111&admob_appcc=1111111111"
+}
+
+####################################
+
+Ho trovato nella richiesta 164: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 951,
@@ -10159,7 +6273,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 166: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -10262,110 +6376,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:02.094+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/users/30736769700"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 167: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -10468,110 +6479,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:04.852+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/assets/com.fitnessbuddy.premium"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 168: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 875,
@@ -10620,7 +6528,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 175: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -10723,110 +6631,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:12.882+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/helix/orderstatus"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 176: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -10929,110 +6734,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:12.875+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/data/custom_workout"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 177: PHONE_NAME, 
 
 {
     "bodySize": 446,
@@ -11085,7 +6787,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 178: PHONE_NAME, 
 
 {
     "bodySize": 545,
@@ -11206,128 +6908,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 545,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:19.508+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "545"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 960,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "json",
-                "value": "{\"start\":1606141819409,\"met\":5,\"version\":2,\"timestamp\":1606141819409,\"remoteid\":\"CFFF53E6-B76A-48AC-A8C3-6D9D3A0D224F\",\"type\":\"activity\",\"user_id\":\"30736769700\",\"live\":true,\"end\":1606141819409,\"timezone\":1,\"exercises\":[{\"exercise_name\":\"Barbell Push Press\",\"exercise_id\":\"234\",\"exercise_type\":\"builtin_exercise\",\"sets\":[{\"draft\":true}]}],\"subtype\":\"workout\"}"
-            }
-        ],
-        "text": "json=%7B%22start%22%3A1606141819409%2C%22met%22%3A5%2C%22version%22%3A2%2C%22timestamp%22%3A1606141819409%2C%22remoteid%22%3A%22CFFF53E6-B76A-48AC-A8C3-6D9D3A0D224F%22%2C%22type%22%3A%22activity%22%2C%22user_id%22%3A%2230736769700%22%2C%22live%22%3Atrue%2C%22end%22%3A1606141819409%2C%22timezone%22%3A1%2C%22exercises%22%3A%5B%7B%22exercise_name%22%3A%22Barbell%20Push%20Press%22%2C%22exercise_id%22%3A%22234%22%2C%22exercise_type%22%3A%22builtin_exercise%22%2C%22sets%22%3A%5B%7B%22draft%22%3Atrue%7D%5D%7D%5D%2C%22subtype%22%3A%22workout%22%7D"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 179: PHONE_NAME, 
 
 {
     "bodySize": 1160,
@@ -11448,128 +7029,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 1160,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:20.268+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "1160"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 961,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "json",
-                "value": "{\"id\":\"30779859983\",\"source_breakdown\":[{\"remoteid\":\"26C56B52-8DBE-4D76-B515-D1CB2D168BCB\",\"simpleType\":\"activity-workout\",\"activeMinutes\":1.3333333333333333,\"id\":\"30767983707\"},{\"remoteid\":\"8FEA06F4-A780-4D38-9896-450E947F9D96\",\"simpleType\":\"activity-workout\",\"activeMinutes\":0.66666666666666674,\"id\":\"30762812925\"},{\"remoteid\":\"CFFF53E6-B76A-48AC-A8C3-6D9D3A0D224F\",\"simpleType\":\"activity-workout\",\"activeMinutes\":0}],\"basalCalories\":1890.0000000000002,\"calories\":1900.5,\"version\":109,\"modified\":1606141780329,\"timestamp\":1606141821726,\"user_id\":\"30736769700\",\"remoteid\":\"30736769700-calories-18589\",\"type\":\"calories\",\"live\":false,\"value\":1900.5,\"activeCalories\":10.499999999999773,\"calorie_breakdown\":[{\"activeMinutes\":2,\"value\":10.5,\"type\":\"activity\",\"subtype\":\"workout\",\"duration\":3}],\"timezone\":1,\"activeMinutes\":2}"
-            }
-        ],
-        "text": "json=%7B%22id%22%3A%2230779859983%22%2C%22source_breakdown%22%3A%5B%7B%22remoteid%22%3A%2226C56B52-8DBE-4D76-B515-D1CB2D168BCB%22%2C%22simpleType%22%3A%22activity-workout%22%2C%22activeMinutes%22%3A1.3333333333333333%2C%22id%22%3A%2230767983707%22%7D%2C%7B%22remoteid%22%3A%228FEA06F4-A780-4D38-9896-450E947F9D96%22%2C%22simpleType%22%3A%22activity-workout%22%2C%22activeMinutes%22%3A0.66666666666666674%2C%22id%22%3A%2230762812925%22%7D%2C%7B%22remoteid%22%3A%22CFFF53E6-B76A-48AC-A8C3-6D9D3A0D224F%22%2C%22simpleType%22%3A%22activity-workout%22%2C%22activeMinutes%22%3A0%7D%5D%2C%22basalCalories%22%3A1890.0000000000002%2C%22calories%22%3A1900.5%2C%22version%22%3A109%2C%22modified%22%3A1606141780329%2C%22timestamp%22%3A1606141821726%2C%22user_id%22%3A%2230736769700%22%2C%22remoteid%22%3A%2230736769700-calories-18589%22%2C%22type%22%3A%22calories%22%2C%22live%22%3Afalse%2C%22value%22%3A1900.5%2C%22activeCalories%22%3A10.499999999999773%2C%22calorie_breakdown%22%3A%5B%7B%22activeMinutes%22%3A2%2C%22value%22%3A10.5%2C%22type%22%3A%22activity%22%2C%22subtype%22%3A%22workout%22%2C%22duration%22%3A3%7D%5D%2C%22timezone%22%3A1%2C%22activeMinutes%22%3A2%7D"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins"
-}
-
-####################################
-
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 180: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 975,
@@ -11647,7 +7107,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 181: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1588,
@@ -11696,7 +7156,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 182: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -11799,110 +7259,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:27.878+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/connect"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 185: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -12005,110 +7362,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:32.526+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/helix/orderstatus"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 186: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -12211,110 +7465,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:32.519+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/data/custom_workout"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 190: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1329,
@@ -12363,7 +7514,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 191: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1038,
@@ -12441,7 +7592,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 192: PHONE_NAME, 
 
 {
     "bodySize": 593,
@@ -12562,128 +7713,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 593,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:42.600+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "593"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 960,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "json",
-                "value": "{\"met\":5,\"modified\":1606141819686,\"subtype\":\"workout\",\"live\":false,\"paused\":true,\"user_id\":\"30736769700\",\"duration\":22,\"calories\":2.1875,\"activeDuration\":20,\"version\":28,\"type\":\"activity\",\"remoteid\":\"CFFF53E6-B76A-48AC-A8C3-6D9D3A0D224F\",\"id\":\"30754102644\",\"timestamp\":1606141843736,\"TotalExercisesInWorkout\":2,\"end\":1606141841733,\"timezone\":1,\"start\":1606141819733,\"pauses\":[20000],\"exercises\":[]}"
-            }
-        ],
-        "text": "json=%7B%22met%22%3A5%2C%22modified%22%3A1606141819686%2C%22subtype%22%3A%22workout%22%2C%22live%22%3Afalse%2C%22paused%22%3Atrue%2C%22user_id%22%3A%2230736769700%22%2C%22duration%22%3A22%2C%22calories%22%3A2.1875%2C%22activeDuration%22%3A20%2C%22version%22%3A28%2C%22type%22%3A%22activity%22%2C%22remoteid%22%3A%22CFFF53E6-B76A-48AC-A8C3-6D9D3A0D224F%22%2C%22id%22%3A%2230754102644%22%2C%22timestamp%22%3A1606141843736%2C%22TotalExercisesInWorkout%22%3A2%2C%22end%22%3A1606141841733%2C%22timezone%22%3A1%2C%22start%22%3A1606141819733%2C%22pauses%22%3A%5B20000%5D%2C%22exercises%22%3A%5B%5D%7D"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 193: PHONE_NAME, 
 
 {
     "bodySize": 602,
@@ -12804,128 +7834,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 602,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:42.987+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "602"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 960,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "json",
-                "value": "{\"met\":5,\"modified\":1606141842799,\"subtype\":\"workout\",\"live\":false,\"paused\":false,\"user_id\":\"30736769700\",\"duration\":22,\"calories\":2.1875,\"activeDuration\":20,\"version\":29,\"type\":\"activity\",\"remoteid\":\"CFFF53E6-B76A-48AC-A8C3-6D9D3A0D224F\",\"id\":\"30754102644\",\"timestamp\":1606141842730,\"TotalExercisesInWorkout\":2,\"end\":1606141841733,\"timezone\":1,\"start\":1606141819733,\"pauses\":[20000,22000],\"exercises\":[]}"
-            }
-        ],
-        "text": "json=%7B%22met%22%3A5%2C%22modified%22%3A1606141842799%2C%22subtype%22%3A%22workout%22%2C%22live%22%3Afalse%2C%22paused%22%3Afalse%2C%22user_id%22%3A%2230736769700%22%2C%22duration%22%3A22%2C%22calories%22%3A2.1875%2C%22activeDuration%22%3A20%2C%22version%22%3A29%2C%22type%22%3A%22activity%22%2C%22remoteid%22%3A%22CFFF53E6-B76A-48AC-A8C3-6D9D3A0D224F%22%2C%22id%22%3A%2230754102644%22%2C%22timestamp%22%3A1606141842730%2C%22TotalExercisesInWorkout%22%3A2%2C%22end%22%3A1606141841733%2C%22timezone%22%3A1%2C%22start%22%3A1606141819733%2C%22pauses%22%3A%5B20000%2C22000%5D%2C%22exercises%22%3A%5B%5D%7D"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 194: PHONE_NAME, 
 
 {
     "bodySize": 279,
@@ -12978,7 +7887,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 195: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -13081,110 +7990,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:43.245+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins/30754102644/comments,likes/comments"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 196: PHONE_NAME, 
 
 {
     "bodySize": 1217,
@@ -13305,128 +8111,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 1217,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:43.311+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "1217"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/x-www-form-urlencoded"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 961,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/x-www-form-urlencoded",
-        "params": [
-            {
-                "name": "json",
-                "value": "{\"id\":\"30779859983\",\"source_breakdown\":[{\"remoteid\":\"26C56B52-8DBE-4D76-B515-D1CB2D168BCB\",\"simpleType\":\"activity-workout\",\"activeMinutes\":1.3333333333333333,\"id\":\"30767983707\"},{\"remoteid\":\"8FEA06F4-A780-4D38-9896-450E947F9D96\",\"simpleType\":\"activity-workout\",\"activeMinutes\":0.66666666666666674,\"id\":\"30762812925\"},{\"remoteid\":\"CFFF53E6-B76A-48AC-A8C3-6D9D3A0D224F\",\"simpleType\":\"activity-workout\",\"activeMinutes\":0.5,\"id\":\"30754102644\"}],\"basalCalories\":1890.0000000000002,\"calories\":1902.6875,\"version\":134,\"modified\":1606141820446,\"timestamp\":1606141842720,\"user_id\":\"30736769700\",\"remoteid\":\"30736769700-calories-18589\",\"type\":\"calories\",\"live\":false,\"value\":1902.6875,\"activeCalories\":12.687499999999773,\"calorie_breakdown\":[{\"activeMinutes\":2.5,\"value\":12.687499999999998,\"type\":\"activity\",\"subtype\":\"workout\",\"duration\":4}],\"timezone\":1,\"activeMinutes\":2.5}"
-            }
-        ],
-        "text": "json=%7B%22id%22%3A%2230779859983%22%2C%22source_breakdown%22%3A%5B%7B%22remoteid%22%3A%2226C56B52-8DBE-4D76-B515-D1CB2D168BCB%22%2C%22simpleType%22%3A%22activity-workout%22%2C%22activeMinutes%22%3A1.3333333333333333%2C%22id%22%3A%2230767983707%22%7D%2C%7B%22remoteid%22%3A%228FEA06F4-A780-4D38-9896-450E947F9D96%22%2C%22simpleType%22%3A%22activity-workout%22%2C%22activeMinutes%22%3A0.66666666666666674%2C%22id%22%3A%2230762812925%22%7D%2C%7B%22remoteid%22%3A%22CFFF53E6-B76A-48AC-A8C3-6D9D3A0D224F%22%2C%22simpleType%22%3A%22activity-workout%22%2C%22activeMinutes%22%3A0.5%2C%22id%22%3A%2230754102644%22%7D%5D%2C%22basalCalories%22%3A1890.0000000000002%2C%22calories%22%3A1902.6875%2C%22version%22%3A134%2C%22modified%22%3A1606141820446%2C%22timestamp%22%3A1606141842720%2C%22user_id%22%3A%2230736769700%22%2C%22remoteid%22%3A%2230736769700-calories-18589%22%2C%22type%22%3A%22calories%22%2C%22live%22%3Afalse%2C%22value%22%3A1902.6875%2C%22activeCalories%22%3A12.687499999999773%2C%22calorie_breakdown%22%3A%5B%7B%22activeMinutes%22%3A2.5%2C%22value%22%3A12.687499999999998%2C%22type%22%3A%22activity%22%2C%22subtype%22%3A%22workout%22%2C%22duration%22%3A4%7D%5D%2C%22timezone%22%3A1%2C%22activeMinutes%22%3A2.5%7D"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/checkins"
-}
-
-####################################
-
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 197: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1424,
@@ -13504,7 +8189,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 199: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -13607,110 +8292,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:44.513+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        }
-    ],
-    "headersSize": 874,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/users/30736769700"
-}
-
-####################################
-
-Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 201: NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1262,
@@ -13788,7 +8370,7 @@ Ho trovato NOME_COGNOME, EMAIL, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 202: PHONE_NAME, 
 
 {
     "bodySize": 737,
@@ -13841,7 +8423,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato NOME_COGNOME, EMAIL, PESO, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 203: NOME_COGNOME, EMAIL, PESO, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1847,
@@ -13919,7 +8501,7 @@ Ho trovato NOME_COGNOME, EMAIL, PESO, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 204: PHONE_NAME, 
 
 {
     "bodySize": 736,
@@ -13964,7 +8546,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 205: PHONE_NAME, 
 
 {
     "bodySize": 13927,
@@ -14038,123 +8620,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 1544,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "oath_token_azumio",
-            "secure": false,
-            "value": "30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "api.azumio.com"
-        },
-        {
-            "name": "Cookie",
-            "value": "oath_token_azumio=30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Name",
-            "value": "iPhone di Emmanuel"
-        },
-        {
-            "name": "User-Agent",
-            "value": "gzip"
-        },
-        {
-            "name": "X-Local-Time",
-            "value": "2020-11-23T15:30:51.289+0100"
-        },
-        {
-            "name": "X-Advertising-ID",
-            "value": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-            "name": "X-Device-Model",
-            "value": "iPhone"
-        },
-        {
-            "name": "X-Timezone",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "X-System-Version",
-            "value": "14.2"
-        },
-        {
-            "name": "X-Client-ID",
-            "value": "com.skyhealth.fitnessbuddyfree"
-        },
-        {
-            "name": "X-Client-Version",
-            "value": "5.262.37538"
-        },
-        {
-            "name": "Content-Length",
-            "value": "1544"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Authorization",
-            "value": "OAuth 30736769700c5afd7794ce1130bf4bb238659465f58636b40c3"
-        },
-        {
-            "name": "X-Device-Hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "appsflyerid",
-            "value": "1606130150989-8286622"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Client-UUID",
-            "value": "5e436c5a6208e74734f9e4c98ab1fca2a82f0627"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "multipart/form-data; boundary=r219p200Ft967Lqmk3JK8364HLfJ2z"
-        },
-        {
-            "name": "X-Timezone-Offset",
-            "value": "1"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        }
-    ],
-    "headersSize": 988,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "multipart/form-data; boundary=r219p200Ft967Lqmk3JK8364HLfJ2z",
-        "params": [],
-        "text": "--r219p200Ft967Lqmk3JK8364HLfJ2z\r\nContent-Disposition: form-data; filename=\"eventsgzip\"; name=\"eventsgzip\"\r\nContent-Type: content/unknown\r\n\r\n\u001f\u008b\b\u0000\u0000\u0000\u0000\u0000\u0000\u0013\u00ddY\u00dbn\u00db8\u0010\u00fd\u0015A\u00c5\u0002\u00bb@lP\"\u00a9K\u00de\u00dc8i\u008aM\u001a\u00a3I\u00b6\u000f\u008bE@[\u00ac-T\u0016\u0005\u0092r\u00ea-\u00fa\u00ef;\u0094|\u0089R\u00cb5\u0095^\u00d2\u00d5\u008b\u001b\u0092\u00e2\u00cc\u009c93<T\u00ff\u00fe\u00e4\u00eat\u00ce\u0095f\u00f3\u00c2=\u00f6\u0002\u0014x\u00c4\u000b1\u00c1\u00d8;r\u0015W*\u0015\u00b9{\u00ecz\u00f0\u009c\u00fa\u0003LO\u0003\u0012\r\u0087\u00d8\u00a3\u00e8\u00c4=r\u00f9\u0082\u00e7\u001a\u00a63V\u00e6\u0093\u0019\f$\\\u00b34S\u00ee\u00f1'\u0018S\u00fa\u00b6\u00b8\u0081\u00cd\u00ddctT\u00fdy\u00c9\u00e7B.o\u0015\u009b\u009a\u00b1\u00cf\u009f\u008fZ\u008cS\u000f[\u0018/`\u00bb\u00de%oX\u00df\u00b7w`\u00b1\u00f7\u00e0nP\u0014Y:a\u001a\u0096;\u00d7\u009aI\u00dd\u008cr\u00ffBe~k\b\u00b6\u001e\u00f4!\u00bc(\u00a4`\u00e4c\u00c1%L\u00e6\u00fa.M*\u00afW\u0086\u0087\u00a5\u00ac\u00f6\u00a9\u0080S\u0013\u00c9\u00b9q\u00b5\n\u0011f\u00b9\u00e4\u00893f\u0093\u000fS)\u00ca<q\u008f\u00df\u00b3L\u00f1#w$\u00f9\"\u0015\u00a5r6o\u00bc\u0011\u00b9y\u00e7BL\u00a7\u00f0\u00cak\u0018\u00d2\u00b2\u00e4\u00156\u009b\u00cc\u0089i\u009a\u00bb\u0007 \u00b2\u001bL\u001f\u00b7\u0002\u001d\u0010b\u0003tQ8\u0017\u0015\u008b\u009ca\u00ed\u00f5\u0003\u0090E\u00c1s\b I%\u009f\u00e8l\u00b9#\u008c{!?\u0088R\u0017\u0019\u00eb\u001eL\u0088Pk0q\u0080,\u0082a\u00ff\u008e\u0017L\u00a6,\u00d7=V\u0014w\u0090L.\u009b\u0011\u00ad\u00a6a\u00ed\u000b\u00b7\u0095\u00ab\u0014Q\u009b\"\u00ac\u00ea\u00e0]\r\u00843\u0002$\u009c^\u00f5\u00a3\u000e\u00ab\u008c\u0090 \u001bkoMP`\u00e1\nr\u00d3\u008c\u00edfY\u0000\u00df\u00dd\u00db\"\u0081%0\u00f5\u0096\u00abB\u00e4\u00ca\u008c\u00bd\u0012\"i\u008f7F\u0091\r\u00cak\u000f\u00cc\u00afS\u0015\u009d\u0090\u008f\u0088\u00d3\u009c\u00aa\u000b\u00a5\u00cd<\u00f1}\u0012\u00db\u00c2}\u00fa\u0091\u00cbI\u00aa\u00b83\u00ac\u008c\u001e\u00844\u0018\u00a2\u00d4\u00aa\u0007\u00ad\u00ad\\\u00a4c\u00c9\u00e4\u00f2\u00af\u0094\u00df7\u00e3<O\u0015D\u00b8\u00dc\u00b4\u0002\u00d3\u001d^\u0096Z\u008bU\u00c9\u007f}\u00b3W\u0092\u0015\u00b3\u00cd\u00fb;\u00fa\u0016\u00f1\u00fb\u0080\u008f\u001fG@\u0092\u0093\u0012\u00cc\u00cd7\u00ab\u00af\u00f4\u008c\u00cb;h}|*d\u00ca\u0095\u00e9<\u0003\u00d8\u00f3\u00b2T\u0093\u008c;\u008d\u0089\u0093\u0019\u00c0\u0001s/E\u00b2\u00bcd\u00c5f\u008f\u00c1\u00a4nx\u00a6Y\u00b9\u00a6\u0097\u00a5sp\u00een^mQ\u00b7Gw\u00c4'\u00ca\u00dd\u00db\"\u00bfL\u00c7\u0019[\u0080i\u00cd7\u0086\u00ac\u001ahK5\u00ad\u00cd\u00c0\n\u0013\u00c7=O\u00a73\u00ed\u00dc\u00f4F\u00a5\u009a\u0095\u0005,0%\u00e0\u0088\u00f7\u00ce\u0083\u0085C\u00a6\u00d9\u0098\u00c1?\u00dbiA\u0088oA\u000b\u00e8\u0085B&\u000e\u0003\u00e0\u0016\u00a9^6\t\u00b1\u001e\u00ed\u00ad\u001a#\u0098\u00d9g\u00d7\u0086\u008ekLz\u00bb\u008eC]\u00d7\u00fe\u008a[\u00fbb\rlj\u008dm\u00cf\u00d6wi\u0096AGI\u00a7\u00b9\u00a1\u00cc\u00e2Q\u00c1\u008f\u0099\u0086\u00f4B!\u00f4(\u00e9#\u00f3\u00e0\u00c8\u0003[\u00a1\u001f\u00c0\u00b1?\u00af\u00f4\u0007\u00b8A\u00fd>\u00c1A\u0088\u00836\u0007\u00a9\u0007U\u00fa\u00cb\u00d5(\u00f5\u00fa\u00c4\u008bb\u001a\u00c6O\u00aa\u00d1\u0081\u009c\u00ab\u008e%\u00faNB\u0094\u00ceY\u00c6?\n\u00f9\u0083k\u00f5\u00cb\u00fd\u001e\u0096)\u0093c\u009eeN\u00ed\u00dfI)\u00b3\u008eU\u001ab\u009f\u00da0\u00f7y\u0010#\u00c4}\u009fz!\n\u009f\u00d6\u00bc/\u00c4=\u009c\u00b8\u0086\u0017\u001d\u00e91\u0018'\u00e5D?3jl;\u00f8yZ8\u00b5\u008b\u00c6\u00a5\u008e\u0004\u00a18\u00b2\u00d1Q\u00dbv:b\u00a5\u00e2I\u0093\u001b[|0\u00b4\u00a3\u00f5\u00da\u00131/2^\u00dd4~\u00ff\u00ed\u000f\u00d8\u0004\u00f5Q\u00bbC1\u00f1\u00ace$\u00e4p\u001b\u00f5!\u00a2\u00c6X\u00b1\u00d2\u00fbw\u00ab`\fQ\u00e5 I\u001eG~\u00ce\u0081\u00c5\u0095\u00b6\u00ab\u00b8Q\u00f3\u0019\u0007\u00bb\u00cac\u00c8!\u00d3i\u00b1\u00e1\u00d1~\u001b\u00bb\u00ca#\u0086\u00be\u0089b\u00cf\b\u00e0\u00d1LhQm\u00f3\u00c2\u00a4\u009e\u00af@P\u00d5\u00d0:\u0001+\u0089{\u0006\u00fc\u00da\u00cf\u00e4G8>\u0091\u00b5\u0017b\u00b2\u00b5Q\u00b9\u00a7\u00b8V{\u00ae\u00d2&+a'2\u00ae(\u00c6\u00db\u0092\u00e2\u00d4p\u00ae\u00bd\u00bfi\u009e\u00fbG\r\u00e2\u00b6y\u0017!\u00e4\u00db\b\u00fe\u00fa\u0082s\u00f5\u00f6\u00cf\u00ab\u00db\u009b\u0083H\u0019\u0085\u00b6\u00a4\u00ac\u00a1v\u00ae\u00ab\u001c8\u00a6\u00bd>\u00e6\u00e5\u00f5\u008c\u00c9\u0007\u0081\u007f\u00f5\u00d5\u0091\u0080\u0003\u00e7\u00f5\u00b0ws\r\u00ab0\n\u0003?\u00f2\u00fc\u00d8\u00a7\u00bb\u0099\u0018A%\u00fb\u001e\u00a6\u00e05d\u00c0|\u001aP\u00ce\u00a2\u00de\u00aaaq\u000bo\u00f8\u0080m[l\u00ecT\u00ee\u00e6\u00b5\u00ca\u00d9\u0095\u0086\u00fbBB6.\u00dci\u00aeL\u00cbT\u001do\u00db1\r<ow\u00d6\"D\"\u00fb\u008bX\u00d7{o\u00e4\u00c58\u008e~\u00c0\u00b5\u000f\f\u0011dc\u00e8Y(\u0007\u00f0\u00ba\u000f\u00f8\u0084\u0006\u00a2'\b\u0087\u00eb\u0099(\u00b3\u0084\u00cb\u00ae\u00b2\u00f2L\u008a\\\u0003\u00d8\u0099\u0016f\u00e0\u00b9\u00dd\u0001W\u00e2\u00d2\\\u00ff\u001c\u00d8@\u00a9n\u00da\u00c1P$\u00fe\tW\u00c0\u00ca\u00ae\u00cdW\u00d1op\u0005\u008c0\r\u00f1/'\u00a4\u00c1\u00eb~\u0088q@\u009fT\r/\u00c1\u00af\u008e\u0085p\u00c1\u00f43\u00d5\u00ce'\u00b34\u00ef\u00fa\u00ed#\"\u0088\"\u001b2\u001c*\u009a}\u00d4M4G\u00c4\u00a7V\u00df\";\u0089\u00e6\u00ca\u008a\u00cd\u00fftt\u0013\u00cd\u00e6C\u00c6\u00b7\u0017\u00cd\u00e0|\u001f0B\u0001\u00f9\u009f\u0089\u00e6*+?[4\u00fb\u00ed\u00dea\u00cf\u009e\u0099\u0016\u00a29\"\u0014Y\u0092\u00f2\u00fb\u008bf\n\u00d73? \u00a4\u0085\u0089\u00b8\u000fg\u00186G\u00d8\u0081\u00a2\u00d9\u00fb\u00b1\u00a2y\u0017\u00ca1\u00b8\u00fd\u009d\u00bf\u0080\u00fa\u00fd\u00d8<\u0081\u0017Q\u008c\u00fc\u0010\u0093\u00ed\u0017P\u009f\u0090\u00beG\t\u000e\"T?\u00a0\r\u00fe\u00f9\u000f\u0011\u00f7\u00f3R\f\u001e\u0000\u0000\r\n--r219p200Ft967Lqmk3JK8364HLfJ2z--\r\n"
-    },
-    "queryString": [],
-    "url": "https://api.azumio.com/v2/events"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 206: PHONE_NAME, 
 
 {
     "bodySize": 1544,

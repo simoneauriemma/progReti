@@ -23,8 +23,10 @@ with open(input_file) as infile:
     # Recupero le entries (= richieste effettuate)
     json_entries = json_file["log"]["entries"]
 
+    app_name = input_file.split('/')[-1].split('.')[0].split('_')[0]
+
     # Creo la cartella di output
-    output_folder = './results'
+    output_folder = './results/' + app_name
     if not os.path.exists(output_folder):
         os.mkdir(output_folder)
 

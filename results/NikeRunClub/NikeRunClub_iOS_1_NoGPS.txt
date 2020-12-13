@@ -1,4 +1,65 @@
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 0: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "dpm.demdex.net"
+        },
+        {
+            "name": "Cache-Control",
+            "value": "no-cache"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (iPhone; CPU OS 14_2 like Mac OS X; it-IT)"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        }
+    ],
+    "headersSize": 275,
+    "httpVersion": "HTTP/1.1",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "d_ver",
+            "value": "2"
+        },
+        {
+            "name": "d_rtbd",
+            "value": "json"
+        },
+        {
+            "name": "d_orgid",
+            "value": "F0935E09512D2C270A490D4D@AdobeOrg"
+        },
+        {
+            "name": "d_mid",
+            "value": "76585460085912612604477904507610622824"
+        }
+    ],
+    "url": "https://dpm.demdex.net/id?d_ver=2&d_rtbd=json&d_orgid=F0935E09512D2C270A490D4D@AdobeOrg&d_mid=76585460085912612604477904507610622824"
+}
+
+####################################
+
+Ho trovato nella richiesta 1: PHONE_NAME, 
 
 {
     "bodySize": 202,
@@ -67,7 +128,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 3: PHONE_NAME, 
 
 {
     "bodySize": 1641,
@@ -144,7 +205,127 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 4: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [
+        {
+            "httpOnly": false,
+            "name": "demdex",
+            "secure": false,
+            "value": "71638341900799445593965177946994528843"
+        }
+    ],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "dpm.demdex.net"
+        },
+        {
+            "name": "X-NewRelic-ID",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "Cookie",
+            "value": "demdex=71638341900799445593965177946994528843"
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (iPhone; CPU OS 14_2 like Mac OS X; it-IT)"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "Cache-Control",
+            "value": "no-cache"
+        }
+    ],
+    "headersSize": 387,
+    "httpVersion": "HTTP/1.1",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "d_ver",
+            "value": "2"
+        },
+        {
+            "name": "d_rtbd",
+            "value": "json"
+        },
+        {
+            "name": "d_orgid",
+            "value": "F0935E09512D2C270A490D4D@AdobeOrg"
+        },
+        {
+            "name": "d_mid",
+            "value": "76585460085912612604477904507610622824"
+        },
+        {
+            "name": "d_blob",
+            "value": "j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI"
+        },
+        {
+            "name": "dcs_region",
+            "value": "6"
+        }
+    ],
+    "url": "https://dpm.demdex.net/id?d_ver=2&d_rtbd=json&d_orgid=F0935E09512D2C270A490D4D@AdobeOrg&d_mid=76585460085912612604477904507610622824&d_blob=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&dcs_region=6"
+}
+
+####################################
+
+Ho trovato nella richiesta 6: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "x-newrelic-id",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "user-agent",
+            "value": "Mozilla/5.0 (iPhone; CPU OS 14_2 like Mac OS X; it-IT)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 229,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [],
+    "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-56216e423863300014001064.json"
+}
+
+####################################
+
+Ho trovato nella richiesta 7: PHONE_NAME, 
 
 {
     "bodySize": 899,
@@ -197,7 +378,43 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 8: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "x-newrelic-id",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "user-agent",
+            "value": "Mozilla/5.0 (iPhone; CPU OS 14_2 like Mac OS X; it-IT)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 229,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [],
+    "url": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-56216e466534620014000af2.json"
+}
+
+####################################
+
+Ho trovato nella richiesta 11: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -242,7 +459,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 12: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 421,
@@ -295,7 +512,56 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 14: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "x-newrelic-id",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "user-agent",
+            "value": "NikeRunClub 7.0.0 (iPhone; iOS 14.2; UALib 14.0.0-beta1; 50qSnrSkSjKBW-di6KtsoA; it_IT)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip;q=1.0, compress;q=0.5"
+        }
+    ],
+    "headersSize": 271,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "sdk_version",
+            "value": "14.0.0-beta1"
+        },
+        {
+            "name": "language",
+            "value": "it"
+        },
+        {
+            "name": "country",
+            "value": "IT"
+        }
+    ],
+    "url": "https://remote-data.urbanairship.com/api/remote-data/app/50qSnrSkSjKBW-di6KtsoA/ios?sdk_version=14.0.0-beta1&language=it&country=IT"
+}
+
+####################################
+
+Ho trovato nella richiesta 15: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -343,7 +609,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 16: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -396,7 +662,60 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 18: PHONE_NAME, 
+
+{
+    "bodySize": 65,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "application/vnd.urbanairship+json; version=3;"
+        },
+        {
+            "name": "content-type",
+            "value": "application/json"
+        },
+        {
+            "name": "x-newrelic-id",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip;q=1.0, compress;q=0.5"
+        },
+        {
+            "name": "content-length",
+            "value": "65"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "user-agent",
+            "value": "NikeRunClub 7.0.0 (iPhone; iOS 14.2; UALib 14.0.0-beta1; 50qSnrSkSjKBW-di6KtsoA; it_IT)"
+        },
+        {
+            "name": "authorization",
+            "value": "Basic eUdoUDhXTldSOVN1QXBOSjJ1VUFiUTp0Z0MyUHNITlR1eVlKQUZWeFpUTUxR"
+        }
+    ],
+    "headersSize": 472,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/json",
+        "params": [],
+        "text": "{\"ios_channels\":{\"add\":[\"2f77f3ef-2e8b-4caf-a242-d037afaa4f24\"]}}"
+    },
+    "queryString": [],
+    "url": "https://device-api.urbanairship.com/api/user/yGhP8WNWR9SuApNJ2uUAbQ/"
+}
+
+####################################
+
+Ho trovato nella richiesta 21: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -457,7 +776,56 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 22: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "x-newrelic-id",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "cache-control",
+            "value": "no-cache"
+        },
+        {
+            "name": "user-agent",
+            "value": "Mozilla/5.0 (iPhone; CPU OS 14_2 like Mac OS X; it-IT)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br"
+        }
+    ],
+    "headersSize": 262,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "mid",
+            "value": "76585460085912612604477904507610622824"
+        },
+        {
+            "name": "mcorgid",
+            "value": "F0935E09512D2C270A490D4D@AdobeOrg"
+        }
+    ],
+    "url": "https://nike.sc.omtrdc.net/id?mid=76585460085912612604477904507610622824&mcorgid=F0935E09512D2C270A490D4D@AdobeOrg"
+}
+
+####################################
+
+Ho trovato nella richiesta 25: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -501,7 +869,108 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 27: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "Host",
+            "value": "c00.adobe.com"
+        },
+        {
+            "name": "X-NewRelic-ID",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (iPhone; CPU OS 14_2 like Mac OS X; it-IT)"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "it-it"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        },
+        {
+            "name": "Cache-Control",
+            "value": "no-cache"
+        }
+    ],
+    "headersSize": 323,
+    "httpVersion": "HTTP/1.1",
+    "method": "GET",
+    "queryString": [],
+    "url": "https://c00.adobe.com/v3/4ca994a5-701a-4b8a-858c-1711ba57eb5d/end"
+}
+
+####################################
+
+Ho trovato nella richiesta 32: PHONE_NAME, 
+
+{
+    "bodySize": 124,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "application/vnd.urbanairship+json; version=3;"
+        },
+        {
+            "name": "content-type",
+            "value": "application/json"
+        },
+        {
+            "name": "x-newrelic-id",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip;q=1.0, compress;q=0.5"
+        },
+        {
+            "name": "content-length",
+            "value": "124"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "user-agent",
+            "value": "NikeRunClub 7.0.0 (iPhone; iOS 14.2; UALib 14.0.0-beta1; 50qSnrSkSjKBW-di6KtsoA; it_IT)"
+        },
+        {
+            "name": "authorization",
+            "value": "Basic NTBxU25yU2tTaktCVy1kaTZLdHNvQTpxZHJsZXh3VlRIQ1lTUnVsOGk2d2ln"
+        }
+    ],
+    "headersSize": 473,
+    "httpVersion": "HTTP/2.0",
+    "method": "POST",
+    "postData": {
+        "mimeType": "application/json",
+        "params": [],
+        "text": "{\"device_type\":\"ios\",\"channel_id\":\"2f77f3ef-2e8b-4caf-a242-d037afaa4f24\",\"named_user_id\":\"97213ef1995a49bc9f9c1c965d2d81ab\"}"
+    },
+    "queryString": [],
+    "url": "https://device-api.urbanairship.com/api/named_users/associate"
+}
+
+####################################
+
+Ho trovato nella richiesta 34: PHONE_NAME, 
 
 {
     "bodySize": 6802,
@@ -695,395 +1164,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 6802,
-    "cookies": [],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "sdk-api-v1.singular.net"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/json"
-        },
-        {
-            "name": "X-NewRelic-ID",
-            "value": "VQYGVF5SCBADXVFaDgkOXg=="
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "User-Agent",
-            "value": "NikeRunClub/2011120430 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it-it"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "Content-Length",
-            "value": "6802"
-        }
-    ],
-    "headersSize": 354,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"payload\":\"{\\\"install_receipt\\\":\\\"MIIStgYJKoZIhvcNAQcCoIISpzCCEqMCAQExCzAJBgUrDgMCGgUAMIICVwYJKoZIhvcNAQcBoIICSASCAkQxggJAMAoCARQCAQEEAgwAMAsCARkCAQEEAwIBAzAMAgEKAgEBBAQWAjQrMAwCAQsCAQEEBAICMukwDAIBDgIBAQQEAgIAojANAgENAgEBBAUCAwIjqDAOAgEBAgEBBAYCBBcc7PUwDgIBCQIBAQQGAgRQMjU2MA4CARACAQEEBgIEMftxrjAQAgEPAgEBBAgCBlZ4Kitr\\\\\\/DAUAgEAAgEBBAwMClByb2R1Y3Rpb24wFAIBAwIBAQQMDAoyMDExMTIwNDMwMBQCARMCAQEEDAwKMjAxMDEzMDAzMjAYAgEEAgECBBAvorFo42o1ky6fHdNNg8w\\\\\\/MBwCAQUCAQEEFOIu745daBPLzdtFeeh8cJoQyl7HMB4CAQgCAQEEFhYUMjAyMC0xMS0yM1QxMToxNToxOVowHgIBDAIBAQQWFhQyMDIwLTExLTIzVDExOjE1OjE5WjAeAgESAgEBBBYWFDIwMjAtMTEtMDhUMTY6Mzg6NTRaMB8CAQICAQEEFwwVY29tLm5pa2UubmlrZXBsdXMtZ3BzMFICAQYCAQEESkEDj23M\\\\\\/PPvIBwMNM93HPkhtVNtw3OqRhprmZjyJ07hS0S9BGLmapWMq+odPx251JK+mz9kfLh9phruObCGZF3S9mZqSC9KejPjMFsCAQcCAQEEU5OhyrFrp3ou5ZmUxCo99kGP8GQueT0ZngmufmjBwzEaf24gwXuCxdU0Q04fbrXveB80le3fmSOMPtUqI2Fn9FdxFysmA2iqIwWvr5fwcavRVCPtoIIOZTCCBXwwggRkoAMCAQICCA7rV4fnngmNMA0GCSqGSIb3DQEBBQUAMIGWMQswCQYDVQQGEwJVUzETMBEGA1UECgwKQXBwbGUgSW5jLjEsMCoGA1UECwwjQXBwbGUgV29ybGR3aWRlIERldmVsb3BlciBSZWxhdGlvbnMxRDBCBgNVBAMMO0FwcGxlIFdvcmxkd2lkZSBEZXZlbG9wZXIgUmVsYXRpb25zIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTE1MTExMzAyMTUwOVoXDTIzMDIwNzIxNDg0N1owgYkxNzA1BgNVBAMMLk1hYyBBcHAgU3RvcmUgYW5kIGlUdW5lcyBTdG9yZSBSZWNlaXB0IFNpZ25pbmcxLDAqBgNVBAsMI0FwcGxlIFdvcmxkd2lkZSBEZXZlbG9wZXIgUmVsYXRpb25zMRMwEQYDVQQKDApBcHBsZSBJbmMuMQswCQYDVQQGEwJVUzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKXPgf0looFb1oftI9ozHI7iI8ClxCbLPcaf7EoNVYb\\\\\\/pALXl8o5VG19f7JUGJ3ELFJxjmR7gs6JuknWCOW0iHHPP1tGLsbEHbgDqViiBD4heNXbt9COEo2DTFsqaDeTwvK9HsTSoQxKWFKrEuPt3R+YFZA1LcLMEsqNSIH3WHhUa+iMMTYfSgYMR1TzN5C4spKJfV+khUrhwJzguqS7gpdj9CuTwf0+b8rB9Typj1IawCUKdg7e\\\\\\/pn+\\\\\\/8Jr9VterHNRSQhWicxDkMyOgQLQoJe2XLGhaWmHkBBoJiY5uB0Qc7AKXcVz0N92O9gt2Yge4+wHz+KO0NP6JlWB7+IDSSMCAwEAAaOCAdcwggHTMD8GCCsGAQUFBwEBBDMwMTAvBggrBgEFBQcwAYYjaHR0cDovL29jc3AuYXBwbGUuY29tL29jc3AwMy13d2RyMDQwHQYDVR0OBBYEFJGknPzEdrefoIr0TfWPNl3tKwSFMAwGA1UdEwEB\\\\\\/wQCMAAwHwYDVR0jBBgwFoAUiCcXCam2GGCL7Ou69kdZxVJUo7cwggEeBgNVHSAEggEVMIIBETCCAQ0GCiqGSIb3Y2QFBgEwgf4wgcMGCCsGAQUFBwICMIG2DIGzUmVsaWFuY2Ugb24gdGhpcyBjZXJ0aWZpY2F0ZSBieSBhbnkgcGFydHkgYXNzdW1lcyBhY2NlcHRhbmNlIG9mIHRoZSB0aGVuIGFwcGxpY2FibGUgc3RhbmRhcmQgdGVybXMgYW5kIGNvbmRpdGlvbnMgb2YgdXNlLCBjZXJ0aWZpY2F0ZSBwb2xpY3kgYW5kIGNlcnRpZmljYXRpb24gcHJhY3RpY2Ugc3RhdGVtZW50cy4wNgYIKwYBBQUHAgEWKmh0dHA6Ly93d3cuYXBwbGUuY29tL2NlcnRpZmljYXRlYXV0aG9yaXR5LzAOBgNVHQ8BAf8EBAMCB4AwEAYKKoZIhvdjZAYLAQQCBQAwDQYJKoZIhvcNAQEFBQADggEBAA2mG9MuPeNbKwduQpZs0+iMQzCCX+Bc0Y2+vQ+9GvwlktuMhcOAWd\\\\\\/j4tcuBRSsDdu2uP78NS58y60Xa45\\\\\\/H+R3ubFnlbQTXqYZhnb4WiCV52OMD3P86O3GH66Z+GVIXKDgKDrAEDctuaAEOR9zucgF\\\\\\/fLefxoqKm4rAfygIFzZ630npjP49ZjgvkTbsUxn\\\\\\/G4KT8niBqjSl\\\\\\/OnjmtRolqEdWXRFgRi48Ff9Qipz2jZkgDJwYyz+I0AZLpYYMB8r491ymm5WyrWHWhumEL1TKc3GZvMOxx6GUPzo22\\\\\\/SGAGDDaSK+zeGLUR2i0j0I78oGmcFxuegHs5R0UwYS\\\\\\/HE6gwggQiMIIDCqADAgECAggB3rzEOW2gEDANBgkqhkiG9w0BAQUFADBiMQswCQYDVQQGEwJVUzETMBEGA1UEChMKQXBwbGUgSW5jLjEmMCQGA1UECxMdQXBwbGUgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkxFjAUBgNVBAMTDUFwcGxlIFJvb3QgQ0EwHhcNMTMwMjA3MjE0ODQ3WhcNMjMwMjA3MjE0ODQ3WjCBljELMAkGA1UEBhMCVVMxEzARBgNVBAoMCkFwcGxlIEluYy4xLDAqBgNVBAsMI0FwcGxlIFdvcmxkd2lkZSBEZXZlbG9wZXIgUmVsYXRpb25zMUQwQgYDVQQDDDtBcHBsZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9ucyBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMo4VKbLVqrIJDlI6Yzu7F+4fyaRvDRTes58Y4Bhd2RepQcjtjn+UC0VVlhwLX7EbsFKhT4v8N6EGqFXya97GP9q+hUSSRUIGayq2yoy7ZZjaFIVPYyK7L9rGJXgA6wBfZcFZ84OhZU3au0Jtq5nzVFkn8Zc0bxXbmc1gHY2pIeBbjiP2CsVTnsl2Fq\\\\\\/ToPBjdKT1RpxtWCcnTNOVfkSWAyGuBYNweV3RY1QSLorLeSUheHoxJ3GaKWwo\\\\\\/xnfnC6AllLd0KRObn1zeFM78A7SIym5SFd\\\\\\/Wpqu6cWNWDS5q3zRinJ6MOL6XnAamFnFbLw\\\\\\/eVovGJfbs+Z3e8bY\\\\\\/6SZasCAwEAAaOBpjCBozAdBgNVHQ4EFgQUiCcXCam2GGCL7Ou69kdZxVJUo7cwDwYDVR0TAQH\\\\\\/BAUwAwEB\\\\\\/zAfBgNVHSMEGDAWgBQr0GlHlHYJ\\\\\\/vRrjS5ApvdHTX8IXjAuBgNVHR8EJzAlMCOgIaAfhh1odHRwOi8vY3JsLmFwcGxlLmNvbS9yb290LmNybDAOBgNVHQ8BAf8EBAMCAYYwEAYKKoZIhvdjZAYCAQQCBQAwDQYJKoZIhvcNAQEFBQADggEBAE\\\\\\/P71m+LPWybC+P7hOHMugFNahui33JaQy52Re8dyzUZ+L9mm06WVzfgwG9sq4qYXKxr83DRTCPo4MNzh1HtPGTiqN0m6TDmHKHOz6vRQuSVLkyu5AYU2sKThC22R1QbCGAColOV4xrWzw9pv3e9w0jHQtKJoc\\\\\\/upGSTKQZEhltV\\\\\\/V6WId7aIrkhoxK6+JJFKql3VUAqa67SzCu4aCxvCmA5gl35b40ogHKf9ziCuY7uLvsumKV8wVjQYLNDzsdTJWk26v5yZXpT+RN5yaZgem8+bQp0gF6ZuEujPYhisX4eOGBrr\\\\\\/TkJ2prfOv\\\\\\/TgalmcwHFGlXOxxioK0bA8MFR8wggS7MIIDo6ADAgECAgECMA0GCSqGSIb3DQEBBQUAMGIxCzAJBgNVBAYTAlVTMRMwEQYDVQQKEwpBcHBsZSBJbmMuMSYwJAYDVQQLEx1BcHBsZSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTEWMBQGA1UEAxMNQXBwbGUgUm9vdCBDQTAeFw0wNjA0MjUyMTQwMzZaFw0zNTAyMDkyMTQwMzZaMGIxCzAJBgNVBAYTAlVTMRMwEQYDVQQKEwpBcHBsZSBJbmMuMSYwJAYDVQQLEx1BcHBsZSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTEWMBQGA1UEAxMNQXBwbGUgUm9vdCBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOSRqQkfkdseR1DrBe1eeYQt6zaiV0xV7IsZid75S2z1B6siMALoGD74UAnTf0GomPnRymacJGsR0KO75Bsqwx+VnnoMpEeLW9QWNzPLxA9NzhRp0ckZcvVdDtV\\\\\\/X5vyJQO6VY9NXQ3xZDUjFUsVWR2zlPf2nJ7PULrBWFBnjwi0IPfLrCwgb3C2PwEwjLdDzw+dPfMrSSgayP7OtbkO2V4c1ss9tTqt9A8OAJILsSEWLnTVPA3bYharo3GSR1NVwa8vQbP4++NwzeajTEV+H0xrUJZBicR0YgsQg0GHM4qBsTBY7FoEMoxos48d3mVz\\\\\\/2deZbxJ2HafMxRloXeUyS0CAwEAAaOCAXowggF2MA4GA1UdDwEB\\\\\\/wQEAwIBBjAPBgNVHRMBAf8EBTADAQH\\\\\\/MB0GA1UdDgQWBBQr0GlHlHYJ\\\\\\/vRrjS5ApvdHTX8IXjAfBgNVHSMEGDAWgBQr0GlHlHYJ\\\\\\/vRrjS5ApvdHTX8IXjCCAREGA1UdIASCAQgwggEEMIIBAAYJKoZIhvdjZAUBMIHyMCoGCCsGAQUFBwIBFh5odHRwczovL3d3dy5hcHBsZS5jb20vYXBwbGVjYS8wgcMGCCsGAQUFBwICMIG2GoGzUmVsaWFuY2Ugb24gdGhpcyBjZXJ0aWZpY2F0ZSBieSBhbnkgcGFydHkgYXNzdW1lcyBhY2NlcHRhbmNlIG9mIHRoZSB0aGVuIGFwcGxpY2FibGUgc3RhbmRhcmQgdGVybXMgYW5kIGNvbmRpdGlvbnMgb2YgdXNlLCBjZXJ0aWZpY2F0ZSBwb2xpY3kgYW5kIGNlcnRpZmljYXRpb24gcHJhY3RpY2Ugc3RhdGVtZW50cy4wDQYJKoZIhvcNAQEFBQADggEBAFw2mUwteLftjJvc83eb8nbSdzBPwR+Fg4UbmT1HN\\\\\\/Kpm0COLNSxkBLYvvRzm+7SZA\\\\\\/LeU802KI++Xj\\\\\\/a8gH7H05g4tTINM4xLG\\\\\\/mk8Ka\\\\\\/8r\\\\\\/FmnBQl8F0BWER5007eLIztHo9VvJOLr0bdw3w9F4SfK8W147ee1Fxeo3H4iNcol1dkP1mvUoiQjEfehrI9zgWDGG1sJL5Ky+ERI8GA4nhX1PSZnIIozavcNgs\\\\\\/e66Mv+VNqW2TAYzN39zoHLFbr2g8hDtq6cxlPtdk2f8GHVdmnmbkyQvvY1XGefqFStxu9k0IkEirHDx22TZxeY8hLgBdQqorV2uT80AkHN7B1dSExggHLMIIBxwIBATCBozCBljELMAkGA1UEBhMCVVMxEzARBgNVBAoMCkFwcGxlIEluYy4xLDAqBgNVBAsMI0FwcGxlIFdvcmxkd2lkZSBEZXZlbG9wZXIgUmVsYXRpb25zMUQwQgYDVQQDDDtBcHBsZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9ucyBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eQIIDutXh+eeCY0wCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASCAQAfkqMj\\\\\\/aS3Xkwh7bzIyayF0D0z0pD7bb\\\\\\/q9aVSM8TDa9bfIwW474YrnoRGzpnupytwUL\\\\\\/+hxxZA41TvSLJ3TBqqrPCGztb7Ng+zTfgC4bD4sDN7I5hB7LLVD859PBh8to38uCnYBIXZ99RZDrwYyxGw\\\\\\/A1mGC9Sn37+dj7NX\\\\\\/QfHcB+xMdMfToklG8E7EH2d\\\\\\/RhmRIVhl5v2AZd0FzYKQOBd8mMIw5zWwZA4TQ8lkLfKP071m90bsBI0ItxRI4azRNXUK+7G73\\\\\\/4hWyDfuJBXc+sTVi+hYc38PfvNT7TKDpbBv5VNspn1FeksfUaGaT2AIlzJTQvdsACWSRewfFWbu\\\",\\\"scs\\\":\\\"[\\\\\\\"fb84697719333\\\\\\\",\\\\\\\"nikeplusrunning-spotify\\\\\\\",\\\\\\\"nikerunclub\\\\\\\",\\\\\\\"com.nike.nikeplus-gps\\\\\\\",\\\\\\\"wxde7d0246cfaf32f7\\\\\\\"]\\\",\\\"global_properties\\\":\\\"{}\\\"}\",\"signature\":\"3b2298416bc13d0a08f8b0b49fe3ca9b2ad152ba\"}"
-    },
-    "queryString": [
-        {
-            "name": "ddl_to",
-            "value": "60"
-        },
-        {
-            "name": "update_time",
-            "value": "0"
-        },
-        {
-            "name": "sc",
-            "value": "wxde7d0246cfaf32f7"
-        },
-        {
-            "name": "c",
-            "value": "wifi"
-        },
-        {
-            "name": "d",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "rt",
-            "value": "plist"
-        },
-        {
-            "name": "lag",
-            "value": "0.92"
-        },
-        {
-            "name": "is",
-            "value": "true"
-        },
-        {
-            "name": "event_index",
-            "value": "3"
-        },
-        {
-            "name": "sdk",
-            "value": "Singular/10.1.2"
-        },
-        {
-            "name": "mo",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "ma",
-            "value": "Apple"
-        },
-        {
-            "name": "i",
-            "value": "com.nike.nikeplus-gps"
-        },
-        {
-            "name": "lc",
-            "value": "it_IT"
-        },
-        {
-            "name": "config_version",
-            "value": "0"
-        },
-        {
-            "name": "k",
-            "value": "IDFV"
-        },
-        {
-            "name": "cr",
-            "value": "1"
-        },
-        {
-            "name": "install_time",
-            "value": "1606130119"
-        },
-        {
-            "name": "n",
-            "value": "NikeRunClub"
-        },
-        {
-            "name": "av",
-            "value": "7.0.0"
-        },
-        {
-            "name": "skan_skadnetwork_enabled",
-            "value": "false"
-        },
-        {
-            "name": "p",
-            "value": "iOS"
-        },
-        {
-            "name": "idfv",
-            "value": "5A174F55-ABDC-48DC-9C17-F4D299846B1E"
-        },
-        {
-            "name": "att_authorization_status",
-            "value": "-1"
-        },
-        {
-            "name": "device_type",
-            "value": "phone"
-        },
-        {
-            "name": "tz",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "s",
-            "value": "6F4E9994-472C-48C3-86F5-F4A44AB33F86"
-        },
-        {
-            "name": "ddl_enabled",
-            "value": "true"
-        },
-        {
-            "name": "u",
-            "value": "5A174F55-ABDC-48DC-9C17-F4D299846B1E"
-        },
-        {
-            "name": "singular_install_id",
-            "value": "01F4CD8B-F311-4CE2-9433-756307578CAC"
-        },
-        {
-            "name": "v",
-            "value": "14.2"
-        },
-        {
-            "name": "a",
-            "value": "nike_prod_fd114306"
-        },
-        {
-            "name": "dnt",
-            "value": "1"
-        },
-        {
-            "name": "h",
-            "value": "8a6f0024ce77b803bdc2badb184fbeb440500f8d"
-        }
-    ],
-    "url": "https://sdk-api-v1.singular.net/api/v1/start?ddl_to=60&update_time=0&sc=wxde7d0246cfaf32f7&c=wifi&d=iPhone10%2C6&rt=plist&lag=0.92&is=true&event_index=3&sdk=Singular%2F10.1.2&mo=iPhone10%2C6&ma=Apple&i=com.nike.nikeplus-gps&lc=it_IT&config_version=0&k=IDFV&cr=1&install_time=1606130119&n=NikeRunClub&av=7.0.0&skan_skadnetwork_enabled=false&p=iOS&idfv=5A174F55-ABDC-48DC-9C17-F4D299846B1E&att_authorization_status=-1&device_type=phone&tz=Europe%2FRome&s=6F4E9994-472C-48C3-86F5-F4A44AB33F86&ddl_enabled=true&u=5A174F55-ABDC-48DC-9C17-F4D299846B1E&singular_install_id=01F4CD8B-F311-4CE2-9433-756307578CAC&v=14.2&a=nike_prod_fd114306&dnt=1&h=8a6f0024ce77b803bdc2badb184fbeb440500f8d"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 6802,
-    "cookies": [],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "sdk-api-v1.singular.net"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/json"
-        },
-        {
-            "name": "X-NewRelic-ID",
-            "value": "VQYGVF5SCBADXVFaDgkOXg=="
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "User-Agent",
-            "value": "NikeRunClub/2011120430 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it-it"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "Content-Length",
-            "value": "6802"
-        }
-    ],
-    "headersSize": 354,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"payload\":\"{\\\"install_receipt\\\":\\\"MIIStgYJKoZIhvcNAQcCoIISpzCCEqMCAQExCzAJBgUrDgMCGgUAMIICVwYJKoZIhvcNAQcBoIICSASCAkQxggJAMAoCARQCAQEEAgwAMAsCARkCAQEEAwIBAzAMAgEKAgEBBAQWAjQrMAwCAQsCAQEEBAICMukwDAIBDgIBAQQEAgIAojANAgENAgEBBAUCAwIjqDAOAgEBAgEBBAYCBBcc7PUwDgIBCQIBAQQGAgRQMjU2MA4CARACAQEEBgIEMftxrjAQAgEPAgEBBAgCBlZ4Kitr\\\\\\/DAUAgEAAgEBBAwMClByb2R1Y3Rpb24wFAIBAwIBAQQMDAoyMDExMTIwNDMwMBQCARMCAQEEDAwKMjAxMDEzMDAzMjAYAgEEAgECBBAvorFo42o1ky6fHdNNg8w\\\\\\/MBwCAQUCAQEEFOIu745daBPLzdtFeeh8cJoQyl7HMB4CAQgCAQEEFhYUMjAyMC0xMS0yM1QxMToxNToxOVowHgIBDAIBAQQWFhQyMDIwLTExLTIzVDExOjE1OjE5WjAeAgESAgEBBBYWFDIwMjAtMTEtMDhUMTY6Mzg6NTRaMB8CAQICAQEEFwwVY29tLm5pa2UubmlrZXBsdXMtZ3BzMFICAQYCAQEESkEDj23M\\\\\\/PPvIBwMNM93HPkhtVNtw3OqRhprmZjyJ07hS0S9BGLmapWMq+odPx251JK+mz9kfLh9phruObCGZF3S9mZqSC9KejPjMFsCAQcCAQEEU5OhyrFrp3ou5ZmUxCo99kGP8GQueT0ZngmufmjBwzEaf24gwXuCxdU0Q04fbrXveB80le3fmSOMPtUqI2Fn9FdxFysmA2iqIwWvr5fwcavRVCPtoIIOZTCCBXwwggRkoAMCAQICCA7rV4fnngmNMA0GCSqGSIb3DQEBBQUAMIGWMQswCQYDVQQGEwJVUzETMBEGA1UECgwKQXBwbGUgSW5jLjEsMCoGA1UECwwjQXBwbGUgV29ybGR3aWRlIERldmVsb3BlciBSZWxhdGlvbnMxRDBCBgNVBAMMO0FwcGxlIFdvcmxkd2lkZSBEZXZlbG9wZXIgUmVsYXRpb25zIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTE1MTExMzAyMTUwOVoXDTIzMDIwNzIxNDg0N1owgYkxNzA1BgNVBAMMLk1hYyBBcHAgU3RvcmUgYW5kIGlUdW5lcyBTdG9yZSBSZWNlaXB0IFNpZ25pbmcxLDAqBgNVBAsMI0FwcGxlIFdvcmxkd2lkZSBEZXZlbG9wZXIgUmVsYXRpb25zMRMwEQYDVQQKDApBcHBsZSBJbmMuMQswCQYDVQQGEwJVUzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKXPgf0looFb1oftI9ozHI7iI8ClxCbLPcaf7EoNVYb\\\\\\/pALXl8o5VG19f7JUGJ3ELFJxjmR7gs6JuknWCOW0iHHPP1tGLsbEHbgDqViiBD4heNXbt9COEo2DTFsqaDeTwvK9HsTSoQxKWFKrEuPt3R+YFZA1LcLMEsqNSIH3WHhUa+iMMTYfSgYMR1TzN5C4spKJfV+khUrhwJzguqS7gpdj9CuTwf0+b8rB9Typj1IawCUKdg7e\\\\\\/pn+\\\\\\/8Jr9VterHNRSQhWicxDkMyOgQLQoJe2XLGhaWmHkBBoJiY5uB0Qc7AKXcVz0N92O9gt2Yge4+wHz+KO0NP6JlWB7+IDSSMCAwEAAaOCAdcwggHTMD8GCCsGAQUFBwEBBDMwMTAvBggrBgEFBQcwAYYjaHR0cDovL29jc3AuYXBwbGUuY29tL29jc3AwMy13d2RyMDQwHQYDVR0OBBYEFJGknPzEdrefoIr0TfWPNl3tKwSFMAwGA1UdEwEB\\\\\\/wQCMAAwHwYDVR0jBBgwFoAUiCcXCam2GGCL7Ou69kdZxVJUo7cwggEeBgNVHSAEggEVMIIBETCCAQ0GCiqGSIb3Y2QFBgEwgf4wgcMGCCsGAQUFBwICMIG2DIGzUmVsaWFuY2Ugb24gdGhpcyBjZXJ0aWZpY2F0ZSBieSBhbnkgcGFydHkgYXNzdW1lcyBhY2NlcHRhbmNlIG9mIHRoZSB0aGVuIGFwcGxpY2FibGUgc3RhbmRhcmQgdGVybXMgYW5kIGNvbmRpdGlvbnMgb2YgdXNlLCBjZXJ0aWZpY2F0ZSBwb2xpY3kgYW5kIGNlcnRpZmljYXRpb24gcHJhY3RpY2Ugc3RhdGVtZW50cy4wNgYIKwYBBQUHAgEWKmh0dHA6Ly93d3cuYXBwbGUuY29tL2NlcnRpZmljYXRlYXV0aG9yaXR5LzAOBgNVHQ8BAf8EBAMCB4AwEAYKKoZIhvdjZAYLAQQCBQAwDQYJKoZIhvcNAQEFBQADggEBAA2mG9MuPeNbKwduQpZs0+iMQzCCX+Bc0Y2+vQ+9GvwlktuMhcOAWd\\\\\\/j4tcuBRSsDdu2uP78NS58y60Xa45\\\\\\/H+R3ubFnlbQTXqYZhnb4WiCV52OMD3P86O3GH66Z+GVIXKDgKDrAEDctuaAEOR9zucgF\\\\\\/fLefxoqKm4rAfygIFzZ630npjP49ZjgvkTbsUxn\\\\\\/G4KT8niBqjSl\\\\\\/OnjmtRolqEdWXRFgRi48Ff9Qipz2jZkgDJwYyz+I0AZLpYYMB8r491ymm5WyrWHWhumEL1TKc3GZvMOxx6GUPzo22\\\\\\/SGAGDDaSK+zeGLUR2i0j0I78oGmcFxuegHs5R0UwYS\\\\\\/HE6gwggQiMIIDCqADAgECAggB3rzEOW2gEDANBgkqhkiG9w0BAQUFADBiMQswCQYDVQQGEwJVUzETMBEGA1UEChMKQXBwbGUgSW5jLjEmMCQGA1UECxMdQXBwbGUgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkxFjAUBgNVBAMTDUFwcGxlIFJvb3QgQ0EwHhcNMTMwMjA3MjE0ODQ3WhcNMjMwMjA3MjE0ODQ3WjCBljELMAkGA1UEBhMCVVMxEzARBgNVBAoMCkFwcGxlIEluYy4xLDAqBgNVBAsMI0FwcGxlIFdvcmxkd2lkZSBEZXZlbG9wZXIgUmVsYXRpb25zMUQwQgYDVQQDDDtBcHBsZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9ucyBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMo4VKbLVqrIJDlI6Yzu7F+4fyaRvDRTes58Y4Bhd2RepQcjtjn+UC0VVlhwLX7EbsFKhT4v8N6EGqFXya97GP9q+hUSSRUIGayq2yoy7ZZjaFIVPYyK7L9rGJXgA6wBfZcFZ84OhZU3au0Jtq5nzVFkn8Zc0bxXbmc1gHY2pIeBbjiP2CsVTnsl2Fq\\\\\\/ToPBjdKT1RpxtWCcnTNOVfkSWAyGuBYNweV3RY1QSLorLeSUheHoxJ3GaKWwo\\\\\\/xnfnC6AllLd0KRObn1zeFM78A7SIym5SFd\\\\\\/Wpqu6cWNWDS5q3zRinJ6MOL6XnAamFnFbLw\\\\\\/eVovGJfbs+Z3e8bY\\\\\\/6SZasCAwEAAaOBpjCBozAdBgNVHQ4EFgQUiCcXCam2GGCL7Ou69kdZxVJUo7cwDwYDVR0TAQH\\\\\\/BAUwAwEB\\\\\\/zAfBgNVHSMEGDAWgBQr0GlHlHYJ\\\\\\/vRrjS5ApvdHTX8IXjAuBgNVHR8EJzAlMCOgIaAfhh1odHRwOi8vY3JsLmFwcGxlLmNvbS9yb290LmNybDAOBgNVHQ8BAf8EBAMCAYYwEAYKKoZIhvdjZAYCAQQCBQAwDQYJKoZIhvcNAQEFBQADggEBAE\\\\\\/P71m+LPWybC+P7hOHMugFNahui33JaQy52Re8dyzUZ+L9mm06WVzfgwG9sq4qYXKxr83DRTCPo4MNzh1HtPGTiqN0m6TDmHKHOz6vRQuSVLkyu5AYU2sKThC22R1QbCGAColOV4xrWzw9pv3e9w0jHQtKJoc\\\\\\/upGSTKQZEhltV\\\\\\/V6WId7aIrkhoxK6+JJFKql3VUAqa67SzCu4aCxvCmA5gl35b40ogHKf9ziCuY7uLvsumKV8wVjQYLNDzsdTJWk26v5yZXpT+RN5yaZgem8+bQp0gF6ZuEujPYhisX4eOGBrr\\\\\\/TkJ2prfOv\\\\\\/TgalmcwHFGlXOxxioK0bA8MFR8wggS7MIIDo6ADAgECAgECMA0GCSqGSIb3DQEBBQUAMGIxCzAJBgNVBAYTAlVTMRMwEQYDVQQKEwpBcHBsZSBJbmMuMSYwJAYDVQQLEx1BcHBsZSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTEWMBQGA1UEAxMNQXBwbGUgUm9vdCBDQTAeFw0wNjA0MjUyMTQwMzZaFw0zNTAyMDkyMTQwMzZaMGIxCzAJBgNVBAYTAlVTMRMwEQYDVQQKEwpBcHBsZSBJbmMuMSYwJAYDVQQLEx1BcHBsZSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTEWMBQGA1UEAxMNQXBwbGUgUm9vdCBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOSRqQkfkdseR1DrBe1eeYQt6zaiV0xV7IsZid75S2z1B6siMALoGD74UAnTf0GomPnRymacJGsR0KO75Bsqwx+VnnoMpEeLW9QWNzPLxA9NzhRp0ckZcvVdDtV\\\\\\/X5vyJQO6VY9NXQ3xZDUjFUsVWR2zlPf2nJ7PULrBWFBnjwi0IPfLrCwgb3C2PwEwjLdDzw+dPfMrSSgayP7OtbkO2V4c1ss9tTqt9A8OAJILsSEWLnTVPA3bYharo3GSR1NVwa8vQbP4++NwzeajTEV+H0xrUJZBicR0YgsQg0GHM4qBsTBY7FoEMoxos48d3mVz\\\\\\/2deZbxJ2HafMxRloXeUyS0CAwEAAaOCAXowggF2MA4GA1UdDwEB\\\\\\/wQEAwIBBjAPBgNVHRMBAf8EBTADAQH\\\\\\/MB0GA1UdDgQWBBQr0GlHlHYJ\\\\\\/vRrjS5ApvdHTX8IXjAfBgNVHSMEGDAWgBQr0GlHlHYJ\\\\\\/vRrjS5ApvdHTX8IXjCCAREGA1UdIASCAQgwggEEMIIBAAYJKoZIhvdjZAUBMIHyMCoGCCsGAQUFBwIBFh5odHRwczovL3d3dy5hcHBsZS5jb20vYXBwbGVjYS8wgcMGCCsGAQUFBwICMIG2GoGzUmVsaWFuY2Ugb24gdGhpcyBjZXJ0aWZpY2F0ZSBieSBhbnkgcGFydHkgYXNzdW1lcyBhY2NlcHRhbmNlIG9mIHRoZSB0aGVuIGFwcGxpY2FibGUgc3RhbmRhcmQgdGVybXMgYW5kIGNvbmRpdGlvbnMgb2YgdXNlLCBjZXJ0aWZpY2F0ZSBwb2xpY3kgYW5kIGNlcnRpZmljYXRpb24gcHJhY3RpY2Ugc3RhdGVtZW50cy4wDQYJKoZIhvcNAQEFBQADggEBAFw2mUwteLftjJvc83eb8nbSdzBPwR+Fg4UbmT1HN\\\\\\/Kpm0COLNSxkBLYvvRzm+7SZA\\\\\\/LeU802KI++Xj\\\\\\/a8gH7H05g4tTINM4xLG\\\\\\/mk8Ka\\\\\\/8r\\\\\\/FmnBQl8F0BWER5007eLIztHo9VvJOLr0bdw3w9F4SfK8W147ee1Fxeo3H4iNcol1dkP1mvUoiQjEfehrI9zgWDGG1sJL5Ky+ERI8GA4nhX1PSZnIIozavcNgs\\\\\\/e66Mv+VNqW2TAYzN39zoHLFbr2g8hDtq6cxlPtdk2f8GHVdmnmbkyQvvY1XGefqFStxu9k0IkEirHDx22TZxeY8hLgBdQqorV2uT80AkHN7B1dSExggHLMIIBxwIBATCBozCBljELMAkGA1UEBhMCVVMxEzARBgNVBAoMCkFwcGxlIEluYy4xLDAqBgNVBAsMI0FwcGxlIFdvcmxkd2lkZSBEZXZlbG9wZXIgUmVsYXRpb25zMUQwQgYDVQQDDDtBcHBsZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9ucyBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eQIIDutXh+eeCY0wCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASCAQAfkqMj\\\\\\/aS3Xkwh7bzIyayF0D0z0pD7bb\\\\\\/q9aVSM8TDa9bfIwW474YrnoRGzpnupytwUL\\\\\\/+hxxZA41TvSLJ3TBqqrPCGztb7Ng+zTfgC4bD4sDN7I5hB7LLVD859PBh8to38uCnYBIXZ99RZDrwYyxGw\\\\\\/A1mGC9Sn37+dj7NX\\\\\\/QfHcB+xMdMfToklG8E7EH2d\\\\\\/RhmRIVhl5v2AZd0FzYKQOBd8mMIw5zWwZA4TQ8lkLfKP071m90bsBI0ItxRI4azRNXUK+7G73\\\\\\/4hWyDfuJBXc+sTVi+hYc38PfvNT7TKDpbBv5VNspn1FeksfUaGaT2AIlzJTQvdsACWSRewfFWbu\\\",\\\"scs\\\":\\\"[\\\\\\\"fb84697719333\\\\\\\",\\\\\\\"nikeplusrunning-spotify\\\\\\\",\\\\\\\"nikerunclub\\\\\\\",\\\\\\\"com.nike.nikeplus-gps\\\\\\\",\\\\\\\"wxde7d0246cfaf32f7\\\\\\\"]\\\",\\\"global_properties\\\":\\\"{}\\\"}\",\"signature\":\"3b2298416bc13d0a08f8b0b49fe3ca9b2ad152ba\"}"
-    },
-    "queryString": [
-        {
-            "name": "ddl_to",
-            "value": "60"
-        },
-        {
-            "name": "update_time",
-            "value": "0"
-        },
-        {
-            "name": "sc",
-            "value": "wxde7d0246cfaf32f7"
-        },
-        {
-            "name": "c",
-            "value": "wifi"
-        },
-        {
-            "name": "d",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "rt",
-            "value": "plist"
-        },
-        {
-            "name": "lag",
-            "value": "0.92"
-        },
-        {
-            "name": "is",
-            "value": "true"
-        },
-        {
-            "name": "event_index",
-            "value": "3"
-        },
-        {
-            "name": "sdk",
-            "value": "Singular/10.1.2"
-        },
-        {
-            "name": "mo",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "ma",
-            "value": "Apple"
-        },
-        {
-            "name": "i",
-            "value": "com.nike.nikeplus-gps"
-        },
-        {
-            "name": "lc",
-            "value": "it_IT"
-        },
-        {
-            "name": "config_version",
-            "value": "0"
-        },
-        {
-            "name": "k",
-            "value": "IDFV"
-        },
-        {
-            "name": "cr",
-            "value": "1"
-        },
-        {
-            "name": "install_time",
-            "value": "1606130119"
-        },
-        {
-            "name": "n",
-            "value": "NikeRunClub"
-        },
-        {
-            "name": "av",
-            "value": "7.0.0"
-        },
-        {
-            "name": "skan_skadnetwork_enabled",
-            "value": "false"
-        },
-        {
-            "name": "p",
-            "value": "iOS"
-        },
-        {
-            "name": "idfv",
-            "value": "5A174F55-ABDC-48DC-9C17-F4D299846B1E"
-        },
-        {
-            "name": "att_authorization_status",
-            "value": "-1"
-        },
-        {
-            "name": "device_type",
-            "value": "phone"
-        },
-        {
-            "name": "tz",
-            "value": "Europe/Rome"
-        },
-        {
-            "name": "s",
-            "value": "6F4E9994-472C-48C3-86F5-F4A44AB33F86"
-        },
-        {
-            "name": "ddl_enabled",
-            "value": "true"
-        },
-        {
-            "name": "u",
-            "value": "5A174F55-ABDC-48DC-9C17-F4D299846B1E"
-        },
-        {
-            "name": "singular_install_id",
-            "value": "01F4CD8B-F311-4CE2-9433-756307578CAC"
-        },
-        {
-            "name": "v",
-            "value": "14.2"
-        },
-        {
-            "name": "a",
-            "value": "nike_prod_fd114306"
-        },
-        {
-            "name": "dnt",
-            "value": "1"
-        },
-        {
-            "name": "h",
-            "value": "8a6f0024ce77b803bdc2badb184fbeb440500f8d"
-        }
-    ],
-    "url": "https://sdk-api-v1.singular.net/api/v1/start?ddl_to=60&update_time=0&sc=wxde7d0246cfaf32f7&c=wifi&d=iPhone10%2C6&rt=plist&lag=0.92&is=true&event_index=3&sdk=Singular%2F10.1.2&mo=iPhone10%2C6&ma=Apple&i=com.nike.nikeplus-gps&lc=it_IT&config_version=0&k=IDFV&cr=1&install_time=1606130119&n=NikeRunClub&av=7.0.0&skan_skadnetwork_enabled=false&p=iOS&idfv=5A174F55-ABDC-48DC-9C17-F4D299846B1E&att_authorization_status=-1&device_type=phone&tz=Europe%2FRome&s=6F4E9994-472C-48C3-86F5-F4A44AB33F86&ddl_enabled=true&u=5A174F55-ABDC-48DC-9C17-F4D299846B1E&singular_install_id=01F4CD8B-F311-4CE2-9433-756307578CAC&v=14.2&a=nike_prod_fd114306&dnt=1&h=8a6f0024ce77b803bdc2badb184fbeb440500f8d"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 35: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 409,
@@ -1136,7 +1217,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 36: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1220,7 +1301,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 37: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1292,7 +1373,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 39: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1363,7 +1444,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 40: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1436,80 +1517,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "gspe35-ssl.ls.apple.com"
-        },
-        {
-            "name": "If-None-Match",
-            "value": "\"3b61baab069bfd32f555d72d9c96552f1349cbac\""
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "User-Agent",
-            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it-it"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        }
-    ],
-    "headersSize": 299,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "application",
-            "value": "geod"
-        },
-        {
-            "name": "application_version",
-            "value": "1"
-        },
-        {
-            "name": "country_code",
-            "value": "IT"
-        },
-        {
-            "name": "hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "os",
-            "value": "ios"
-        },
-        {
-            "name": "os_build",
-            "value": "18B92"
-        },
-        {
-            "name": "os_version",
-            "value": "14.2"
-        }
-    ],
-    "url": "https://gspe35-ssl.ls.apple.com/geo_manifest/dynamic/config?application=geod&application_version=1&country_code=IT&hardware=iPhone10,6&os=ios&os_build=18B92&os_version=14.2"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 41: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1558,56 +1566,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [],
-    "headers": [
-        {
-            "name": "accept",
-            "value": "*/*"
-        },
-        {
-            "name": "if-none-match",
-            "value": "\"bcd0a449a9eaaabd83260246b42473fb405bc794\""
-        },
-        {
-            "name": "user-agent",
-            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip, deflate, br"
-        }
-    ],
-    "headersSize": 228,
-    "httpVersion": "HTTP/2.0",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "os",
-            "value": "ios"
-        },
-        {
-            "name": "os_version",
-            "value": "14.2"
-        },
-        {
-            "name": "hardware",
-            "value": "iPhone10,6"
-        }
-    ],
-    "url": "https://configuration.ls.apple.com/config/defaults?os=ios&os_version=14.2&hardware=iPhone10,6"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 42: PHONE_NAME, 
 
 {
     "bodySize": 672,
@@ -1664,7 +1623,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 46: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1727,7 +1686,47 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 47: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "x-newrelic-id",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "user-agent",
+            "value": "NikeRunClub 7.0.0 (iPhone; iOS 14.2; UALib 14.0.0-beta1; 50qSnrSkSjKBW-di6KtsoA; it_IT)"
+        },
+        {
+            "name": "authorization",
+            "value": "Basic eUdoUDhXTldSOVN1QXBOSjJ1VUFiUTp0Z0MyUHNITlR1eVlKQUZWeFpUTUxR"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip;q=1.0, compress;q=0.5"
+        }
+    ],
+    "headersSize": 362,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [],
+    "url": "https://device-api.urbanairship.com/api/user/yGhP8WNWR9SuApNJ2uUAbQ/messages/"
+}
+
+####################################
+
+Ho trovato nella richiesta 49: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1802,7 +1801,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 50: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1877,7 +1876,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 51: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -1965,7 +1964,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 52: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2036,7 +2035,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 53: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2103,7 +2102,60 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 54: PHONE_NAME, 
+
+{
+    "bodySize": 348,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "application/vnd.urbanairship+json; version=3;"
+        },
+        {
+            "name": "content-type",
+            "value": "application/json"
+        },
+        {
+            "name": "x-newrelic-id",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip;q=1.0, compress;q=0.5"
+        },
+        {
+            "name": "content-length",
+            "value": "348"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "user-agent",
+            "value": "NikeRunClub 7.0.0 (iPhone; iOS 14.2; UALib 14.0.0-beta1; 50qSnrSkSjKBW-di6KtsoA; it_IT)"
+        },
+        {
+            "name": "authorization",
+            "value": "Basic NTBxU25yU2tTaktCVy1kaTZLdHNvQTpxZHJsZXh3VlRIQ1lTUnVsOGk2d2ln"
+        }
+    ],
+    "headersSize": 473,
+    "httpVersion": "HTTP/2.0",
+    "method": "PUT",
+    "postData": {
+        "mimeType": "application/json",
+        "params": [],
+        "text": "{\"channel\":{\"opt_in\":false,\"named_user_id\":\"97213ef1995a49bc9f9c1c965d2d81ab\",\"set_tags\":true,\"background\":true,\"push_address\":\"b89287d58958c189b374ee2fb5acc5213d7edc4ca90d63e97df2cbe205061d15\",\"tags\":[\"PERSONAL_RECORDS_HALF_MARATHON\",\"PERSONAL_RECORDS_5K\",\"AGE_18_TO_26\",\"PERSONAL_RECORDS_10K\",\"GENDER_MALE\",\"COACH_INACTIVE\"],\"device_type\":\"ios\"}}"
+    },
+    "queryString": [],
+    "url": "https://device-api.urbanairship.com/api/channels/2f77f3ef-2e8b-4caf-a242-d037afaa4f24"
+}
+
+####################################
+
+Ho trovato nella richiesta 55: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2170,7 +2222,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 57: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2237,7 +2289,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 64: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2312,7 +2364,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 65: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2400,7 +2452,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 67: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2476,7 +2528,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 71: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2560,7 +2612,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 72: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2631,7 +2683,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 73: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2707,7 +2759,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 75: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2803,7 +2855,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 79: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2874,7 +2926,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 80: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -2958,7 +3010,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 81: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3034,7 +3086,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 82: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3130,7 +3182,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 85: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3201,7 +3253,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 86: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3297,7 +3349,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 88: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3397,7 +3449,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 89: PHONE_NAME, 
 
 {
     "bodySize": 362,
@@ -3450,7 +3502,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 94: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3517,7 +3569,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 95: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 643,
@@ -3687,7 +3739,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 96: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3750,7 +3802,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 99: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3830,7 +3882,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 100: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -3909,7 +3961,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 101: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 974,
@@ -4143,7 +4195,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 102: PHONE_NAME, CARRIER, GENDER, 
 
 {
     "bodySize": 1567,
@@ -4461,7 +4513,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 103: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 809,
@@ -4687,7 +4739,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 104: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -4771,7 +4823,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 105: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 813,
@@ -5001,7 +5053,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 114: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -5101,7 +5153,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 117: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 824,
@@ -5331,7 +5383,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 119: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 586,
@@ -5448,124 +5500,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 586,
-    "cookies": [],
-    "headers": [
-        {
-            "name": "content-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-ua-channel-opted-in",
-            "value": "false"
-        },
-        {
-            "name": "x-ua-os-version",
-            "value": "14.2"
-        },
-        {
-            "name": "x-ua-app-key",
-            "value": "50qSnrSkSjKBW-di6KtsoA"
-        },
-        {
-            "name": "user-agent",
-            "value": "NikeRunClub 7.0.0 (iPhone; iOS 14.2; UALib 14.0.0-beta1; 50qSnrSkSjKBW-di6KtsoA; it_IT)"
-        },
-        {
-            "name": "x-ua-push-address",
-            "value": "b89287d58958c189b374ee2fb5acc5213d7edc4ca90d63e97df2cbe205061d15"
-        },
-        {
-            "name": "x-ua-sent-at",
-            "value": "1606130414.242723"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip;q=1.0, compress;q=0.5"
-        },
-        {
-            "name": "x-ua-notification-prompted",
-            "value": "false"
-        },
-        {
-            "name": "x-ua-package-version",
-            "value": "7.0.0"
-        },
-        {
-            "name": "x-ua-locale-language",
-            "value": "it"
-        },
-        {
-            "name": "x-ua-locale-country",
-            "value": "IT"
-        },
-        {
-            "name": "content-length",
-            "value": "361"
-        },
-        {
-            "name": "x-ua-channel-id",
-            "value": "2f77f3ef-2e8b-4caf-a242-d037afaa4f24"
-        },
-        {
-            "name": "x-ua-package-name",
-            "value": "com.nike.nikeplus-gps"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-ua-device-family",
-            "value": "iOS"
-        },
-        {
-            "name": "x-ua-device-model",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "x-ua-channel-background-enabled",
-            "value": "true"
-        },
-        {
-            "name": "accept",
-            "value": "*/*"
-        },
-        {
-            "name": "x-ua-lib-version",
-            "value": "14.0.0-beta1"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "VQYGVF5SCBADXVFaDgkOXg=="
-        },
-        {
-            "name": "content-type",
-            "value": "application/json"
-        },
-        {
-            "name": "x-ua-timezone",
-            "value": "Europe/Rome"
-        }
-    ],
-    "headersSize": 1076,
-    "httpVersion": "HTTP/2.0",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "[{\"data\":{\"session_id\":\"E1BC2BE3-D5F4-4D8E-A1E3-FD36553C9CAC\"},\"type\":\"device_registration\",\"event_id\":\"DB296115-2517-4CCF-9686-9C5AC8088D5A\",\"time\":\"1606130399.524800\"},{\"data\":{\"notification_authorization\":\"not_determined\",\"time_zone\":3600,\"session_id\":\"E1BC2BE3-D5F4-4D8E-A1E3-FD36553C9CAC\",\"notification_types\":[],\"os_version\":\"14.2\",\"lib_version\":\"14.0.0-beta1\",\"carrier\":\"Vodafone IT\",\"foreground\":\"true\",\"daylight_savings\":\"false\",\"connection_type\":\"wifi\",\"package_version\":\"7.0.0\"},\"type\":\"app_init\",\"event_id\":\"4F2350DE-3639-442F-AA25-129B75E4148D\",\"time\":\"1606130399.333539\"}]"
-    },
-    "queryString": [],
-    "url": "https://combine.urbanairship.com/warp9/"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 126: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -5665,7 +5600,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 279: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 838,
@@ -5895,7 +5830,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato GENDER, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 326: GENDER, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 8145,
@@ -5975,7 +5910,7 @@ Ho trovato GENDER, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 359: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 824,
@@ -6205,7 +6140,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 456: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -6272,7 +6207,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 460: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 813,
@@ -6502,7 +6437,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 464: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -6565,7 +6500,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 465: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -6644,7 +6579,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 467: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -6724,7 +6659,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 473: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -6808,7 +6743,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 545: PHONE_NAME, 
 
 {
     "bodySize": 675,
@@ -6865,7 +6800,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 546: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 824,
@@ -7095,7 +7030,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 547: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -7170,7 +7105,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 548: PHONE_NAME, 
 
 {
     "bodySize": 15,
@@ -7246,7 +7181,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 552: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -7309,7 +7244,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 555: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 815,
@@ -7539,7 +7474,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 556: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 824,
@@ -7769,7 +7704,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 557: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 896,
@@ -8011,7 +7946,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 558: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 799,
@@ -8237,7 +8172,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 559: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 929,
@@ -8479,7 +8414,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 560: PHONE_NAME, 
 
 {
     "bodySize": 253187,
@@ -8556,7 +8491,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 561: PHONE_NAME, 
 
 {
     "bodySize": 381248,
@@ -8613,7 +8548,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato GENDER, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 562: GENDER, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 12189,
@@ -8693,7 +8628,7 @@ Ho trovato GENDER, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 563: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 965,
@@ -8939,7 +8874,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 564: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 827,
@@ -9169,7 +9104,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 565: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 824,
@@ -9399,7 +9334,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 566: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -9483,7 +9418,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 567: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -9563,7 +9498,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 568: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 809,
@@ -9793,7 +9728,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 569: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1101,
@@ -10051,7 +9986,60 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 570: PHONE_NAME, 
+
+{
+    "bodySize": 215,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "application/vnd.urbanairship+json; version=3;"
+        },
+        {
+            "name": "content-type",
+            "value": "application/json"
+        },
+        {
+            "name": "x-newrelic-id",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip;q=1.0, compress;q=0.5"
+        },
+        {
+            "name": "content-length",
+            "value": "215"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "user-agent",
+            "value": "NikeRunClub 7.0.0 (iPhone; iOS 14.2; UALib 14.0.0-beta1; 50qSnrSkSjKBW-di6KtsoA; it_IT)"
+        },
+        {
+            "name": "authorization",
+            "value": "Basic NTBxU25yU2tTaktCVy1kaTZLdHNvQTpxZHJsZXh3VlRIQ1lTUnVsOGk2d2ln"
+        }
+    ],
+    "headersSize": 473,
+    "httpVersion": "HTTP/2.0",
+    "method": "PUT",
+    "postData": {
+        "mimeType": "application/json",
+        "params": [],
+        "text": "{\"channel\":{\"background\":true,\"push_address\":\"b89287d58958c189b374ee2fb5acc5213d7edc4ca90d63e97df2cbe205061d15\",\"opt_in\":true,\"set_tags\":false,\"named_user_id\":\"97213ef1995a49bc9f9c1c965d2d81ab\",\"device_type\":\"ios\"}}"
+    },
+    "queryString": [],
+    "url": "https://device-api.urbanairship.com/api/channels/2f77f3ef-2e8b-4caf-a242-d037afaa4f24"
+}
+
+####################################
+
+Ho trovato nella richiesta 571: PHONE_NAME, 
 
 {
     "bodySize": 186,
@@ -10143,7 +10131,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 572: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -10214,7 +10202,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 573: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -10290,7 +10278,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 574: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -10374,7 +10362,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 575: PHONE_NAME, 
 
 {
     "bodySize": 675,
@@ -10431,7 +10419,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 576: PHONE_NAME, 
 
 {
     "bodySize": 880,
@@ -10548,7 +10536,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 577: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 824,
@@ -10778,7 +10766,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 578: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -10858,7 +10846,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 579: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -10954,7 +10942,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 580: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -11054,7 +11042,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 581: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 844,
@@ -11280,7 +11268,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 582: PHONE_NAME, 
 
 {
     "bodySize": 39,
@@ -11360,7 +11348,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 583: PHONE_NAME, 
 
 {
     "bodySize": 148,
@@ -11444,7 +11432,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 584: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1052,
@@ -11686,7 +11674,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 585: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -11757,7 +11745,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 586: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -11833,7 +11821,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 587: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -11917,7 +11905,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato GENDER, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 588: GENDER, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 6144,
@@ -11997,7 +11985,7 @@ Ho trovato GENDER, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 589: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -12093,7 +12081,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 590: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -12193,7 +12181,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 591: PHONE_NAME, 
 
 {
     "bodySize": 190672,
@@ -12250,7 +12238,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 592: PHONE_NAME, 
 
 {
     "bodySize": 466697,
@@ -12327,7 +12315,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 593: PHONE_NAME, 
 
 {
     "bodySize": 186,
@@ -12419,7 +12407,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 594: PHONE_NAME, 
 
 {
     "bodySize": 952,
@@ -12496,7 +12484,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 595: PHONE_NAME, 
 
 {
     "bodySize": 26,
@@ -12580,7 +12568,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 596: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -12655,7 +12643,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 597: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -12743,7 +12731,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 598: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -12819,7 +12807,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 601: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -12915,7 +12903,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 602: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -12999,7 +12987,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 603: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -13070,7 +13058,104 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 604: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "x-newrelic-id",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "if-modified-since",
+            "value": "Fri, 06 Nov 2020 08:00:00 GMT"
+        },
+        {
+            "name": "user-agent",
+            "value": "NikeRunClub 7.0.0 (iPhone; iOS 14.2; UALib 14.0.0-beta1; 50qSnrSkSjKBW-di6KtsoA; it_IT)"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip;q=1.0, compress;q=0.5"
+        }
+    ],
+    "headersSize": 329,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [
+        {
+            "name": "sdk_version",
+            "value": "14.0.0-beta1"
+        },
+        {
+            "name": "language",
+            "value": "it"
+        },
+        {
+            "name": "country",
+            "value": "IT"
+        }
+    ],
+    "url": "https://remote-data.urbanairship.com/api/remote-data/app/50qSnrSkSjKBW-di6KtsoA/ios?sdk_version=14.0.0-beta1&language=it&country=IT"
+}
+
+####################################
+
+Ho trovato nella richiesta 605: PHONE_NAME, 
+
+{
+    "bodySize": 0,
+    "cookies": [],
+    "headers": [
+        {
+            "name": "accept",
+            "value": "*/*"
+        },
+        {
+            "name": "x-newrelic-id",
+            "value": "VQYGVF5SCBADXVFaDgkOXg=="
+        },
+        {
+            "name": "x-ua-channel-id",
+            "value": "2f77f3ef-2e8b-4caf-a242-d037afaa4f24"
+        },
+        {
+            "name": "accept-language",
+            "value": "it-it"
+        },
+        {
+            "name": "user-agent",
+            "value": "NikeRunClub 7.0.0 (iPhone; iOS 14.2; UALib 14.0.0-beta1; 50qSnrSkSjKBW-di6KtsoA; it_IT)"
+        },
+        {
+            "name": "authorization",
+            "value": "Basic eUdoUDhXTldSOVN1QXBOSjJ1VUFiUTp0Z0MyUHNITlR1eVlKQUZWeFpUTUxR"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip;q=1.0, compress;q=0.5"
+        }
+    ],
+    "headersSize": 425,
+    "httpVersion": "HTTP/2.0",
+    "method": "GET",
+    "queryString": [],
+    "url": "https://device-api.urbanairship.com/api/user/yGhP8WNWR9SuApNJ2uUAbQ/messages/"
+}
+
+####################################
+
+Ho trovato nella richiesta 606: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -13158,7 +13243,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 607: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -13234,7 +13319,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 608: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -13301,7 +13386,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 609: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -13389,7 +13474,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 610: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -13485,7 +13570,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 611: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -13585,7 +13670,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 612: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 821,
@@ -13815,7 +13900,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 614: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 829,
@@ -14045,7 +14130,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 615: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -14125,7 +14210,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 616: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -14205,7 +14290,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 617: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -14285,7 +14370,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 618: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 829,
@@ -14515,7 +14600,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 619: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -14582,7 +14667,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 626: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1002,
@@ -14824,7 +14909,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 627: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 862,
@@ -15054,7 +15139,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 633: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1362,
@@ -15296,7 +15381,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 640: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1062,
@@ -15538,7 +15623,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 641: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1080,
@@ -15780,7 +15865,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 642: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 862,
@@ -16010,7 +16095,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 643: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1044,
@@ -16252,7 +16337,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato GENDER, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 644: GENDER, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 7774,
@@ -16332,7 +16417,7 @@ Ho trovato GENDER, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 645: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1065,
@@ -16574,7 +16659,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 646: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 862,
@@ -16804,7 +16889,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 647: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1056,
@@ -17046,7 +17131,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 648: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -17109,7 +17194,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 649: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1071,
@@ -17351,7 +17436,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 650: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 862,
@@ -17581,7 +17666,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 651: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1041,
@@ -17823,7 +17908,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 652: PHONE_NAME, 
 
 {
     "bodySize": 553,
@@ -17903,7 +17988,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 653: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -17970,7 +18055,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 654: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -18042,7 +18127,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 655: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 855,
@@ -18268,7 +18353,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 656: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1555,
@@ -18385,124 +18470,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato CARRIER, 
-
-{
-    "bodySize": 1555,
-    "cookies": [],
-    "headers": [
-        {
-            "name": "content-encoding",
-            "value": "gzip"
-        },
-        {
-            "name": "x-ua-channel-opted-in",
-            "value": "true"
-        },
-        {
-            "name": "x-ua-os-version",
-            "value": "14.2"
-        },
-        {
-            "name": "x-ua-app-key",
-            "value": "50qSnrSkSjKBW-di6KtsoA"
-        },
-        {
-            "name": "user-agent",
-            "value": "NikeRunClub 7.0.0 (iPhone; iOS 14.2; UALib 14.0.0-beta1; 50qSnrSkSjKBW-di6KtsoA; it_IT)"
-        },
-        {
-            "name": "x-ua-push-address",
-            "value": "b89287d58958c189b374ee2fb5acc5213d7edc4ca90d63e97df2cbe205061d15"
-        },
-        {
-            "name": "x-ua-sent-at",
-            "value": "1606130534.927061"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip;q=1.0, compress;q=0.5"
-        },
-        {
-            "name": "x-ua-notification-prompted",
-            "value": "true"
-        },
-        {
-            "name": "x-ua-package-version",
-            "value": "7.0.0"
-        },
-        {
-            "name": "x-ua-locale-language",
-            "value": "it"
-        },
-        {
-            "name": "x-ua-locale-country",
-            "value": "IT"
-        },
-        {
-            "name": "content-length",
-            "value": "627"
-        },
-        {
-            "name": "x-ua-channel-id",
-            "value": "2f77f3ef-2e8b-4caf-a242-d037afaa4f24"
-        },
-        {
-            "name": "x-ua-package-name",
-            "value": "com.nike.nikeplus-gps"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "x-ua-device-family",
-            "value": "iOS"
-        },
-        {
-            "name": "x-ua-device-model",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "x-ua-channel-background-enabled",
-            "value": "true"
-        },
-        {
-            "name": "accept",
-            "value": "*/*"
-        },
-        {
-            "name": "x-ua-lib-version",
-            "value": "14.0.0-beta1"
-        },
-        {
-            "name": "x-newrelic-id",
-            "value": "VQYGVF5SCBADXVFaDgkOXg=="
-        },
-        {
-            "name": "content-type",
-            "value": "application/json"
-        },
-        {
-            "name": "x-ua-timezone",
-            "value": "Europe/Rome"
-        }
-    ],
-    "headersSize": 1074,
-    "httpVersion": "HTTP/2.0",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "[{\"data\":{\"screen\":\"leaderboard\",\"session_id\":\"F600DD96-D0EC-410B-A770-0117E2A80D7A\",\"previous_screen\":\"quickstart\",\"entered_time\":\"1606130497.615\",\"exited_time\":\"1606130497.830\",\"duration\":\"0.215\"},\"type\":\"screen_tracking\",\"event_id\":\"46E5D37E-F9EE-410D-B8D4-60A0CB860BC9\",\"time\":\"1606130497.830320\"},{\"data\":{\"screen\":\"quickstart\",\"session_id\":\"F600DD96-D0EC-410B-A770-0117E2A80D7A\",\"previous_screen\":\"quickstart\",\"entered_time\":\"1606130491.965\",\"exited_time\":\"1606130497.615\",\"duration\":\"5.649\"},\"type\":\"screen_tracking\",\"event_id\":\"A94B8422-60F7-4E5F-8B39-73346EDE99A2\",\"time\":\"1606130497.614620\"},{\"data\":{\"notification_authorization\":\"authorized\",\"time_zone\":3600,\"notification_types\":[\"badge\",\"sound\",\"alert\",\"lock_screen\",\"notification_center\"],\"os_version\":\"14.2\",\"lib_version\":\"14.0.0-beta1\",\"carrier\":\"Vodafone IT\",\"session_id\":\"F600DD96-D0EC-410B-A770-0117E2A80D7A\",\"daylight_savings\":\"false\",\"connection_type\":\"wifi\",\"package_version\":\"7.0.0\"},\"type\":\"app_foreground\",\"event_id\":\"DD9A548E-13C1-473E-AAA4-C610CE0F32AD\",\"time\":\"1606130492.154517\"},{\"data\":{\"session_id\":\"8AC1C4AE-5535-4FDC-8A5F-68802F5DE3A4\",\"connection_type\":\"wifi\"},\"type\":\"app_background\",\"event_id\":\"4C40E962-FE89-4869-AAD5-50E897120565\",\"time\":\"1606130489.983842\"},{\"data\":{\"screen\":\"quickstart\",\"session_id\":\"8AC1C4AE-5535-4FDC-8A5F-68802F5DE3A4\",\"previous_screen\":\"activity_history\",\"entered_time\":\"1606130455.899\",\"exited_time\":\"1606130489.981\",\"duration\":\"34.083\"},\"type\":\"screen_tracking\",\"event_id\":\"D0A248EA-D19E-4D09-AC09-A0E8FD999BCD\",\"time\":\"1606130489.981082\"}]"
-    },
-    "queryString": [],
-    "url": "https://combine.urbanairship.com/warp9/"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 657: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 830,
@@ -18732,7 +18700,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 658: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 830,
@@ -18962,7 +18930,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 660: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -19042,7 +19010,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 661: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -19122,7 +19090,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 662: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -19202,7 +19170,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 663: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -19274,7 +19242,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 664: PHONE_NAME, 
 
 {
     "bodySize": 53,
@@ -19350,7 +19318,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 666: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -19430,7 +19398,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 667: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -19497,7 +19465,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 668: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -19577,7 +19545,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 669: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -19657,7 +19625,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 670: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -19729,7 +19697,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 672: PHONE_NAME, 
 
 {
     "bodySize": 53,
@@ -19805,7 +19773,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 673: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -19872,7 +19840,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 674: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 900,
@@ -20114,7 +20082,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 675: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -20206,7 +20174,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 676: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -20278,7 +20246,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 677: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -20350,7 +20318,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 678: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 814,
@@ -20580,7 +20548,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 679: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 851,
@@ -20814,7 +20782,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 680: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -20869,7 +20837,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 681: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 862,
@@ -21103,7 +21071,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 682: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21158,7 +21126,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 683: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21213,7 +21181,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 684: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21268,7 +21236,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 685: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21323,7 +21291,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 686: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21378,7 +21346,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 687: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 862,
@@ -21612,7 +21580,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 688: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21667,7 +21635,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 689: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21722,7 +21690,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 690: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21777,7 +21745,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 691: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21832,7 +21800,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 692: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21887,7 +21855,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 693: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21942,7 +21910,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 694: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -21997,7 +21965,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato GENDER, PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 695: GENDER, PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 13878,
@@ -22077,7 +22045,7 @@ Ho trovato GENDER, PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 696: PHONE_NAME, 
 
 {
     "bodySize": 362,
@@ -22130,7 +22098,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 697: PHONE_NAME, 
 
 {
     "bodySize": 98205,
@@ -22207,7 +22175,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 698: PHONE_NAME, 
 
 {
     "bodySize": 95352,
