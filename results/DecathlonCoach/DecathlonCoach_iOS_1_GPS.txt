@@ -1,4 +1,4 @@
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 1: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -55,7 +55,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 2: PHONE_NAME, 
 
 {
     "bodySize": 1233,
@@ -108,7 +108,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, CARRIER, 
+Ho trovato nella richiesta 24: PHONE_NAME, CARRIER, 
 
 {
     "bodySize": 1134,
@@ -157,7 +157,7 @@ Ho trovato PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 63: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -230,80 +230,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "gspe35-ssl.ls.apple.com"
-        },
-        {
-            "name": "If-None-Match",
-            "value": "\"5bd79075071fc4b5b479a075df6d4459596f5aea\""
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "User-Agent",
-            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it-it"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        }
-    ],
-    "headersSize": 299,
-    "httpVersion": "HTTP/1.1",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "application",
-            "value": "geod"
-        },
-        {
-            "name": "application_version",
-            "value": "1"
-        },
-        {
-            "name": "country_code",
-            "value": "IT"
-        },
-        {
-            "name": "hardware",
-            "value": "iPhone10,6"
-        },
-        {
-            "name": "os",
-            "value": "ios"
-        },
-        {
-            "name": "os_build",
-            "value": "18B92"
-        },
-        {
-            "name": "os_version",
-            "value": "14.2"
-        }
-    ],
-    "url": "https://gspe35-ssl.ls.apple.com/geo_manifest/dynamic/config?application=geod&application_version=1&country_code=IT&hardware=iPhone10,6&os=ios&os_build=18B92&os_version=14.2"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 64: PHONE_NAME, 
 
 {
     "bodySize": 708,
@@ -360,7 +287,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 65: PHONE_NAME, 
 
 {
     "bodySize": 0,
@@ -409,56 +336,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 0,
-    "cookies": [],
-    "headers": [
-        {
-            "name": "accept",
-            "value": "*/*"
-        },
-        {
-            "name": "if-none-match",
-            "value": "\"bcd0a449a9eaaabd83260246b42473fb405bc794\""
-        },
-        {
-            "name": "user-agent",
-            "value": "geod/1 CFNetwork/1206 Darwin/20.1.0"
-        },
-        {
-            "name": "accept-language",
-            "value": "it-it"
-        },
-        {
-            "name": "accept-encoding",
-            "value": "gzip, deflate, br"
-        }
-    ],
-    "headersSize": 228,
-    "httpVersion": "HTTP/2.0",
-    "method": "GET",
-    "queryString": [
-        {
-            "name": "os",
-            "value": "ios"
-        },
-        {
-            "name": "os_version",
-            "value": "14.2"
-        },
-        {
-            "name": "hardware",
-            "value": "iPhone10,6"
-        }
-    ],
-    "url": "https://configuration.ls.apple.com/config/defaults?os=ios&os_version=14.2&hardware=iPhone10,6"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 66: PHONE_NAME, 
 
 {
     "bodySize": 3005,
@@ -520,7 +398,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato UDID, 
+Ho trovato nella richiesta 75: UDID, PHONE_NAME, 
 
 {
     "bodySize": 1368,
@@ -628,223 +506,7 @@ Ho trovato UDID,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
-
-{
-    "bodySize": 1368,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "xr_3n2093n1a",
-            "secure": false,
-            "value": "4Hl96BldlBCks2S33XpxcA2QG0o97Gf6uz2UgaDdO3jKQQ=="
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "p50-fmf.icloud.com"
-        },
-        {
-            "name": "X-Apple-PrsId",
-            "value": "10176858006"
-        },
-        {
-            "name": "User-Agent",
-            "value": "fmflocatord/7.0 iPhone10,6/18B92"
-        },
-        {
-            "name": "Cookie",
-            "value": "xr_3n2093n1a=4Hl96BldlBCks2S33XpxcA2QG0o97Gf6uz2UgaDdO3jKQQ=="
-        },
-        {
-            "name": "X-Apple-PushEnv",
-            "value": "production"
-        },
-        {
-            "name": "X-Apple-Realm-Support",
-            "value": "1.0"
-        },
-        {
-            "name": "Content-Length",
-            "value": "1368"
-        },
-        {
-            "name": "X-Apple-I-TimeZone",
-            "value": "CET"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "X-Apple-I-Client-Time",
-            "value": "2020-11-27T09:32:23Z"
-        },
-        {
-            "name": "X-Apple-Find-API-Ver",
-            "value": "7.0"
-        },
-        {
-            "name": "Authorization",
-            "value": "Basic MTAxNzY4NTgwMDY6RUFBUEFBQUFCTHdJQUFBQUFGX0F2SjhSRG1kekxtbGpiRzkxWkM1aGRYUm92UUJoQ1lOVXFMT3Fxc0laOGt3Y1dCcEstb3dKdXNLa0t4anQ2bHl0WGVGa1JIb0RvNUxFRWlHRTh4VlRfMFRuVDQ5MkN4ZngwX1dIM2kyeWxCM1BMUEw4dkY3UjFKcXV4dWp2bktVU1FCMkJJQXp0QndOcnJMZGRNYWpzWE0yRlMyem1CaV85NE9LaWIwR1doSHhjU1BpWGdDRmxQUX5+"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it-it"
-        },
-        {
-            "name": "X-Apple-I-MD-RINFO",
-            "value": "17106176"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/json"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "X-Apple-I-MD-M",
-            "value": "0K97Ed9w16v6vw+SaEEfowe0Bc2butK88d/pIdFp3s4RROvATIbsd66z/CykwvDUccvowvwTl9rOQHYk"
-        },
-        {
-            "name": "X-Apple-I-Locale",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Apple-I-MD",
-            "value": "AAAABQAAABBIhT4A2unuPz7X1J5PkqX3AAAAAw=="
-        }
-    ],
-    "headersSize": 1163,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"deviceContext\":{\"deviceTS\":\"2020-11-27T09:32:23.490Z\",\"cause\":\"FMFLocationServicesStateChanged\",\"registeredCauses\":[\"FMFLocationServicesStateChanged\"]},\"deviceInfo\":{\"supportsNotifyV2\":true,\"supportsForceTouch\":true,\"deviceClass\":\"iPhone\",\"locationServicesEnabled\":true,\"isChargerConnected\":false,\"unlockState\":3,\"smlLS\":true,\"deviceName\":\"iPhone di Emmanuel\",\"deviceColor\":\"1\",\"processId\":\"13796\",\"allPushTokens\":[\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\"],\"fmf\":true,\"fenceMonitoringCapable\":true,\"productType\":\"iPhone10,6\",\"udid\":\"9c93c5bd4ae0d361640428bd3800f5b588de1699\",\"aps-token\":\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\",\"locale\":\"it_IT\",\"fmfVersion\":\"526\",\"isFMFAppRemoved\":false,\"platform\":\"iphoneos\",\"batteryStatus\":\"NotCharging\",\"idsDeviceId\":\"76010A50-0E0F-4059-9848-1D1593A5DAAF\",\"serialNumber\":\"F2LW4E2GJCLH\",\"timezone\":\"Europe\\/Rome\",\"isInternal\":false,\"otherDevices\":[{\"connectionStatus\":\"not-connected\",\"productType\":\"Watch1,2\",\"deviceClass\":\"Watch\",\"platform\":\"watchos\",\"pairingId\":\"6543870E-D725-44EC-A1EE-D86F390E3A6B\",\"udid\":\"efc79ac8b8dc7310b6c31c3e76dec18212b9a891\",\"deviceName\":\"Apple\u00a0Watch di Emmanuel\",\"lastActiveTime\":1603197653498}],\"fmfRestrictions\":false,\"fmfBuildVersion\":\"5.0\",\"batteryLevel\":0.86000001430511475,\"enclosureColor\":\"1\",\"buildVersion\":\"18B92\",\"productVersion\":\"14.2\"}}"
-    },
-    "queryString": [],
-    "url": "https://p50-fmf.icloud.com/fmipservice/fmf/10176858006/9c93c5bd4ae0d361640428bd3800f5b588de1699/register"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, UDID, 
-
-{
-    "bodySize": 1368,
-    "cookies": [
-        {
-            "httpOnly": false,
-            "name": "xr_3n2093n1a",
-            "secure": false,
-            "value": "4Hl96BldlBCks2S33XpxcA2QG0o97Gf6uz2UgaDdO3jKQQ=="
-        }
-    ],
-    "headers": [
-        {
-            "name": "Host",
-            "value": "p50-fmf.icloud.com"
-        },
-        {
-            "name": "X-Apple-PrsId",
-            "value": "10176858006"
-        },
-        {
-            "name": "User-Agent",
-            "value": "fmflocatord/7.0 iPhone10,6/18B92"
-        },
-        {
-            "name": "Cookie",
-            "value": "xr_3n2093n1a=4Hl96BldlBCks2S33XpxcA2QG0o97Gf6uz2UgaDdO3jKQQ=="
-        },
-        {
-            "name": "X-Apple-PushEnv",
-            "value": "production"
-        },
-        {
-            "name": "X-Apple-Realm-Support",
-            "value": "1.0"
-        },
-        {
-            "name": "Content-Length",
-            "value": "1368"
-        },
-        {
-            "name": "X-Apple-I-TimeZone",
-            "value": "CET"
-        },
-        {
-            "name": "Connection",
-            "value": "keep-alive"
-        },
-        {
-            "name": "X-Apple-I-Client-Time",
-            "value": "2020-11-27T09:32:23Z"
-        },
-        {
-            "name": "X-Apple-Find-API-Ver",
-            "value": "7.0"
-        },
-        {
-            "name": "Authorization",
-            "value": "Basic MTAxNzY4NTgwMDY6RUFBUEFBQUFCTHdJQUFBQUFGX0F2SjhSRG1kekxtbGpiRzkxWkM1aGRYUm92UUJoQ1lOVXFMT3Fxc0laOGt3Y1dCcEstb3dKdXNLa0t4anQ2bHl0WGVGa1JIb0RvNUxFRWlHRTh4VlRfMFRuVDQ5MkN4ZngwX1dIM2kyeWxCM1BMUEw4dkY3UjFKcXV4dWp2bktVU1FCMkJJQXp0QndOcnJMZGRNYWpzWE0yRlMyem1CaV85NE9LaWIwR1doSHhjU1BpWGdDRmxQUX5+"
-        },
-        {
-            "name": "Accept-Language",
-            "value": "it-it"
-        },
-        {
-            "name": "X-Apple-I-MD-RINFO",
-            "value": "17106176"
-        },
-        {
-            "name": "Accept",
-            "value": "*/*"
-        },
-        {
-            "name": "Content-Type",
-            "value": "application/json"
-        },
-        {
-            "name": "Accept-Encoding",
-            "value": "gzip, deflate, br"
-        },
-        {
-            "name": "X-Apple-I-MD-M",
-            "value": "0K97Ed9w16v6vw+SaEEfowe0Bc2butK88d/pIdFp3s4RROvATIbsd66z/CykwvDUccvowvwTl9rOQHYk"
-        },
-        {
-            "name": "X-Apple-I-Locale",
-            "value": "it_IT"
-        },
-        {
-            "name": "X-Apple-I-MD",
-            "value": "AAAABQAAABBIhT4A2unuPz7X1J5PkqX3AAAAAw=="
-        }
-    ],
-    "headersSize": 1163,
-    "httpVersion": "HTTP/1.1",
-    "method": "POST",
-    "postData": {
-        "mimeType": "application/json",
-        "params": [],
-        "text": "{\"deviceContext\":{\"deviceTS\":\"2020-11-27T09:32:23.490Z\",\"cause\":\"FMFLocationServicesStateChanged\",\"registeredCauses\":[\"FMFLocationServicesStateChanged\"]},\"deviceInfo\":{\"supportsNotifyV2\":true,\"supportsForceTouch\":true,\"deviceClass\":\"iPhone\",\"locationServicesEnabled\":true,\"isChargerConnected\":false,\"unlockState\":3,\"smlLS\":true,\"deviceName\":\"iPhone di Emmanuel\",\"deviceColor\":\"1\",\"processId\":\"13796\",\"allPushTokens\":[\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\"],\"fmf\":true,\"fenceMonitoringCapable\":true,\"productType\":\"iPhone10,6\",\"udid\":\"9c93c5bd4ae0d361640428bd3800f5b588de1699\",\"aps-token\":\"A958BAD77ADB6930B54E6B4BD763AEFD79F7B19629C33E2257F77A6C20BFB73E\",\"locale\":\"it_IT\",\"fmfVersion\":\"526\",\"isFMFAppRemoved\":false,\"platform\":\"iphoneos\",\"batteryStatus\":\"NotCharging\",\"idsDeviceId\":\"76010A50-0E0F-4059-9848-1D1593A5DAAF\",\"serialNumber\":\"F2LW4E2GJCLH\",\"timezone\":\"Europe\\/Rome\",\"isInternal\":false,\"otherDevices\":[{\"connectionStatus\":\"not-connected\",\"productType\":\"Watch1,2\",\"deviceClass\":\"Watch\",\"platform\":\"watchos\",\"pairingId\":\"6543870E-D725-44EC-A1EE-D86F390E3A6B\",\"udid\":\"efc79ac8b8dc7310b6c31c3e76dec18212b9a891\",\"deviceName\":\"Apple\u00a0Watch di Emmanuel\",\"lastActiveTime\":1603197653498}],\"fmfRestrictions\":false,\"fmfBuildVersion\":\"5.0\",\"batteryLevel\":0.86000001430511475,\"enclosureColor\":\"1\",\"buildVersion\":\"18B92\",\"productVersion\":\"14.2\"}}"
-    },
-    "queryString": [],
-    "url": "https://p50-fmf.icloud.com/fmipservice/fmf/10176858006/9c93c5bd4ae0d361640428bd3800f5b588de1699/register"
-}
-
-####################################
-
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 76: PHONE_NAME, 
 
 {
     "bodySize": 712,
@@ -889,7 +551,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 77: PHONE_NAME, 
 
 {
     "bodySize": 754,
@@ -934,7 +596,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 78: PHONE_NAME, 
 
 {
     "bodySize": 650,
@@ -979,7 +641,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 79: PHONE_NAME, 
 
 {
     "bodySize": 730,
@@ -1024,7 +686,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 80: PHONE_NAME, 
 
 {
     "bodySize": 533,
@@ -1069,7 +731,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 81: PHONE_NAME, 
 
 {
     "bodySize": 519,
@@ -1114,7 +776,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 82: PHONE_NAME, 
 
 {
     "bodySize": 533,
@@ -1159,7 +821,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 83: PHONE_NAME, 
 
 {
     "bodySize": 1847,
@@ -1204,7 +866,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 84: PHONE_NAME, 
 
 {
     "bodySize": 754,
@@ -1249,7 +911,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 85: PHONE_NAME, 
 
 {
     "bodySize": 754,
@@ -1294,7 +956,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 86: PHONE_NAME, 
 
 {
     "bodySize": 666,
@@ -1339,7 +1001,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 87: PHONE_NAME, 
 
 {
     "bodySize": 754,
@@ -1384,7 +1046,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 88: PHONE_NAME, 
 
 {
     "bodySize": 754,
@@ -1429,7 +1091,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 89: PHONE_NAME, 
 
 {
     "bodySize": 666,
@@ -1474,7 +1136,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 90: PHONE_NAME, 
 
 {
     "bodySize": 540,
@@ -1519,7 +1181,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 91: PHONE_NAME, 
 
 {
     "bodySize": 539,
@@ -1564,7 +1226,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 92: PHONE_NAME, 
 
 {
     "bodySize": 947,
@@ -1609,7 +1271,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 93: PHONE_NAME, 
 
 {
     "bodySize": 1308,
@@ -1654,7 +1316,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 94: PHONE_NAME, 
 
 {
     "bodySize": 578,
@@ -1699,7 +1361,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 95: PHONE_NAME, 
 
 {
     "bodySize": 1864,
@@ -1757,7 +1419,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 96: PHONE_NAME, 
 
 {
     "bodySize": 362,
@@ -1810,7 +1472,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 97: PHONE_NAME, 
 
 {
     "bodySize": 2359,
@@ -1880,7 +1542,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 146: PHONE_NAME, 
 
 {
     "bodySize": 416,
@@ -1925,7 +1587,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 147: PHONE_NAME, 
 
 {
     "bodySize": 666,
@@ -1970,7 +1632,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 148: PHONE_NAME, 
 
 {
     "bodySize": 702,
@@ -2015,7 +1677,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 149: PHONE_NAME, 
 
 {
     "bodySize": 2811,
@@ -2077,7 +1739,7 @@ Ho trovato PHONE_NAME,
 
 ####################################
 
-Ho trovato PHONE_NAME, 
+Ho trovato nella richiesta 216: PHONE_NAME, 
 
 {
     "bodySize": 7830,
