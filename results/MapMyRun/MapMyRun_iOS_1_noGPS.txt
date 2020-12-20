@@ -12698,7 +12698,7 @@ Ho trovato nella richiesta 342: PHONE_NAME,
 
 ####################################
 
-Ho trovato nella richiesta 343: PHONE_NAME, ALTAVILLA, 
+Ho trovato nella richiesta 343: PHONE_NAME, ALTAVILLA, POSTAL_CODE, 
 
 {
     "bodySize": 1428,
@@ -13851,7 +13851,7 @@ Ho trovato nella richiesta 359: PHONE_NAME,
 
 ####################################
 
-Ho trovato nella richiesta 360: PHONE_NAME, 
+Ho trovato nella richiesta 360: POSTAL_CODE, PHONE_NAME, 
 
 {
     "bodySize": 0,

@@ -19834,7 +19834,7 @@ Ho trovato nella richiesta 276: PHONE_NAME,
 
 ####################################
 
-Ho trovato nella richiesta 277: PHONE_NAME, MATTINE, 
+Ho trovato nella richiesta 277: PHONE_NAME, MATTINE, POSTAL_CODE, 
 
 {
     "bodySize": 533,
@@ -19910,7 +19910,7 @@ Ho trovato nella richiesta 277: PHONE_NAME, MATTINE,
 
 ####################################
 
-Ho trovato nella richiesta 278: PHONE_NAME, MATTINE, 
+Ho trovato nella richiesta 278: PHONE_NAME, MATTINE, POSTAL_CODE, 
 
 {
     "bodySize": 533,

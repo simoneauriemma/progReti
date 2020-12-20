@@ -1119,7 +1119,7 @@ Ho trovato nella richiesta 36: PHONE_NAME, CARRIER,
 
 ####################################
 
-Ho trovato nella richiesta 37: GENDER, ALTAVILLA, PHONE_NAME, 
+Ho trovato nella richiesta 37: GENDER, ALTAVILLA, POSTAL_CODE, PHONE_NAME, 
 
 {
     "bodySize": 59290,
@@ -7561,7 +7561,7 @@ Ho trovato nella richiesta 202: PHONE_NAME,
 
 ####################################
 
-Ho trovato nella richiesta 212: PESO, CARRIER, NOME_COGNOME, EMAIL, GENDER, BIRTHDATE, MATTINE, PHONE_NAME, 
+Ho trovato nella richiesta 212: PESO, CARRIER, NOME_COGNOME, EMAIL, GENDER, BIRTHDATE, MATTINE, POSTAL_CODE, PHONE_NAME, 
 
 {
     "bodySize": 67181,
@@ -16219,7 +16219,7 @@ Ho trovato nella richiesta 337: PHONE_NAME,
 
 ####################################
 
-Ho trovato nella richiesta 338: PHONE_NAME, MATTINE, 
+Ho trovato nella richiesta 338: PHONE_NAME, MATTINE, POSTAL_CODE, 
 
 {
     "bodySize": 1414,
@@ -17122,7 +17122,7 @@ Ho trovato nella richiesta 350: PHONE_NAME,
 
 ####################################
 
-Ho trovato nella richiesta 351: PHONE_NAME, 
+Ho trovato nella richiesta 351: POSTAL_CODE, PHONE_NAME, 
 
 {
     "bodySize": 0,

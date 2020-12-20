@@ -9420,7 +9420,7 @@ Ho trovato nella richiesta 161: PHONE_NAME,
 
 ####################################
 
-Ho trovato nella richiesta 164: PHONE_NAME, GENDER, MATTINE, 
+Ho trovato nella richiesta 164: PHONE_NAME, GENDER, MATTINE, POSTAL_CODE, 
 
 {
     "bodySize": 34667,

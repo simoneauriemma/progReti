@@ -7,7 +7,10 @@ import re
 
 
 def analyze(request, items, output_file, index):
-
+    
+    # Booleano per stampare oppure no le informazioni all'interno del file:
+    # - Se found = false -> non è stato trovato nulla -> non scrivere la request nel file
+    # - Se found = true -> è stato trovata qualche informazione -> inserisci l'informazione in info e scrivi la request nel file
     found = False
     info = []
 

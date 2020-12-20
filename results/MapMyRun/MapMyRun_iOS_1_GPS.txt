@@ -5215,7 +5215,7 @@ Ho trovato nella richiesta 78: UDID, PHONE_NAME,
 
 ####################################
 
-Ho trovato nella richiesta 80: PHONE_NAME, CARRIER, MATTINE, 
+Ho trovato nella richiesta 80: PHONE_NAME, CARRIER, MATTINE, POSTAL_CODE, 
 
 {
     "bodySize": 517,
