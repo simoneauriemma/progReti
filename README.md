@@ -1,5 +1,6 @@
 # progReti
 
-* Usare Charles per fare sniffing del traffico ed esportare tutto come JSON Session.
-* Lanciare "python3 chlsj2json.py '<path/to/.chlsj>' '<path/to/output_directory>'" per creare tanti file quante sono le richieste effettuate durante la sessione di sniffing.
-* Lanciare "python3 analyze.py '<path/to/input_directory>'" per iniziare l'analisi delle richieste nella directory selezionata.
+* Lanciare mitmdump tramite il seguente comando: 'mitmdump -s ./har_dump.py --set hardump=./App_OS_Version_GPS.har'
+* Spostare il file appena creato nella cartella results_har.
+* Lanciare l'analizzatore grafico con il comando 'python3 GUIAnalyze.py' e selezionare il file .har che si vuole analizzare.
+* Aprire il file .txt appena generato nella cartella results_txt e analizzarlo richiesta per richiesta.
