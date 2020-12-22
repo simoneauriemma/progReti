@@ -5,16 +5,16 @@
 * Lanciare l'analizzatore grafico con il comando 'python3 GUIAnalyze.py' e selezionare il file .har che si vuole analizzare.
     Oppure lanciare il comando 'python3 analyze.py path/to/src_file.har'.
 
-## Sniffing e generazione har files
+### Sniffing e generazione har files
 
-|               Menu                    |               Demo                   |
+|               Mitmdump                |               Analyze.py             |
 |               :---:                   |               :---:                  |
-|   ![Menu](screenshots/mitmdump.gif)   |   ![Menu](screenshots/analyze.png)   |
+|   ![Menu](screenshots/mitmdump.png)   |   ![Menu](screenshots/analyze.png)   |
+
 
 * Aprire il file .txt appena generato nella cartella results_txt e analizzarlo richiesta per richiesta.
+### Analisi dei risultati
 
-## Sniffing e generazione har files
-
-|               Menu                    |
+|           Esempio di analisi          |
 |               :---:                   |
 |   ![Menu](screenshots/mapmyrun.png)   |
