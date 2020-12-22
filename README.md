@@ -5,7 +5,7 @@
 * Lanciare l'analizzatore grafico con il comando 'python3 GUIAnalyze.py' e selezionare il file .har che si vuole analizzare.
     Oppure lanciare il comando 'python3 analyze.py path/to/src_file.har'.
 
-### Sniffing e generazione har files
+### Sniffing e generazione har e txt files
 
 |               Mitmdump                |               Analyze.py             |
 |               :---:                   |               :---:                  |
